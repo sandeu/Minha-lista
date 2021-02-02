@@ -107,8 +107,6 @@ https://59e4b6c1beddc.streamlock.net/8008/8008/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/P9EF9dx.png" group-title="BRASIL",A FAZENDA 12
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL", GLOBO MG
-http://189.91.128.150:5555/udp/227.10.20.109:1234
 #EXTINF: -1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", TV MANCHETE
 https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OzNkOSk.png" group-title="BRASIL",TV RECON SAT SHOW
