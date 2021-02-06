@@ -13,6 +13,18 @@ https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2Vyd
 http://euronews-pt-p12-cdn.hexaglobe.net/04c735d45144f5a5e453b896208a2410/5f8cc8f1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/vYsIkps.png" group-title="BRASIL",TCM TV
+http://live.tcm10.com.br/tcm10.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6llxEmi.png" group-title="BRASIL", TV PORTAL SOL
+https://59f2354c05961.streamlock.net:1443/tvsol/_definst_/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2TEunx8.png" group-title="BRASIL",SC WEB TV
+https://5eaa6849d0971.streamlock.net:443/scwebtv/scwebtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3r1YxXM.png" group-title="BRASIL", TV SANTA MARIA
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IdrGysh.png" group-title="BRASIL", TV TEEN NET
+https://srv4.zcast.com.br/tvteennet/tvteennet/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/faxOoQd.png" group-title="BRASIL",TV OSORIO NEWS
+https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://caixapreta.pt/logos/TDM-Teledifusão_de_Macau.png",TDM - Teledifusão de Macau (CN)
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -28,6 +40,26 @@ https://novo.bitstreaming.info:1936/8030/8030/playlist.m3u8
 http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NmndqqX.png" group-title="BRASIL", LAGOA TV
 https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5fGa3Ct.png" group-title="BRASIL",TV VILA VELHA
+https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CKoH5Nx.png" group-title="RELIGIOSO", TV GETSENAMI
+https://stmv.voxtvhd.com.br/12007/12007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XWqEKu1.png" group-title="BRASIL",TV UFG
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xnIZCat.png" group-title="BRASIL",TVU RECIFE
+http://150.161.93.220/hls/720/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KqFlNSc.png" group-title="BRASIL", TV UNIVALE
+http://189.91.128.150:5555/udp/227.10.20.103:1234
+#EXTINF:-1 tvg-logo="https://imgur.com/WRCbtTo.png" group-title="BRASIL", TRIP BRASIL CHANNEL
+https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qulk7bK.png" group-title="BRASIL",ONIX TV WEB
+https://cdn.jmvstream.com/w/AVJ-9099/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/f7S6zaO.png" group-title="BRASIL", RWCG WEB TV
+https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w2051078470.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eCqtleM.png" group-title="BRASIL",TV ESCOLA MS 1
+https://server.flixtv.com.br/tvescola/tv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eCqtleM.png" group-title="BRASIL",TV ESCOLA MS 2
+https://server.flixtv.com.br/tvescola/tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/m3ktEvA.png" group-title="BRASIL", TV BAIANA
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
@@ -107,6 +139,8 @@ https://59e4b6c1beddc.streamlock.net/8008/8008/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/P9EF9dx.png" group-title="BRASIL",A FAZENDA 12
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL", GLOBO MG
+http://189.91.128.150:5555/udp/227.10.20.109:1234
 #EXTINF: -1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", TV MANCHETE
 https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OzNkOSk.png" group-title="BRASIL",TV RECON SAT SHOW
