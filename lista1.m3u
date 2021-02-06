@@ -292,6 +292,8 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
 https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NCi4G2X.png" group-title="BRASIL", TV A FOLHA
+https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
 https://stmv1.srvif.com/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
@@ -956,6 +958,8 @@ https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/xHjtMq7.png" group-title="RELIGIOSO",WEB TV SHALOM
 https://streaming03.zas.media:443/shalomsjc/shalomsjc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z4Oydmf.png" group-title="RELIGIOSO",ADORAR TV 
+https://livefocamundo.com:8081/8766/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GNQmHzY.png" group-title="RELIGIOSO",TV VERDADE
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/030fpCq.png" group-title="RELIGIOSO",TOP MIX TV
