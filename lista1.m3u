@@ -228,6 +228,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
+https://5cf4a2c2512a2.streamlock.net/max90fm/max90fm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8XB5XrV.png" group-title="BRASIL", AGUIAR BTV
 https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9U64Wn3.png" group-title="BRASIL",LUNA DEZ WEB TV
@@ -792,7 +794,7 @@ https://livefocamundo.com:8081/8562/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",WEB TV ALTO VALE
 https://livefocamundo.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
-https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
@@ -811,6 +813,8 @@ http://rtmp.cdn.upx.net.br/0a85/myStream.sdp/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
+https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
@@ -827,7 +831,8 @@ https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 https://59f2354c05961.streamlock.net:1443/uirapuru/_definst_/uirapuru/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hBfTErW.png" group-title="ESTUDIO FM", RADIO CULTURA FM
 https://hls.brasilstream.com.br/live/culturahd/culturahd/mono.m3u8?token=2184347145477635000
-#EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E3RliNT.png" group-title="ESTUDIO FM", RADIO DIARIO MACAPA
 https://livefocamundo.com:8081/8236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
