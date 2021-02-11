@@ -174,8 +174,6 @@ https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w2014811341.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gogUKhE.png" group-title="BRASIL", TV GUARA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5SqhZN3.png" group-title="BRASIL",RBI TV
-http://201.1.151.74:2083/play/a04o/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
@@ -935,10 +933,6 @@ https://5eaa6849d0971.streamlock.net/radiogospeltv/radiogospeltv/playlist.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9B7zlVw.png" group-title="RELIGIOSO",TV CACHOEIRA
 http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jr3CrcU.png" group-title="RELIGIOSO",BOA VONTADE TV
-http://187.120.222.12:8000/play/BoaVontade/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tkgZn0E.png" group-title="RELIGIOSO",RIT TV
-http://201.1.151.74:2083/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS RJ
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
