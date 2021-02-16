@@ -220,6 +220,8 @@ https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
 http://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ccihOIR.png" group-title="BRASIL",TV CHANNEL NETWORK
+https://serv3.videovox.pw/alexandre4108/alexandre4108/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG
 https://stmv1.srvif.com/guarei/guarei/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
@@ -304,6 +306,8 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NCi4G2X.png" group-title="BRASIL", TV A FOLHA
 https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yFQUUjO.png" group-title="BRASIL", FESTV
+https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
 https://stmv1.srvif.com/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
