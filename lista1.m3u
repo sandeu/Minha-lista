@@ -276,7 +276,7 @@ https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS
 https://StmV1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 GUERRA SOMBRA E AGUA FRESCA
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a03JekB.png" group-title="BRASIL",WEB TV CAPUXU
 https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
@@ -336,6 +336,8 @@ https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sDUA0aS.png" group-title="BRASIL",TV RECON SAT
 https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/slJHKO0.png" group-title="BRASIL",FRED TV
+https://stream.mux.com/3mgh6lyGIeyTCVEw02CZJZrXvaLjKa2O3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhXM675.png" group-title="BRASIL", RCC TV
 https://stmv3.samcast.com.br/redercc/redercc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RRgMcKR.png" group-title="BRASIL", TV INFORBAHIA
