@@ -254,6 +254,8 @@ https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
 https://livefocamundo.com:8081/8716/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
 http://video01.kshost.com.br/d3420/d3420/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NN4Ho7Q.png" group-title="BRASIL",TV JUNDIAI HOJE
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
 https://stmv1.srvif.com/alagonet/alagonet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
