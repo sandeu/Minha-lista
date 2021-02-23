@@ -322,6 +322,8 @@ https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
 https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/amA0ICo.png" group-title="BRASIL", LIFE CHANNEL BRASIL
+https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
