@@ -228,6 +228,8 @@ http://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ccihOIR.png" group-title="BRASIL",TV CHANNEL NETWORK
 https://serv3.videovox.pw/alexandre4108/alexandre4108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/loVahZj.png" group-title="BRASIL",UNI TV BURITAMA
+https://stmv3.samcast.com.br/marcosroberto5912/marcosroberto5912/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG
 https://stmv1.srvif.com/guarei/guarei/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
