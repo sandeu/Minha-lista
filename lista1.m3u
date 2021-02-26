@@ -101,7 +101,7 @@ https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fZ05ozN.png" group-title="BRASIL",TV THATHI
-https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/playlist.m3u8
+https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
@@ -250,6 +250,8 @@ https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
 https://srv5.zcast.com.br/alcindo3068/alcindo3068/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jxJSa9A.png" group-title="BRASIL",GENIALL TV
 https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
+http://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Otcsunu.png" group-title="BRASIL",NOSSA.TV
@@ -322,7 +324,7 @@ https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
 https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/amA0ICo.png" group-title="BRASIL", LIFE CHANNEL BRASIL
+#EXTINF: -1 tvg-logo="https://i.imgur.com/19fLMcv.png" group-title="BRASIL", LIFE CHANNEL BRASIL
 https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
