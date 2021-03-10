@@ -244,6 +244,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/r2RSseP.png" group-title="BRASIL", WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
 https://5cf4a2c2512a2.streamlock.net/max90fm/max90fm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8XB5XrV.png" group-title="BRASIL", AGUIAR BTV
