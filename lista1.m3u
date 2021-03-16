@@ -274,6 +274,8 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ANfSkcc.png" group-title="BRASIL", TV ALAGOINHA
 http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
@@ -432,6 +434,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="BRASIL", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YAkZFzM.png" group-title="BRASIL", TV VELHA CAP
+https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
 https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
 #EXTINF:-1 tvg-logo="https://imgur.com/RUvA3s2.png" group-title="BRASIL", PORTAL NEWS WEB TV
@@ -875,6 +879,8 @@ https://59f2354c05961.streamlock.net:1443/uirapuru/_definst_/uirapuru/playlist.m
 https://hls.brasilstream.com.br/live/culturahd/culturahd/mono.m3u8?token=2184347145477635000
 #EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="ESTUDIO FM", RADIO TV MONTANHESA
+https://qfm.ddns.net/hlsm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E3RliNT.png" group-title="ESTUDIO FM", RADIO DIARIO MACAPA
 https://livefocamundo.com:8081/8236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
