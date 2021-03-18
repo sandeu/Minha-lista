@@ -246,6 +246,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/r2RSseP.png" group-title="BRASIL", WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ymiVyIs.png" group-title="BRASIL", TV TREMEMBE
+https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
 https://5cf4a2c2512a2.streamlock.net/max90fm/max90fm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8XB5XrV.png" group-title="BRASIL", AGUIAR BTV
@@ -344,6 +346,8 @@ https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
 https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/e5qCHbP.png" group-title="BRASIL", WEB TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/V9TwwGm.png" group-title="BRASIL",ORB TV
+https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="BRASIL", VIRTUAL TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CGNLYBo.png" group-title="BRASIL", VIN TV
@@ -521,6 +525,8 @@ http://streaming.sidys.com.br/canal4stream/canal4.m3u8
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k4A2323.png" group-title="BRASIL", CONEXAO BRASIL
 https://video01.kshost.com.br/gilson1332/gilson1332/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VTzoveP.png" group-title="BRASIL", AISH TV BRASIL
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="BRASIL", CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="BRASIL", TV CNB
