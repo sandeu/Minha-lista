@@ -1040,7 +1040,7 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/evO7YEC.png" group-title="MUSICA", MASTER TV
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5Z8Oq6m.png" group-title="MUSICA",MANAUS MIX WEB TV
-https://stmv1.srvif.com/manaus/manaus/playlist.m3u8
+https://video01.kshost.com.br/ronildo6110/ronildo6110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wPz5BJ0.png" group-title="MUSICA",PLAY TV
 https://wssl1.acessaradios.com.br/playtv/playtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
@@ -1064,7 +1064,7 @@ https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MugSqny.png" group-title="MUSICA", TV RADIO LITORAL
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mqIunic.png" group-title="MUSICA", RTL SANTOS
-https://serv3.videovox.pw/marcelo5073/marcelo5073/playlist.m3u8
+https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6a0GbC9.png" group-title="MUSICA",TV MOL
 https://5abdf4edae5bf.streamlock.net:443/tvmoltvstation/tvmoltvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1uciGnU.png" group-title="MUSICA",TV IMAGEM
