@@ -22,6 +22,14 @@ https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
 https://livefocamundo.com:8081/8716/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9U64Wn3.png" group-title="BRASIL",LUNA DEZ WEB TV
 https://srv5.zcast.com.br/alcindo3068/alcindo3068/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/slJHKO0.png" group-title="BRASIL",FRED TV
+https://stream.mux.com/3mgh6lyGIeyTCVEw02CZJZrXvaLjKa2O3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TvrTBbk.png" group-title="MUSICA", TV VIDA
+https://stmv3.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1ovwM8f.png" group-title="MUSICA", GREATEST HITS TV
+https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wPz5BJ0.png" group-title="MUSICA",PLAY TV
+https://wssl1.acessaradios.com.br/playtv/playtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYsIkps.png" group-title="BRASIL",TCM TV
 http://live.tcm10.com.br/tcm10.m3u8
