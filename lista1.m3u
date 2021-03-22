@@ -256,18 +256,12 @@ https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/max90fm/max90fm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8XB5XrV.png" group-title="BRASIL", AGUIAR BTV
 https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9U64Wn3.png" group-title="BRASIL",LUNA DEZ WEB TV
-https://srv5.zcast.com.br/alcindo3068/alcindo3068/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jxJSa9A.png" group-title="BRASIL",GENIALL TV
 https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
 http://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/Otcsunu.png" group-title="BRASIL",NOSSA.TV
-https://srv2.zcast.com.br/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/btCAcdi.png" group-title="BRASIL",TV MAIS
-https://livefocamundo.com:8081/8716/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
 http://video01.kshost.com.br/d3420/d3420/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NN4Ho7Q.png" group-title="BRASIL",TV JUNDIAI HOJE
@@ -286,10 +280,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
 https://stmv6.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/M4kiURy.png" group-title="BRASIL",TV RECON SAT KIDS
-https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GELlxJQ.png" group-title="BRASIL",FRED TV KIDS
-https://manifest-gce-us-east1-production.fastly.mux.com/WQBy5BTRGCTlzHoDM4l01tWY8V4YLraQOz2jnd4UEOQVHFPRJuoU00ecVCqZBXNyZ9QVcD8eW100hWr9b7eMuKjZQ/rendition.m3u8?cdn=highwinds&expires=1614376800&skid=default&signature=NjAzOTZmNjBfOGE0MTE3ZDZiYTZlODM0MDI0NjcwNmVlNTUwOTk2MTAzNTk3MWI1NjUxNzJmYzQyNjY0MGIyZjJjYWExZDY3Zg==
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
 https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
