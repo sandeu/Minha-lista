@@ -11,6 +11,22 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCAxMTowOjMgUE0maGFzaF92YWx1ZT1sam1iQXd4QXNkV2JBTkx3V3REUDNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZhOTFhZTgtMmM2ZC00MzY3LTk0MDktZWI3YTI4NjZjOTFl
 #EXTINF: -1 tvg-logo="https://imgur.com/svxDmbu.png" group-title="PORTUGAL", EURONEWS (PT)
 http://euronews-pt-p12-cdn.hexaglobe.net/04c735d45144f5a5e453b896208a2410/5f8cc8f1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9lvb2P.png" group-title="BRASIL",TV PREVE
+http://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
+http://177.20.208.58:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
+https://video-rvd-df-gw-2-1.rnp.br/live/ocp(t(FkGbSEguk08)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(FysGC1fx1HxiGCz_dGyfjw)n(a(F1mYSQ)s(fW0)'a(Hjup4w)s(07E)))s(s(ReQ)b(eFsSkfYK-fspLOyS5d5ImC6I1nU4nDZDJu7ksMG5BXahNvzyJlAufWTECEIiveUuPDTipZi6uxy1AfdL-w)'s(qGo)b(DrjZmidaM-F-QMlwVNwmyx4gy6w2LxFIkqrn2A40h30a_Mzg0BRJebDW4eueA2k33m04QJ51k8gzwUqpe9AgHDXIzboj0O_NfZttJMM2)'s(D4c)b(UtHAabUw))m(0))/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA HD
+https://nxplay-srv1.nxplay.com.br/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLvisRQ.png" group-title="BRASIL",RBI TV
+https://live-ak.vimeocdn.com/exp=1616254512~acl=%2Ff44fbe70-f223-4564-a775-b88fd4594ae2%2F%2A~hmac=8ae2fff6ae9d5254e411864bf73ac827c9dc795530ea23b8c01eea0098b402d5/f44fbe70-f223-4564-a775-b88fd4594ae2/chunklist_b416000.m3u8?max_segments=10
+#EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
+https://video01.kshost.com.br/fundacao6272/fundacao6272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GA4p0wz.png" group-title="BRASIL",NGP TV
+https://5a0c3936c25c8.streamlock.net/8278/8278/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HfXFvGr.png" group-title="BRASIL",WEB TV SANTANA
+https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/M4kiURy.png" group-title="BRASIL",TV RECON SAT KIDS
 https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
