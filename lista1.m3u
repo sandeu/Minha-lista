@@ -210,6 +210,8 @@ https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8?sts=st=1590241079~exp=1590247679~acl=/*~hmac=0bda16bf2862dc70c716232f837fda7eab9f2618f7f6015d45bc7779808c0273
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cdwydaj.png" group-title="BRASIL", REDE MANCHETE
+https://stmv1.srvif.com/tvmanchete1/tvmanchete1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DFwZ4E6.png" group-title="BRASIL", TV MANCHETE BAHIA
