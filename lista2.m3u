@@ -18,7 +18,31 @@ http://177.20.208.58:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
 https://video-rvd-df-gw-2-1.rnp.br/live/ocp(t(FkGbSEguk08)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(FysGC1fx1HxiGCz_dGyfjw)n(a(F1mYSQ)s(fW0)'a(Hjup4w)s(07E)))s(s(ReQ)b(eFsSkfYK-fspLOyS5d5ImC6I1nU4nDZDJu7ksMG5BXahNvzyJlAufWTECEIiveUuPDTipZi6uxy1AfdL-w)'s(qGo)b(DrjZmidaM-F-QMlwVNwmyx4gy6w2LxFIkqrn2A40h30a_Mzg0BRJebDW4eueA2k33m04QJ51k8gzwUqpe9AgHDXIzboj0O_NfZttJMM2)'s(D4c)b(UtHAabUw))m(0))/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA HD
-https://nxplay-srv1.nxplay.com.br/TV_GAZETA/index.m3u8
+https://nxplay-srv1.nxplay.com.#EXTINF:-1 tvg-logo="https://imgur.com/C0tkmm0.png" group-title="BRASIL", WEB TV UAI
+https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5b1en3l.png" group-title="BRASIL",TV PITAGUARY
+https://5d82644094cc0.streamlock.net/8036/8036/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4Rp7SJB.png" group-title="BRASIL", TV CLIC BRASIL
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/pJ3LC7u.png" group-title="BRASIL",CANAL DE SAO PAULO
+http://srv02.cyberti.com.br:1935/canalsp/canalsp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKA2zxy.png" group-title="BRASIL",TV GRANDE ABC
+https://cdn.jmvstream.com/w/AVJ-9104/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/43fSgoP.png" group-title="BRASIL", TV MACEIO
+https://srv3.zcast.com.br/tvmaceio/tvmaceio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iM2iiAE.png" group-title="BRASIL", GV NEWS
+https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/abbcoHN.png" group-title="BRASIL",TV BIRITINGA
+https://livefocamundo.com:8081/8104/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/I9erxdo.png" group-title="BRASIL", TV GERAL
+https://cdn.jmvstream.com/w/AVJ-9074/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3IwyZHK.png" group-title="BRASIL", TV RIO NOVO
+https://stmv1.srvstm.com/rionovotv/rionovotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LBjvs09.png" group-title="BRASIL",WEB TV GESSO
+https://stmv1.srvstm.com/tvgesso/tvgesso/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rLvisRQ.png" group-title="BRASIL",RBI TV
 https://live-ak.vimeocdn.com/exp=1616254512~acl=%2Ff44fbe70-f223-4564-a775-b88fd4594ae2%2F%2A~hmac=8ae2fff6ae9d5254e411864bf73ac827c9dc795530ea23b8c01eea0098b402d5/f44fbe70-f223-4564-a775-b88fd4594ae2/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:-1 tvg-logo="https://imgur.com/0BTXlx8.png" group-title="BRASIL",STZ TV
@@ -27,6 +51,8 @@ https://video01.kshost.com.br/fundacao6272/fundacao6272/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/8278/8278/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HfXFvGr.png" group-title="BRASIL",WEB TV SANTANA
 https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PSYXdFI.png" group-title="BRASIL",NOVA TV FRANCA
+https://5b7f3c45ab7c2.streamlock.net/8124/8124/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/M4kiURy.png" group-title="BRASIL",TV RECON SAT KIDS
 https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
