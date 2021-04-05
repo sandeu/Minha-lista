@@ -42,6 +42,28 @@ https://stmv1.srvstm.com/rionovotv/rionovotv/playlist.m3u8
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LBjvs09.png" group-title="BRASIL",WEB TV GESSO
 https://stmv1.srvstm.com/tvgesso/tvgesso/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/xFEeKMc.png" group-title="BRASIL", TV ALTIORA
+https://live.desdobrar.com/hls/altiora.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8ZC4yt2.png" group-title="BRASIL",LUAU TV
+https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SIvcerC.png" group-title="BRASIL",TV CMN
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RY29dM5.png" group-title="BRASIL",CAPITAL RIO WEB TV
+https://stmv1.srvstm.com/carlosalberto6658/carlosalberto6658/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6oY3VYL.png" group-title="BRASIL",MAUA ONLINE TV
+https://stmv1.srvst.com/milktv/milktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XF2EVTl.png" group-title="BRASIL",TV BELA
+https://srv3.zcast.com.br/tvbela/tvbela/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t8SUT5i.png" group-title="BRASIL", KCEPA TV
+https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q6tO4Ft.png" group-title="BRASIL",CINE LIVRE
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HeKiO1N.png" group-title="BRASIL",MEGA FILMES HD
+https://srv1.zcast.com.br/gabriel8376/gabriel8376/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yFQUUjO.png" group-title="BRASIL", FESTV
+https://video01.kshost.com.br/jm1780/jm1780/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XG5Sqlk.png" group-title="BRASIL", TV SUCESSO GO
+https://hls.brasilstream.com.br/live/tvsucesso/tvsucesso/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rLvisRQ.png" group-title="BRASIL",RBI TV
 https://live-ak.vimeocdn.com/exp=1616254512~acl=%2Ff44fbe70-f223-4564-a775-b88fd4594ae2%2F%2A~hmac=8ae2fff6ae9d5254e411864bf73ac827c9dc795530ea23b8c01eea0098b402d5/f44fbe70-f223-4564-a775-b88fd4594ae2/chunklist_b416000.m3u8?max_segments=10
@@ -53,7 +75,10 @@ https://5a0c3936c25c8.streamlock.net/8278/8278/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PSYXdFI.png" group-title="BRASIL",NOVA TV FRANCA
 https://5b7f3c45ab7c2.streamlock.net/8124/8124/playlist.m3u8?DVR
-
+#EXTINF:-1 tvg-logo="https://imgur.com/QYnuoKX.png" group-title="BRASIL",AMARAL TV
+https://srv3.zcast.com.br/abnerfelipe4176/abnerfelipe4176/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sDUA0aS.png" group-title="BRASIL",TV RECON SAT
+https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M4kiURy.png" group-title="BRASIL",TV RECON SAT KIDS
 https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GELlxJQ.png" group-title="BRASIL",FRED TV KIDS
