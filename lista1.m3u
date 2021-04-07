@@ -378,6 +378,8 @@ https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/playlist.m3u8
 https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yJKmLpK.png" group-title="BRASIL",NEW TV
 https://5d82644094cc0.streamlock.net/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fEqrPYX.png" group-title="BRASIL",REDE TGA
+https://5eaa6849d0971.streamlock.net:443/webtvtgatv/webtvtgatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="BRASIL",CINE LIVRE 2
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IjW1BaX.png" group-title="BRASIL",NOVA GAZETA TV
