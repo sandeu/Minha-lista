@@ -327,7 +327,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+"http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
