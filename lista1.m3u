@@ -214,6 +214,8 @@ https://stmv1.srvif.com/tvmanchete1/tvmanchete1/playlist.m3u8
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DFwZ4E6.png" group-title="BRASIL", TV MANCHETE BAHIA
 https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", MANCHETE TV GOIAS
+https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ibYGCJc.png" group-title="BRASIL", TV TUPI
 https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/w9cCYbA.png" group-title="BRASIL", TV CLASSICOS
@@ -975,6 +977,8 @@ https://livefocamundo.com:8081/8766/index.m3u8
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/y7WxCUG.png" group-title="RELIGIOSO",TV WEB REZENDE
+https://srv1.uaihost.video/tvrezende/tvrezende/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
