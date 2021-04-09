@@ -244,6 +244,10 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3igIxnk.png" group-title="BRASIL",TVI VILA IMPERIAL
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
@@ -318,8 +322,6 @@ https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
-https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL",TV PONTA DA SERRA
 http://187.33.200.235:9000/hls/pontadaserra.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
@@ -358,8 +360,6 @@ https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CGNLYBo.png" group-title="BRASIL", VIN TV
 https://5b7f3c45ab7c2.streamlock.net:443/8044/smil:8044.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vlMbFtc.png" group-title="BRASIL",SANDEGI TV 
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fhzKvG6.png" group-title="BRASIL",TV NAZARENA
