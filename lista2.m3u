@@ -244,8 +244,6 @@ https://srv3.zcast.com.br/alxtv/alxtv/playlist.m3u8
 https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=1478206888
 #EXTINF: -1 tvg-logo="https://imgur.com/wcMpBoY.png" group-title="BRASIL", WEB TV RS
 https://novo.bitstreaming.info:1936/webtvrstv/webtvrstv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/BTNfZEl.png" group-title="BRASIL", REDE WEB TV
-https://srv2.zcast.com.br/portelink/portelink/playlist-480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HMQgVim.png" group-title="BRASIL", WEB TV CASTELO DO PIAUI
 https://5eaa6849d0971.streamlock.net/webtvcastelotv/webtvcastelotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/zf243l6.png" group-title="BRASIL", MARICA TV
