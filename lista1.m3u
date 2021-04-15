@@ -136,6 +136,8 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV MANAUS
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ji5jNLl.png" group-title="BRASIL", RIC TV
+https://caikron.com.br:8082/ricsc/floripa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png" group-title="BRASIL", REDE TV ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oa2VPrT.png" group-title="BRASIL", REDE TV TO
