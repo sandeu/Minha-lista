@@ -262,6 +262,8 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/os15lQd.png" group-title="BRASIL",TV GAZETA BA
 https://stmv1.srvif.com/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="BRASIL", ELEMENTAL CHANNEL
@@ -849,6 +851,8 @@ https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
 https://59e4b6c1beddc.streamlock.net/8216/8216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SO6Qsu0.png" group-title="ESTUDIO FM",RADIO SUCESSO FM 
 https://cdn.jmvstream.com/w/LVW-8664/LVW8664_TsEeBXXfBF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2tC7Ns0.png" group-title="ESTUDIO FM",RADIO Q FM
+https://qfm.ddns.net/hlsq/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="ESTUDIO FM",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="ESTUDIO FM", RADIO UIRAPURU
