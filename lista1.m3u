@@ -1051,6 +1051,8 @@ https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/A5HTdgS.png" group-title="MUSICA",RCK TV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="MUSICA",RADIO 21
