@@ -172,6 +172,8 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
+https://canal1.proxy.tokplay.com.br/videos/event4/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ER59Y57.png" group-title="BRASIL", REDE BRASIL TV
