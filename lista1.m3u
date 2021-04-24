@@ -6,6 +6,8 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xBvmKdB.png" group-title="BRASIL",TV CULTURA
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xBvmKdB.png" group-title="BRASIL",TV CULTURA
+https://canal1.proxy.tokplay.com.br/videos/event5/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="BRASIL",RTV CANAL 38
@@ -136,6 +138,10 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV MANAUS
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV ITAPOAN
+https://canal1.proxy.tokplay.com.br/videos/event2/profile2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png" group-title="BRASIL", REDE TV
+https://canal1.proxy.tokplay.com.br/videos/event6/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png" group-title="BRASIL", REDE TV ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oa2VPrT.png" group-title="BRASIL", REDE TV TO
@@ -148,6 +154,8 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
+https://canal1.proxy.tokplay.com.br/videos/event3/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png" group-title="BRASIL", REDE MASSA TV
