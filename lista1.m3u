@@ -190,6 +190,8 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event4/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ER59Y57.png" group-title="BRASIL", REDE BRASIL TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MNRjNrz.png" group-title="BRASIL", TV BRASIL OESTE
