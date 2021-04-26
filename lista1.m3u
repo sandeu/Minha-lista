@@ -717,6 +717,8 @@ https://srv4.zcast.com.br/joanes6132/joanes6132/playlist.m3u8
 https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCnpcPy.png" group-title="BRASIL",WEB TV FRONTEIRA
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aJ4SLA5.png" group-title="BRASIL",WEB TV ESCRIBA DO AMAPA
+https://stmv1.livevoxtv.com.br/tvescriba/tvescriba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yzDFalj.png" group-title="BRASIL",SRTV PB
 https://5e36c064a2f6a.streamlock.net:1936/8194/8194/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL
@@ -1067,6 +1069,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A5HTdgS.png" group-title="MUSICA",RCK TV
