@@ -322,6 +322,8 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ANfSkcc.png" group-title="BRASIL", TV ALAGOINHA
 http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0SOMu0N.png" group-title="BRASIL", TV GUADALUPE
+https://stmv.video.expressolider.com.br/tvguadalupe/tvguadalupe/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV 2
