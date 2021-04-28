@@ -359,7 +359,7 @@ https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL",TV PONTA DA SERRA
-http://187.33.200.235:9000/hls/pontadaserra.m3u8
+https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HAb2Ksu.png" group-title="BRASIL",TV JAPI
