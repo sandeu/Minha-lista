@@ -193,7 +193,7 @@ http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
 http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ER59Y57.png" group-title="BRASIL", REDE BRASIL TV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MNRjNrz.png" group-title="BRASIL", TV BRASIL OESTE
 https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="BRASIL", TV BRUSQUE
@@ -233,7 +233,7 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
-https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8?sts=st=1590241079~exp=1590247679~acl=/*~hmac=0bda16bf2862dc70c716232f837fda7eab9f2618f7f6015d45bc7779808c0273
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tedWGKh.png" group-title="BRASIL", WHAM TV CLASSIC
@@ -441,7 +441,7 @@ https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5J1c8C.png" group-title="BRASIL", PPTV CHANNEL
 https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV
-https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
+http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O4ltrYZ.png" group-title="BRASIL",TV NOVA ONDA
