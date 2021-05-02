@@ -21,7 +21,7 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
-https://live.comets.com.br/tvnovanordeste/aovivo/chunklist_w345615428.m3u8
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hb2hAZq.png" group-title="BRASIL",TV FUNTELPA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
@@ -190,8 +190,6 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event4/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
-http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ER59Y57.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MNRjNrz.png" group-title="BRASIL", TV BRASIL OESTE
@@ -204,6 +202,10 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/chunklist_w707072948.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
@@ -230,8 +232,6 @@ https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
