@@ -284,7 +284,7 @@ http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6zDojzY.png" group-title="BRASIL",LATINA SAT WEB TV
 https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/os15lQd.png" group-title="BRASIL",TV GAZETA BA
+#EXTINF:-1 tvg-logo="https://imgur.com/mrRMHGr.png" group-title="BRASIL",TV GAZETA BA
 https://stmv1.srvif.com/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
@@ -424,6 +424,8 @@ https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/playlist.m3u8
 https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yJKmLpK.png" group-title="BRASIL",NEW TV
 https://5d82644094cc0.streamlock.net/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UhPCNOq.png" group-title="BRASIL",CANAL MULT PLAY
+https://video01.kshost.com.br/natanael3635/natanael3635/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2XmpfuG.png" group-title="BRASIL",CHANNEL 1
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fEqrPYX.png" group-title="BRASIL",REDE TGA
