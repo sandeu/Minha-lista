@@ -232,7 +232,7 @@ https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6PyhQct.png" group-title="BRASIL",RSC TV BRASIL
 http://177.11.96.110:9080/hls/sictv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5RBczKq.png" group-title="BRASIL", TV NOVA PLAY
+#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
