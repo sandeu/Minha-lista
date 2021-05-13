@@ -220,8 +220,6 @@ https://stmv1.srvif.com/manchetebahia/manchetebahia/playlist.m3u8
 https://stmv1.srvstm.com/muriloevangelistade9411/muriloevangelistade9411/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ibYGCJc.png" group-title="BRASIL", TV TUPI
 https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/w9cCYbA.png" group-title="BRASIL", TV CLASSICOS
-http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
@@ -260,8 +258,6 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mrRMHGr.png" group-title="BRASIL",TV GAZETA BA
 https://stmv1.srvif.com/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
-https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE
 https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="BRASIL", ELEMENTAL CHANNEL
