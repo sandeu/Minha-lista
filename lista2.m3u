@@ -2,7 +2,119 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",NICK JR
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/tracks-v1a1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",NICK
+https://origin-02.nxplay.com.br/NICK_BR_HD_NX/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",ZOOMOO KIDS
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",URBAN KIDS
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDcyNzAsIm5iZiI6MTYwNjA0NzI3MCwiZXhwIjoxNjA2MDQ3NTcwLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiOTA1OTkyODE3NWZiYTU2MjY5MzJmZDQuMjI3Mzg3NjUiLCJjbGllbnRlIjoiMTcyLjMxLjQ3LjUxIn0.mVcc6-jtbR-NAPwSZH4Cmh3RaXMxBVj7x2im5qQa7f0
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",URBAN SERIES
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDczMjksIm5iZiI6MTYwNjA0NzMyOSwiZXhwIjoxNjA2MDQ3NjI5LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiNjg1MTI0NDM0NWZiYTU2NjE2MDMxNjYuMzM0MjcyMjYiLCJjbGllbnRlIjoiMTcyLjMxLjQ3LjUxIn0.FR-XM9hoAzZFk-n75-HB-c7wdf75uctqc5Z12i4Effg
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",URBAN MOVIES
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDczOTYsIm5iZiI6MTYwNjA0NzM5NiwiZXhwIjoxNjA2MDQ3Njk2LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTAyMTM2OTU2NTVmYmE1NmE0N2E1ZDU5LjgxNDA5MTcwIiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.PX6H_5A063-p6wCJOMzTpoZP2ymGgLUASzM_2z6PwI4
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",URBAN DOC
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc0NzIsIm5iZiI6MTYwNjA0NzQ3MiwiZXhwIjoxNjA2MDQ3NzcyLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTAyNzA0MDUzMDVmYmE1NmYwYzg5NWYwLjEyNTc5MDM4IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.3hi2AFdknbtCRXhjWRpMjkfHPbSKGpKpqCyMdqsOtVI
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",ARTE 1
+https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",FILM E ARTS
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1a2a3m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",PARAMOUNT
+https://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1a2m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",AMC
+https://origin-02.nxplay.com.br/AMC_BRASIL/tracks-v1a1a2a3m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",LOVE NATURE
+https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",COMEDY CENTRAL
+https://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/tracks-v1a1a2m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TBS
+https://origin-02.nxplay.com.br/TBS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",FISH TV
+https://origin-02.nxplay.com.br/FISH_TV_NX/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDg0OTQsIm5iZiI6MTYwNjA0ODQ5NCwiZXhwIjoxNjA2MDQ4Nzk0LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTU2OTE4MjYxNzVmYmE1YWVlMWY4M2E3LjE5NDQyODU2IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.S5mxXQNXrY7cHUlJ5ogmE56IF_J2dpkKDzFTv8iuf4Q
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",PLAY TV
+https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc3NjAsIm5iZiI6MTYwNjA0Nzc2MCwiZXhwIjoxNjA2MDQ4MDYwLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMjg3NTUwNjkyNWZiYTU4MTA0N2RmMzUuOTMyNjQ0NjQiLCJjbGllbnRlIjoiMTcyLjMxLjQ3LjUxIn0.2hUwrl7KjNBuO4Fe3yXVJkd264iUFJb7s-i5wxqnA6c
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",WOOHOO
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc4NTgsIm5iZiI6MTYwNjA0Nzg1OCwiZXhwIjoxNjA2MDQ4MTU4LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTE2MDc0MTI1OTVmYmE1ODcyNDAwZjMwLjE3NTk4NjA2IiwiY2xpZW50ZSI6IjE3Mi4zMS40Ny41MSJ9.kOLeJ1B4vqyPTqQ3AJpLj6oqCQ0OIu6m_6MYbhcNHBk
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",MTV
+https://origin-02.nxplay.com.br/MTV_BR_NX/tracks-v1a1a2m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",MTV LIVE HD
+https://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",PRIME
+https://origin-02.nxplay.com.br/PRIME_HD/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYwNDc5NTgsIm5iZiI6MTYwNjA0Nzk1OCwiZXhwIjoxNjA2MDQ4MjU4LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiNjQ0MDE5ODYwNWZiYTU4ZDZkMDNjNTYuODAyMDkzMjEiLCJjbGllbnRlIjoiMTcyLjMxLjQ3LjUxIn0.OsIfthzqg8tI8ld--4l9JvlgVoT-NhDA2is-tFjAX3M
+
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV TEM
+https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV SOROCABA
+https://origin-02.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV CULTURA
+https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV BRASIL
+https://origin-02.nxplay.com.br/TV_BRASIL_NX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",FUTURA
+https://origin-02.nxplay.com.br/FUTURA_NX/video.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYxNjQyMjgsIm5iZiI6MTYwNjE2NDIyOCwiZXhwIjoxNjA2MTY0NTI4LCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTgzNzIwNDcwNWZiYzFmMDQ0YjBjNjIuNzY4MzY1MjIiLCJjbGllbnRlIjoiMTcyLjMxLjQ3LjUxIn0.fRoYDtmeSp8ITXiNuXU92f5U5BJz__G_JyTJ_Wljs_w
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV ESCOLA
+https://origin-02.nxplay.com.br/TV_ESCOLA_NX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV METROPOLE
+https://origin-02.nxplay.com.br/METROPOLE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV APARECIDA
+https://origin-02.nxplay.com.br/TV_APARECIDA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",TV NOVO TEMPO
+https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",REDE 21
+https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h1B9qcq.jpg" group-title="DESENHOS", BOING
+http://cdn2.interlibre.net/hls/193/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wedKfA5.jpg" group-title="DESENHOS", CACHIPUM TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IAUID0I.png" group-title="ESPORTES", WEB TV SO INFORMACAO
+https://livefocamundo.com:8081/8402/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BCQogpb.png" group-title="ESTUDIO FM", 98 FM
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SO6Qsu0.png" group-title="ESTUDIO FM",RADIO SUCESSO FM 
+https://cdn.jmvstream.com/w/LVW-8664/LVW8664_TsEeBXXfBF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VXaA0jI.png" group-title="ESTUDIO FM", RADIO VILABELA FM
+https://stmv6.srvstm.com/vilabelafm/vilabelafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AsY2mjb.png" group-title="ESTUDIO FM", FM TRES RIOS
+https://5a7d54e35f9d2.streamlock.net/z609-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ja3dHsB.png" group-title="ESTUDIO FM", TV OCEANICA
+https://59e4b6c1beddc.streamlock.net/8208/8208/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6ev3xC.png" group-title="TELEVENDAS",POLISHOP TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oJxUmDU.png" group-title="PORTUGAL",ARTV
+https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EL4Pstl.png" group-title="PORTUGAL",TV DE BRAGA
+https://5cf4a2c2512a2.streamlock.net:443/canalb/canalb/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="SIC Notícias" tvg-logo="https://caixapreta.pt/logos/SIC-Notícias.png",SIC Notícias
 https://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/LB3Yhdo.png" group-title="PORTUGAL", TVI
@@ -11,6 +123,36 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCAxMTowOjMgUE0maGFzaF92YWx1ZT1sam1iQXd4QXNkV2JBTkx3V3REUDNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZhOTFhZTgtMmM2ZC00MzY3LTk0MDktZWI3YTI4NjZjOTFl
 #EXTINF: -1 tvg-logo="https://imgur.com/svxDmbu.png" group-title="PORTUGAL", EURONEWS (PT)
 http://euronews-pt-p12-cdn.hexaglobe.net/04c735d45144f5a5e453b896208a2410/5f8cc8f1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nfmEgdC.png" group-title="RELIGIOSO",CANCAO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR MARINGA
+https://5829cb6b64c3c.streamlock.net/id2252/id2252/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Eyw6UXo.png" group-title="RELIGIOSO",TV WEB GOSPEL
+https://5eaa6849d0971.streamlock.net/radiogospeltv/radiogospeltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y8rwxwe.png" group-title="RELIGIOSO",UNI TV WEB
+https://streaming03.zas.media:443/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2LMAP8G.png" group-title="RELIGIOSO", REDE RVC
+http://flash1.crossdigital.com.br:1935/ponto82/redervc/live.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/xHjtMq7.png" group-title="RELIGIOSO",WEB TV SHALOM
+https://streaming03.zas.media:443/shalomsjc/shalomsjc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XSsoB5z.png" group-title="MUSICA",TRACE BRAZUCA
+https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vCkK6ED.png" group-title="MUSICA",MIX TV
+https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6a0GbC9.png" group-title="MUSICA",TV MOL
+https://5abdf4edae5bf.streamlock.net:443/tvmoltvstation/tvmoltvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1OPiYPv.png" group-title="MUSICA", OTTO 8 FM TV
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
+https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9lvb2P.png" group-title="BRASIL",TV PREVE
 http://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
