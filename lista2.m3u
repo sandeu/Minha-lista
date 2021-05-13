@@ -97,6 +97,12 @@ https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",REDE 21
 https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
 
+
+#EXTINF: -1 tvg-logo="https://imgur.com/w9cCYbA.png" group-title="BRASIL", TV CLASSICOS
+http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/h1B9qcq.jpg" group-title="DESENHOS", BOING
 http://cdn2.interlibre.net/hls/193/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wedKfA5.jpg" group-title="DESENHOS", CACHIPUM TV
