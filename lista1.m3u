@@ -20,8 +20,6 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hb2hAZq.png" group-title="BRASIL",TV FUNTELPA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
@@ -398,6 +396,10 @@ https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
 https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/e5qCHbP.png" group-title="BRASIL", WEB TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0JZLt9q.png" group-title="BRASIL", WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Tc206KL.png" group-title="BRASIL", MAGIC BOX RADIO WEB
+https://serv3.videovox.pw/magicbox2021/magicbox2021/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/SmmUsZv.png" group-title="BRASIL",ORB TV
 https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="BRASIL", VIRTUAL TV
