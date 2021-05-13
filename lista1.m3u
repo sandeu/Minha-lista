@@ -370,8 +370,6 @@ https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0JZLt9q.png" group-title="BRASIL", WTV BRASIL
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/Tc206KL.png" group-title="BRASIL", MAGIC BOX RADIO WEB
-https://serv3.videovox.pw/magicbox2021/magicbox2021/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/SmmUsZv.png" group-title="BRASIL",ORB TV
 https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="BRASIL", VIRTUAL TV
@@ -795,6 +793,8 @@ https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 https://59f2354c05961.streamlock.net:1443/uirapuru/_definst_/uirapuru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Tc206KL.png" group-title="ESTUDIO FM", MAGIC BOX RADIO WEB
+https://serv3.videovox.pw/magicbox2021/magicbox2021/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lEM07dp.png" group-title="ESTUDIO FM", MUNDIAL FM PIRASSUNUNGA
 https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="ESTUDIO FM", RADIO TV MONTANHESA
@@ -827,8 +827,6 @@ https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/f7HK5PJ.png" group-title="ESPORTES", REAL MADRI TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING 2
