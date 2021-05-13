@@ -785,70 +785,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://simultv.s.llnwi.net/n4s4/KidCentral/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eWEGL5X.jpg" group-title="DESENHOS", CBEEBIES
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-logo="https://imgur.com/83PTCT4.png" group-title="FOCA MUNDO",MAX RTV
-https://livefocamundo.com:8081/8510/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GybhPzA.png" group-title="FOCA MUNDO",TV VM
-https://livefocamundo.com:8081/8606/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7PkJwFc.png" group-title="FOCA MUNDO",TV DESTERRO
-https://livefocamundo.com:8081/8480/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vADM5zl.png" group-title="FOCA MUNDO",PWTV
-https://livefocamundo.com:8081/8586/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/T9Hjmwv.png" group-title="FOCA MUNDO",TV LIBERDADE AL
-https://livefocamundo.com:8081/tvliberdadeal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV BOM DMAIS
-https://livefocamundo.com:8081/8528/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",FEEDTV
-https://livefocamundo.com:8081/8286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oWHktTx.png" group-title="FOCA MUNDO", TV CAMPO GRANDE RJ
-https://livefocamundo.com:8081/8736/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/189rw6O.png" group-title="FOCA MUNDO",TV CIDADA AL
-https://livefocamundo.com:8081/tvcidada/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CANAL 5
-https://livefocamundo.com:8081/8036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",LD TV
-https://livefocamundo.com:8081/8608/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV SONART
-https://livefocamundo.com:8081/8692/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",MAIS TV
-https://livefocamundo.com:8081/simoes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV MIXLIVE
-https://livefocamundo.com:8081/8702/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV SMURPHIES
-https://livefocamundo.com:8081/8712/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lG9fLym.png" group-title="FOCA MUNDO",GNP TV SPORTS
-https://livefocamundo.com:8081/8354/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",OESTE PAULISTA TV
-https://livefocamundo.com:8081/8594/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REDE PPZ
-https://livefocamundo.com:8081/8720/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CLIC TV
-https://livefocamundo.com:8081/8644/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV PLANALTO
-https://livefocamundo.com:8081/8292/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",REAL H TV
-https://livefocamundo.com:8081/8730/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iapI8Yn.png" group-title="FOCA MUNDO", TV SIGI
-https://livefocamundo.com:8081/8656/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GVEvR3j.png" group-title="FOCA MUNDO", TOP TV ON
-https://livefocamundo.com:8081/8668/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",CONQUISTA WEB TV
-https://livefocamundo.com:8081/8256/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",BLUE WORLD TV
-https://livefocamundo.com:8081/8336/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TOP NEWS
-https://livefocamundo.com:8081/8742/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",MIX WEB TV
-https://livefocamundo.com:8081/8434/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",POPI TV
-https://livefocamundo.com:8081/8412/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",BANANEIRAS TV
-https://5e36c064a2f6a.streamlock.net:1936/8036/8036/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV IPIRA
-https://livefocamundo.com:8081/8476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",TV AVIVA RIO VERDE
-https://livefocamundo.com:8081/8562/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GJSqaKR.png" group-title="FOCA MUNDO",WEB TV ALTO VALE
-https://livefocamundo.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
@@ -1094,19 +1030,17 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="MUSICA", LFM TV
 https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/playlist.m3u8
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="MUSICA",RADIO M20
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/plucifh.png" group-title="MUSICA",RADIO ITALIA VISION
-https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XZvXhUo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TIERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oiIDKRT.png" group-title="MUSICA",CLASSIC ARTS SHOWCASE
-https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Uic8Y3u.png" group-title="PORTUGAL",TVI REALITY 1
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?
 #EXTINF: -1 tvg-logo="https://imgur.com/Uic8Y3u.png" group-title="PORTUGAL",TVI REALITY 2
