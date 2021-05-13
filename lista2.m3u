@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",NICK JR
 https://origin-02.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/tracks-v1a1a2/mono.m3u8
 
@@ -123,7 +127,37 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMCAxMTowOjMgUE0maGFzaF92YWx1ZT1sam1iQXd4QXNkV2JBTkx3V3REUDNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjZhOTFhZTgtMmM2ZC00MzY3LTk0MDktZWI3YTI4NjZjOTFl
 #EXTINF: -1 tvg-logo="https://imgur.com/svxDmbu.png" group-title="PORTUGAL", EURONEWS (PT)
 http://euronews-pt-p12-cdn.hexaglobe.net/04c735d45144f5a5e453b896208a2410/5f8cc8f1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrpt_por.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/f7HK5PJ.png" group-title="ESPORTES", REAL MADRI TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://imgur.com/S4xq7gh.png" group-title="BRASIL",TV ESCOLA
+https://origin-02.nxplay.com.br/TV_ESCOLA_NX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dMddWlf.png" group-title="BRASIL",SRC TV
+https://livefocamundo.com:8081/8416/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qi7gHfQ.png" group-title="BRASIL",RTV
+https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FDUTJ33.png" group-title="BRASIL", TV BOM
+http://srvstreaming.wctecnologia.com.br/LiveApp/streams/400290085166414614175500.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qE9hnaV.png" group-title="BRASIL",TVBE
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yk64BLB.png" group-title="BRASIL",TV MINAS BRASIL
+https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist-480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/chW0zKY.png" group-title="BRASIL", FMU TV
+https://srv3.zcast.com.br/juliocesar4903/juliocesar4903/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DQIu4yZ.png" group-title="BRASIL", FUN CANAL
+https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fZ05ozN.png" group-title="BRASIL",TV THATHI
+https://thathi.akamaized.net/edge-en/ngrp:live_d4f1bcf0e51f11e984d8672fa9a5f10a_all/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KpQWq0w.png" group-title="BRASIL",TV UFOP
+https://video-rvd-df-2.rnp.br/live/ocp(t(FkGbeB6i7zM)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(F4MztmY4_y3J2QWy4oJAaQ)n(a(6fNh8A)s(XVw)'a(UnsrBA)s(MFM)))s(s(_QQ)b(oqv2Pp1Kosq6jOm_QzSn5pJ_c2vv4RI2vqOHC0dDCZj65b7WqKg9hgktz0AK9hjWpmGi27o4XPAn1gJbkg)'s(CEs)b(U-LaiYsDdwhqewTS7jNgCl46vD2eIsxcx1JSdXXXsRHzFr3Io_GpYlgno4D0GoNWpUjEM4_7niWyeGUQAGo6-rlanKg7eP4Wc-xX5orc)'s(gCI)b(2ibjeve_))m(0))/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oa2VPrT.png" group-title="BRASIL", REDE TV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IO5GJtj.png" group-title="BRASIL", TV SERRA DOURADA
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
 https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
