@@ -220,8 +220,6 @@ https://livefocamundo.com:8081/8104/tracks-v1a1/mono.m3u8
 https://cdn.jmvstream.com/w/AVJ-9074/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3IwyZHK.png" group-title="BRASIL", TV RIO NOVO
 https://stmv1.srvstm.com/rionovotv/rionovotv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LBjvs09.png" group-title="BRASIL",WEB TV GESSO
 https://stmv1.srvstm.com/tvgesso/tvgesso/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/xFEeKMc.png" group-title="BRASIL", TV ALTIORA
@@ -507,8 +505,6 @@ http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/WBYbsG8.png" group-title="BRASIL", 40 GRAUS TV
 https://5d23bdca513db.streamlock.net/40graustv/40graustv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA", KISS TV
-https://5d23bdca513db.streamlock.net:443/8016/8016/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L27ZaAO.png" group-title="RELIGIOSO", TV TUBA
 https://caikron.com.br:8082/rcr_tuba/tv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9qikLEu.png" group-title="BRASIL", REDE TV
