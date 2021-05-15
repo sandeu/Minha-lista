@@ -252,6 +252,8 @@ https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hTPFg3S.png" group-title="BRASIL", SAT TV WEB
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/eBMGSyj.png" group-title="BRASIL", WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6zDojzY.png" group-title="BRASIL",LATINA SAT WEB TV
@@ -677,6 +679,12 @@ https://5d2c98775bafe.streamlock.net/lidervaletv/lidervaletv/playlist.m3u8
 https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0FQzObH.png" group-title="BRASIL",TV ALEMS
 https://cdn.jmvstream.com/w/LVW-8512/LVW8512_qGSZbhNLAM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Ku91k5.png" group-title="BRASIL", WEB TV CIDADE JANAUBA
+https://StmV1.srvstm.com/cidade123/cidade123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/O4r4Cg0.png" group-title="BRASIL", JP WEB TV
+https://Stmv1.samcast.com.br/eduardo6999/eduardo6999/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S4mLXE0.png" group-title="BRASIL", WEB TV JP
+https://stmv3.samcast.com.br/vinicius8694/vinicius8694/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0bHcWLr.png" group-title="BRASIL", RESENDE WEB TV
 https://5d82644094cc0.streamlock.net:443/resendetv/resendetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="BRASIL", CAMOCIM WEB TV
