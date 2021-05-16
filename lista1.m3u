@@ -330,8 +330,6 @@ https://srv4.zcast.com.br/alangabriel2643/alangabriel2643/playlist.m3u8
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
 https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MTPfRJw.png" group-title="BRASIL", IMPERIAL TV
-https://5b7f3c45ab7c2.streamlock.net/8002/8002/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL",TV PONTA DA SERRA
@@ -416,8 +414,6 @@ https://5e36c064a2f6a.streamlock.net:1936/8010/8010/playlist.m3u8
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jhW9PGc.png" group-title="BRASIL", TV KRONOS MOVIE WEB TV
 https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/e5J1c8C.png" group-title="BRASIL", PPTV CHANNEL
-https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV
 http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV
@@ -749,8 +745,6 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/8sqOnmc.png" group-title="BRASIL", TV JORNAL LIMEIRA
-http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
