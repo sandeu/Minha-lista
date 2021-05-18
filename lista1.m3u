@@ -292,7 +292,7 @@ https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6RDJ6M5.png" group-title="BRASIL",TV VERDES CAMPOS SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IPJW1A8.png" group-title="BRASIL",TV NACIONAL NEWS 
+#EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
 https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
@@ -348,6 +348,8 @@ http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
 https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/kxbiI2i.png" group-title="BRASIL", NOVA TV
+https://video01.kshost.com.br/moises1842/moises1842/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NCi4G2X.png" group-title="BRASIL", TV A FOLHA
 https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
@@ -452,6 +454,8 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="BRASIL", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kxbiI2i.png" group-title="BRASIL", REDE NOVA TV
+https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YAkZFzM.png" group-title="BRASIL", TV VELHA CAP
 https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
