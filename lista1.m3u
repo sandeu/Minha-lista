@@ -355,7 +355,7 @@ https://59f1cbe63db89.streamlock.net:1443/gabotv3/_definst_/gabotv3/playlist.m3u
 #EXTINF: -1 tvg-logo="https://imgur.com/kxbiI2i.png" group-title="BRASIL", REDE NOVA TV
 https://video01.kshost.com.br/moises1842/moises1842/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NCi4G2X.png" group-title="BRASIL", TV A FOLHA
-https://video01.kshost.com.br/elton3601/elton3601/playlist.m3u8
+http://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
