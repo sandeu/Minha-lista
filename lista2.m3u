@@ -162,8 +162,6 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/IO5GJtj.png" group-title="BRASIL", TV SERRA DOURADA
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
-http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0ooEVdy.png" group-title="BRASIL",REDE NOVA NORDESTE
 https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
