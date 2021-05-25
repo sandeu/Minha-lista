@@ -276,6 +276,8 @@ https://5cf4a2c2512a2.streamlock.net:443/tvplanalto/tvplanalto/playlist.m3u8
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", GEG TV
+https://stmv3.samcast.com.br/marcelo2313/marcelo2313/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/2ycx5KF.png" group-title="BRASIL", TV TREMEMBE
 https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
