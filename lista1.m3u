@@ -316,6 +316,8 @@ https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/VWuwSRv.png" group-title="BRASIL", TV GUADALUPE
 https://stmv.video.expressolider.com.br/tvguadalupe/tvguadalupe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/HF4nWl1.png" group-title="BRASIL", TV ACE
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV 2
