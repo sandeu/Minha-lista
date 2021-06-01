@@ -370,6 +370,8 @@ https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/bioza1I.png" group-title="BRASIL", MEGA CANAIS TV
+https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
 https://stmv1.vhcast.com/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
