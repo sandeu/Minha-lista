@@ -140,6 +140,8 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 https://canal1.proxy.tokplay.com.br/videos/event3/profile2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3E7nQux.png" group-title="BRASIL", TV JANGADEIRO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png" group-title="BRASIL", REDE MASSA TV
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eT1W2vq.png" group-title="BRASIL", TV ARATU
