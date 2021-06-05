@@ -196,6 +196,8 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mNCAZvp.png" group-title="BRASIL",ANIME TV 2
 https://StmV1.srvstm.com/animetv2/animetv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/I7gKc1d.png" group-title="BRASIL", ANIMAX TV
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e9e2UT0.png" group-title="BRASIL", REDE H
 https://tv02.livemustv.com.br/lmtv2203/lmtv2203/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
@@ -474,8 +476,6 @@ https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/I7gKc1d.png" group-title="BRASIL", ANIMAX TV
-https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/99nzYXN.png" group-title="BRASIL", REDE ENCAUCA
 https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="BRASIL", TV VOTULINE
