@@ -180,6 +180,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/chunklist_w70707
 http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/y9x5YuH.png" group-title="BRASIL",RUN TIME
+https://stream-us-east-1.getpublica.com/cl/5373ba0c-3125-4c3f-8fde-5608f56c1f10/848x480_1249600_1_false.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bsWbXG.png" group-title="BRASIL", TV WA
 https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
