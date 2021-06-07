@@ -308,6 +308,14 @@ https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6RDJ6M5.png" group-title="BRASIL",TV VERDES CAMPOS SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/GwgDwQm.png" group-title="BRASIL", TV DIVERSIDADE
+https://5c483b9d1019c.streamlock.net/diversidadetv/diversidadetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NcReOZr.png" group-title="BRASIL", OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rrNIqAb.png" group-title="BRASIL", RDTV DIGITAL
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/t8SL1PO.png" group-title="BRASIL", ILHABELA TV
+https://stmv3.samcast.com.br/ilhabelatv/ilhabelatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
