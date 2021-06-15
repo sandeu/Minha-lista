@@ -330,6 +330,10 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="BRASIL",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hFkrSZD.png" group-title="BRASIL", UTV
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yjKLQet.png" group-title="BRASIL", TV VIDA FORMOSA
+https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
