@@ -260,6 +260,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/93owvZZ.png" group-title="BRASIL",CANAL MULTPLAY
+https://stmv4.samcast.com.br/natanael4227/natanael4227/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zLFm1ju.png" group-title="BRASIL",TV NOVA MANHA
+https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
