@@ -198,6 +198,8 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mNCAZvp.png" group-title="BRASIL",ANIME TV 2
 https://StmV1.srvstm.com/animetv2/animetv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hOq1f54.png" group-title="BRASIL",ANIME STATION
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I7gKc1d.png" group-title="BRASIL", ANIMAX TV
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e9e2UT0.png" group-title="BRASIL", REDE H
@@ -314,6 +316,8 @@ https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fkd8p3e.png" group-title="BRASIL", VG PLANTAO TV 
 https://cdn.jmvstream.com/w/AVJ-9841/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dliHxir.png" group-title="BRASIL", TV ALTERNATIVA HITS
+https://video02.kshost.com.br/andre7754/andre7754/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NIUqJYt.png" group-title="BRASIL", LAVRAS CE TV WEB
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6RDJ6M5.png" group-title="BRASIL",TV VERDES CAMPOS SAT
