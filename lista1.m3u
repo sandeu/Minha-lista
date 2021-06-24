@@ -252,6 +252,8 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/7sYTeSs.png" group-title="BRASIL", WEB TV CIDADE
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/63LTMMw.png" group-title="BRASIL", BONS TEMPOS TV
@@ -276,6 +278,8 @@ http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/eBMGSyj.png" group-title="BRASIL", WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV 
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6zDojzY.png" group-title="BRASIL",LATINA SAT WEB TV
 https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5S4QHxX.png" group-title="BRASIL",ELYTV
@@ -348,6 +352,8 @@ https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
 https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Z57rCQz.png" group-title="BRASIL", REDE NEZZ TV
 https://stmv1.samcast.com.br/lucascardosodasilva1434/lucascardosodasilva1434/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/IzQGxIx.png" group-title="BRASIL", TV SANTA
+https://stmv1.srvstm.com/josecarlos8017/josecarlos8017/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
