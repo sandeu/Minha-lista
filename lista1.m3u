@@ -250,8 +250,6 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="BRASIL",TV WEB GUAREI TWG
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/7sYTeSs.png" group-title="BRASIL", WEB TV CIDADE
-https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/63LTMMw.png" group-title="BRASIL", BONS TEMPOS TV
@@ -266,6 +264,10 @@ https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 https://stmv4.samcast.com.br/natanael4227/natanael4227/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zLFm1ju.png" group-title="BRASIL",TV NOVA MANHA
 https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2znWTg3.png" group-title="BRASIL", FENIX WEB TV
+https://stmv1.voxtvhd.com.br/fenixwebtv/fenixwebtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/7sYTeSs.png" group-title="BRASIL", WEB TV CIDADE
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7XTzywn.png" group-title="BRASIL",TV SHOW DE BOLA
 https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
