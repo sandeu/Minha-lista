@@ -318,6 +318,10 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="BRASIL", WEB TV XTREME
 https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/leRetgl.png" group-title="BRASIL", CABO FRIO TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mmXDtVk.png" group-title="BRASIL", TV WEB MANIA
+https://stmv4.samcast.com.br/webmania8838/webmania8838/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tm8YbhO.png" group-title="BRASIL", REDE WEB TV 
 https://stmv1.srvif.com/redewebtv/redewebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fkd8p3e.png" group-title="BRASIL", VG PLANTAO TV 
