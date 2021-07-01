@@ -358,6 +358,10 @@ https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 https://stmv1.samcast.com.br/lucascardosodasilva1434/lucascardosodasilva1434/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/IzQGxIx.png" group-title="BRASIL", TV SANTA
 https://stmv1.srvstm.com/josecarlos8017/josecarlos8017/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/VAzZa1Q.png" group-title="BRASIL", TV ALTERNATIVA HITS
+https://video02.kshost.com.br/andre7754/andre7754/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XaZupNi.png" group-title="BRASIL", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
 https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
