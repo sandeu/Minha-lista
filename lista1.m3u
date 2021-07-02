@@ -262,6 +262,8 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93owvZZ.png" group-title="BRASIL",CANAL MULTPLAY
 https://stmv4.samcast.com.br/natanael4227/natanael4227/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UTJACWc.png" group-title="BRASIL",ASCAME
 https://livefocamundo.com:8081/ascametv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xm9ooH8.png" group-title="BRASIL", TV CONTROLES
@@ -436,8 +438,6 @@ http://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
 https://lifechannelbrasil.netvm.com.br/viatvnet/aovivo/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
-https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/bioza1I.png" group-title="BRASIL", MEGA CANAIS TV
 https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
