@@ -262,6 +262,14 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93owvZZ.png" group-title="BRASIL",CANAL MULTPLAY
 https://stmv4.samcast.com.br/natanael4227/natanael4227/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UTJACWc.png" group-title="BRASIL",ASCAME
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xm9ooH8.png" group-title="BRASIL", TV CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CHIuRhf.png" group-title="BRASIL", TV SUDOESTE
+https://livefocamundo.com:8081/tvsudoeste/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zV6zESO.png" group-title="BRASIL",TV RIO GRANDE
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zLFm1ju.png" group-title="BRASIL",TV NOVA MANHA
 https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2znWTg3.png" group-title="BRASIL", FENIX WEB TV
