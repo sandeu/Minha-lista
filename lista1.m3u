@@ -212,6 +212,8 @@ http://187.33.200.235:9000/hls/redemetropole.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I36QVk4.png" group-title="BRASIL",SOUL TV
 https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uihTqRv.png" group-title="BRASIL",TV POTENGI
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
@@ -300,6 +302,8 @@ https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w10
 https://stmv1.livevoxtv.com.br/webtv93/webtv93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MKTVqe.png" group-title="BRASIL", TV REDE GAMA
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692596/index_150_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imgur.com/mrRMHGr.png" group-title="BRASIL",TV GAZETA BA
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE
