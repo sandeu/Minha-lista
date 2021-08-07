@@ -224,6 +224,8 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tedWGKh.png" group-title="BRASIL", WHAM TV CLASSIC
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j8Oi7CF.png" group-title="BRASIL", MRL TV
+https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cdwydaj.png" group-title="BRASIL", REDE MANCHETE
 https://stmv1.srvif.com/tvmanchete1/tvmanchete1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", TV MANCHETE
