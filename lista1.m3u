@@ -174,6 +174,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://StmV1.srvstm.com/animetv2/animetv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hOq1f54.png" group-title="BRASIL",ANIME STATION
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="BRASIL",ANIME ZONE TV
+https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e9e2UT0.png" group-title="BRASIL", REDE H
 https://tv02.livemustv.com.br/lmtv2203/lmtv2203/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
@@ -198,7 +200,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tedWGKh.png" group-title="BRASIL", WHAM TV CLASSIC
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/j8Oi7CF.png" group-title="BRASIL", MRL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
 https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
