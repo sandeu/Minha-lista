@@ -464,6 +464,8 @@ https://video01.kshost.com.br/natanael3635/natanael3635/playlist.m3u8
 https://stmv1.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fEqrPYX.png" group-title="BRASIL",WEB TV TGA
 https://5eaa6849d0971.streamlock.net:443/webtvtgatv/webtvtgatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYXAAh8.png" group-title="BRASIL",TV MIX
+https://srv1.painelvideo.com/tvmix/tvmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qfQ9i7C.png" group-title="BRASIL",CYNEMAX
 https://srv1.painelvideo.com/tvmix/tvmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2yPvv6T.png" group-title="BRASIL",CINE LIVRE 2
