@@ -175,6 +175,36 @@ https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
 https://stmv3.samcast.com.br/marcosroberto5912/marcosroberto5912/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93owvZZ.png" group-title="BRASIL",CANAL MULTPLAY
 https://stmv4.samcast.com.br/natanael4227/natanael4227/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CHIuRhf.png" group-title="BRASIL", TV SUDOESTE
+https://livefocamundo.com:8081/tvsudoeste/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zLFm1ju.png" group-title="BRASIL",TV NOVA MANHA
+https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2znWTg3.png" group-title="BRASIL", FENIX WEB TV
+https://stmv1.voxtvhd.com.br/fenixwebtv/fenixwebtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Bc9e0wU.png" group-title="BRASIL", ARAGUAIA TV
+http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6zDojzY.png" group-title="BRASIL",LATINA SAT WEB TV
+https://Stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/QjqPcTV.png" group-title="BRASIL", AGUIAR BTV
+https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/1GRXnnp.png" group-title="BRASIL",GENIALL TV
+https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sHWb67j.png" group-title="BRASIL",TV NACIONAL NEWS 
+https://srv3.zcast.com.br/romilson/romilson/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Z57rCQz.png" group-title="BRASIL", REDE NEZZ TV
+https://stmv1.samcast.com.br/lucascardosodasilva1434/lucascardosodasilva1434/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/VAzZa1Q.png" group-title="BRASIL", TV ALTERNATIVA HITS
+https://video02.kshost.com.br/andre7754/andre7754/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ANfSkcc.png" group-title="BRASIL", TV ALAGOINHA
+http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/VWuwSRv.png" group-title="BRASIL", TV GUADALUPE
+https://stmv.video.expressolider.com.br/tvguadalupe/tvguadalupe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a03JekB.png" group-title="BRASIL",WEB TV CAPUXU
+https://5eaa6849d0971.streamlock.net:443/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z41BXZN.png" group-title="BRASIL",DHT TV
+https://srv4.zcast.com.br/alangabriel2643/alangabriel2643/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL",TV PONTA DA SERRA
+https://stmv2.voxtvhd.com.br/6000/6000/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/S4xq7gh.png" group-title="BRASIL",TV ESCOLA
