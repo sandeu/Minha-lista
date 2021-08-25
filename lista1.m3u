@@ -484,6 +484,14 @@ https://01.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DOEapkO.png" group-title="BRASIL", REDE NOVA TV
 https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="BRASIL", GIRO TV NEWS
+https://596639ebdd89b.streamlock.net/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="BRASIL", ALLEGRO WEB TV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="BRASIL", ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YAkZFzM.png" group-title="BRASIL", TV VELHA CAP
 https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
@@ -795,6 +803,8 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://simultv.s.llnwi.net/n4s4/KidCentral/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eWEGL5X.jpg" group-title="DESENHOS", CBEEBIES
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
@@ -983,6 +993,8 @@ https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 #EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i4R7lK1.png" group-title="MUSICA",WEB TV MUSIC
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tXgBUN7.png" group-title="MUSICA", CORNO TV
@@ -1021,6 +1033,8 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WTRxEei.png" group-title="MUSICA",RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WTRxEei.png" group-title="MUSICA",TV MAXIMA
+https://tvdatta.com:3279/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/11TzX8h.png" group-title="MUSICA",RADIO CONTACT
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6ZPdRJV.png" group-title="MUSICA",CAROLINA TV
