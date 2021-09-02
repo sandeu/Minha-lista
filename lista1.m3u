@@ -488,6 +488,8 @@ https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 https://5d2c98775bafe.streamlock.net:443/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80c9RRD.png" group-title="BRASIL", GIRO TV NEWS
 https://596639ebdd89b.streamlock.net/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV
+https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="BRASIL", ALLEGRO WEB TV
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="BRASIL", ARARUNA TV
@@ -535,6 +537,8 @@ http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV WESTERN
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="BRASIL",CLASSIQUE NOIR TV
+https://stmv1.srvif.com/classiquen/classiquen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
 https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
@@ -869,6 +873,8 @@ https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES", CANAL ESPORTES ONLINE
 https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/d7nG7tX.png" group-title="ESPORTES", GOL TV BRASIL
+https://stmv5.samcast.com.br/caroline3961/caroline3961/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
