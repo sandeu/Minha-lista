@@ -164,6 +164,8 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
 https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/chunklist_w1390026849.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="BRASIL",NATURE TV
@@ -230,6 +232,8 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UTJACWc.png" group-title="BRASIL",ASCAME
 https://livefocamundo.com:8081/ascametv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xm9ooH8.png" group-title="BRASIL", TV CONTROLES
@@ -581,6 +585,8 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 http://streaming.sidys.com.br/canal4stream/canal4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TfmphYR.png" group-title="BRASIL",TV 3 VIA
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="BRASIL",BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k4A2323.png" group-title="BRASIL", CONEXAO BRASIL
 https://video01.kshost.com.br/gilson1332/gilson1332/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7RJHIOl.png" group-title="BRASIL", AISH TV BRASIL
