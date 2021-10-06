@@ -103,6 +103,24 @@ http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
+http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png" group-title="BRASIL", REDE MASSA TV
+https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/I36QVk4.png" group-title="BRASIL",SOUL TV
+https://5f1ce9c7dc62b.streamlock.net:443/soultv/soultv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FUgCl80.png" group-title="BRASIL", TV METROPOLE
+https://stmv1.srvstm.com/tvmetropole/tvmetropole/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/hTPFg3S.png" group-title="BRASIL", SAT TV WEB
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/2ycx5KF.png" group-title="BRASIL", TV TREMEMBE
+https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oqRFTDe.png" group-title="BRASIL", TV WEB MANIA
+https://stmv4.samcast.com.br/webmania8838/webmania8838/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/h1B9qcq.jpg" group-title="DESENHOS", BOING
 http://cdn2.interlibre.net/hls/193/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wedKfA5.jpg" group-title="DESENHOS", CACHIPUM TV
