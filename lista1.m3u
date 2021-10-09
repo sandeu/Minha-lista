@@ -163,7 +163,7 @@ https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="BRASIL",AMAZON SAT
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-10423/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
 https://stream.vrtchannel.tv.br:1936/vrtchannel/vrtchannel/chunklist_w1390026849.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="BRASIL",NATURE TV
@@ -328,22 +328,20 @@ https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV 2
-https://StmV1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
-https://stmv6.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
-https://stmv4.srvstm.com/tvserie/tvserie/playlist.m3u8
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
-https://StmV6.srvstm.com/tvserie2/tvserie2/playlist-480p.m3u8
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 STAR TREK
-https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS
 https://StmV1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA
-https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
+https://StmV1.srvstm.com/tvserie4/tvserie4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H8qGyZE.png" group-title="BRASIL",CANAL DA PECUARIA
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
