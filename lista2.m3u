@@ -115,6 +115,14 @@ https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u
 https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GgWK1Zh.png" group-title="ESTUDIO FM", RADIO PONTE FM
 https://stmv1.srvstm.com/pontefm/pontefm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5Z8Oq6m.png" group-title="MUSICA",MANAUS MIX WEB TV
+https://video01.kshost.com.br/ronildo6110/ronildo6110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yeearVp.png" group-title="MUSICA", TV ESTADO
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tXgBUN7.png" group-title="MUSICA", CORNO TV
+https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rAFoxKB.png" group-title="MUSICA",PALESHOW TV
+https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
@@ -359,8 +367,6 @@ https://streaming03.zas.media:443/shalomsjc/shalomsjc/playlist.m3u8
 https://mj1b2xsspj.singularcdn.net.br/trace/brazuca/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vCkK6ED.png" group-title="MUSICA",MIX TV
 https://srv5.zcast.com.br/canalmix/canalmix/chunklist_w675939785.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/R7bLhYI.png" group-title="MUSICA", TOP TV
-https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6a0GbC9.png" group-title="MUSICA",TV MOL
 https://5abdf4edae5bf.streamlock.net:443/tvmoltvstation/tvmoltvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1OPiYPv.png" group-title="MUSICA", OTTO 8 FM TV
@@ -370,12 +376,9 @@ https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F9lvb2P.png" group-title="BRASIL",TV PREVE
 http://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
-http://177.20.208.58:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F6rhc2n.png" group-title="BRASIL",TV INES
 https://video-rvd-df-gw-2-1.rnp.br/live/ocp(t(FkGbSEguk08)r(fVR9ug)a(vQYWTA)p(d(2xc)k(q8E)m(FysGC1fx1HxiGCz_dGyfjw)n(a(F1mYSQ)s(fW0)'a(Hjup4w)s(07E)))s(s(ReQ)b(eFsSkfYK-fspLOyS5d5ImC6I1nU4nDZDJu7ksMG5BXahNvzyJlAufWTECEIiveUuPDTipZi6uxy1AfdL-w)'s(qGo)b(DrjZmidaM-F-QMlwVNwmyx4gy6w2LxFIkqrn2A40h30a_Mzg0BRJebDW4eueA2k33m04QJ51k8gzwUqpe9AgHDXIzboj0O_NfZttJMM2)'s(D4c)b(UtHAabUw))m(0))/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA HD
-https://nxplay-srv1.nxplay.com.#EXTINF:-1 tvg-logo="https://imgur.com/C0tkmm0.png" group-title="BRASIL", WEB TV UAI
+#EXTINF:-1 tvg-logo="https://imgur.com/C0tkmm0.png" group-title="BRASIL", WEB TV UAI
 https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5b1en3l.png" group-title="BRASIL",TV PITAGUARY
 https://5d82644094cc0.streamlock.net/8036/8036/playlist-480p.m3u8
@@ -515,8 +518,6 @@ https://stmv1.srvif.com/canalbaiano/canalbaiano/playlist.m3u8
 https://722787183.r.worldssl.net/722787183/_definst_/oestetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CQ9qNc2.png" group-title="BRASIL", TV FLORIPA
 http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/g38pM7D.png" group-title="BRASIL",CANAL 10 FOZ
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmY4od0.png" group-title="BRASIL",TV LITORAL PANORAMA
 http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
 
@@ -615,8 +616,6 @@ https://srv2.zcast.com.br/fredericoluiz1577/fredericoluiz1577/playlist.m3u8
 http://wowza.acessaradios.com.br:1935/tvhits/tvhits/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/webRdkU.png" group-title="MUSICA",K7 RADIO E TV
 http://video01.kshost.com.br/joao4654/joao4654/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/trFs5A3.png" group-title="MUSICA",RTL 102 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MfX8Q9s.png" group-title="MUSICA",RADIO ITALIA TV
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 
@@ -653,11 +652,6 @@ https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1659524698.m3u
 https://ffmh4milme.zoeweb.tv/demo/rdctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HmRpx8j.png" group-title="BRASIL", TV SOSITE
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL", RETRO CARTOON
-https://stmv1.srvif.com/retrocartoontv/retrocartoontv/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL", RETRO CARTOON 3
-https://StmV6.srvstm.com/channel1/channel1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/gjh4arf.png" group-title="BRASIL", WEB TV IMAGEM DE CAETANO
 https://srv4.zcast.com.br/tvmf/tvmf/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Tkax0Sd.png" group-title="BRASIL", WEB TV CASCAVEL
@@ -682,12 +676,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://5d23bdca513db.streamlock.net/40graustv/40graustv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L27ZaAO.png" group-title="RELIGIOSO", TV TUBA
 https://caikron.com.br:8082/rcr_tuba/tv.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9qikLEu.png" group-title="BRASIL", REDE TV
-http://189.91.128.150:5555/udp/227.10.20.122:1234
-#EXTINF:-1 tvg-logo="https://imgur.com/9qikLEu.png" group-title="BRASIL", REDE TV
-https://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9qikLEu.png" group-title="BRASIL", REDE TV
-https://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/OT8OzxT.png" group-title="BRASIL",TV RECON SAT MEMORIA
 http://stmv1.srvstm.com/tvmemoria/tvmemoria/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/430a862c5c9cddbd3856cbdf8068b6be.png" group-title="MUSICA", TU MUSICA
