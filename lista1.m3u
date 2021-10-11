@@ -270,6 +270,8 @@ https://srv1.painelvideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w1436
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QUwdLQi.png" group-title="BRASIL", TV RECREIO
+https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
 https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
@@ -493,8 +495,6 @@ https://hls.brasilstream.com.br/live/tvmon/tvmon/mono.m3u8
 uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
 #EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="BRASIL", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QUwdLQi.png" group-title="BRASIL", TV RECREIO
-https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="BRASIL", CONECT TV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="BRASIL",NOVA ERA TV
