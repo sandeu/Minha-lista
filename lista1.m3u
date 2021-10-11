@@ -205,7 +205,7 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV
@@ -214,6 +214,8 @@ http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
@@ -304,8 +306,6 @@ https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
 https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
 https://srv1.video.xradios.com.br/carlos/carlos/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
-https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/eBMGSyj.png" group-title="BRASIL", WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV 
