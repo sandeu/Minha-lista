@@ -210,6 +210,8 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV
 http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Plt53Lr.png" group-title="BRASIL",TV PIONEIRA
+https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
@@ -513,8 +515,6 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Plt53Lr.png" group-title="BRASIL",TV PIONEIRA
-https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JTvEGuV.png" group-title="BRASIL",CANAL ITU TV
@@ -723,6 +723,8 @@ http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/g38pM7D.png" group-title="BRASIL",CANAL 10 FOZ
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
@@ -751,7 +753,7 @@ https://video01.logicahost.com.br/interativafm/interativafm/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 107,1
+#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/chunklist_w727342101.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
 https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
