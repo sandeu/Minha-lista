@@ -103,6 +103,20 @@ http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
+https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES", CANAL ESPORTES ONLINE
+https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/d7nG7tX.png" group-title="ESPORTES", GOL TV BRASIL
+https://stmv5.samcast.com.br/caroline3961/caroline3961/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lEM07dp.png" group-title="ESTUDIO FM", MUNDIAL FM PIRASSUNUNGA
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xaXyAVy.png" group-title="ESTUDIO FM", RADIO 90 FM
+https://cdn.jmvstream.com/w/LVW-8407/LVW8407_znj5D2krww/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GgWK1Zh.png" group-title="ESTUDIO FM", RADIO PONTE FM
+https://stmv1.srvstm.com/pontefm/pontefm/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
 http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO
