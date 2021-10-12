@@ -802,7 +802,7 @@ https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/nC4x2Or.png" group-title="ESTUDIO FM", EVANGELICA FM
 https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/chunklist_w1521854592.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist_w333397609.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
