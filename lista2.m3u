@@ -124,6 +124,22 @@ https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rAFoxKB.png" group-title="MUSICA",PALESHOW TV
 https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/ITKABM7.png" group-title="RELIGIOSO",TV FE BRASIL
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hyNIGqK.png" group-title="RELIGIOSO",TV REINO
+https://5e36c064a2f6a.streamlock.net:1936/8580/8580/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wmLxlig.png" group-title="RELIGIOSO", CAPITAL TV
+https://stmv1.srvif.com/rbc/rbc/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z4Oydmf.png" group-title="RELIGIOSO",ADORAR TV 
+https://5e36c064a2f6a.streamlock.net:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GNQmHzY.png" group-title="RELIGIOSO",TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/y7WxCUG.png" group-title="RELIGIOSO",TV WEB REZENDE
+https://stmv1.rwlivetv.com/tvrezende/tvrezende/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/95K3Pqq.png" group-title="PORTUGAL",ASSIM E PORTUGAL
+https://livefocamundo.com:8081/8174/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eh1Yvi9.png" group-title="PORTUGAL",CACAVISION
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
 http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
