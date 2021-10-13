@@ -103,8 +103,7 @@ http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
-https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES", CANAL ESPORTES ONLINE
 https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/d7nG7tX.png" group-title="ESPORTES", GOL TV BRASIL
@@ -143,8 +142,6 @@ https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YFaZdEq.png" group-title="BRASIL",TV BRASIL WEB
 http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO
-http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oJsGK5r.png" group-title="BRASIL", REDE MASSA TV
 https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I36QVk4.png" group-title="BRASIL",SOUL TV
@@ -277,8 +274,6 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist-480p.m3u8
 https://livefocamundo.com:8081/csctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w373396698.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RMHTORJ.png" group-title="BRASIL",UnB TV
 https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FnMV7Ju5x9g)r(fVR9ug)a(vQYYFg)p(d(2xc)k(q8Y)m(gEDiHKe9feHNQV4kLdNzew)n(a(SvKZCg)s(1ho)'a(YL5e5Q)s(kaA)))s(s(uNk)b(sCzrLo1COaXgiTIcEYevIksbOzGlmnkqaEUxHM3g26Af89TyEhgrlcUFNi9fGDnGOR37wvAo2NF1lZjVTg)'s(9FY)b(LsO8JuP-SxyVJRz2cJxkPbP1SmTNo3Wcej2U8Sgi2Z1bCW4s6yYESUERnGE6Ux8YcC-BcuGOTDGWhmdeDgSbRGo8XSQtXp2zNFAWJtmK)'s(cEI)b(lsRFkWfF))m(0))/unb_index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TSJDYtK.png" group-title="BRASIL", TV ANGELIM
