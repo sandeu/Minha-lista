@@ -841,6 +841,8 @@ https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yzGbHDT.png" group-title="ESPORTES", MOTOR TREND
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=1607447513~exp=1607533913~acl=/i/*~hmac=d5360ece0622bc280dd1ae5b9bb1bce84fef3f135273dfef57904b9096026279&mux_audio=true
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING 2
@@ -963,6 +965,8 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A5HTdgS.png" group-title="MUSICA",RCK TV
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aTSeca5.png" group-title="MUSICA",VH1 CLASSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/PAHmIN8.png" group-title="MUSICA",XTV MUSIC
 https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
