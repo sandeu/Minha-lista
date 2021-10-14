@@ -280,6 +280,8 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/BZroGGz.png" group-title="BRASIL", CANAL TV GO
 https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q3uSpxL.png" group-title="BRASIL",TV SINGULAR
+https://srv6.zcast.com.br/daniel9850/daniel9850/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
@@ -308,8 +310,6 @@ https://5ad482a77183d.streamlock.net/aliancatvadmgmail.com/aliancatvadmgmail.com
 https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cX18hjg.png" group-title="BRASIL",BSTV ONLINE
 https://livefocamundo.com:8081/bs-tvonline/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Q3uSpxL.png" group-title="BRASIL",TV SINGULAR
-https://srv6.zcast.com.br/daniel9850/daniel9850/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
