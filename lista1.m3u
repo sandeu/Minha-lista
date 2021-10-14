@@ -320,6 +320,10 @@ https://serv1.videovox.pw/associacaodasentidades3493/associacaodasentidades3493/
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="BRASIL", SOU TV
+https:\u002F\u002Falanza.iptv2022.com\u002FSou_TV\u002Findex.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="BRASIL", TV BRAGA BRASIL
+https:\u002F\u002Falanza.iptv2022.com\u002FBraga_Brasil\u002Findex.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ORQjiJm.png" group-title="BRASIL", WEB TV TBO
 https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cC5Ueww.png" group-title="BRASIL",ASCAME
@@ -559,6 +563,10 @@ https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playl
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOg6I72.png" group-title="BRASIL", Q TAL CHANNEL
+https:\u002F\u002Falanza.iptv2022.com\u002FQTAL_Channel\u002Findex.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOg6I72.png" group-title="BRASIL", BLITS TV
+https:\u002F\u002Falanza.iptv2022.com\u002FBLITS_TV\u002Findex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="BRASIL",TRIBUNA REGIONAL WEB TV
 https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
