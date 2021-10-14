@@ -332,6 +332,8 @@ https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ORQjiJm.png" group-title="BRASIL", WEB TV TBO
 https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="BRASIL", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yLdIeqo.png" group-title="BRASIL", SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cC5Ueww.png" group-title="BRASIL",ASCAME
@@ -611,8 +613,6 @@ https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="BRASIL", TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LD5OFa1.png" group-title="BRASIL", SBC TV
 https://srv6.zcast.com.br/sbctv/sbctv/chunklist_w325526859.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/loqxKB9.png" group-title="BRASIL", TV PONTA DO SEIXAS
@@ -659,8 +659,6 @@ http://dag.total-stream.net/dag1.m3u8?sid=ret&cid=dai&auth=&auth=c3RpbWU9MTU4MDU
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jgZu5x9.png" group-title="BRASIL", REDE LIVE TV
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://imgur.com/DUn8zKS.png" group-title="BRASIL", SUMMER TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="BRASIL",FALA LITORAL WEB TV
 https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eTVcg0c.png" group-title="BRASIL", LIVRE TV
