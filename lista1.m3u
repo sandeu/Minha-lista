@@ -82,6 +82,8 @@ https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playli
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zfI4nbT.png" group-title="BRASIL",TVT
 https://dailymotionlive.akamaized.net/sec(hq_e0q5VHX_FvDCk_Uz4G4VeHi9oGTFH96xmputRk-w)/dm/3/x6ph7x7/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="BRASIL", TV COM DF
@@ -100,8 +102,6 @@ https://5a7d54e35f9d2.streamlock.net/z883-live/stream/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8lL90QK.png" group-title="BRASIL", REDE CIDADE RIO GRANDE
 https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H3khB62.png" group-title="BRASIL", TV RS CIDADES
-https://video01.kshost.com.br/angelo4200/angelo4200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV DF
@@ -703,8 +703,6 @@ https://livefocamundo.com:8081/tvurbana/index.m3u8
 https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS
-https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="BRASIL",TV CAMARA SP
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GbUvahh.png" group-title="BRASIL", TV ZOOM
