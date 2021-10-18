@@ -122,6 +122,8 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8
 https://stream.lives.srv.br/cornotv/cornotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rAFoxKB.png" group-title="MUSICA",PALESHOW TV
 https://srv5.zcast.com.br/benswoodly1260/benswoodly1260/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H3khB62.png" group-title="BRASIL", TV RS CIDADES
+https://video01.kshost.com.br/angelo4200/angelo4200/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ITKABM7.png" group-title="RELIGIOSO",TV FE BRASIL
 https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
