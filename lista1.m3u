@@ -205,7 +205,7 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
 https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
@@ -320,6 +320,8 @@ https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
 https://livefocamundo.com:8081/bs-tvonline/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
+https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
 https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
