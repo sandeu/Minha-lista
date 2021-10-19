@@ -103,6 +103,8 @@ http://video01.kshost.com.br/jorge7437/jorge7437/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/v2szfOP.png" group-title="BRASIL",TV AMERICA
 https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/84twyOQ.png" group-title="BRASIL",CINE TRIANON TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/04KQLZ6.png" group-title="ESPORTES", CANAL ESPORTES ONLINE
 https://stmv1.srvstm.com/josehenrique1615/josehenrique1615/playlist.m3u8
