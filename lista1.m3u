@@ -382,6 +382,8 @@ https://video01.logicahost.com.br/blitstv/blitstv/playlist.m3u8
 https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0AF7uLU.png" group-title="BRASIL",TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z78Y5m6.png" group-title="BRASIL", INTERIOR TV
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bOMkXtp.png" group-title="BRASIL",CREATIVE TV BRASIL
 https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cC5Ueww.png" group-title="BRASIL",ASCAME
