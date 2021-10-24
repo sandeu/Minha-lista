@@ -54,6 +54,8 @@ https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
+https://5a57bda70564a.streamlock.net/tvfmu/tvfmu.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kQh2rI7.png" group-title="BRASIL", TV NTV
@@ -242,6 +244,8 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BT3nlRN.png" group-title="BRASIL", A PLUS TV
+https://stmv1.srvif.com/aplus/aplus/chunklist_w966743469.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Plt53Lr.png" group-title="BRASIL",TV PIONEIRA
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
@@ -249,7 +253,7 @@ http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yLdIeqo.png" group-title="BRASIL", SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
-https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
+https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w218816122.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
