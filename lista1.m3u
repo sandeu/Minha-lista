@@ -8,6 +8,10 @@
 https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gogUKhE.png" group-title="BRASIL", TV GUARA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jmWibFt.png" group-title="BRASIL", TV DIVERSA
+https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IUhjJEM.png" group-title="BRASIL", TV CULTURA DO PARA
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="BRASIL",RTV CANAL 38
@@ -82,8 +86,6 @@ https://59f1cbe63db89.streamlock.net:1443/hotgarage/_definst_/hotgarage/playlist
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zfI4nbT.png" group-title="BRASIL",TVT
-https://dailymotionlive.akamaized.net/sec(hq_e0q5VHX_FvDCk_Uz4G4VeHi9oGTFH96xmputRk-w)/dm/3/x6ph7x7/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS
 https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
