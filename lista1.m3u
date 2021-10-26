@@ -935,6 +935,8 @@ http://canalpromessas.com.br/playlist.m3u8
 https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",CNT CURITIBA
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1ehbe5T.png" group-title="RELIGIOSO",REDE 21
+https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPMrWZZ.png" group-title="RELIGIOSO",IMPD TV
