@@ -80,6 +80,8 @@ https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/RMHTORJ.png" group-title="BRASIL", UNB TV
+https://eduplay-maestro.prd.apps.kloud.rnp.br/route/channel20376/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQuZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDIwMzc2L2luZGV4Lm0zdTg_eD0xJm09TjJQTWZaVHZXX29UOEk2ZnJTUmw0QQ&x=1&p=0&m=Z-BmlkjxvROk3HZahltcAQ
 #EXTINF: -1 tvg-logo="https://imgur.com/invvIxc.png" group-title="BRASIL", TVU ABC
 https://59f1cbe63db89.streamlock.net:1443/hotgarage/_definst_/hotgarage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QflEJQL.png" group-title="BRASIL", TV MACKENZIE
