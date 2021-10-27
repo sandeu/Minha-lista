@@ -955,6 +955,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D875yR1.png" group-title="RELIGIOSO", UNIMIDIA TV
+https://streaming03.zas.media:1936/advilamary/advilamary/chunklist_w1031062470.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
