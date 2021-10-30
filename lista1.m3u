@@ -156,6 +156,8 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VBovmsF.png" group-title="BRASIL",RECORD NEWS
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
