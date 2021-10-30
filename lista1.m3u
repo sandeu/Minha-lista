@@ -125,7 +125,7 @@ https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV MANAUS
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="BRASIL", RECORD TV ITAPOAN
-https://canal1.proxy.tokplay.com.br/streams/TV_ITAPOAN/auto.m3u8
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MacZ8xz.png" group-title="BRASIL", REDE TV
 https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TGVdBGB.png" group-title="BRASIL", REDE TV ES
