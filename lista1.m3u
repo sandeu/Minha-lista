@@ -159,7 +159,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VBovmsF.png" group-title="BRASIL",RECORD NEWS
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
-https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
@@ -372,6 +372,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JeE67DK.png" group-title="BRASIL", TV SUL DE MINAS
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w1029048575.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j26mDkh.png" group-title="BRASIL", POLIDORO TV
+https://alanza.iptv2022.com/TV_TEEN_NET_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
 https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="BRASIL", CANAL TV RIO
