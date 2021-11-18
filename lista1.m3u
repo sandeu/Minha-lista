@@ -985,6 +985,8 @@ https://stmv1.srvif.com/gmusic2/gmusic2/playlist.m3u8
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0jyD6Pt.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eZJCpsE.png" group-title="MUSICA", DATA CLIPE TV
+https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/evO7YEC.png" group-title="MUSICA", MASTER TV
 http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
