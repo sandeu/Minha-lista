@@ -422,7 +422,7 @@ https://livefocamundo.com:8081/ascametv/index.m3u8
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zV6zESO.png" group-title="BRASIL",TV RIO GRANDE
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/E5hrFEH.png" group-title="BRASIL", SBC TV
+#EXTINF: -1 tvg-logo="https://imgur.com/DSPDqAg.png" group-title="BRASIL", SBC TV
 https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4HsVInI.png" group-title="BRASIL", JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
