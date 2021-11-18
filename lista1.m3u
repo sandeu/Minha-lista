@@ -428,6 +428,8 @@ https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/YEZd3el.png" group-title="BRASIL", TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w102166008.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/DSPDqAg.png" group-title="BRASIL", SBC TV
+https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5f4Y8va.png" group-title="BRASIL", WEV TV BAMBAM NEWS
 https://stmv4.samcast.com.br/webradiotvandaluzia/webradiotvandaluzia/chunklist_w2215513.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JCPeNgg.png" group-title="BRASIL",TV SHOW DE BOLA
