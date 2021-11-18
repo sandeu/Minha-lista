@@ -162,6 +162,8 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sks0cne.png" group-title="BRASIL",TV LUZILANDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
@@ -192,6 +194,8 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
@@ -422,6 +426,8 @@ https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4HsVInI.png" group-title="BRASIL", JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/YEZd3el.png" group-title="BRASIL", TVR SUL
+https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w102166008.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5f4Y8va.png" group-title="BRASIL", WEV TV BAMBAM NEWS
 https://stmv4.samcast.com.br/webradiotvandaluzia/webradiotvandaluzia/chunklist_w2215513.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JCPeNgg.png" group-title="BRASIL",TV SHOW DE BOLA
@@ -651,8 +657,6 @@ https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ULrn9NY.png" group-title="BRASIL",ALL TV
 https://cdn.jmvstream.com/w/AVJ-9086/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
-https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LD5OFa1.png" group-title="BRASIL", SBC TV
 https://srv6.zcast.com.br/sbctv/sbctv/chunklist_w325526859.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/loqxKB9.png" group-title="BRASIL", TV PONTA DO SEIXAS
