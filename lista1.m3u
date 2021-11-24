@@ -262,12 +262,12 @@ https://alanza.iptv2022.com/CLC/index.m3u8
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nE1zpTV.png" group-title="BRASIL",METROPOLITANA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",METROPOLITANA TV
 https://video02.kshost.com.br/mg7964/mg7964/chunklist_w1147697630.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yLdIeqo.png" group-title="BRASIL", SUMMER TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
-https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w218816122.m3u8
+https://alanza.iptv2022.com/IMPERIAL_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
@@ -358,6 +358,14 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xlVxFTA.png" group-title="BRASIL", CARIRI TV
 https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="BRASIL", QUEENS UNITED TV
+https://alanza.iptv2022.com/QUEENS_UNITED_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m3D4pHW.png" group-title="BRASIL", TV AGORA PB
+https://alanza.iptv2022.com/TV_AGORA_PB/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MfJtdJD.png" group-title="BRASIL", OX TV
+https://alanza.iptv2022.com/OX_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LGPCkDC.png" group-title="BRASIL", TV PAJEU
+https://alanza.iptv2022.com/TV_PAJEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D1EcWQ4.png" group-title="BRASIL", TV CIDADE OESTE
 http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
 #EXTINF:-1 tvg-logo="https://imgur.com/PR9YodE.png" group-title="BRASIL",CANAL OITO
