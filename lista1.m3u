@@ -22,6 +22,8 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TPjz9Pi.png" group-title="BRASIL",TV FUTURO
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UASjtyo.png" group-title="BRASIL",TVC PANORAMA
+https://streaming03.zas.media:1936/panorama/panorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS
 https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
