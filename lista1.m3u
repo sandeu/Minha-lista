@@ -205,7 +205,7 @@ https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
-https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="BRASIL",AMAZON SAT
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
@@ -957,14 +957,14 @@ https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playli
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9B7zlVw.png" group-title="RELIGIOSO",TV CACHOEIRA
 http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS RJ
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qrCRI4S.png" group-title="RELIGIOSO",TV FELIZ
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bDH2RlM.png" group-title="RELIGIOSO",AE TV
