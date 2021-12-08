@@ -392,6 +392,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/UigBCMF.png" group-title="BRASIL",MULTITVA
+https://livefocamundo.com:8081/multitva/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mfr7xIc.png" group-title="BRASIL", TV OPCAO
 https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO
