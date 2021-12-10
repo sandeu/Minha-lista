@@ -8,8 +8,6 @@
 https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gogUKhE.png" group-title="BRASIL", TV GUARA
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jmWibFt.png" group-title="BRASIL", TV DIVERSA
-https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IUhjJEM.png" group-title="BRASIL", TV CULTURA DO PARA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
@@ -34,10 +32,10 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037585000
-#EXTINF:-1 tvg-logo="https://imgur.com/FUT5qyg.png" group-title="BRASIL",TV BRASIL 2
-http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jmWibFt.png" group-title="BRASIL", TV DIVERSA
+https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="BRASIL",TV DIARIO DO BRASIL TV PREVE
 https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=
 #EXTINF:-1 tvg-logo="https://imgur.com/aXkdEYu.png" group-title="BRASIL",REDE PAULISTA
@@ -277,8 +275,6 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
-https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JtyEQFk.png" group-title="BRASIL", MURILO TV
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist_w1176530441.m3u8
