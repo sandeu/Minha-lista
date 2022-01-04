@@ -500,6 +500,8 @@ https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w1879163375.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="BRASIL", ELEMENTAL CHANNEL
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
+https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Utpf9jc.png" group-title="BRASIL", GEG TV
 https://5c483b9d1019c.streamlock.net/8064/8064/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
@@ -597,9 +599,7 @@ https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BKQjRzC.png" group-title="BRASIL",TV MAIS NORDESTE
 https://5eaa6849d0971.streamlock.net/tvmaisnordestetv/tvmaisnordestetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV
-https://5ad482a77183d.streamlock.net/portaldailhagmail.com/portaldailhagmail.com/chunklist_w1003460354.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV LIVE
-https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.m3u8
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w674642574.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JTvEGuV.png" group-title="BRASIL",CANAL ITU TV
 http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m6RDJBZ.png" group-title="BRASIL",TV DIGITAL BIRIGUI
@@ -883,8 +883,10 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
+#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="AGRO",AGRO CANAL
 http://177.20.208.58:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/515701740208484488520921.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="AGRO",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
