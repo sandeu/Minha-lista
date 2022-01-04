@@ -209,7 +209,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w97015013.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
