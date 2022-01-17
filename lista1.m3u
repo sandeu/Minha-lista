@@ -214,6 +214,8 @@ https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w97015013.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FB0pCk7.png" group-title="BRASIL",TV WA
+https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
@@ -306,6 +308,8 @@ https://stmv1.srvif.com/unifm/unifm/chunklist_w454246940.m3u8
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
+https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
@@ -989,6 +993,8 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://novo.bitstreaming.info/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
 https://caikron.com.br:8082/tvmi/tvmi.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BvoOz3J.png" group-title="RELIGIOSO",TV EDUCAR
+https://alanza.iptv2022.com/TV_Educar/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
