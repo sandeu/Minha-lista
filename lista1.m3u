@@ -236,6 +236,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="BRASIL",ANIME ZONE TV
 https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://anitv.epizy.com/wp-content/uploads/2021/09/cropped-20210922_205846-205x64.png" group-title="BRASIL",ANI TV
+https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
