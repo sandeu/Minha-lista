@@ -238,8 +238,6 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://anitv.epizy.com/wp-content/uploads/2021/09/cropped-20210922_205846-205x64.png" group-title="BRASIL",ANI TV
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Refe92I.png" group-title="BRASIL",ON TV
-https://video01.kshost.com.br:4443/rodrigo1332/rodrigo1332/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
@@ -302,6 +300,8 @@ http://tvnatal.ddns.net:1935/vmix/myStream/playlist-480p.m3u8
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uvx107r.png" group-title="BRASIL", TV MANCHETE WEB
 https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist_w1399128122.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Refe92I.png" group-title="BRASIL",ON TV
+https://video01.kshost.com.br:4443/rodrigo1332/rodrigo1332/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist_w1176530441.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
