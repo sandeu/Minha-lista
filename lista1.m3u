@@ -236,6 +236,8 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V6FEaP5.png" group-title="BRASIL",ANIME STATION
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
 #EXTINF:-1 tvg-logo="https://anitv.epizy.com/wp-content/uploads/2021/09/cropped-20210922_205846-205x64.png" group-title="BRASIL",ANI TV
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
