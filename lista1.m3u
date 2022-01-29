@@ -396,6 +396,8 @@ https://livefocamundo.com:8081/tvaracati/index.m3u8
 https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV
 https://alanza.iptv2022.com/XTREMO_ORIENTAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AO3FRdb.png" group-title="BRASIL", TV ERGAOMNES
+http://tvergaomnes.duckdns.org:8080/hls/ergaomnes.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="BRASIL", QUEENS UNITED TV
 https://alanza.iptv2022.com/QUEENS_UNITED_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m3D4pHW.png" group-title="BRASIL", TV AGORA PB
