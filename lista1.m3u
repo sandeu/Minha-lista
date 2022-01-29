@@ -967,6 +967,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/r7NhYrZ.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xRYHymu.png" group-title="ESPORTES", LIFE ON THE EDGE
+https://spottvod-vh.akamaihd.net/i/hdflash/rlaxx/thrill_one/Youtube_TdcrEJt1CXQ_,high,premium,regular,.mp4.csmil/index_2_av.m3u8?cid=29842&mid=&ecid=1765186&pid=5&dtid=3&ident=187817824225&content=1095138&path=thrill_one/Youtube_TdcrEJt1CXQ&null=0
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING 2
