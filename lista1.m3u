@@ -236,10 +236,6 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hOq1f54.png" group-title="BRASIL",ANIME STATION
-https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="BRASIL",ANIME ZONE TV
-https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://anitv.epizy.com/wp-content/uploads/2021/09/cropped-20210922_205846-205x64.png" group-title="BRASIL",ANI TV
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
@@ -322,8 +318,6 @@ https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zmgvWXT.png" group-title="BRASIL",LATINA SAT
-https://stmv1.srvstm.com/joaomatheus8496/joaomatheus8496/chunklist_w706381250.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="BRASIL", ADESSO TV
@@ -365,7 +359,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1609421454.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE
-https://srv1.painelvideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w1436442418.m3u8
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w58842249.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KtwsBjH.png" group-title="BRASIL", SUL TV
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
