@@ -202,6 +202,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="BRASIL", CINDIE LITE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="BRASIL", CINDIE LITE
+https://stream.ads.ottera.tv/cl/ce64af69-94bc-4e14-9876-d09877f962ab/1280x720_3071200_0_false.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HXSN9Hu.png" group-title="BRASIL", NASHVILLE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="BRASIL",DEMAND AFRICA
@@ -1059,6 +1061,8 @@ https://stmv1.srvif.com/gmusic2/gmusic2/playlist.m3u8
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0jyD6Pt.png" group-title="MUSICA", TV ESTADO
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="MUSICA", APLUS TV
+https://stmv.webtv.vivavencendo.com/aplustv/aplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eZJCpsE.png" group-title="MUSICA", DATA CLIPE TV
 https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/evO7YEC.png" group-title="MUSICA", MASTER TV
