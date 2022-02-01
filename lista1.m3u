@@ -190,6 +190,8 @@ https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/21KaEUn.png" group-title="BRASIL",CANAL CURTA
+https://live.charlotteproducoes.com/hls/curta.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="BRASIL",SOUL CINE CLUBE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="BRASIL",DARKFLIX
@@ -628,6 +630,8 @@ https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O4ltrYZ.png" group-title="BRASIL",TV NOVA ONDA
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8gshl6A.png" group-title="BRASIL",TV ONDAS DE MARICA
+https://5d2c98775bafe.streamlock.net/portalondasdemaricatv/portalondasdemaricatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="BRASIL",REDE TV SUL
@@ -881,6 +885,8 @@ https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/canaldeprodutos/_definst_/canaldeprodutos/chunklist_w1395773383.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZllywoW.png" group-title="TELEVENDAS",ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 tvg-logo="https://imgur.com/qBsjZF4.jpg" group-title="DESENHOS", TELEANIMACION
