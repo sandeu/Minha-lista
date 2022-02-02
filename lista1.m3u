@@ -344,6 +344,8 @@ https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3962IMQ.png" group-title="BRASIL", HITS FM TV
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/OsG00db.png" group-title="BRASIL", ASTRAL TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="BRASIL", TV CEI
 https://stmv3.samcast.com.br/eduardo7982/eduardo7982/chunklist_w462813575.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q3uSpxL.png" group-title="BRASIL",TV SINGULAR
@@ -516,8 +518,6 @@ https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8064/8064/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ghdyjES.png" group-title="BRASIL", TV MAX 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/OsG00db.png" group-title="BRASIL", ASTRAL TV
-https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hr5dCWq.png" group-title="BRASIL",TV GRAMADO
@@ -883,6 +883,8 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6KoWUW.png" group-title="TELEVENDAS",CANAL DE PRODUTOS
 https://59f1cbe63db89.streamlock.net:1443/canaldeprodutos/_definst_/canaldeprodutos/chunklist_w1395773383.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZllywoW.png" group-title="TELEVENDAS",ZINZANE
