@@ -923,6 +923,8 @@ https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/chunklist_w727342101.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wF0PhMw.png" group-title="ESTUDIO FM", MASSA FM 
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
 https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
@@ -1143,6 +1145,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JdKGatq.png" group-title="MUSICA",MUNDO DE LA MUSICA TV
 https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pNZfxFI.png" group-title="MUSICA",RADIO BEST MUSIC 1
+https://tv.portalexpress.es:3468/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="MUSICA",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="MUSICA",TV MAXIMA
