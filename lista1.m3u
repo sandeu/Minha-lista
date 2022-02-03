@@ -1051,6 +1051,8 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Onprkf.png" group-title="RELIGIOSO",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DLhur8I.png" group-title="RELIGIOSO",TV MISSAO
+https://video01.kshost.com.br/paulo8859/paulo8859/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
