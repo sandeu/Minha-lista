@@ -885,6 +885,8 @@ https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oSYggYH.png" group-title="TELEVENDAS",WSN TV DO CARRO
+https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6KoWUW.png" group-title="TELEVENDAS",CANAL DE PRODUTOS
 https://59f1cbe63db89.streamlock.net:1443/canaldeprodutos/_definst_/canaldeprodutos/chunklist_w1395773383.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
