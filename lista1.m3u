@@ -310,6 +310,8 @@ https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist_w1399128122.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Refe92I.png" group-title="BRASIL",ON TV
 https://video01.kshost.com.br:4443/rodrigo1332/rodrigo1332/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UK2hmGn.png" group-title="BRASIL",TVS MARANHAO
+https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist_w1176530441.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
