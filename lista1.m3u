@@ -909,8 +909,6 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:-1 tvg-logo="https://imgur.com/qBsjZF4.jpg" group-title="DESENHOS", TELEANIMACION
-https://live.admefy.com/live/default/husky_harlequin_ef535.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQCAET1.jpg" group-title="DESENHOS", TELESUR COSTA RICA
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qTQehX.jpg" group-title="DESENHOS", KID CENTRAL
@@ -943,8 +941,6 @@ https://stmv6.srvstm.com/srpojk5/srpojk5/playlist.m3u8
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/chunklist_w727342101.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 http://rtmp.cdn.upx.net.br/00079/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wF0PhMw.png" group-title="ESTUDIO FM", MASSA FM 
-https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
 https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
@@ -1221,22 +1217,6 @@ https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-240p/chunks.m3u8?
 #EXTINF: -1 tvg-logo="https://imgur.com/4vMggOb.png" group-title="PORTUGAL", TDM - Teledifusão de Macau (PT)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3VITUUn.png" group-title="PORTUGAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/LzqmBLQ.png" group-title="PORTUGAL",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/PS4BvOZ.png" group-title="PORTUGAL",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://imgur.com/IqQSxc5.png" group-title="PORTUGAL",RTP INTERNACIONAL
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/RpEExkC.png" group-title="PORTUGAL",RTP MEMORIA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/NClRT5z.png" group-title="PORTUGAL",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/3cDYXmE.png" group-title="PORTUGAL",RTP ACORES
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8?pxt_rtp
-#EXTINF:-1 tvg-logo="https://imgur.com/XQcFVoD.png" group-title="PORTUGAL",RTP AFRICA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8?pxt_rtp
 #EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
