@@ -262,6 +262,14 @@ https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
 https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xu7Qnfy.png" group-title="BRASIL",JEANNIE E UM GENIO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ab6a80-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad9304b-c000-489a-bfe8-f5446689b1a3&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
+https:\/\/stmv1.srvif.com\/todomundoodeiaochris\/todomundoodeiaochris\/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
+https:\/\/stmv1.srvif.com\/tvsummaluconopedaco\/tvsummaluconopedaco\/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
@@ -310,7 +318,9 @@ https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist_w1399128122.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Refe92I.png" group-title="BRASIL",ON TV
 https://video01.kshost.com.br:4443/rodrigo1332/rodrigo1332/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UK2hmGn.png" group-title="BRASIL",TVS MARANHAO
+#EXTINF:-1 tvg-logo="https://imgur.com/2T8aqT6.png" group-title="BRASIL",TVS KIDS
+https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
 https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist_w1176530441.m3u8
@@ -336,8 +346,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8MpPp2E.png" group-title="BRASIL", TV GENIALL
 https://alanza.iptv2022.com/TV_GENIALL/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G0ePXs0.png" group-title="BRASIL", BONS TEMPOS TV
