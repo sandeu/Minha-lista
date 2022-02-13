@@ -265,9 +265,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d
 #EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
 https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
-https:\/\/stmv1.srvif.com\/todomundoodeiaochris\/todomundoodeiaochris\/playlist.m3u8
+https://stmv1.srvif.com/todomundoodeiaochris/todomundoodeiaochris/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
-https:\/\/stmv1.srvif.com\/tvsummaluconopedaco\/tvsummaluconopedaco\/playlist.m3u8
+https://stmv1.srvif.com/tvsummaluconopedaco/tvsummaluconopedaco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
