@@ -468,6 +468,8 @@ https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="BRASIL",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV LEGENDADO
