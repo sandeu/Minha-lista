@@ -240,7 +240,7 @@ https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V6FEaP5.png" group-title="BRASIL",ANIME STATION
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
-#EXTINF:-1 tvg-logo="https://anitv.epizy.com/wp-content/uploads/2021/09/cropped-20210922_205846-205x64.png" group-title="BRASIL",ANI TV
+#EXTINF:-1 tvg-logo="https://imgur.com/dFT7EiM.png" group-title="BRASIL",ANI TV
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2T8aqT6.png" group-title="BRASIL",TVS KIDS
 https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
@@ -903,6 +903,8 @@ https://video01.kshost.com.br:4443/webseminovos5853/webseminovos5853/playlist.m3
 https://59f1cbe63db89.streamlock.net:1443/canaldeprodutos/_definst_/canaldeprodutos/chunklist_w1395773383.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dFT7EiM.png" group-title="TELEVENDAS",COMPRE ABC WEB TV 
+https://stmv3.samcast.com.br/zuleica8933/zuleica8933/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZllywoW.png" group-title="TELEVENDAS",ZINZANE
