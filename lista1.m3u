@@ -418,6 +418,8 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xlVxFTA.png" group-title="BRASIL", CARIRI TV
 https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/f3G8W7B.png" group-title="BRASIL", TV NOVA ESPERANCA
+https:\u002F\u002Falanza.iptv2022.com\u002Ftv_nova_esperanca\u002Findex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV
 https://alanza.iptv2022.com/XTREMO_ORIENTAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AO3FRdb.png" group-title="BRASIL", TV ERGAOMNES
