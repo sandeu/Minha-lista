@@ -77,7 +77,7 @@ http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RMHTORJ.png" group-title="BRASIL", UNB TV
-https://edge-go-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(uN0ECskIqWEVxMYs_ZcEww)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGCSgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuwfe_5dIV_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAy8f-EYgCKizQWDkqEj_vvPs9WDOG8R_NZU1Zd9gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7t0vuMrCiaA)))/live_1080_index.m3u8
+https://maestro-prd-nh.eduplay.rnp.br/route/channel20376/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDIwMzc2L2luZGV4Lm0zdTg_eD0xJm09bE1zM2dwNmg0bTl6a2FTb3FCREc5UQ&x=1&p=0&m=KKQpoaZ5kJk7ngAnf69PhQ
 #EXTINF: -1 tvg-logo="https://imgur.com/invvIxc.png" group-title="BRASIL", TVU ABC
 https://59f1cbe63db89.streamlock.net:1443/hotgarage/_definst_/hotgarage/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/QBH2FuC.png" group-title="BRASIL", TV OTIMISTA
