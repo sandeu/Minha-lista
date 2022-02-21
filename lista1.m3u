@@ -334,6 +334,8 @@ https://stmv1.srvif.com/unifm/unifm/chunklist_w454246940.m3u8
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jJDBq4K.png" group-title="BRASIL",TV NOVA FASE
+https://stmv6.samcast.com.br/lucascardosodasilva8329/lucascardosodasilva8329/chunklist_w67715956.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
 https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
