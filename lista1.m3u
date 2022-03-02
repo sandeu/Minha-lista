@@ -370,6 +370,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/690916p.png" group-title="BRASIL",TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV
+https://stmv5.samcast.com.br/paulo2703/paulo2703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV
@@ -422,6 +424,8 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/s8Zzi95.png" group-title="BRASIL", TV JA
+https://srv4.zcast.com.br/josineide7801/josineide7801/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEJIDci.png" group-title="BRASIL",TV WEB SUL BAHIA
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BBAP2fL.png" group-title="BRASIL",TV NORDESTE
