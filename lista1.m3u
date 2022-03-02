@@ -312,6 +312,8 @@ https://livefocamundo.com:8081/tvpioneira/index.m3u8
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
+https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
