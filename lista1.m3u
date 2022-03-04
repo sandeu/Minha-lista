@@ -1180,7 +1180,11 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="MUSICA", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mtd2H3X.png" group-title="MUSICA", QWEST JAZZ TV
-https://qwest-jazz-samsungbrazil.amagi.tv/playlist.m3u8
+https://qwestjazz-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mtd2H3X.png" group-title="MUSICA", QWEST MIX TV
+https://qwestmix-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mtd2H3X.png" group-title="MUSICA", QWEST CLASSIC TV
+https://qwestclassic-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
