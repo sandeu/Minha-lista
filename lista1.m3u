@@ -314,6 +314,8 @@ https://livefocamundo.com:8081/tvpioneira/index.m3u8
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U3qnBkb.png" group-title="BRASIL",TIB TV
+https://stmv3.voxtvhd.com.br/stib/stib/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
 https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
@@ -428,6 +430,8 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Ekiq0rC.png" group-title="BRASIL", AVANT TV
+https://video01.logicahost.com.br/tvavant/tvavant/chunklist_w1328767658.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/s8Zzi95.png" group-title="BRASIL", TV JA
 https://srv4.zcast.com.br/josineide7801/josineide7801/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEJIDci.png" group-title="BRASIL",TV WEB SUL BAHIA
