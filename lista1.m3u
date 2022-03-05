@@ -442,6 +442,8 @@ https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OyALnnm.png" group-title="BRASIL", TV ARACATI
 https://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eojEazF.png" group-title="BRASIL", TV SUL CARIRI
+https://5a2b083e9f360.streamlock.net/tsctv/tsctv.sdp/chunklist_w273992529.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xlVxFTA.png" group-title="BRASIL", CARIRI TV
 https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f3G8W7B.png" group-title="BRASIL", TV NOVA ESPERANCA
