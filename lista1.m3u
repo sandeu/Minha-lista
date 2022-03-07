@@ -254,10 +254,40 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab2100080
 https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
 https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/9dVDOr4.png" group-title="BRASIL", FLINSTONES
+http://pfsv.io:80/casoxyzmo/677586789/43900
+#EXTINF: -1 tvg-logo="https://imgur.com/M3Km40X.png" group-title="BRASIL", HERCULOIDES
+http://pfsv.io:80/casoxyzmo/677586789/106821
+#EXTINF: -1 tvg-logo="https://imgur.com/BaC587k.png" group-title="BRASIL", CORRIDA MALUCA
+http://pfsv.io:80/casoxyzmo/677586789/106597
+#EXTINF: -1 tvg-logo="https://imgur.com/bvcZGkL.png" group-title="BRASIL", MANDA CHUVA
+http://pfsv.io:80/casoxyzmo/677586789/106491
+#EXTINF: -1 tvg-logo="https://imgur.com/XEJ1NKc.png" group-title="BRASIL", A FAMILIA ADDAMS
+http://pfsv.io:80/casoxyzmo/677586789/106473
+#EXTINF: -1 tvg-logo="https://imgur.com/odWO2gl.png" group-title="BRASIL", THE ARCHIE SHOW
+http://pfsv.io:80/casoxyzmo/677586789/107087
+#EXTINF: -1 tvg-logo="https://imgur.com/cTQOtJ0.png" group-title="BRASIL", HE MAN
+http://pfsv.io:80/casoxyzmo/677586789/106740
+#EXTINF: -1 tvg-logo="https://imgur.com/xmw4LAO.png" group-title="BRASIL", JONNY QUEST
+http://pfsv.io:80/casoxyzmo/677586789/109542
+#EXTINF: -1 tvg-logo="https://imgur.com/Fl0dtxT.png" group-title="BRASIL", PICA PAU
+http://pfsv.io:80/casoxyzmo/677586789/106848
+#EXTINF: -1 tvg-logo="https://imgur.com/HuSNNog.png" group-title="BRASIL", TOM E JERRY
+http://pfsv.io:80/casoxyzmo/677586789/107058
+#EXTINF: -1 tvg-logo="https://imgur.com/IH9pVTq.png" group-title="BRASIL", THUNDERCATS
+http://pfsv.io:80/casoxyzmo/677586789/43919
+#EXTINF: -1 tvg-logo="https://imgur.com/JMHNgKB.png" group-title="BRASIL", CAVERNA DO DRAGAO
+http://pfsv.io:80/casoxyzmo/677586789/43863
+#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
+http://pfsv.io:80/casoxyzmo/677586789/43917
+#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
+http://pfsv.io:80/casoxyzmo/677586789/106571
+#EXTINF: -1 tvg-logo="https://imgur.com/KwplEXI.png" group-title="BRASIL", BATMAN
+http://pfsv.io:80/casoxyzmo/677586789/106574
 #EXTINF:-1 tvg-logo="https://imgur.com/bAEj2Jc.png" group-title="BRASIL",RETRO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
