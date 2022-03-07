@@ -4,11 +4,19 @@
 
 
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/herculoidestv/herculoidestv/playlist.m3u8
+https://stmv1.srvif.com/herculoides/herculoides/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/osherculoidestv/osherculoidestv/playlist.m3u8
+https://stmv1.srvif.com/flinstonestv/flinstonestv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/osherculoides/osherculoides/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/osflinstonestv/osflinstonestv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/flinstones/flinstones/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
+https://stmv1.srvif.com/simpsonstv/simpsonstv/playlist.m3u8
 
 
 
