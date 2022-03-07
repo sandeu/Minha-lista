@@ -3,11 +3,15 @@
 
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda_chuva TV
-https://stmv1.srvif.com/aturmadomandachuvatv/aturmadomandachuvatv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", superman TV
+http://pfsv.io:80/casoxyzmo/677586789/106571
+
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", superman TV
+http://pfsv.io:80/casoxyzmo/677586789/106571/playlist.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda_chuva TV
-https://stmv1.srvif.com/a_turma_do_manda_chuva_tv/a_turma_do_manda_chuva_tv/playlist.m3u8
+https://stmv1.srvif.com/106571/106571/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda chuva TV
