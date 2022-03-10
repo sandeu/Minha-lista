@@ -1097,6 +1097,14 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkcsVlD.png" group-title="ESPORTES", TELETRACK 
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bSjSinV.png" group-title="ESPORTES", CANELA SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 tvg-logo="https://imgur.com/NJ9rrLf.png" group-title="ESPORTES",BEIN SPORTS XTRA N
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=739
+#EXTINF:-1 tvg-logo="https://imgur.com/NJ9rrLf.png" group-title="ESPORTES",BEIN SPORTS XTRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=736
+#EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="ESPORTES",COMBATE GLOBAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ikedHwg.png" group-title="RELIGIOSO", TV GERMANA
