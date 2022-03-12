@@ -3,36 +3,6 @@
 
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", superman TV
-http://pfsv.io:80/casoxyzmo/677586789/106571
-
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", superman TV
-http://pfsv.io:80/casoxyzmo/677586789/106571/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda_chuva TV
-https://stmv1.srvif.com/106571/106571/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda chuva TV
-https://stmv1.srvif.com/turmadomandachuvatv/turmadomandachuvatv/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", manda chuva TV
-https://stmv1.srvif.com/turma_do_manda_chuva_tv/turma_do_manda_chuva_tv/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/tvserie8/tvserie8/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/bobesponjatv/bobesponjatv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/saventurasdobatmantv/aventurasdobatmantv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/aventurasdobatman/aventurasdobatman/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://nxplay.com.br/assets/images/logo_white.png" group-title="NXPLAY",NICK JR
 https://origin-02.nxplay.com.br/NICK_JR_BR_HD_NXPLAY/tracks-v1a1a2/mono.m3u8
 
