@@ -190,6 +190,8 @@ https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5DGFld7.png" group-title="BRASIL",CHEF TV
+http://pfsv.io:80/casoxyzmo/677586789/69079
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",TV MAIS FAMILIA
 https://video01.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
@@ -963,6 +965,8 @@ http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g38pM7D.png" group-title="BRASIL",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lsehJuT.png" group-title="TELEVENDAS",POLISHOP
+http://pfsv.io:80/casoxyzmo/677586789/124
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-9028/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oSYggYH.png" group-title="TELEVENDAS",WSN TV DO CARRO
@@ -1141,6 +1145,8 @@ https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playli
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9B7zlVw.png" group-title="RELIGIOSO",TV CACHOEIRA
 http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yClx7yE.png" group-title="RELIGIOSO",RIT TV
+http://pfsv.io:80/casoxyzmo/677586789/549
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
