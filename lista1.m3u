@@ -1233,6 +1233,10 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCT8vv1.png" group-title="MUSICA", TV ALVORADA SERTANEJA
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST CLASSIC
+https://qwest-classic-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
+https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="MUSICA", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
@@ -1354,7 +1358,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d00073
 #EXTINF:-1 tvg-logo="https://imgur.com/IuQh1ps.png" group-title="INTERNET",THE PET COLECTIVE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="INTERNET",CHIVE TV
-https://chivetv-localnow.amagi.tv/master.m3u8
+https://atmosphere-chivetv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV ESPANHOL
