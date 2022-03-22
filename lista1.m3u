@@ -397,7 +397,7 @@ https://srv2.zcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4gBJJz.png" group-title="BRASIL", UNI WEB TV
 https://stmv1.srvif.com/unifm/unifm/chunklist_w454246940.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+https://video01.logicahost.com.br/canal29/canal29/chunklist_w2069581327.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jJDBq4K.png" group-title="BRASIL",TV NOVA FASE
