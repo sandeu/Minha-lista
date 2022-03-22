@@ -1381,5 +1381,5 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zXBoJpY.png" group-title="NOVELAS",LA OTRA CARA DE ALMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21958380-93f5-11ec-ab73-fd47105d8403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10215055-0205-4bf1-8216-e22cf1cad615&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/uEQVNZ0.png" group-title="NOVELAS",NOVELISSIMA
+#EXTINF:-1 tvg-logo="https://imgur.com/uEQVNZ0.png" group-title="NOVELAS", NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
