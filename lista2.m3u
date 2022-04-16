@@ -208,5 +208,33 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 https://5eaa6849d0971.streamlock.net/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hGdGfiK.png" group-title="BRASIL",FLORIPA TV
 https://content.jwplatform.com/manifests/t5SX9Xbb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/epEvQuS.png" group-title="ESTUDIO FM",RADIO LIDER FM 
+https://59e4b6c1beddc.streamlock.net/8216/8216/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Tc206KL.png" group-title="ESTUDIO FM", MAGIC BOX RADIO WEB
+https://serv3.videovox.pw/magicbox2021/magicbox2021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E3RliNT.png" group-title="ESTUDIO FM", RADIO DIARIO MACAPA
+https://livefocamundo.com:8081/tvdiariomacapa/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b0xzYdU.png" group-title="ESTUDIO FM", RADIO DIFUSORA
+https://hls.brasilstream.com.br/live/difusorafm/difusorafm/rewind-7200.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jdZfDKb.png" group-title="ESTUDIO FM", 40 GRAUS FM
+https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vn8tPtT.png" group-title="ESPORTES", BFM SPORT
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/53j1ssl.png" group-title="RELIGIOSO", TV GOSPEL LOUVORES
+https://srv4.zcast.com.br/tvgospel/tvgospel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bDH2RlM.png" group-title="RELIGIOSO",AE TV
+https://stmv2.vhcast.com/aetv/aetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
+http://canalpromessas.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DLhur8I.png" group-title="RELIGIOSO",TV MISSAO
+https://video01.kshost.com.br/paulo8859/paulo8859/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9LiOudv.png" group-title="RELIGIOSO", TV CEVE
+https://596639ebdd89b.streamlock.net:443/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
+https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 
 
