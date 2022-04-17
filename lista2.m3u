@@ -227,4 +227,36 @@ https://596639ebdd89b.streamlock.net:443/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m1HP8GW.png" group-title="RELIGIOSO",TV AVIVANDO NACOES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="MUSICA", APLUS TV
+https://stmv.webtv.vivavencendo.com/aplustv/aplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/evO7YEC.png" group-title="MUSICA", MASTER TV
+http://live.master.tv.br:1935/mastertvsd/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/A5HTdgS.png" group-title="MUSICA",RCK TV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PTny51q.png" group-title="MUSICA",XTV MUSIC
+https://tls-cl.cdnz.cl/xtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sgXrsK1.png" group-title="MUSICA",RADIO FRECCIA
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uG6Wmfv.png" group-title="MUSICA",RADIO 21
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JdKGatq.png" group-title="MUSICA",MUNDO DE LA MUSICA TV
+https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pNZfxFI.png" group-title="MUSICA",RADIO BEST MUSIC 1
+https://tv.portalexpress.es:3468/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WKjt0cj.png" group-title="MUSICA",MELODY CHANNEL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="MUSICA",TV MAXIMA
+https://tvdatta.com:3279/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="MUSICA",TV 538
+https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="MUSICA",RU TV
+https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="MUSICA", LFM TV
+https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oiIDKRT.png" group-title="MUSICA",CLASSIC ARTS SHOWCASE
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/G9DSDgW.png" group-title="PORTUGAL",SOBRENATURAL TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XVVdXeZ.png" group-title="PORTUGAL",TV FATIMA
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
