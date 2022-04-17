@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/GnNfErN.png" group-title="BRASIL",RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV 
@@ -25,14 +26,6 @@ https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/21KaEUn.png" group-title="BRASIL",CANAL CURTA  fora do ar
 https://live.charlotteproducoes.com/hls/curta.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="BRASIL",SOUL CINE CLUBE   fora do ar
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="BRASIL",DARKFLIX  fora do ar
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="BRASIL",RUN TIME  fora do ar
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KlBTxwj.png" group-title="BRASIL",SOL BRASIL  fora do ar
-https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mpNEidr.png" group-title="BRASIL",AMAZON SAT   fora do ar
 https://hls.brasilstream.com.br/live/amazonsat/amazonsat/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8ZlIniM.png" group-title="BRASIL",WEB TV CLASSICOS DO CINEMA fora do ar
@@ -59,8 +52,6 @@ https://video01.logicahost.com.br/tvrecreio/tvrecreio/chunklist_w289775251.m3u8
 https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f3G8W7B.png" group-title="BRASIL", TV NOVA ESPERANCA   fora do ar
 https:\u002F\u002Falanza.iptv2022.com\u002Ftv_nova_esperanca\u002Findex.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV    fora do ar
-https://alanza.iptv2022.com/XTREMO_ORIENTAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PR9YodE.png" group-title="BRASIL",CANAL OITO    fora do ar
 https://serv1.videovox.pw/associacaodasentidades3493/associacaodasentidades3493/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVukprV.png" group-title="BRASIL", VV8 TV   fora do ar
@@ -88,8 +79,6 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w19303070
 https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DSPDqAg.png" group-title="BRASIL", SBC TV
 https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS
-https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nbkTixk.png" group-title="BRASIL", TV RIO WEB
 https://stmv1.samcast.com.br/augusto1982/augusto1982/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrISXdP.png" group-title="BRASIL", TV REDE GAMA
@@ -216,8 +205,6 @@ https://video01.kshost.com.br/tmc4216/tmc4216/playlist.m3u8
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/53j1ssl.png" group-title="RELIGIOSO", TV GOSPEL LOUVORES
 https://srv4.zcast.com.br/tvgospel/tvgospel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bDH2RlM.png" group-title="RELIGIOSO",AE TV
 https://stmv2.vhcast.com/aetv/aetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DLhur8I.png" group-title="RELIGIOSO",TV MISSAO
