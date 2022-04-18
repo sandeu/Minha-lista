@@ -334,6 +334,8 @@ https://alanza.iptv2022.com/OX_TV/index.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="BRASIL", APLUS TV
 https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w1399199625.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4IXIum.png" group-title="BRASIL",TV GRANDE REDE
