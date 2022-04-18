@@ -62,15 +62,11 @@ https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/p6IYTn2.png" group-title="BRASIL", WEB TV CIDADE     fora do ar
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE   fora do ar
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/2lArjSq.png" group-title="BRASIL", EMPRESARIOS DE SUCESSO TV     fora do ar
 https://liveempresarios.viaativa.com:8845/live/0tZ9iTAIg/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="BRASIL", TV CORDEIRO      fora do ar
 https://stmv1.vhcast.com/tvcordeiro/tvcordeiro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="BRASIL",TV CLUBE WEB
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z78Y5m6.png" group-title="BRASIL", INTERIOR TV
@@ -101,8 +97,6 @@ https://stmv3.samcast.com.br/ilhabelatv/ilhabelatv/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8046/8046/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HF4nWl1.png" group-title="BRASIL", TV ACE
 https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
-http://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="BRASIL", TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
