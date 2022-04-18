@@ -470,6 +470,8 @@ https://video01.logicahost.com.br/cariritv/cariritv/chunklist_w2877231041.m3u8
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
+https://video01.kshost.com.br:4443/elton3601/elton3601/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
 https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1756809424.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lL37SK9.png" group-title="BRASIL",TV FENIX BAHIA
