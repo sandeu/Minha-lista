@@ -400,6 +400,8 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/00lvCsw.png" group-title="BRASIL",REDE SERRA
 https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/chunklist_w284824791.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NaxKvXA.png" group-title="BRASIL",AMERICA TV
+https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV 
 https://stmv5.samcast.com.br/paulo2703/paulo2703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
