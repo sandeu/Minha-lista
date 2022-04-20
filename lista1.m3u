@@ -864,19 +864,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b4
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
-https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+http://pfsv.io:80/casoxyzmo/677586789/81
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="AGRO",AGRO CANAL
 http://177.20.208.58:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
-https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/515701740208484488520921.m3u8
+http://pfsv.io:80/casoxyzmo/677586789/50877
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="AGRO",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+http://pfsv.io:80/casoxyzmo/677586789/88
 #EXTINF:-1 tvg-logo="https://imgur.com/TI2rPBh.png" group-title="AGRO",AGRO MAIS
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+http://pfsv.io:80/casoxyzmo/677586789/109512
 #EXTINF:-1 tvg-logo="https://imgur.com/CTr2bUc.png" group-title="ESTUDIO FM", 98 LIVE
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
