@@ -731,6 +731,8 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 https://5829cb6b64c3c.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UfbTKUx.png" group-title="BRASIL",CANAL 7
 http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FI5h4u5.png" group-title="BRASIL",TV PORTAL WEB
+https://stmv2.samcast.com.br/mauro4310/mauro4310/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qupN7JL.png" group-title="BRASIL",TV CIDADE TIRADENTES
 https://novo.bitstreaming.info:443/8284/8284/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z3bRtcM.png" group-title="BRASIL",TV INTERLAGOS
