@@ -407,7 +407,7 @@ https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a9dR9dX.png" group-title="BRASIL",CARAVELAS TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist_w1022983116.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV 
-https://stmv5.samcast.com.br/paulo2703/paulo2703/playlist.m3u8
+https://stmv2.samcast.com.br/paulo1027/paulo1027/chunklist_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3962IMQ.png" group-title="BRASIL", HITS FM TV
@@ -706,7 +706,7 @@ https://livefocamundo.com:8081/tvcnb/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eCMeuc4.png" group-title="BRASIL", TV CNB AMERICAN
 https://livefocamundo.com:8081/tvcnbamerican/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="BRASIL", TV CANDIDES
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kJ23Q0c.png" group-title="BRASIL",ABC TV
 https://stmv1.srvstm.com/sedenir6946/sedenir6946/chunklist_w426625420.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WgtkCkp.png" group-title="BRASIL", TV CARAGUA
