@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GnNfErN.png" group-title="BRASIL",RTV CANAL 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
-http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="BRASIL",UNISUL TV 
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8?token=8525688422037585000
 #EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="BRASIL",TV DIARIO DO BRASIL TV PREVE   fora do ar
@@ -36,8 +34,6 @@ https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yLdIeqo.png" group-title="BRASIL", SUMMER TV   fora do ar
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS   fora do ar
-https://stmv1.srvstm.com/jorgeandresilva1366/jorgeandresilva1366/chunklist_w841259805.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV   fora do ar
 https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/BZroGGz.png" group-title="BRASIL", CANAL TV GO  fora do ar
