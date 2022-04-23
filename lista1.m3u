@@ -103,7 +103,7 @@ https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8lL90QK.png" group-title="BRASIL", REDE CIDADE RIO GRANDE
 https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8|User-agent=Windows NT 10.
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND MINAS
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
@@ -132,6 +132,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mjWgar8.png" group-title="BRASIL", RECORD TV
+https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="BRASIL", NDTV
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GpcpIO0.png" group-title="BRASIL", TV CONQUISTA
@@ -178,7 +180,7 @@ http://pfsv.io:80/casoxyzmo/677586789/69079
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
 http://tca.tv.br/media/n/BZi1nZuZy2GXmdaYotG1/a/playlist.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDkwMTA1ODksInN1YiI6ImRlZmF1bHQjMTYzMzcyMzc3MSIsImV4cCI6MTY1MTE1ODA3Mn0.A-DEBpMG2eMaH0bCwlOUS8oUF_Wf7SvT3lDYgg9eP0Y
-#EXTINF:-1 tvg-logo="https://imgur.com/4uuluOT.png" group-title="BRASIL",REDE AMERICA
+#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="BRASIL",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -256,6 +258,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab2100080
 https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
 https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="BRASIL",URBAN KIDS
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON 2
@@ -298,6 +302,8 @@ http://pfsv.io:80/casoxyzmo/677586789/111953
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIC TV SERIES
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tgZebrp.png" group-title="BRASIL",URBAN SERIES
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
@@ -1164,6 +1170,8 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JdKGatq.png" group-title="MUSICA",MUNDO DE LA MUSICA TV
 https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w879483746.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dRT5hlk.png" group-title="MUSICA",AFROBEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JJ8dbcY.png" group-title="MUSICA",RADIO ITALIA TV
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QRmASnS.png" group-title="MUSICA",1 MUZ
