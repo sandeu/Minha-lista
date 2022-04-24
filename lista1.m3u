@@ -166,6 +166,8 @@ https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.
 https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay
+#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ER59Y57.png" group-title="BRASIL", REDE BRASIL TV
