@@ -494,6 +494,8 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vGQMrFJ.png" group-title="BRASIL",NOVA TV MATOPIBA
+https://alanza.iptv2022.com/NOVA_TV_MATOPIBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ekiq0rC.png" group-title="BRASIL", AVANT TV
