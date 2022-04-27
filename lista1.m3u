@@ -520,6 +520,8 @@ https://alanza.iptv2022.com/TV_CARIRI_BRISANET/index.m3u8
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
+https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
 https://video01.kshost.com.br:4443/elton3601/elton3601/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
