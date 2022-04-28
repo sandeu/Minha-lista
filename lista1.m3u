@@ -392,16 +392,18 @@ https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w1399199625.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZCxSWFt.png" group-title="BRASIL",TV METROPOLITANA
+https://alanza.iptv2022.com/vmetropolitana/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4IXIum.png" group-title="BRASIL",TV GRANDE REDE
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U3qnBkb.png" group-title="BRASIL",TIB TV
 https://stmv3.voxtvhd.com.br/stib/stib/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="BRASIL",TV FRONTEIRA CHANNEL
-https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
 https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="BRASIL",TV FRONTEIRA CHANNEL
+https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
@@ -539,7 +541,7 @@ https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
-https://video01.kshost.com.br:4443/elton3601/elton3601/playlist.m3u8
+https://alanza.iptv2022.com/Folha_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
 https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1756809424.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lL37SK9.png" group-title="BRASIL",TV FENIX BAHIA
