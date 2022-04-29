@@ -540,6 +540,8 @@ https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
 https://alanza.iptv2022.com/Folha_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
@@ -556,6 +558,8 @@ https://cdn.jmvstream.com/w/AVJ-10738/playlist/chunklist.m3u8
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hI0sRVs.png" group-title="BRASIL", TV CAXIAS
 https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/45mOvSw.png" group-title="BRASIL", RG TV
+https://stmv2.samcast.com.br/italo8170/italo8170/chunklist_w373081954.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV 
 http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AO3FRdb.png" group-title="BRASIL", TV ERGAOMNES
