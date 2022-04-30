@@ -12,6 +12,8 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE 2
@@ -66,6 +68,8 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GPp66Yw.png" group-title="BRASIL",TV ATIVIDADE
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE
+https://livefocamundo.com:8081/tvvale/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="BRASIL",TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="BRASIL",TV GAZETA NORTE MINEIRA
@@ -170,8 +174,6 @@ https://canal1.proxy.tokplay.com.br/streams/GAZETA/auto.m3u8
 https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
 https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tsmB4nl.png" group-title="BRASIL", TV CERRADO
 https://alanza.iptv2022.com/tv_cerrado/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
@@ -192,8 +194,6 @@ http://pfsv.io:80/casoxyzmo/677586789/69079
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
 http://tca.tv.br/media/n/BZi1nZuZy2GXmdaYotG1/a/playlist.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDkwMTA1ODksInN1YiI6ImRlZmF1bHQjMTYzMzcyMzc3MSIsImV4cCI6MTY1MTE1ODA3Mn0.A-DEBpMG2eMaH0bCwlOUS8oUF_Wf7SvT3lDYgg9eP0Y
-#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="BRASIL",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="BRASIL", DARK MATTER
@@ -540,8 +540,6 @@ https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF: -1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="BRASIL", TV A FOLHA
 https://alanza.iptv2022.com/Folha_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
@@ -550,8 +548,6 @@ https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1756809424.m
 https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/chunklist_w511733517.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YMiXZkT.png" group-title="BRASIL",TV CHAPADA
 https://tvchapada.proxy.tokplay.com.br/main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE
-https://livefocamundo.com:8081/tvvale/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ORQjiJm.png" group-title="BRASIL", WEB TV TBO
 https://cdn.jmvstream.com/w/AVJ-10738/playlist/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
