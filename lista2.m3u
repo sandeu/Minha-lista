@@ -1,10 +1,6 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GnNfErN.png" group-title="BRASIL",RTV CANAL 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
