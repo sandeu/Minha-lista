@@ -998,6 +998,10 @@ https://5ad482a77183d.streamlock.net/gustavo.vieiradubbox.com.br/gustavo.vieirad
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 http://rtmp.cdn.upx.net.br/00079/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
+https://live.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
 https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
