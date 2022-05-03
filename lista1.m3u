@@ -476,6 +476,8 @@ https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist_w1022983116.m3u8
 https://stmv2.samcast.com.br/paulo1027/paulo1027/chunklist_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NrEg3Ao.png" group-title="BRASIL",REDE TV MAIS
+https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3962IMQ.png" group-title="BRASIL", HITS FM TV
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/OsG00db.png" group-title="BRASIL", ASTRAL TV
