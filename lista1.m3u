@@ -140,10 +140,8 @@ https://alanza.iptv2022.com/TVPAMPA-ptbr/index.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mjWgar8.png" group-title="BRASIL", RECORD TV
-https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="BRASIL", NDTV
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GpcpIO0.png" group-title="BRASIL", TV CONQUISTA
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="BRASIL", RECORD TV AMPLITUDE JUARA
