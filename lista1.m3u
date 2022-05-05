@@ -582,6 +582,8 @@ https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RD87W1Y.png" group-title="BRASIL", TV VALE DO GRAVATAI
 https://cdn.jmvstream.com/w/AVJ-9172/playlist/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/AIHLxgZ.png" group-title="BRASIL", TV CEASA
+https://5c483b9d1019c.streamlock.net/8174/8174/chunklist_w1268169323.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/45mOvSw.png" group-title="BRASIL", RG TV
 https://stmv2.samcast.com.br/italo8170/italo8170/chunklist_w373081954.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV 
