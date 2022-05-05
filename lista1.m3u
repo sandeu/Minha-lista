@@ -400,6 +400,8 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="BRASIL", TV MEU XODO
 https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZCxSWFt.png" group-title="BRASIL",TV METROPOLITANA
 https://alanza.iptv2022.com/vmetropolitana/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="BRASIL", CLUBE WEB TV
@@ -898,6 +900,14 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uo24jMo.png" group-title="BRASIL", VALE TV PLAY
 https://cdn-valetv.ciclano.io:1443/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MVukprV.png" group-title="BRASIL", VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL", TENDA TV
 https://stmv1.srvstm.com/9696/9696/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
