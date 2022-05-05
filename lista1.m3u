@@ -654,6 +654,8 @@ https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w102166008.m3u8
 https://stmv4.samcast.com.br/webradiotvandaluzia/webradiotvandaluzia/chunklist_w2215513.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JCPeNgg.png" group-title="BRASIL",TV SHOW DE BOLA
 https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/GwgDwQm.png" group-title="BRASIL", TV DIVERSIDADE
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7J9mnYh.png" group-title="BRASIL", TV CARAVELAS
 https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/chunklist_w968640681.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV 
@@ -1180,6 +1182,10 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="MUSICA",GOSTEI GOSPEL TV
+https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_w1037955183.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="MUSICA",GOSTEI POP TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w986822312.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4EVG4OV.png" group-title="MUSICA", TV 019
 https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w1139996119.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o9LgTUF.png" group-title="MUSICA", TOP TV
