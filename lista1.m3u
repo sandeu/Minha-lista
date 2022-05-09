@@ -195,7 +195,7 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/red
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
-http://tca.tv.br/media/n/BZi1nZuZy2GXmdaYotG1/a/playlist.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDkwMTA1ODksInN1YiI6ImRlZmF1bHQjMTYzMzcyMzc3MSIsImV4cCI6MTY1MTE1ODA3Mn0.A-DEBpMG2eMaH0bCwlOUS8oUF_Wf7SvT3lDYgg9eP0Y
+https://play.hosannatelecom.com.br/media/n/BZi1nZuZy2GXmdaYotG1/a/BZi1nZuZy2GXmdaYotG1/720p/chunks.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NTA5MTM0NjEsInN1YiI6ImRlZmF1bHQjMTYzOTY4MDAzNSIsImV4cCI6MTY1MzA3MzQ2MX0.65rcXaedOICKlfNQSQpxeJTEqbq33Y7KerQO05f678Q
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="BRASIL",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="BRASIL", DARK MATTER
@@ -476,7 +476,7 @@ https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva106
 https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a9dR9dX.png" group-title="BRASIL",CARAVELAS TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist_w1022983116.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZX23KDp.png" group-title="BRASIL", TV NOVA FAMILIA
+#EXTINF:-1 tvg-logo="https://imgur.com/uLn6L8q.png" group-title="BRASIL", TV NOVA FAMILIA
 https://video01.logicahost.com.br/novafamilia/novafamilia/chunklist_w1667729809.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0DzRgYb.png" group-title="BRASIL", TV ALTIORA
 https://video02.kshost.com.br/fundacao4576/fundacao4576/chunklist_w2115055296.m3u8
