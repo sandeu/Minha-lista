@@ -302,38 +302,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv2.srvsh.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9dVDOr4.png" group-title="BRASIL", FLINSTONES
-http://pfsv.io:80/casoxyzmo/677586789/43900
-#EXTINF: -1 tvg-logo="https://imgur.com/M3Km40X.png" group-title="BRASIL", HERCULOIDES
-http://pfsv.io:80/casoxyzmo/677586789/106821
-#EXTINF: -1 tvg-logo="https://imgur.com/BaC587k.png" group-title="BRASIL", CORRIDA MALUCA
-http://pfsv.io:80/casoxyzmo/677586789/106597
-#EXTINF: -1 tvg-logo="https://imgur.com/bvcZGkL.png" group-title="BRASIL", MANDA CHUVA
-http://pfsv.io:80/casoxyzmo/677586789/106491
-#EXTINF: -1 tvg-logo="https://imgur.com/XEJ1NKc.png" group-title="BRASIL", A FAMILIA ADDAMS
-http://pfsv.io:80/casoxyzmo/677586789/106473
-#EXTINF: -1 tvg-logo="https://imgur.com/odWO2gl.png" group-title="BRASIL", THE ARCHIE SHOW
-http://pfsv.io:80/casoxyzmo/677586789/107087
-#EXTINF: -1 tvg-logo="https://imgur.com/cTQOtJ0.png" group-title="BRASIL", HE MAN
-http://pfsv.io:80/casoxyzmo/677586789/106740
-#EXTINF: -1 tvg-logo="https://imgur.com/xmw4LAO.png" group-title="BRASIL", JONNY QUEST
-http://pfsv.io:80/casoxyzmo/677586789/109542
-#EXTINF: -1 tvg-logo="https://imgur.com/Fl0dtxT.png" group-title="BRASIL", PICA PAU
-http://pfsv.io:80/casoxyzmo/677586789/106848
-#EXTINF: -1 tvg-logo="https://imgur.com/HuSNNog.png" group-title="BRASIL", TOM E JERRY
-http://pfsv.io:80/casoxyzmo/677586789/107058
-#EXTINF: -1 tvg-logo="https://imgur.com/IH9pVTq.png" group-title="BRASIL", THUNDERCATS
-http://pfsv.io:80/casoxyzmo/677586789/43919
-#EXTINF: -1 tvg-logo="https://imgur.com/JMHNgKB.png" group-title="BRASIL", CAVERNA DO DRAGAO
-http://pfsv.io:80/casoxyzmo/677586789/43863
-#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
-http://pfsv.io:80/casoxyzmo/677586789/43917
-#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
-http://pfsv.io:80/casoxyzmo/677586789/106571
-#EXTINF: -1 tvg-logo="https://imgur.com/KwplEXI.png" group-title="BRASIL", BATMAN
-http://pfsv.io:80/casoxyzmo/677586789/106574
-#EXTINF: -1 tvg-logo="https://imgur.com/T7QXqFW.png" group-title="BRASIL", SUPER AMIGOS
-http://pfsv.io:80/casoxyzmo/677586789/111953
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIC TV SERIES
@@ -454,6 +422,8 @@ https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjo
 https://stmv1.srvif.com/unifm/unifm/chunklist_w454246940.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VD148Qe.png" group-title="BRASIL",ULB TV
+https://srv1.zcast.com.br/ulbtv/ulbtv/chunklist_w864124211.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jJDBq4K.png" group-title="BRASIL",TV NOVA FASE
@@ -544,9 +514,7 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="BRASIL", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/uUVPPRa.png" group-title="BRASIL", MJR TV
-https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wy4AtlL.png" group-title="BRASIL", TV SAO JOAO
+#EXTINF:-1 tvg-logo="https://imgur.com/wy4AtlL.png" group-title="BRASIL", TV SAO JOAO NET
 http://131.161.22.250:1923/BZmZmZK5y2G2ota2oty/a/BZmZmZK5y2G2ota2oty/1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vGQMrFJ.png" group-title="BRASIL",NOVA TV MATOPIBA
 https://alanza.iptv2022.com/NOVA_TV_MATOPIBA/index.m3u8
@@ -574,8 +542,6 @@ https://alanza.iptv2022.com/TV_CARIRI_BRISANET/index.m3u8
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://alanza.iptv2022.com/tv_nordestina/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
-https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/dDmnXIp.png" group-title="BRASIL", TV MAIS
 https://alanza.iptv2022.com/Tv_mais/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AnVyCkS.png" group-title="BRASIL", TV AURORA
@@ -682,6 +648,8 @@ https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1388974422.m
 https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/chunklist_w968640681.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CzlX7P6.png" group-title="BRASIL", GHOST TV 
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Z3Hkfba.png" group-title="BRASIL", REDE SDP TV 
+https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w402512286.m3u88
 #EXTINF:-1 tvg-logo="https://imgur.com/5S4QHxX.png" group-title="BRASIL",ELYTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fh2bo3k.png" group-title="BRASIL",WEB TV OLHO DAGUA
@@ -934,6 +902,8 @@ https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL
 http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/uUVPPRa.png" group-title="BRASIL", MJR TV
+https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL", TENDA TV
 https://stmv1.srvstm.com/9696/9696/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
