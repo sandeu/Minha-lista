@@ -24,6 +24,8 @@ https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/21KaEUn.png" group-title="BRASIL",CANAL CURTA  fora do ar
 https://live.charlotteproducoes.com/hls/curta.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
+https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8ZlIniM.png" group-title="BRASIL",WEB TV CLASSICOS DO CINEMA fora do ar
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
@@ -214,4 +216,37 @@ https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XVVdXeZ.png" group-title="PORTUGAL",TV FATIMA
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/9dVDOr4.png" group-title="BRASIL", FLINSTONES
+http://pfsv.io:80/casoxyzmo/677586789/43900
+#EXTINF: -1 tvg-logo="https://imgur.com/M3Km40X.png" group-title="BRASIL", HERCULOIDES
+http://pfsv.io:80/casoxyzmo/677586789/106821
+#EXTINF: -1 tvg-logo="https://imgur.com/BaC587k.png" group-title="BRASIL", CORRIDA MALUCA
+http://pfsv.io:80/casoxyzmo/677586789/106597
+#EXTINF: -1 tvg-logo="https://imgur.com/bvcZGkL.png" group-title="BRASIL", MANDA CHUVA
+http://pfsv.io:80/casoxyzmo/677586789/106491
+#EXTINF: -1 tvg-logo="https://imgur.com/XEJ1NKc.png" group-title="BRASIL", A FAMILIA ADDAMS
+http://pfsv.io:80/casoxyzmo/677586789/106473
+#EXTINF: -1 tvg-logo="https://imgur.com/odWO2gl.png" group-title="BRASIL", THE ARCHIE SHOW
+http://pfsv.io:80/casoxyzmo/677586789/107087
+#EXTINF: -1 tvg-logo="https://imgur.com/cTQOtJ0.png" group-title="BRASIL", HE MAN
+http://pfsv.io:80/casoxyzmo/677586789/106740
+#EXTINF: -1 tvg-logo="https://imgur.com/xmw4LAO.png" group-title="BRASIL", JONNY QUEST
+http://pfsv.io:80/casoxyzmo/677586789/109542
+#EXTINF: -1 tvg-logo="https://imgur.com/Fl0dtxT.png" group-title="BRASIL", PICA PAU
+http://pfsv.io:80/casoxyzmo/677586789/106848
+#EXTINF: -1 tvg-logo="https://imgur.com/HuSNNog.png" group-title="BRASIL", TOM E JERRY
+http://pfsv.io:80/casoxyzmo/677586789/107058
+#EXTINF: -1 tvg-logo="https://imgur.com/IH9pVTq.png" group-title="BRASIL", THUNDERCATS
+http://pfsv.io:80/casoxyzmo/677586789/43919
+#EXTINF: -1 tvg-logo="https://imgur.com/JMHNgKB.png" group-title="BRASIL", CAVERNA DO DRAGAO
+http://pfsv.io:80/casoxyzmo/677586789/43863
+#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
+http://pfsv.io:80/casoxyzmo/677586789/43917
+#EXTINF: -1 tvg-logo="https://imgur.com/3fbUDRy.png" group-title="BRASIL", SUPERMAN
+http://pfsv.io:80/casoxyzmo/677586789/106571
+#EXTINF: -1 tvg-logo="https://imgur.com/KwplEXI.png" group-title="BRASIL", BATMAN
+http://pfsv.io:80/casoxyzmo/677586789/106574
+#EXTINF: -1 tvg-logo="https://imgur.com/T7QXqFW.png" group-title="BRASIL", SUPER AMIGOS
+http://pfsv.io:80/casoxyzmo/677586789/111953
 
