@@ -568,6 +568,8 @@ https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
 https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tcIBdQo.png" group-title="BRASIL", REDE SUL TV
 https://livefocamundo.com:8081/redesul/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Gk0CxFE.png" group-title="BRASIL", B CHANNEL
+https://bchannel.akamaized.net/bwe/bwe/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/VkD7rbl.png" group-title="BRASIL", IPANGUACU TV
 https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RD87W1Y.png" group-title="BRASIL", TV VALE DO GRAVATAI
