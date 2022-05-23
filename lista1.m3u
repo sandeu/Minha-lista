@@ -199,7 +199,7 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/red
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
-https://play.hosannatelecom.com.br/media/n/BZi1nZuZy2GXmdaYotG1/a/BZi1nZuZy2GXmdaYotG1/720p/chunks.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NTA5MTM0NjEsInN1YiI6ImRlZmF1bHQjMTYzOTY4MDAzNSIsImV4cCI6MTY1MzA3MzQ2MX0.65rcXaedOICKlfNQSQpxeJTEqbq33Y7KerQO05f678Q
+https://play.hosannatelecom.com.br/media/n/BZi1nZuZy2GXmdaYotG1/a/BZi1nZuZy2GXmdaYotG1/720p/chunks.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NTMwODQ5MzksInN1YiI6ImRlZmF1bHQjMTYzNjcyNTY2NiIsImV4cCI6MTY1NTI0NDkzOX0.cd5ZcCKy4l8OVpqRiE5AtDkL_JRNIGmrOjhFzzYa0do
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="BRASIL",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="BRASIL", DARK MATTER
@@ -241,7 +241,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/8bCLyW4.png" group-title="BRASIL",CAMERAS ESCONDIDAS
-http://pfsv.io:80/casoxyzmo/677586789/111955
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 #EXTINF:-1 tvg-logo="https://imgur.com/uflSiKs.png" group-title="BRASIL",COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
@@ -570,6 +570,8 @@ https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Gk0CxFE.png" group-title="BRASIL", B CHANNEL
 https://bchannel.akamaized.net/bwe/bwe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="BRASIL", TV CARUARA
+https://stmv2.srvsh.com.br/severino6061/severino6061/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/VkD7rbl.png" group-title="BRASIL", IPANGUACU TV
 https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RD87W1Y.png" group-title="BRASIL", TV VALE DO GRAVATAI
