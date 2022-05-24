@@ -510,6 +510,8 @@ https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 https://video01.kshost.com.br:4443/sueli3485/sueli3485/chunklist_w976923545.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H0KkYjd.png" group-title="BRASIL",TV ALIANCA CATARINENSE
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uXs9OE2.png" group-title="BRASIL",TVBS
+https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehFStWI.png" group-title="BRASIL",TV ERE NEWS
 https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cX18hjg.png" group-title="BRASIL",BSTV ONLINE
