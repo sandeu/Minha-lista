@@ -386,6 +386,8 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p4L40Nh.png" group-title="BRASIL",CANAL 107 PASSOS
 https://stmv5.samcast.com.br/deivid2889/deivid2889/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uFQMNfh.png" group-title="BRASIL",NERO TV
+https://stmv5.samcast.com.br/mult1513/mult1513/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZCxSWFt.png" group-title="BRASIL",TV METROPOLITANA
 https://alanza.iptv2022.com/vmetropolitana/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="BRASIL", CLUBE WEB TV
