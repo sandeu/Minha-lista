@@ -1248,6 +1248,8 @@ https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tScmQ85.png" group-title="MUSICA",ROCK TV
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
