@@ -414,6 +414,8 @@ https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nCyuPHg.png" group-title="BRASIL",TV RABELO
+https://cdn.jmvstream.com/w/AVJ-10593/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
 https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0rof1VI.png" group-title="BRASIL", CANAL TV RIO
