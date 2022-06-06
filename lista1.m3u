@@ -201,6 +201,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/playchann
 #EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL",PLAY CHANNEL
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/playchannelsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
