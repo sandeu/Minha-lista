@@ -2,10 +2,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
-https://stream.mux.com/PTynfoBdX6IrQOX00MKAG7MrpCX8F5xwR.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
 https://manifest-gce-us-east1-production.cfcdn.mux.com/X02gVJ29n8dL8zTGSfNTtkm4Ef9qVztoJpz7V26V67eP02e02A01qVz9Y2Zx02WbSRefchSwSgpTsZxBDiozRe01tEGA/rendition.m3u8?cdn=cloudflare&expires=1655413200&skid=default&signature=NjJhYjk5ZDBfZDRjNzBkYWRjZTU4ODVkMDgxNGZiMDRjOTI5ZmU2ZWEyMjNiMWFkMjJiZTA4MzdmYjE4YTc0ZDgzOGI0M2U0Yg==
+#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
+http://168.205.87.198:8555/live/1499/123456/99.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5DGFld7.png" group-title="BRASIL", CHEF TV
 http://pfsv.io:80/casoxyzmo/677586789/69079
