@@ -270,8 +270,6 @@ http://45.232.196.7:5000/live/TV8HD/720p.m3u8
 https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w97015013.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AGMhq7D.png" group-title="BRASIL",AW TV
 https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
-https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FB0pCk7.png" group-title="BRASIL",TV WA
 https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
@@ -356,8 +354,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
-http://168.205.87.198:8555/live/1499/123456/99.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
 https://srv5.zcast.com.br/jonas3261/jonas3261/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
@@ -450,6 +446,8 @@ https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
+https://stream.mux.com/PTynfoBdX6IrQOX00MKAG7MrpCX8F5xwR.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
