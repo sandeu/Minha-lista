@@ -340,12 +340,6 @@ https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ab6a80-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ad9304b-c000-489a-bfe8-f5446689b1a3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
-https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
-https://stmv1.srvif.com/todomundoodeiaochris/todomundoodeiaochris/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
-https://stmv1.srvif.com/tvsummaluconopedaco/tvsummaluconopedaco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRae10A.png" group-title="BRASIL",ARNOLD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="BRASIL",KENAN E KEL
@@ -374,6 +368,8 @@ https://alanza.iptv2022.com/Fandom_TV/index.m3u8
 https://alanza.iptv2022.com/CLC/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MfJtdJD.png" group-title="BRASIL", OX TV
 https://alanza.iptv2022.com/OX_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OnEIFa8.png" group-title="BRASIL", ONE TV
+https://stmv1.painelvideo.top/102030/102030/chunklist_w1195842619.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="BRASIL", APLUS TV
@@ -514,6 +510,8 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/chunklist_w1279629961.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
 https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist_w1023102206.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/SjJ6kcm.png" group-title="BRASIL",TV LAGOA DANTAS
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w1262479325.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fhzKvG6.png" group-title="BRASIL",TV NAZARENA
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oWwYGI1.png" group-title="BRASIL", WTJ TV MINAS
@@ -1216,6 +1214,8 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="MUSICA",KTV BRASIL
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="MUSICA", REDE LIVRE
