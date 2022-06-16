@@ -9,6 +9,12 @@ https://manifest-gce-us-east1-production.cfcdn.mux.com/X02gVJ29n8dL8zTGSfNTtkm4E
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
 http://168.205.87.198:8555/live/1499/123456/99.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
+https://stmv1.srvif.com/todomundoodeiaochris/todomundoodeiaochris/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
+https://stmv1.srvif.com/tvsummaluconopedaco/tvsummaluconopedaco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5DGFld7.png" group-title="BRASIL", CHEF TV
 http://pfsv.io:80/casoxyzmo/677586789/69079
