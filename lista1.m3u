@@ -370,6 +370,8 @@ https://alanza.iptv2022.com/CLC/index.m3u8
 https://alanza.iptv2022.com/OX_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OnEIFa8.png" group-title="BRASIL", ONE TV
 https://stmv1.painelvideo.top/102030/102030/chunklist_w1195842619.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="BRASIL",KTV BRASIL
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="BRASIL", APLUS TV
@@ -1214,8 +1216,6 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="MUSICA",KTV BRASIL
-https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="MUSICA", REDE LIVRE
