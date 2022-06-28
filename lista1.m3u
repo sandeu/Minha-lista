@@ -1384,7 +1384,5 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CMChLfR.png" group-title="NOVELAS",NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/OfZmQG1.png" group-title="NOVELAS",LA OTRA CARA DE ALMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21958380-93f5-11ec-ab73-fd47105d8403&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=10215055-0205-4bf1-8216-e22cf1cad615&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/gUQ27za.png" group-title="NOVELAS", NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
