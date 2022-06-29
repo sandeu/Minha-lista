@@ -600,6 +600,10 @@ https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9172/playlist/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AIHLxgZ.png" group-title="BRASIL", TV CEASA
 https://5c483b9d1019c.streamlock.net/8174/8174/chunklist_w1268169323.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NPdzuwl.png" group-title="BRASIL", TV KING
+https:\u002F\u002Falanza.iptv2022.com\u002FTV_KING\u002Findex.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/krGtTVR.png" group-title="BRASIL", TV CURUCA
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TacWanu.png" group-title="BRASIL", RG TV
 https://stmv2.samcast.com.br/italo8170/italo8170/chunklist_w373081954.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H1oPhOg.png" group-title="BRASIL", EXTREMO ORIENTAL TV 
