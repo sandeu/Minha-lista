@@ -452,6 +452,8 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
 https://stream.mux.com/WNa1TnjBTF9xYZ4VU4dDXekt8VUY7xaT.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mrpBo3H.png" group-title="BRASIL", TV DA GENTE
+https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
