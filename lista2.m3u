@@ -43,8 +43,10 @@ https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 https://live.charlotteproducoes.com/hls/curta.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/12GDR6W.png" group-title="BRASIL",CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL", PLAY CHANNEL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/playchannelsp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL",PLAY CHANNEL
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/playchannelsp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8ZlIniM.png" group-title="BRASIL",WEB TV CLASSICOS DO CINEMA fora do ar
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
