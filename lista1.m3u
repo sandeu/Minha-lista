@@ -88,6 +88,8 @@ https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4OnpSTM.png" group-title="BRASIL", UNB TV
+https://maestro-prd-nh.eduplay.rnp.br/route/channel168269/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDE2ODI2OS9pbmRleC5tM3U4P3g9MSZtPXFFOWxycFZfNmkzZkhVX25LRjA3NFE&x=1&p=0&m=uLnME8BsTeK44NkIrod4SA
 #EXTINF: -1 tvg-logo="https://imgur.com/QBH2FuC.png" group-title="BRASIL", TV OTIMISTA
 https://hls.directradios.com/otimista/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
