@@ -480,6 +480,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7wZpgQx.png" group-title="BRASIL",DOIS RIACHOS TV
+https://stmv1.srvif.com/souzadavi058/souzadavi058/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Lm7YXBA.png" group-title="BRASIL", SUL AMERICA TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1QJWAg.png" group-title="BRASIL",PBN WEB TV 
