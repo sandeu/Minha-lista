@@ -602,6 +602,8 @@ https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Gk0CxFE.png" group-title="BRASIL", B CHANNEL
 https://bchannel.akamaized.net/bwe/bwe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0cG2XsJ.png" group-title="BRASIL", SUZUKY TV
+https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="BRASIL", TV CARUARA
 https://stmv2.srvsh.com.br/severino6061/severino6061/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/VkD7rbl.png" group-title="BRASIL", IPANGUACU TV
@@ -1278,6 +1280,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playli
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaLYJaE.png" group-title="MUSICA",MTV MIAW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",LOVE SONGS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/aTSeca5.png" group-title="MUSICA",VH1 CLASSIC
