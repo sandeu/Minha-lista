@@ -364,6 +364,8 @@ https://srv5.zcast.com.br/jonas3261/jonas3261/playlist.m3u8
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tz1gVVc.png" group-title="BRASIL",PORTAL H PLAY
+https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
