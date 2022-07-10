@@ -392,6 +392,8 @@ https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XDqPzgZ.png" group-title="BRASIL", ZOOM MUSIC
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vFm4Bmx.png" group-title="BRASIL", CLASSICOS DO CINEMA
+https://iblups.com/classicosdocinema
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="BRASIL", TV MEU XODO
@@ -438,8 +440,6 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="BRASIL", WEB TV XTREME 
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
-https://stmv1.srvstm.com/jorgeandresilva9323/jorgeandresilva9323/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
