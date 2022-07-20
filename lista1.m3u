@@ -372,9 +372,9 @@ https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/playlist.m3u8
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", DUE MUNDI CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", TV CARIOCA NET
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
