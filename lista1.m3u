@@ -244,6 +244,8 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
 https://hollywire-samsung-3-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Jd2lQz.png" group-title="BRASIL",ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CaXWpQX.png" group-title="BRASIL",TURBO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
