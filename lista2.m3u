@@ -4,6 +4,15 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/tgZebrp.png" group-title="BRASIL",URBAN SERIES
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIC TV SERIES
+https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2T8aqT6.png" group-title="BRASIL",TVS KIDS
+https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
+https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dc470Q.png" group-title="BRASIL", TV ZIMBO
 https://livestream.com/accounts/29819666/events/9254936
