@@ -202,7 +202,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/gazetapla
 #EXTINF:-1 tvg-logo="https://imgur.com/tsmB4nl.png" group-title="BRASIL", TV CERRADO
 https://alanza.iptv2022.com/tv_cerrado/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iSUyT0e.png" group-title="BRASIL", REDE BRASIL TV
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist_w2142918053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TaGYe96.png" group-title="BRASIL", BR SUPER TV
 https://alanza.iptv2022.com/RSCTV_Brasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rVKGCL5.png" group-title="BRASIL", TV ECOVALE
@@ -211,6 +211,8 @@ https://livefocamundo.com:8081/tvecovale/index.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18InL8A.png" group-title="BRASIL", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oJPIbUA.png" group-title="BRASIL", CANAL PLURAL
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
 https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
@@ -308,7 +310,7 @@ https://stmv1.painelvideo.top/canalamc/canalamc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V6FEaP5.png" group-title="BRASIL",ANIME STATION
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist_w785990519.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gX0Tsb2.png" group-title="BRASIL",ANI TV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
