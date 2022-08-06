@@ -37,6 +37,8 @@ http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tZCFM4I.png" group-title="BRASIL", TV BRASIL
 https://origin-02.nxplay.com.br/TV_BRASIL_NX_/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
+https://alanza.iptv2022.com/GUIA_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
@@ -445,6 +447,8 @@ https://stmv3.voxtvhd.com.br/stib/stib/playlist.m3u8
 https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="BRASIL",TV FRONTEIRA CHANNEL
 https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="BRASIL",TV FRONTEIRA KIDS
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nCyuPHg.png" group-title="BRASIL",TV RABELO
