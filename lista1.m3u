@@ -283,8 +283,6 @@ https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uiwjXOl.png" group-title="BRASIL", STRIKER VERSO
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GnNsMKr.png" group-title="BRASIL",AMC TV
-https://stmv1.painelvideo.top/canalamc/canalamc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V6FEaP5.png" group-title="BRASIL",ANIME STATION
@@ -365,30 +363,20 @@ https://cdn.jmvstream.com/w/LVW-10749/ngrp:LVW10749_ZfF2FU5mva_all/playlist.m3u8
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tz1gVVc.png" group-title="BRASIL",PORTAL H PLAY
-https://alanza.iptv2022.com/REDE_H/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8L8pE8M.png" group-title="BRASIL", FANDOM TV
 https://alanza.iptv2022.com/Fandom_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GFm3pXL.png" group-title="BRASIL", CLC TV
 https://alanza.iptv2022.com/CLC/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MfJtdJD.png" group-title="BRASIL", OX TV
-https://alanza.iptv2022.com/OX_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OnEIFa8.png" group-title="BRASIL", ONE TV
-https://stmv1.painelvideo.top/102030/102030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="BRASIL",KTV BRASIL
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H5cXm8r.png" group-title="BRASIL", APLUS TV
-https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XDqPzgZ.png" group-title="BRASIL", ZOOM MUSIC
@@ -407,8 +395,6 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p4L40Nh.png" group-title="BRASIL",CANAL 107 PASSOS
 https://stmv5.samcast.com.br/deivid2889/deivid2889/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uFQMNfh.png" group-title="BRASIL",NERO TV
-https://stmv5.samcast.com.br/mult1513/mult1513/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZCxSWFt.png" group-title="BRASIL",TV METROPOLITANA
 https://alanza.iptv2022.com/vmetropolitana/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="BRASIL", CLUBE WEB TV
@@ -416,9 +402,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4IXIum.png" group-title="BRASIL",TV GRANDE REDE
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
-http://201.48.245.24:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U3qnBkb.png" group-title="BRASIL",TIB TV
-https://stmv3.voxtvhd.com.br/stib/stib/playlist.m3u8
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
 https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="BRASIL",TV FRONTEIRA CHANNEL
@@ -434,15 +418,15 @@ https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0rof1VI.png" group-title="BRASIL", CANAL TV RIO
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FI5h4u5.png" group-title="BRASIL",TV PORTAL WEB
-https://stmv2.samcast.com.br/mauro4310/mauro4310/playlist.m3u8
+https://srv5.zcast.com.br/tvportalweb/tvportalweb/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="BRASIL", IMPERIAL TV
 https://alanza.iptv2022.com/IMPERIAL_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/kICiCYs.png" group-title="BRASIL", TRI TV
-https://5d2c98775bafe.streamlock.net/8236/8236/playlist.m3u8
+https://5c483b9d1019c.streamlock.net/tritv/tritv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e0VQVhW.png" group-title="BRASIL", WEB TV XTREME 
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
@@ -467,12 +451,10 @@ https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
-https://stream.mux.com/WNa1TnjBTF9xYZ4VU4dDXekt8VUY7xaT.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mrpBo3H.png" group-title="BRASIL", TV DA GENTE
 https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
-https://srv6.zcast.com.br/jair5578/jair5578/playlist.m3u8
+https://srv5.zcast.com.br/jair9258/jair9258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="BRASIL", ADESSO TV
@@ -482,7 +464,7 @@ https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8MpPp2E.png" group-title="BRASIL", TV GENIALL
 https://alanza.iptv2022.com/TV_GENIALL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/G0ePXs0.png" group-title="BRASIL", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jngWexr.png" group-title="BRASIL", TV RECORDACOES WEB CE
@@ -495,12 +477,8 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://stmv5.samcast.com.br/celio5934/celio5934/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ySWy7Cm.png" group-title="BRASIL", TV BOMBA
 https://alanza.iptv2022.com/TV_BOMBA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7wZpgQx.png" group-title="BRASIL",DOIS RIACHOS TV
-https://stmv1.srvif.com/souzadavi058/souzadavi058/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Lm7YXBA.png" group-title="BRASIL", SUL AMERICA TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/t1QJWAg.png" group-title="BRASIL",PBN WEB TV 
-https://cdn.jmvstream.com/w/AVJ-11007/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/690916p.png" group-title="BRASIL",TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/00lvCsw.png" group-title="BRASIL",REDE SERRA
@@ -512,19 +490,15 @@ https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0DzRgYb.png" group-title="BRASIL", TV ALTIORA
 https://video02.kshost.com.br/fundacao4576/fundacao4576/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV 
-https://stmv1.srvstm.com/paulo4642/paulo4642/playlist.m3u8
+https://stmv1.srvsh.com.br/paulo2505/paulo2505/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SpUIC3g.png" group-title="BRASIL",TV MAX 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NrEg3Ao.png" group-title="BRASIL",REDE TV MAIS
-https://srv4.zcast.com.br/tvamerica/tvamerica/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3962IMQ.png" group-title="BRASIL", HITS FM TV
-https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/playlist.m3u8
+https://strv3.estbrasil.com/hitstv/hitstv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/OsG00db.png" group-title="BRASIL", ASTRAL TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="BRASIL", TV CEI
-https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
-https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
 https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
