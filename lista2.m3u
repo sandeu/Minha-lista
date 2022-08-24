@@ -11,6 +11,26 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&
 http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL", TENDA TV
 https://stmv1.srvstm.com/9696/9696/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/O6zpf31.png" group-title="TELEVENDAS",SHOPTIME
+http://168.205.87.198:8555/live/1499/123456/164.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lsehJuT.png" group-title="TELEVENDAS",POLISHOP
+http://pfsv.io:80/casoxyzmo/677586789/124
+#EXTINF:-1 tvg-logo="https://imgur.com/dFT7EiM.png" group-title="TELEVENDAS",COMPRE ABC WEB TV 
+https://stmv3.samcast.com.br/zuleica8933/zuleica8933/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZllywoW.png" group-title="TELEVENDAS",ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CTr2bUc.png" group-title="ESTUDIO FM", 98 LIVE
+http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="AGRO",AGRO CANAL
+http://177.20.208.58:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/800254452277839369307881.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TI2rPBh.png" group-title="AGRO",AGRO MAIS
+https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bzNeWtT.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
+https://srv2.zcast.com.br/erick9577/erick9577/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/nC4x2Or.png" group-title="ESTUDIO FM", EVANGELICA FM
+https://5a1e323a9ae38.streamlock.net/radioevangelicafm/radioevangelicafm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GnNsMKr.png" group-title="BRASIL",AMC TV
 https://stmv1.painelvideo.top/canalamc/canalamc/playlist.m3u8
