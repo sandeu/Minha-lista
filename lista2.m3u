@@ -2,6 +2,16 @@
 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NIlCeIF.png" group-title="BRASIL",LIDER TV
+http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jgZu5x9.png" group-title="BRASIL", REDE LIVE TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692603/index_150_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://imgur.com/rTcTzQb.png" group-title="BRASIL", TV LITORAL
+http://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b5zZzvL.png" group-title="BRASIL", TENDA TV
+https://stmv1.srvstm.com/9696/9696/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/GnNsMKr.png" group-title="BRASIL",AMC TV
 https://stmv1.painelvideo.top/canalamc/canalamc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tz1gVVc.png" group-title="BRASIL",PORTAL H PLAY
