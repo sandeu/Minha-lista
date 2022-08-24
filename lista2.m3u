@@ -3,6 +3,30 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/xBvmKdB.png" group-title="BRASIL",TV CULTURA
+https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4iBmTJZ.png" group-title="BRASIL", UNIVESP TV
+https://pekchannels.proxy.jotafplay.com.br/Univesp/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
+#EXTINF: -1 tvg-logo="https://imgur.com/tZCFM4I.png" group-title="BRASIL", TV BRASIL
+https://origin-02.nxplay.com.br/TV_BRASIL_NX_/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aXkdEYu.png" group-title="BRASIL",REDE PAULISTA
+https://stream.amsolution.net.br:8443/live/60d63bd713fe0/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GPp66Yw.png" group-title="BRASIL",TV ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m4wSfpZ.png" group-title="BRASIL",CANAL FUTURA
+https://canal1.proxy.tokplay.com.br/streams/FUTURA/auto.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4OnpSTM.png" group-title="BRASIL", UNB TV
+https://maestro-prd-nh.eduplay.rnp.br/route/channel168269/index.m3u8?s=aHR0cHM6Ly9tZWRpYS1wcmQtbmguZWR1cGxheS5ybnAuYnIvbWVkaWEvY2hhbm5lbDE2ODI2OS9pbmRleC5tM3U4P3g9MSZtPXFFOWxycFZfNmkzZkhVX25LRjA3NFE&x=1&p=0&m=uLnME8BsTeK44NkIrod4SA
+#EXTINF:-1 tvg-logo="https://imgur.com/kRqkiSx.png" group-title="BRASIL", TV SERRA DOURADA
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MacZ8xz.png" group-title="BRASIL", REDE TV
+https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VBovmsF.png" group-title="BRASIL",RECORD NEWS  
+https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rEeqCA2.png" group-title="BRASIL",TV ALERTA NOTICIA
+https://srv2.zcast.com.br/alertanoticia/alertanoticia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
+https://canal1.proxy.tokplay.com.br/streams/GAZETA/auto.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tgZebrp.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
