@@ -122,8 +122,6 @@ https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
 https://livestream.com/accounts/29819666/events/9254936
 #EXTINF:-1 tvg-logo="https://imgur.com/2dc470Q.png" group-title="BRASIL", TV ZIMBO
 https://playback2.akamaized.net/str...caw2mf_1@2128000p.m3u8?dw=14400&ts=1657404000
-#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
-https://stmv1.srvstm.com/jorgeandresilva9323/jorgeandresilva9323/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jbqvOR3.png" group-title="BRASIL", JONYSPLUS
 https://manifest-gce-us-east1-production.cfcdn.mux.com/X02gVJ29n8dL8zTGSfNTtkm4Ef9qVztoJpz7V26V67eP02e02A01qVz9Y2Zx02WbSRefchSwSgpTsZxBDiozRe01tEGA/rendition.m3u8?cdn=cloudflare&expires=1655413200&skid=default&signature=NjJhYjk5ZDBfZDRjNzBkYWRjZTU4ODVkMDgxNGZiMDRjOTI5ZmU2ZWEyMjNiMWFkMjJiZTA4MzdmYjE4YTc0ZDgzOGI0M2U0Yg==
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
