@@ -347,6 +347,8 @@ https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
 https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+https://stmv1.srvif.com/tvseuapatroa/tvseuapatroa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="BRASIL", OS TRES PATETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
