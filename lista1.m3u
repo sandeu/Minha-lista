@@ -169,7 +169,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 #EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
-https://amazonsat.brasilstream.com.br/hls/amazonsat/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-11327/ngrp:LVW11327_U3XLeZTDtA_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
@@ -226,8 +226,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8QLpFvA.png" group-title="BRASIL", SPARK TV 
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mMf5ufl.png" group-title="BRASIL", YELLOW TV
-https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G1hP8mG.png" group-title="BRASIL", NOSEY ESCANDALOS
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="BRASIL",DEMAND AFRICA
@@ -415,7 +413,9 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
 https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
-https://livefocamundo.com:8081/tvjsid/index.m3u8
+https://livefocamundo.com:8081/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mMf5ufl.png" group-title="BRASIL", YELLOW TV
+https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
