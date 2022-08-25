@@ -85,8 +85,6 @@ https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
 https://canal1.proxy.tokplay.com.br/streams/CULTURA/auto.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4iBmTJZ.png" group-title="BRASIL", UNIVESP TV
 https://pekchannels.proxy.jotafplay.com.br/Univesp/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
-#EXTINF: -1 tvg-logo="https://imgur.com/tZCFM4I.png" group-title="BRASIL", TV BRASIL
-https://origin-02.nxplay.com.br/TV_BRASIL_NX_/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aXkdEYu.png" group-title="BRASIL",REDE PAULISTA
 https://stream.amsolution.net.br:8443/live/60d63bd713fe0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GPp66Yw.png" group-title="BRASIL",TV ATIVIDADE
@@ -113,8 +111,6 @@ https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2T8aqT6.png" group-title="BRASIL",TVS KIDS
 https://stmv1.srvif.com/tvskids/tvskids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
-https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dc470Q.png" group-title="BRASIL", TV ZIMBO
 https://livestream.com/accounts/29819666/events/9254936
@@ -128,8 +124,6 @@ https://manifest-gce-us-east1-production.cfcdn.mux.com/X02gVJ29n8dL8zTGSfNTtkm4E
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
 http://168.205.87.198:8555/live/1499/123456/99.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
-https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
 https://stmv1.srvif.com/todomundoodeiaochris/todomundoodeiaochris/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
