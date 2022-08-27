@@ -383,6 +383,8 @@ https://alanza.iptv2022.com/CLC/index.m3u8
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XDqPzgZ.png" group-title="BRASIL", ZOOM MUSIC
