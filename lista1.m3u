@@ -1049,6 +1049,8 @@ https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m
 https://alanza.iptv2022.com/TEREFMTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
+https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM", RADIO MONTE FM
