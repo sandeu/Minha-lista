@@ -51,7 +51,7 @@ http://150.162.188.10:8080/hls/1.m3u8
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KtgdjtQ.png" group-title="BRASIL", TV ESCOLA
+#EXTINF:-1 tvg-logo="https://imgur.com/JVjcC1i.png" group-title="BRASIL", TV DA CIDADE SP
 https://cdn.cdnseguro.com/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -509,6 +509,8 @@ https://alanza.iptv2022.com/TV_BOMBA/tracks-v1a1/mono.m3u8
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/690916p.png" group-title="BRASIL",TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/uUVPPRa.png" group-title="BRASIL", MJR TV
+https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/00lvCsw.png" group-title="BRASIL",REDE SERRA
 https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaxKvXA.png" group-title="BRASIL",AMERICA TV
@@ -567,6 +569,8 @@ https://stmv2.samcast.com.br/alex8404/alex8404/playlist.m3u8
 https://video01.kshost.com.br:4443/sueli3485/sueli3485/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H0KkYjd.png" group-title="BRASIL",TV ALIANCA CATARINENSE
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AyBmKh5.png" group-title="BRASIL",NOVA RIO TV
+https://livefocamundo.com:8081/novariotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uXs9OE2.png" group-title="BRASIL",TVBS
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehFStWI.png" group-title="BRASIL",TV ERE NEWS
@@ -935,8 +939,6 @@ https://cdn.jmvstream.com/w/AVJ-11554/playlist/playlist.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/uUVPPRa.png" group-title="BRASIL", MJR TV
-https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBenlhD.png" group-title="BRASIL",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2v59tFU.png" group-title="BRASIL",TV COGNOPOLIS
@@ -1243,6 +1245,8 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="MUSICA", POP PEGAJOSO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 tvg-logo="https://imgur.com/28iIVGo.png" group-title="MUSICA", DRONE CHANNEL
+https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST CLASSIC
 https://qwest-classic-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
