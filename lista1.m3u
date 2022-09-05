@@ -32,7 +32,7 @@ http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
-https://alanza.iptv2022.com/GUIA_TV/tracks-v1a1/playlist.m3u8
+https://alanza.iptv2022.com/GUIA_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tZCFM4I.png" group-title="BRASIL", TV BRASIL
 https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
@@ -319,8 +319,6 @@ https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.c
 https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="BRASIL",URBAN TURBO
 https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
-https://stmv1.srvif.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uLn6L8q.png" group-title="BRASIL", TV NOVA FAMILIA
 https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
@@ -345,8 +343,6 @@ https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
 https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5A7N1D6.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
-https://stmv1.srvif.com/tvseuapatroa/tvseuapatroa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="BRASIL", OS TRES PATETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
@@ -423,12 +419,6 @@ https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
 https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="BRASIL",TV FRONTEIRA MOVIES
-https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="BRASIL",TV FRONTEIRA CHANNEL
-https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="BRASIL",TV FRONTEIRA KIDS
-https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nCyuPHg.png" group-title="BRASIL",TV RABELO
@@ -1135,6 +1125,12 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkcsVlD.png" group-title="ESPORTES", TELETRACK 
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="RELIGIOSO",TV FRONTEIRA MOVIES
+https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="RELIGIOSO",TV FRONTEIRA CHANNEL
+https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="RELIGIOSO",TV FRONTEIRA KIDS
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ikedHwg.png" group-title="RELIGIOSO", TV GERMANA
