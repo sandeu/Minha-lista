@@ -33,7 +33,7 @@ http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
 https://alanza.iptv2022.com/GUIA_TV/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/tZCFM4I.png" group-title="BRASIL", TV BRASIL
+#EXTINF: -1 tvg-logo="https://imgur.com/LiA8dz8.png" group-title="BRASIL", TV GUARAPARI
 https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
@@ -1059,6 +1059,10 @@ https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yT0SnpI.png" group-title="ESTUDIO FM", IND FM
 https://virtues.es:1936/indfm/indfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
+https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
+#EXTINF:-1 tvg-logo="https://imgur.com/waRkqZc.png" group-title="ESTUDIO FM", RADIO TRIBUNA FM
+https://serv2.videovox.pw/marcelo8576/marcelo8576/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
