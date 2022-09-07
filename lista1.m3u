@@ -99,6 +99,8 @@ https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="BRASIL",XR HEALTH BRASIL
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="BRASIL", TV COOP
+https://stream01-tvcoopsc.netpointcdn.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="BRASIL",TV SETE LAGOAS
 https://livefocamundo.com:8081/tvsetelagoas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B2UoR3F.png" group-title="BRASIL", TV COM BRASIL
