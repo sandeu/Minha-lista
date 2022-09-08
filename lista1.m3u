@@ -285,6 +285,8 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="BRASIL", TV BRAGA BRASIL
 https://alanza.iptv2022.com/Braga_Brasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
+https://alanza.iptv2022.com/TV_TOKYO/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uiwjXOl.png" group-title="BRASIL", STRIKER VERSO
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
