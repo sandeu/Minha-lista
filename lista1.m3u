@@ -203,6 +203,8 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqAFUsDxFVV98s_Cgh4ISz5VcvOhrzpTU-65-csYjFzZQTsaGA27-GUglo9yfg8Bx6mJIbkwT6fl0mUTIMXk5uYJUCFeQwIVYY9p2O2xAdTSDB0lAKTY2cR6Ji5Z88EWZ94W7K6U8qz92sbskYeYYTI8Am6GZtONO7Phhyh_Ax90VLEeHMe_sK2w7E2e_zCHcac2XYua80w4lQx9AqKY24P7bhefrt4EDIrOQwzu62HxL043mNsuJxhwGoIfZAF5YTenRMoDEAxSfOheTsE-OkQth7C1VZrTVO_DZo3OCcgc64BQROVtEszCR3AHowAEyTFRpK1RxZxSJ8BEt8v7S0b23OIh6WM7FlqtpChPDoLfvYX2Uc4C7jrhRqlFbkMvOHtwYkAw73a9PKWlbbKtp9FTeH2XU7qLF5F8Tp0ft5zc07FU32JH6o7hAGXR0PCCbuTrOtKwwwcPv4JI5dYWMfw88Ul1yvY0GhUARQkNykaFGnfleKORMldgwxP908ni-TUYtBfaiDbGX8YOfAvlEHwZxnAOugwd0KSGJhwN8Ae0ddasnTS-BiQKaggDM8iEAvODI1-hfm3pnXqaSTmZAkVgfHM5llq_lfl4o0g_0Dw-LlUBrv6OulF7FJAoLxBrevhZyLL1oZOPg4JPO4GYgGeaVu4MbjjzNLgPxO_rno3KmZ0tFPJ7iPzjhPAu7ECJMNB9RemKR0sEGagTwr0FNSQ1vFayEv-s8Dzy8NPk8nX5Jf6f-vuTb7-5rfcFSYiAUDn0Mc30cERAFN6fpDeyPbmM2ry2aO79P5zG0GRtNnjapP6we45kzfqGoFJ3HUaM40LEwsrxVXfpFirH08P_OKO3kVnOSGb22jsCRJ0PlXZEy96poSpqV7gMmA8fD2_tH2-8GgzlNDR22dLF02K-wnwgASoJdXMtZWFzdC0xMIgD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I84T0Rm.png" group-title="BRASIL",TV BRASILEIRA
