@@ -585,6 +585,8 @@ https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 https://stmv1.srvsite.com/amazingtv/amazingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://stmv1.srvstm.com/tiago4617/tiago4617/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="BRASIL", FC WEB TV
+https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vGQMrFJ.png" group-title="BRASIL",NOVA TV MATOPIBA
 https://alanza.iptv2022.com/NOVA_TV_MATOPIBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR
