@@ -585,8 +585,6 @@ https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 https://stmv1.srvsite.com/amazingtv/amazingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://stmv1.srvstm.com/tiago4617/tiago4617/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="BRASIL", FC WEB TV
-https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vGQMrFJ.png" group-title="BRASIL",NOVA TV MATOPIBA
 https://alanza.iptv2022.com/NOVA_TV_MATOPIBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR
@@ -1075,6 +1073,8 @@ https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840
 https://serv2.videovox.pw/marcelo8576/marcelo8576/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
+https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
