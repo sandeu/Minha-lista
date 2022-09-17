@@ -633,6 +633,8 @@ https://bchannel.akamaized.net/bwe/bwe/playlist.m3u8
 https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8vbSkRM.png" group-title="BRASIL", TV CORDEIRO
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w277516646.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/R8GqLdD.png" group-title="BRASIL", MANHU TV
+https://video01.logicahost.com.br/manhutv/manhutv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/VkD7rbl.png" group-title="BRASIL", IPANGUACU TV
 https://stmv3.voxtvhd.com.br/ipanguacutv/ipanguacutv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RD87W1Y.png" group-title="BRASIL", TV VALE DO GRAVATAI
