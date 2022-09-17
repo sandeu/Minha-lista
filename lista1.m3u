@@ -617,6 +617,8 @@ https://stmv.video.skyspace.com.br/tvaurora/tvaurora/playlist.m3u8
 https://alanza.iptv2022.com/Folha_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be9BPr9.png" group-title="BRASIL",TV LAGOS
 https://video01.kshost.com.br:4443/marcos1646/marcos1646/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8OVkQ7V.png" group-title="BRASIL",TV LAGO AZUL
+https://video01.logicahost.com.br/tvlagoazul/tvlagoazul/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lL37SK9.png" group-title="BRASIL",TV FENIX BAHIA
 https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YMiXZkT.png" group-title="BRASIL",TV CHAPADA
