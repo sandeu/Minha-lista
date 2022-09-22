@@ -779,6 +779,8 @@ https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9ubExeF.png" group-title="BRASIL", RBS MIX WEB TV
 https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/gaiXfuL.png" group-title="BRASIL", OV TV
+https://video01.logicahost.com.br/othervoice/othervoice/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV
 https://alanza.iptv2022.com/Rede_Nova_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
