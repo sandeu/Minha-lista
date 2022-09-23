@@ -503,6 +503,8 @@ https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/sRNExH4.png" group-title="BRASIL", REDE IPITANGA TV
+https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV PB
 https://Stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="BRASIL", TV CEI
@@ -519,8 +521,6 @@ https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/00lvCsw.png" group-title="BRASIL",REDE SERRA
 https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CTmglaA.png" group-title="BRASIL",REDE ALFA
-https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaxKvXA.png" group-title="BRASIL",AMERICA TV
 https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a9dR9dX.png" group-title="BRASIL",CARAVELAS TV
@@ -779,14 +779,14 @@ https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
 https://srv1.zcast.com.br/arcertetv/arcertetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/puM1bby.png" group-title="BRASIL", REDE IBTV
 https://video01.kshost.com.br/k34006/k34006/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/sRNExH4.png" group-title="BRASIL", REDE IPITANGA TV
-https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pZ3lDcy.png" group-title="BRASIL", TV NEWS ETC
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9ubExeF.png" group-title="BRASIL", RBS MIX WEB TV
 https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/gaiXfuL.png" group-title="BRASIL", OV TV
 https://video01.logicahost.com.br/othervoice/othervoice/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/5bq2FIv.png" group-title="BRASIL", TVC PELOTAS
+https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV
 https://alanza.iptv2022.com/Rede_Nova_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
@@ -1215,6 +1215,8 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 https://alanza.iptv2022.com/TV_Educar/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CTmglaA.png" group-title="RELIGIOSO",REDE ALFA
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
