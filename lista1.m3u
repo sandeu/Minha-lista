@@ -113,6 +113,8 @@ https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008/playlist.m3u8?DVR
 https://tvcidadelivre.com.br/programacao/Transmissao.m3u8?hls_ctx=24w67wui
 #EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="BRASIL", TV ABERTA SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JES35vc.png" group-title="BRASIL", TV GRANDE ABC
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1anXdqS.png" group-title="BRASIL", TVC RIO
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="BRASIL", TV COM SANTOS
