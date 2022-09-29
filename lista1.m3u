@@ -793,6 +793,14 @@ https://video01.kshost.com.br:4443/ezequiel3930/ezequiel3930/playlist.m3u8
 https://video01.logicahost.com.br/othervoice/othervoice/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5bq2FIv.png" group-title="BRASIL", TVC PELOTAS
 https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Ek21gvj.png" group-title="BRASIL", TV ALDEIA
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rlGDGn5.png" group-title="BRASIL", GUARANTA TV
+https://stmv1.samcast.com.br/guarantaradiotv/guarantaradiotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pjfX4dA.png" group-title="BRASIL", CABOQUINHO TV
+https://5c483b9d1019c.streamlock.net/tvcaboquinhotv/tvcaboquinhotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/FV2W7bX.png" group-title="BRASIL", TV MOSTARDAS
+https://stmv5.samcast.com.br/tvmostardas/tvmostardas/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV
 https://alanza.iptv2022.com/Rede_Nova_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
@@ -1255,6 +1263,8 @@ https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
+https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="MUSICA",GOSTEI GOSPEL TV
