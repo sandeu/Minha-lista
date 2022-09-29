@@ -425,8 +425,6 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://serv1.videovox.pw/video78620/video78620/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XypKGyv.png" group-title="BRASIL",ORIUNDI TV
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MZKoxy4.png" group-title="BRASIL",VALE EUROPEU TV
-https://cdn.jmvstream.com/w/LVW-8530/LVW8530_1osFVA5kOt/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
 https://5b7f3c45ab7c2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
@@ -779,6 +777,8 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
 https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MZKoxy4.png" group-title="BRASIL",VALE EUROPEU TV
+https://cdn.jmvstream.com/w/LVW-8530/LVW8530_1osFVA5kOt/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/THN7tZP.png" group-title="BRASIL", ARCERTE TV
 https://srv1.zcast.com.br/arcertetv/arcertetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/puM1bby.png" group-title="BRASIL", REDE IBTV
