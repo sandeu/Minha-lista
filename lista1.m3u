@@ -189,8 +189,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tsmB4nl.png" group-title="BRASIL", TV CERRADO
-https://alanza.iptv2022.com/tv_cerrado/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iSUyT0e.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist_w2142918053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TaGYe96.png" group-title="BRASIL", BR SUPER TV
@@ -803,6 +801,8 @@ https://5c483b9d1019c.streamlock.net/tvcaboquinhotv/tvcaboquinhotv/playlist.m3u8
 https://stmv5.samcast.com.br/tvmostardas/tvmostardas/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Q8cK6Eh.png" group-title="BRASIL", TV CURUAI WEB
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/KOJjRcO.png" group-title="BRASIL", TV ESSENCIAL
+https://5c483b9d1019c.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/c0AHbpm.png" group-title="BRASIL", REDE NOVA TV
 https://alanza.iptv2022.com/Rede_Nova_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
