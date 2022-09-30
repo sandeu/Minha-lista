@@ -35,8 +35,6 @@ http://200.189.113.201/hls/tve.m3u8
 https://alanza.iptv2022.com/GUIA_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/LiA8dz8.png" group-title="BRASIL", TV GUARAPARI
 https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/fJlmwzV.png" group-title="BRASIL", TV BR GLOBAL
-https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
@@ -1271,6 +1269,8 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/fJlmwzV.png" group-title="RELIGIOSO", TV BR GLOBAL
+https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="MUSICA",GOSTEI GOSPEL TV
