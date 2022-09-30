@@ -35,6 +35,8 @@ http://200.189.113.201/hls/tve.m3u8
 https://alanza.iptv2022.com/GUIA_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/LiA8dz8.png" group-title="BRASIL", TV GUARAPARI
 https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/fJlmwzV.png" group-title="BRASIL", TV BR GLOBAL
+https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
@@ -781,6 +783,8 @@ https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8530/LVW8530_1osFVA5kOt/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/THN7tZP.png" group-title="BRASIL", ARCERTE TV
 https://srv1.zcast.com.br/arcertetv/arcertetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/MObO8Xn.png" group-title="BRASIL", W1 WEB TV
+https://alanza.iptv2022.com/W1_web_TV/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/puM1bby.png" group-title="BRASIL", REDE IBTV
 https://video01.kshost.com.br/k34006/k34006/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pZ3lDcy.png" group-title="BRASIL", TV NEWS ETC
