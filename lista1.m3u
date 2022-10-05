@@ -275,10 +275,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adb
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8 RONDONIA
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AGMhq7D.png" group-title="BRASIL",AW TV
+#EXTINF:-1 tvg-logo="https://imgur.com/oMKWPHM.png" group-title="BRASIL",PLAY TV
 https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FB0pCk7.png" group-title="BRASIL",TV WA
-https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/playlist.m3u8
+https://cast.ebosystems.com.br:19360/nanix5/nanix5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TjtH6e4.png" group-title="BRASIL",MAIS FAVELA TV
 https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
