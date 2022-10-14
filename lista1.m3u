@@ -593,6 +593,8 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wy4AtlL.png" group-title="BRASIL", TV SAO JOAO NET
 http://131.161.22.250:1923/BZmZmZK5y2G2ota2oty/a/BZmZmZK5y2G2ota2oty/1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a3FYzwx.png" group-title="BRASIL", MATHIAS TV
+https://stmv3.voxtvhd.com.br/mathiastv/mathiastv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="BRASIL", TV CARUARA
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rT6E9tc.png" group-title="BRASIL", AMAZING TV
