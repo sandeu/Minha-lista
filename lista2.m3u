@@ -22,8 +22,6 @@ http://168.205.87.198:8555/live/1499/123456/168.m3u8
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
 https://ydhcoch1rw.zoeweb.tv/zw9009/stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VD148Qe.png" group-title="BRASIL",ULB TV
-https://srv1.zcast.com.br/ulbtv/ulbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
