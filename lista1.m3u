@@ -788,6 +788,20 @@ https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
 https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/jBi0ObI.png" group-title="BRASIL", AMAZONIA TRAVEL WEB TV
+https://stmv1.samcast.com.br/jacob5433/jacob5433/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/eigIkuo.png" group-title="BRASIL", TV AMZ
+https://video01.logicahost.com.br/tvamz/tvamz/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Hl5SaZm.png" group-title="BRASIL", CMD TV
+https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/LZAO0lF.png" group-title="BRASIL", TV METEORO
+https://5a0c3936c25c8.streamlock.net/8012/8012/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/nTUJggl.png" group-title="BRASIL", TV JOVEM HITS
+https://video01.kshost.com.br/joao9563/joao9563/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/wKFre7L.png" group-title="BRASIL", 7 TVS 
+https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/sqomxhe.png" group-title="BRASIL", WEB TV NPFD
+https://stmv1.voxtvhd.com.br/webtvmpdf/webtvmpdf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MZKoxy4.png" group-title="BRASIL",VALE EUROPEU TV
 https://cdn.jmvstream.com/w/LVW-8530/LVW8530_1osFVA5kOt/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FrlsJ90.png" group-title="BRASIL",WEB TV TRIANGULO
