@@ -30,6 +30,8 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 http://45.232.196.7:5000/live/UNIVESP/720p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", TV EDUCACAO
 http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL", VIVA E EDUQUE
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
@@ -414,6 +416,8 @@ https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XDqPzgZ.png" group-title="BRASIL", ZOOM MUSIC
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
+https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vFm4Bmx.png" group-title="BRASIL", CLASSICOS DO CINEMA
