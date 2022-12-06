@@ -4,6 +4,34 @@
 
 
 
+#EXTINF: -1 tvg-logo="https://imgur.com/4iBmTJZ.png" group-title="BRASIL", UNIVESP TV
+http://45.232.196.7:5000/live/UNIVESP/720p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", TV EDUCACAO
+http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/LiA8dz8.png" group-title="BRASIL", TV GUARAPARI
+https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JVjcC1i.png" group-title="BRASIL", TV DA CIDADE SP
+https://cdn.cdnseguro.com/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JES35vc.png" group-title="BRASIL", TV GRANDE ABC
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D6iiRTp.png" group-title="BRASIL", TV PARANAIBA
+https://app.paranaibaplay.com.br/mobile/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8QLpFvA.png" group-title="BRASIL", SPARK TV 
+https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
+https://hollywire-samsung-3-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8 BRASIL
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
+https://alanza.iptv2022.com/TV_TOKYO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JaFwfu5.png" group-title="BRASIL",RCI TV
+https://serv1.videovox.pw/video78620/video78620/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FI5h4u5.png" group-title="BRASIL",TV PORTAL WEB
+https://srv5.zcast.com.br/tvportalweb/tvportalweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oMKWPHM.png" group-title="BRASIL",PLAY TV
+https://cast.ebosystems.com.br:19360/nanix5/nanix5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oinpj8m.png" group-title="BRASIL",TVS CEARA
 https://stmv1.srvif.com/tvs/tvs/playlist.m3u8
