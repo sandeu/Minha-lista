@@ -396,9 +396,7 @@ https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vFm4Bmx.png" group-title="BRASIL", CLASSICOS DO CINEMA
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", WEB TV CLASSICOS DO CINEMA
+#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
