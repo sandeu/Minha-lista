@@ -3,6 +3,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
+https://srv5.zcast.com.br/jonas3261/jonas3261/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jVistj5.png" group-title="BRASIL",  REDE MEIO NORTE IMPERATRIZ
+https://cdn.jmvstream.com/w/LVW-10749/ngrp:LVW10749_ZfF2FU5mva_all/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/4iBmTJZ.png" group-title="BRASIL", UNIVESP TV
 http://45.232.196.7:5000/live/UNIVESP/720p.m3u8
