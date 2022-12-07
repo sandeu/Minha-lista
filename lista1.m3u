@@ -364,10 +364,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
-https://srv5.zcast.com.br/jonas3261/jonas3261/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jVistj5.png" group-title="BRASIL",  REDE MEIO NORTE IMPERATRIZ
-https://cdn.jmvstream.com/w/LVW-10749/ngrp:LVW10749_ZfF2FU5mva_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
 https://alanza.iptv2022.com/RedeMetropole-ptbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
@@ -430,8 +426,6 @@ https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
 https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6u0whXr.png" group-title="BRASIL", TV FAMILIA
-https://alanza.iptv2022.com/TV_FAMILIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nCyuPHg.png" group-title="BRASIL",TV RABELO
@@ -457,7 +451,7 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
-https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/playlist.m3u8
+https://srv4.zcast.com.br/keynnidouglas9516/keynnidouglas9516/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4gBJJz.png" group-title="BRASIL", UNI WEB TV
