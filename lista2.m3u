@@ -3,6 +3,12 @@
 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
+https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
 https://srv5.zcast.com.br/jonas3261/jonas3261/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jVistj5.png" group-title="BRASIL",  REDE MEIO NORTE IMPERATRIZ
