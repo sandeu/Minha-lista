@@ -1392,6 +1392,8 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hwepBXB.png" group-title="MUSICA", MCM TOP
+http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DaWz8AL.png" group-title="MUSICA", FARRA TV
 http://159.203.148.226/live/farra_src.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BrG3aEE.png" group-title="MUSICA", BOX PLAYLIST
