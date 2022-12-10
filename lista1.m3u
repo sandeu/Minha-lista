@@ -1354,6 +1354,8 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-logo="https://imgur.com/28iIVGo.png" group-title="MUSICA", DRONE CHANNEL
 https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
+https://amg00447-qwesttv-qwestmixbr-samsungbr-ya1xf.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST CLASSIC
 https://qwest-classic-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
