@@ -3,8 +3,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
-https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  NETMOVIES
+https://samsungnetmovies.ottvs.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  NETMOVIES
+https://samsungnetmovies.ottvs.com.br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  NETMOVIES
+https://samsungnetmovies.ottvs.com.br/playlist.m3u8
 
 
 
