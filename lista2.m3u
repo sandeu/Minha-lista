@@ -2,6 +2,18 @@
 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
+https://grjngo-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
+https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TESTE
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/subtitle/pt/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-8bf3e13f-ae8c-4ad7-92c1-4015e9622564&deviceDNT=0&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=%7BUS_PRIVACY%7D&appName=samsungtvplus&deviceId=e1760207-0a78-8a50-619d-f898605668f9&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true	80
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TESTE
