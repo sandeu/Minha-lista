@@ -14,7 +14,10 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  TSV
 https://cdn-ue1-prod.tsv2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
-https://qwesttv-qwestmixbr-samsungbr-ya1xf.amagi.tv/playlist.m3u8
+https://amg00447-qwesttv-qwestmixbr-samsungbr-ya1xf.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
+https://amg00447-qwesttv-qwestmixbr-samsungbr-ya1xf.amagi.tv	53/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
 https://qwesttv-qwestmixbr-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
@@ -29,8 +32,6 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://amogonetworx-grjngo-1-br.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="BRASIL", CINDIE LITE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TESTE
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/subtitle/pt/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-8bf3e13f-ae8c-4ad7-92c1-4015e9622564&deviceDNT=0&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=%7BUS_PRIVACY%7D&appName=samsungtvplus&deviceId=e1760207-0a78-8a50-619d-f898605668f9&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true	80
@@ -173,8 +174,6 @@ https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-10738/playlist/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TacWanu.png" group-title="BRASIL", RG TV
 https://stmv2.samcast.com.br/italo8170/italo8170/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H9dfvnU.png" group-title="BRASIL", YEEAH TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JCPeNgg.png" group-title="BRASIL",TV SHOW DE BOLA
 https://videodj.fm5.com.br:19360/showdebola/showdebola.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fh2bo3k.png" group-title="BRASIL",WEB TV OLHO DAGUA
@@ -213,8 +212,6 @@ https://srv2.zcast.com.br/alertanoticia/alertanoticia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
 https://canal1.proxy.tokplay.com.br/streams/GAZETA/auto.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tgZebrp.png" group-title="BRASIL",URBAN SERIES
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIC TV SERIES
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 
@@ -266,8 +263,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/playchann
 #EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL",PLAY CHANNEL
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/playchannelsp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8ZlIniM.png" group-title="BRASIL",WEB TV CLASSICOS DO CINEMA fora do ar
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LwyAhnb.png" group-title="BRASIL", LONDRINA TV   fora do ar
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Plt53Lr.png" group-title="BRASIL",TV PIONEIRA   fora do ar
