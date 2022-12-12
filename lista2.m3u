@@ -9,7 +9,7 @@ https://samsungnetmovies.ottvs.com.br/playlist.m3u8
 https://samsungnetmovies.ottvs.com.br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  NETMOVIES
 https://dp4a7qfc9jbcq.cloudfront.net/out/v1/samsungnetmovies.ottvs.com.br/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
+#EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="BRASIL",QWEST JAZZ
 https://qwest-mix-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  AGORA TV
 https://agoratv-lg.amagi.tv/playlist.m3u8
@@ -21,10 +21,16 @@ https://mmc-lg.amagi.tv/playlist.m3u8
 https://flash-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  FLASH
 https://olympusat-flashlatam-lg-br-k8t6p.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",brandusa
+#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="BRASIL",brandusa
 https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",newkfood
+#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="BRASIL",newkfood
 https://newidco-newkfood-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="BRASIL",wanna see
+https://thema-wannasee-lg-br.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="BRASIL",horrorfy
+https://horrorfy-lglatam.amagi.tv/playlist.m3u8
+
+
 
 
 
