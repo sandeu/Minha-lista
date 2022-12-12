@@ -1444,6 +1444,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XZvXhUo.png" group-title="MUSICA",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P2ZC9Wu.png" group-title="MUSICA",VIVALDI TV
+https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TIERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/umg86Bs.png" group-title="MUSICA",NASHVILLE COUNTRY TV
@@ -1510,5 +1512,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/qm0S9JU.png" group-title="INTERNET", LOUPE
+https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
 
