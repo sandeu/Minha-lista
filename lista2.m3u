@@ -16,7 +16,10 @@ https://dp4a7qfc9jbcq.cloudfront.net/out/v1/samsungnetmovies.ottvs.com.br/playli
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  GRJNGO
 https://amogonetworx-grjngo-1-br.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  TOP CINE
+https://topcinelatam-lglatam.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  CINE SURENO
+https://cinesureno-lglatam.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TESTE
