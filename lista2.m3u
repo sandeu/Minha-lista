@@ -19,6 +19,12 @@ https://mmc-lg.amagi.tv/playlist.m3u8
 https://flash-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  FLASH
 https://olympusat-flashlatam-lg-br-k8t6p.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",horrorfy
+https://olympusamagi.amagi.tv/hls/horrorfy-lglatam.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Usa Today (Geo)
+https://usatodaynewsinternational-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Dustin International 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8
 
 
 
