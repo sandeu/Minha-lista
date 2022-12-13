@@ -1520,4 +1520,65 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qm0S9JU.png" group-title="INTERNET", LOUPE
 https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",  agora tv
+https://agoratv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",go usa
+https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",wanna see
+https://thema-wannasee-lg-br.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",mubeat
+https://newidco-mubeat-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",mubeat
+https://newidco-mubeat-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",new kid
+https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",fuel tv
+https://fueltv-fueltv-23-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Origin Sports
+https://raycoms-originsports.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",new kkood
+https://newidco-newkfood-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",gusto tv
+https://gustotv-gustotv-2-br.lg.wurl.tv	/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",fashion tv
+https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",bloomberg tv
+https://bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",bloomberg quicktake tv
+https://bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Usa Today (Geo)
+https://usatodaynewsinternational-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",billiards tv
+https://newidco-billiardstv-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",ygtv
+https://newidco-ygtv-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",failarmy
+https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",people are awesome
+https://jukin-peopleareawesome-international-4-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",the pet collective
+https://jukin-thepetcollective-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Chiquilines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",horrorfy
+https://olympusamagi.amagi.tv/hls/horrorfy-lglatam.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Cine Sureno
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Dustin International 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Television CONCIENTES
+https://television-concientes-lgbr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Dove Now
+https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Qwest Mix
+https://qwest-mix-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Qwest Classic
+https://qwest-classic-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Qwest Jazz
+https://qwest-jazz-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Vivaldi TV 
+https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
+
 
