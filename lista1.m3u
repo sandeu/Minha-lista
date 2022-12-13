@@ -1544,8 +1544,6 @@ https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
 https://bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",bloomberg quicktake tv
 https://bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Usa Today (Geo)
-https://usatodaynewsinternational-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",billiards tv
 https://newidco-billiardstv-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",ygtv
@@ -1558,16 +1556,12 @@ https://jukin-peopleareawesome-international-4-br.lg.wurl.tv/playlist.m3u8
 https://jukin-thepetcollective-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Chiquilines
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",horrorfy
-https://olympusamagi.amagi.tv/hls/horrorfy-lglatam.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Cine Sureno
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Dove Now
 https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Dustin International 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Television CONCIENTES
 https://television-concientes-lgbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Qwest Mix
