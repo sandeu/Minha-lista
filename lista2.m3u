@@ -96,8 +96,6 @@ https://app.paranaibaplay.com.br/mobile/tv/playlist.m3u8
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8QLpFvA.png" group-title="BRASIL", SPARK TV 
 https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
-https://hollywire-samsung-3-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElF87wf.png" group-title="BRASIL",TV TOKYO
