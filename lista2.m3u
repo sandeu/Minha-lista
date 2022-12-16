@@ -1,42 +1,15 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d7luqmstmj331.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://dp4a7qfc9jbcq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d3bc7jjvdyg4fk.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://dletvjdknba4f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://dr52nz2dfv5e3.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d12f70rc9elynx.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://dzrk0d1qlxpkn.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d2gjhy8g9ziabr.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://drwbpzo1gm63j.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d9iolq8i32vdl.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d1m2oqbo1mlc01.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d2onzzjj60kwf4.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://dp4a7qfc9jbcq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d1kgwz40fr2t19.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://lcprd1.samsungcloudsolution.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
-https://d7luqmstmj331.cloudfront.net/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
+https://a.cdni.live/tvclassicos/tvclassicos/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/uiwjXOl.png" group-title="BRASIL", STRIKER VERSO
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgcZ6la.png" group-title="MUSICA",COLINA TV
@@ -89,6 +62,10 @@ https://alanza.iptv2022.com/TV_GENIALL/index.m3u8
 https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jJDBq4K.png" group-title="BRASIL",TV NOVA FASE
 https://alanza.iptv2022.com/TV_NOVA_FASE/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mMf5ufl.png" group-title="BRASIL", YELLOW TV
+https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XDqPzgZ.png" group-title="BRASIL", ZOOM MUSIC
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/IzXzzR2.png" group-title="BRASIL", TV VIDA FORMOSA
 https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
