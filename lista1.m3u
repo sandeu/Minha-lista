@@ -1002,8 +1002,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:-1 tvg-logo="https://imgur.com/ZWX3Fnt.png" group-title="DESENHOS", XILAM TV
-https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/vQCAET1.jpg" group-title="DESENHOS", TELESUR COSTA RICA
@@ -1074,8 +1072,6 @@ https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 https://virtues.es:1936/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
-#EXTINF:-1 tvg-logo="https://imgur.com/waRkqZc.png" group-title="ESTUDIO FM", RADIO TRIBUNA FM
-https://serv2.videovox.pw/marcelo8576/marcelo8576/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
@@ -1134,8 +1130,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f43
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://imgur.com/8idDaav.png" group-title="ESPORTES",XFC TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
-#EXTINF:-1 tvg-logo="https://imgur.com/7BbtneM.png" group-title="ESPORTES", BOXING
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/2ojj4X0.png" group-title="ESPORTES", FIGHT
@@ -1160,6 +1154,8 @@ https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
 https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="RELIGIOSO",TV FRONTEIRA KIDS
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="PORTUGAL", KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ikedHwg.png" group-title="RELIGIOSO", TV GERMANA
@@ -1177,7 +1173,7 @@ https://stmv6.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",REDE SECULO 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fn1iUxg.png" group-title="RELIGIOSO",REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5Gm1owq.png" group-title="RELIGIOSO",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="RELIGIOSO",TVCI
@@ -1210,8 +1206,6 @@ https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1ehbe5T.png" group-title="RELIGIOSO",REDE 21
-https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPMrWZZ.png" group-title="RELIGIOSO",IMPD TV
@@ -1228,11 +1222,9 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/fJlmwzV.png" group-title="RELIGIOSO", TV BR GLOBAL
-https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zm8efEr.png" group-title="RELIGIOSO",ABC BRASIL
 https://cdn.jmvstream.com/w/AVJ-9723/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="PORTUGAL", KURIAKOS MUSIC
+#EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
