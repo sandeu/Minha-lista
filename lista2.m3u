@@ -173,6 +173,14 @@ http://168.205.87.198:8555/live/1499/123456/168.m3u8
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
 https://ydhcoch1rw.zoeweb.tv/zw9009/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZWX3Fnt.png" group-title="DESENHOS", XILAM TV
+https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/waRkqZc.png" group-title="ESTUDIO FM", RADIO TRIBUNA FM
+https://serv2.videovox.pw/marcelo8576/marcelo8576/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1ehbe5T.png" group-title="RELIGIOSO",REDE 21
+https://origin-02.nxplay.com.br/CANAL_21/tracks-v1a1a2/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/fJlmwzV.png" group-title="RELIGIOSO", TV BR GLOBAL
+https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/gmsRZyY.png" group-title="BRASIL",TV MAIS NEWS
 http://eventials-i.akamaihd.net/hls/live/746370/uymfm3v51659vk7t/playlist.m3u8
@@ -548,8 +556,6 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="PORTUGAL", KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r8ZzMtG.png" group-title="PORTUGAL",PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EHOdf74.png" group-title="PORTUGAL",CANCAO NOVA PORTUGAL
