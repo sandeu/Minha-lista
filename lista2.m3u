@@ -1,6 +1,15 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  teste
+https://d7luqmstmj331.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  teste
+https://dl27mmj7tlts0.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  teste
+https://dr52nz2dfv5e3.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  teste
+https://dxmy6u2c9ad0l.cloudfront.net/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  NETMOVIES
