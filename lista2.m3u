@@ -9,6 +9,12 @@ https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 https://a.cdni.live/tvclassicos/tvclassicos/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uiwjXOl.png" group-title="BRASIL", STRIKER VERSO
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1IJco4.png" group-title="BRASIL", TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GpcpIO0.png" group-title="BRASIL", TV CONQUISTA
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
