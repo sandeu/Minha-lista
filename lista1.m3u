@@ -1232,6 +1232,8 @@ https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 https://alanza.iptv2022.com/TV_BR_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zm8efEr.png" group-title="RELIGIOSO",ABC BRASIL
 https://cdn.jmvstream.com/w/AVJ-9723/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="PORTUGAL", KURIAKOS MUSIC
+https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="MUSICA",GOSTEI GOSPEL TV
@@ -1276,8 +1278,6 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="MUSICA", POP PEGAJOSO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-logo="https://imgur.com/28iIVGo.png" group-title="MUSICA", DRONE CHANNEL
-https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST MIX
 https://qwest-mix-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST CLASSIC
@@ -1289,7 +1289,7 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+https://tv.broadcasting.ro/memfs/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tScmQ85.png" group-title="MUSICA",ROCK TV
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
@@ -1322,14 +1322,10 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hwepBXB.png" group-title="MUSICA", MCM TOP
-http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DaWz8AL.png" group-title="MUSICA", FARRA TV
 http://159.203.148.226/live/farra_src.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BrG3aEE.png" group-title="MUSICA", BOX PLAYLIST
 https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mzDe7zV.png" group-title="MUSICA", RADIO BEST MUSIC
-https://stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JdKGatq.png" group-title="MUSICA",MUNDO DE LA MUSICA TV
 https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w879483746.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JJ8dbcY.png" group-title="MUSICA",RADIO ITALIA TV
@@ -1340,8 +1336,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2lfDgx.png" group-title="MUSICA",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6ZPdRJV.png" group-title="MUSICA",CAROLINA TV
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="MUSICA", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="MUSICA",POWER TV
@@ -1353,7 +1347,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="MUSICA",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="MUSICA",RADIO M20
@@ -1382,42 +1376,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e0900076858
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/plKfKlQ.png" group-title="MUSICA",VEVO 2000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF: -1 tvg-logo="https://imgur.com/aVAYRWx.png" group-title="PORTUGAL", SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/Uic8Y3u.png" group-title="PORTUGAL",TVI REALITY 1
-https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8?
-#EXTINF: -1 tvg-logo="https://imgur.com/Uic8Y3u.png" group-title="PORTUGAL",TVI REALITY 2
-https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-240p/chunks.m3u8?
-#EXTINF: -1 tvg-logo="https://imgur.com/Wj7JwNw.png" group-title="PORTUGAL", CANAL 11
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/4vMggOb.png" group-title="PORTUGAL", TDM - Teledifusão de Macau (PT)
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ON65K42.png" group-title="PORTUGAL",KURIAKOS CINE
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lT3zixV.png" group-title="PORTUGAL", KURIAKOS TV
-http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="PORTUGAL", KURIAKOS MUSIC
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="PORTUGAL", KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r8ZzMtG.png" group-title="PORTUGAL",PORTO CANAL
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EHOdf74.png" group-title="PORTUGAL",CANCAO NOVA PORTUGAL
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IZMlyyQ.png" group-title="PORTUGAL",TV ALMADA
-https://joaocaiado.com:1443/adalmada_tv/ngrp:adalmada_tv_all/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qn1uV4v.png" group-title="PORTUGAL",TV MANA 1
-http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9ikpbL3.png" group-title="PORTUGAL", IES TV Igreja do Espírito Santo
-https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4JNqWi.png" group-title="INTERNET",FAILARMY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",PEOPLE ARE AWESOME
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IuQh1ps.png" group-title="INTERNET",THE PET COLECTIVE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/ebPtDmR.png" group-title="INTERNET",OH MY PET
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2acdab16f5b3000721ae2c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="INTERNET",CHIVE TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FgNjrw3.png" group-title="INTERNET",ALWAYS FUNNY VIDEOS
