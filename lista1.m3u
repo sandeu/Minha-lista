@@ -1220,7 +1220,11 @@ https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W7sP97c.png" group-title="RELIGIOSO",REDE TV FAMILIA
 https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV FILMES
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV
+https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV 2
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
