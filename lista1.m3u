@@ -1076,6 +1076,10 @@ https://virtues.es:1936/indfm/indfm/playlist.m3u8
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
+#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="ESTUDIO FM", RADIO CLUBE FM 99
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
