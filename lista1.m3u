@@ -1049,7 +1049,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/twqYjb5.png" group-title="ESTUDIO FM", TERE FM TV
-https://alanza.iptv2022.com/TEREFMTV/playlist.m3u8
+https://livefocamundo.com:8081/terefmco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
@@ -1064,8 +1064,10 @@ https://qfm.ddns.net/hlsq/index.m3u8
 https://video01.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z8gKdP3.png" group-title="ESTUDIO FM", RADIO CLUBE FM
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="ESTUDIO FM", RADIO CLUBE FM 99
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
 #EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="ESTUDIO FM", RADIO TV MONTANHESA
-https://qfm.ddns.net/hlsm/index.m3u8
+https://qfm.ddns.net/hlsmErv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
@@ -1074,12 +1076,16 @@ https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 https://virtues.es:1936/indfm/indfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
-#EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
-https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
-#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="ESTUDIO FM", RADIO CLUBE FM 99
-https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
+#EXTINF:-1 tvg-logo="https://imgur.com/KBVlGkh.png" group-title="ESTUDIO FM", 98 FM
+https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/saSgBpC.png" group-title="ESTUDIO FM", RADIO ELDORADO
+https://cdn.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w261558147.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
+https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
