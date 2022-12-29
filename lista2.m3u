@@ -15,6 +15,10 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uLn6L8q.png" group-title="BRASIL", TV NOVA FAMILIA
+https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
+https://srv4.zcast.com.br/keynnidouglas9516/keynnidouglas9516/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
