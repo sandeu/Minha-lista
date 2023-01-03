@@ -45,7 +45,7 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0aZw4CM.png" group-title="BRASIL",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vI1ttGb.png" group-title="BRASIL",REDE BELA ALIANCA
-https://streaming03.zas.media:1936/rbatv/rbatv/playlist.m3u8
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
 http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="BRASIL", TVE ES
@@ -1286,6 +1286,8 @@ https://alanza.iptv2022.com/TVRADIO_LITORAL/playlist.m3u8
 https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6mRBUdF.png" group-title="MUSICA", RTL CLASSICS
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w723094205.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dJCf0di.png" group-title="MUSICA", DO FUNDO DO BAU
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1uciGnU.png" group-title="MUSICA",TV IMAGEM
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 #EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
