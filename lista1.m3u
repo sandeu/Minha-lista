@@ -226,6 +226,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SPARK TV
 https://d3jsl817hmfevn.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jhCH444.png" group-title="BRASIL",REDE ITV
+https://5c483b9d1019c.streamlock.net/miguel1318/miguel1318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="BRASIL",SOUL CINE CLUBE 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/d4Zq0sE.png" group-title="BRASIL",SOUL KIDS
