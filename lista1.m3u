@@ -33,7 +33,7 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
-https://alanza.iptv2022.com/GUIA_TV/index.m3u8
+https://alanza.iptv2022.com/GUIA_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO 2
@@ -63,7 +63,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
 https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1672775127~exp=1672781727~acl=/*~hmac=b062a5ce395ff67708ef5c6308303bcfe36342408a628547c5df5b5521becfe5
 #EXTINF:-1 tvg-logo="https://imgur.com/kQh2rI7.png" group-title="BRASIL", TV NTV
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE
