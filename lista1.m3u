@@ -364,6 +364,8 @@ https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="BRASIL",TV KIDS MAIS
 https://alanza.iptv2022.com/REDE_NOVA_FAMILIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="BRASIL",TV KIDS MAIS
+https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
@@ -412,6 +414,8 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
+http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
