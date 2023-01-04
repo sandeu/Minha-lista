@@ -50,14 +50,14 @@ https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="BRASIL", TVE ES
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NIBMqrg.png" group-title="BRASIL", TV ESCOLA
+http://168.205.87.198:8555/live/1368/123456/137.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
-http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
@@ -145,7 +145,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
-https://alanza.iptv2022.com/TVPAMPA-ptbr/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
@@ -478,6 +478,8 @@ https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="BRASIL", WEB TV XTREME
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MRL TV
 https://alanza.iptv2022.com/Murilo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YwhYERD.png" group-title="BRASIL", NOVA MANCHETE TV
