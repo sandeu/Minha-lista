@@ -128,6 +128,8 @@ https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/index.m3u8
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT BRASILIA
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Eim2EzC.png" group-title="BRASIL", TV IGUACU REDE MASSA
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="BRASIL", BEM TV
