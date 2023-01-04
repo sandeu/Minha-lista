@@ -407,9 +407,9 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8L8pE8M.png" group-title="BRASIL", FANDOM TV
-https://alanza.iptv2022.com/Fandom_TV/playlist.m3u8
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GFm3pXL.png" group-title="BRASIL", CLC TV
-https://alanza.iptv2022.com/CLC/index.m3u8
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="BRASIL",KTV BRASIL
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
@@ -645,7 +645,7 @@ https://stmv1.srvstm.com/tvfenixbahia/tvfenixbahia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YMiXZkT.png" group-title="BRASIL",TV CHAPADA
 https://tvchapada.proxy.tokplay.com.br/main.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
-https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hI0sRVs.png" group-title="BRASIL", TV CAXIAS
 https://alanza.iptv2022.com/TV_CAXIAS/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tcIBdQo.png" group-title="BRASIL", REDE SUL TV
