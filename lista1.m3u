@@ -1120,6 +1120,8 @@ https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w2
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oOIB3QZ.png" group-title="ESPORTES", URBAN SPORTS
+https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
 https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
