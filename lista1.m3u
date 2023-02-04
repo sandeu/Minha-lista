@@ -910,6 +910,8 @@ https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E5QEy0u.png" group-title="BRASIL",TV POP BRASIL
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="BRASIL",TV RECONCAVO
+https://video01.kshost.com.br:4443/tv7999/tv7999/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mzt7BL0.png" group-title="TELEVENDAS",TRADE TV
 https://live.mediastreaming.com.br/TRADE/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
