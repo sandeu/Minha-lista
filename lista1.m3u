@@ -518,6 +518,8 @@ https://Stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c8T2eyr.png" group-title="BRASIL", TV SAO CAETANO
 https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE
+https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zm8efEr.png" group-title="BRASIL",ABC BRASIL
