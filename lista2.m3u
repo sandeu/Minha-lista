@@ -2,6 +2,25 @@
 
 
 
+
+
+#EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
+https://alanza.iptv2022.com/GUIA_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QTfmOoQ.png" group-title="BRASIL",BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Z8xAWU.png" group-title="BRASIL", TV CIDADE LIVRE
+https://tvcidadelivre.com.br/programacao/Transmissao.m3u8?hls_ctx=24w67wui
+#EXTINF:-1 tvg-logo="https://imgur.com/VYoKxBj.png" group-title="BRASIL",TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tsmB4nl.png" group-title="BRASIL", REDE CERRADO
+https://srv6.zcast.com.br/juarez2804/juarez2804/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tsmB4nl.png" group-title="BRASIL", TV CERRADO
+https://alanza.iptv2022.com/tv_cerrado/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ntBrXZR.png" group-title="BRASIL",REDE AMERICA
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/d4Zq0sE.png" group-title="BRASIL",SOUL KIDS
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
