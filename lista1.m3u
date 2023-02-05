@@ -1418,7 +1418,7 @@ https://qwest-mix-lg.amagi.tv/playlist.m3u8
 https://qwest-classic-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Qwest Jazz
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG",Vivaldi TV 
+#EXTINF:-1 tvg-logo="https://imgur.com/dYaVFdB.png" group-title="LG", Vivaldi TV 
 https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
 
 
