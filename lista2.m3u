@@ -88,7 +88,10 @@ https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-9818/playlist/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Lm7YXBA.png" group-title="BRASIL", SUL AMERICA TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/bOMkXtp.png" group-title="BRASIL",CREATIVE TV BRASIL
+https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/rrNIqAb.png" group-title="BRASIL", RDTV DIGITAL
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/d4Zq0sE.png" group-title="BRASIL",SOUL KIDS
