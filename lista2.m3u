@@ -4,8 +4,6 @@
 
 
 
-#EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
-https://alanza.iptv2022.com/GUIA_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QTfmOoQ.png" group-title="BRASIL",BCC TV
