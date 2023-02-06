@@ -103,8 +103,6 @@ http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GFm3pXL.png" group-title="BRASIL", CLC TV
 http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="BRASIL",TV KIDS MAIS
-https://alanza.iptv2022.com/REDE_NOVA_FAMILIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="BRASIL",TV KIDS MAIS
 https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
