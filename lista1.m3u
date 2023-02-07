@@ -1128,9 +1128,9 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/AkcsVlD.png" group-title="ESPORTES", TELETRACK 
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="RELIGIOSO",TV FRONTEIRA MOVIES
-https://alanza.iptv2022.com/FRONTEIRA_MOVIES/index.m3u8
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="RELIGIOSO",TV FRONTEIRA CHANNEL
-https://alanza.iptv2022.com/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
+https://srv4.zcast.com.br/fronteirachannel/fronteirachannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="RELIGIOSO",TV FRONTEIRA KIDS
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO", KURIAKOS KIDS
@@ -1172,7 +1172,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
-https://cdn.jmvstream.com/w/AVJ-10022/playlist/chunklist.m3u8
+https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
