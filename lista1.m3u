@@ -16,7 +16,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF:-1 tvg-logo="https://imgur.com/wsKWNoS.png" group-title="BRASIL", TV ZONA DA MATA
 https://video01.logicahost.com.br/tvzonadamata/tvzonadamata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE
+#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL", CATVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL",CATVE 2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
@@ -30,7 +30,7 @@ http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL", TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL", VIVA E EDUQUE
+#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
