@@ -31,7 +31,7 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL", PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL", TV POCOS
+#EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL",TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
