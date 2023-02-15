@@ -181,8 +181,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
-https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
@@ -300,7 +298,7 @@ https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
-https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
+https://acesso.ecast.site:3922/live/redengtlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="BRASIL",EU TV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
@@ -341,8 +339,6 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MURILO TV
 https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YwhYERD.png" group-title="BRASIL", NOVA MANCHETE TV
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1089486285.m3u8
 x#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
