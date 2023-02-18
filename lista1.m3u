@@ -193,6 +193,8 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w246538444_b227
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Z6DTZq.png" group-title="BRASIL",REDE FAMILIA
+https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
