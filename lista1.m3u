@@ -213,7 +213,7 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TaGYe96.png" group-title="BRASIL", BR SUPER TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rVKGCL5.png" group-title="BRASIL", TV ECOVALE
+#EXTINF:-1 tvg-logo="https://imgur.com/rVKGCL5.png" group-title="BRASIL",TV ECOVALE
 https://livefocamundo.com:8081/tvecovale/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="BRASIL", TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
