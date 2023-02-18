@@ -97,6 +97,18 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="BRASIL",ENTRETENDO
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
+http://cdn.connectbr.com.br/Hello/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
+http://cdn.connectbr.com.br/Inspire/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KCXKprb.png" group-title="BRASIL",REDE MOSAICO
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ypgLUt7.png" group-title="BRASIL",YES LIFE
+http://cdn.connectbr.com.br/Life/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Biv3ZbJ.png" group-title="BRASIL",UP CHANNEL
+http://cdn.connectbr.com.br/UPChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRebuO1.png" group-title="BRASIL",PHOENIX TV
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a68bw6H.png" group-title="BRASIL",UNREEL BR
@@ -183,6 +195,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
+https://node1.ecast.site:3502/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
@@ -337,6 +351,8 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j26mDkh.png" group-title="BRASIL", POLIDORO TV
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MAiMYi2.png" group-title="BRASIL", MURILO TV
