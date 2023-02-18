@@ -187,14 +187,12 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sks0cne.png" group-title="BRASIL",TV LUZILANDIA
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jeuT3Pc.png" group-title="BRASIL",REDE FAMILIA
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w246538444_b2270208.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Z6DTZq.png" group-title="BRASIL",REDE FAMILIA
+https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0Z6DTZq.png" group-title="BRASIL",REDE FAMILIA
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
