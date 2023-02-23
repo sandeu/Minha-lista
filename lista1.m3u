@@ -266,7 +266,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/276FuIH.png" group-title="BRASIL",PET LOVERS TV
-https://acesso.ecast.site:3660/stream/play.m3u8
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/33msz2e.png" group-title="BRASIL",TASTEMADE
