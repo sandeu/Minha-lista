@@ -535,6 +535,8 @@ https://stmv1.srvstm.com/victor7513/victor7513/.m3u8
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/q9oBxiz.png" group-title="BRASIL", 40 GRAUS TV 
 https://acesso.ecast.site:3125/stream/play.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/FIvxKns.png" group-title="BRASIL", TV KOBERTURA
+https://video01.kshost.com.br:4443/cesar6293/cesar6293/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/nabXcv1.png" group-title="BRASIL", WEB TV ALTERNATIVA
 https://stmv5.samcast.com.br/celio5934/celio5934/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/690916p.png" group-title="BRASIL",TV RBC
