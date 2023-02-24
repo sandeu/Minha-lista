@@ -1329,6 +1329,8 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="MUSICA",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OXk87kh.png" group-title="MUSICA",BALLE BALLE
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
