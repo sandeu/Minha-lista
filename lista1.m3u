@@ -1295,9 +1295,11 @@ http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt8SXxy.png" group-title="MUSICA", RADIO CAPITAL TIVU
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YyCciZF.png" group-title="MUSICA", REAL MUSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/43631702-6481-469c-ad34-d5c9bbf4ab4e/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8iTx50s.png" group-title="MUSICA", OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bKmebRv.png" group-title="MUSICA",REWIND TV
+#EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LN0KVDo.png" group-title="MUSICA",KERRANG TV
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
@@ -1379,8 +1381,8 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qm0S9JU.png" group-title="INTERNET", LOUPE
 https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/TZvMiiu.png" group-title="INTERNET", QUIETUDE 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/8c908ec5-15bd-4cc9-b21f-c2725fdf84d5/0.m3u8
 
 
 
