@@ -1387,7 +1387,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-sams
 https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TZvMiiu.png" group-title="INTERNET", QUIETUDE 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/8c908ec5-15bd-4cc9-b21f-c2725fdf84d5/0.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/RPaVEFU.png" group-title="INTERNET", FISH TANK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/6f277f68-bc5b-4724-80ed-8e03bb6d9142/1.m3u8
 
 
