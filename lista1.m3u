@@ -463,6 +463,8 @@ https://stmv7.samcast.com.br/alexandreantoniodasilva9954/alexandreantoniodasilva
 https://livefocamundo.com:8081/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q7BmXXw.png" group-title="BRASIL", TV NORDESTE
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL", TV RECON
+https://node1.ecast.site:3021/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
