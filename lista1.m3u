@@ -1148,7 +1148,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
-https://stmv6.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
+https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",REDE SECULO 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fn1iUxg.png" group-title="RELIGIOSO",REDE VIDA
@@ -1160,7 +1160,7 @@ https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nKPnbQS.png" group-title="RELIGIOSO",TV VITORIA PE
-https://novo.bitstreaming.info/tvvitoriape/tvvitoriape/playlist.m3u8
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BvoOz3J.png" group-title="RELIGIOSO",TV EDUCAR
@@ -1212,7 +1212,7 @@ https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u
 #EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zm8efEr.png" group-title="RELIGIOSO",ABC BRASIL
-https://cdn.jmvstream.com/w/AVJ-9723/playlist/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-12986/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
