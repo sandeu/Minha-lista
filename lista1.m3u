@@ -516,7 +516,7 @@ https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/KIXTT1i.png" group-title="BRASIL", TV ESTACAO
 https://5d82644094cc0.streamlock.net/estacao104tv/estacao104tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3igIxnk.png" group-title="BRASIL",TVI VILA IMPERIAL
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/sRNExH4.png" group-title="BRASIL", REDE IPITANGA TV
@@ -917,8 +917,6 @@ https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E5QEy0u.png" group-title="BRASIL",TV POP BRASIL
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="BRASIL",TV RECONCAVO
-https://video01.kshost.com.br:4443/tv7999/tv7999/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mzt7BL0.png" group-title="TELEVENDAS",TRADE TV
 https://live.mediastreaming.com.br/TRADE/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1173,10 +1171,16 @@ https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playli
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS BELEM
+#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/10199127/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
+https://video01.kshost.com.br:4443/tv7999/tv7999/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
 https://video01.kshost.com.br:4443/gente8322/gente8322/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
@@ -1333,6 +1337,8 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="MUSICA",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="MUSICA",MAIS UM
+https://stream.ichibantv.ga:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OXk87kh.png" group-title="MUSICA",BALLE BALLE
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
