@@ -1134,7 +1134,7 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="RELIGIOSO",TV FRONTEIRA CHANNEL
 https://srv4.zcast.com.br/fronteirachannel/fronteirachannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="RELIGIOSO",TV FRONTEIRA KIDS
-https://alanza.iptv2022.com/FRONTEIRA_KIDS/tracks-v1a1/mono.m3u8
+https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO", KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
