@@ -426,7 +426,7 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
 http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
-https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B1vLQgX.png" group-title="BRASIL", CINE PLAY
