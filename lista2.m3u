@@ -158,16 +158,12 @@ https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/pl
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
 https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MVukprV.png" group-title="BRASIL", VV8 TV
-https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5EkGqxt.png" group-title="BRASIL", TV JAGUAR
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="BRASIL",TV A PLATEIA
-https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
 https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/dDmnXIp.png" group-title="BRASIL", TV MAIS
@@ -180,8 +176,6 @@ https://stmv3.voxtvhd.com.br/mathiastv/mathiastv/playlist.m3u8
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
 https://stmv2.samcast.com.br/alex8404/alex8404/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/ibdy2N1.png" group-title="BRASIL",TV EM FOCO DOS VALES
-https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV 
 https://stmv1.srvsh.com.br/paulo2505/paulo2505/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ySWy7Cm.png" group-title="BRASIL", TV BOMBA
