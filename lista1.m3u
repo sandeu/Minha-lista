@@ -63,6 +63,8 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL", TV RECON
+https://node1.ecast.site:3021/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
@@ -501,10 +503,10 @@ https://alanza.iptv2022.com/IMPERIAL_TV/index.m3u8
 https://5c483b9d1019c.streamlock.net/tritv/tritv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOM0NvO.png" group-title="BRASIL", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL", TV RECON
-https://node1.ecast.site:3021/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0NWKH5.png" group-title="BRASIL", TV NATAL
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/ibdy2N1.png" group-title="BRASIL",TV EM FOCO DOS VALES
+https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tUUmml2.png" group-title="BRASIL", TRES PASSOS TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/1REHA6P.png" group-title="BRASIL", CSN
@@ -949,8 +951,6 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="BRASIL",TV A PLATEIA
 https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/ibdy2N1.png" group-title="BRASIL",TV EM FOCO DOS VALES
-https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Mzt7BL0.png" group-title="TELEVENDAS",TRADE TV
 https://live.mediastreaming.com.br/TRADE/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
