@@ -3,6 +3,9 @@
 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oSYggYH.png" group-title="TELEVENDAS",WSN TV DO CARRO
@@ -160,8 +163,6 @@ https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 https://stmv.jnbhost.com.br/tvpontadaserra/tvpontadaserra/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5EkGqxt.png" group-title="BRASIL", TV JAGUAR
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hRiBpwO.png" group-title="BRASIL", TV 3
