@@ -1213,6 +1213,8 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/10199127/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
+https://playback2.akamaized.net/streams/10205943_10199127_lsiy0zon2w5ipkyypbv_1/exp=1677966985~acl=%2f*~data=hdntl~hmac=7c06c33d760fa3bf49f188adb694a464b813930cce31ad8f08dd0959ca719ec3/media/10205943_10199127_lsiy0zon2w5ipkyypbv_1@1756000p.m3u8?dw=14400&ts=1677877200
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
