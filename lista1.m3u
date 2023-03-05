@@ -67,6 +67,8 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 https://node1.ecast.site:3021/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
 https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
@@ -951,10 +953,6 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="BRASIL",TV A PLATEIA
 https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="BRASIL", TV CENTRAL DO BRASIL
-https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6KoWUW.png" group-title="TELEVENDAS",CANAL DE PRODUTOS
@@ -1289,6 +1287,8 @@ https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlis
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QezTuc.png" group-title="MUSICA",TV CAFE
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="MUSICA", TV CENTRAL DO BRASIL
+https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6eSUoC.png" group-title="MUSICA",BLAST CHANNEL
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="MUSICA", POP PEGAJOSO
