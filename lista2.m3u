@@ -22,6 +22,22 @@ https://d7luqmstmj331.cloudfront.net/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 STAR TREK
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA  
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 6 OS TRES PATETAS
+https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 7 AGENTE 86
+https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
+https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
