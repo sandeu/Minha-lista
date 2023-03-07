@@ -393,22 +393,6 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
-https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 STAR TREK
-https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS
-https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA  
-https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 6 OS TRES PATETAS
-https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 7 AGENTE 86
-https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
-https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="BRASIL", OS TRES PATETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
