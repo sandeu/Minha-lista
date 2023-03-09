@@ -39,8 +39,6 @@ https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
 https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oSYggYH.png" group-title="TELEVENDAS",WSN TV DO CARRO
