@@ -437,6 +437,8 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w259901065.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="BRASIL",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
