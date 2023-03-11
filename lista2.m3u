@@ -21,6 +21,12 @@ https://d1ve86tcjfn74e.cloudfront.net/index.m3u8
 https://d7luqmstmj331.cloudfront.net/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
+https://api.new.livestream.com/accounts/3332377/events/10770836/broadcasts/235372589.secure.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
+https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
+https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
