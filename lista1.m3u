@@ -435,8 +435,6 @@ https://stmv1.srvif.com/cineplaytv1/cineplaytv1/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3aJDBet.png" group-title="BRASIL",CINE PIX
-https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
