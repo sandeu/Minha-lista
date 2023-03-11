@@ -407,8 +407,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/W7sP97c.png" group-title="BRASIL",REDE TV FAMILIA
 https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
-https://api.new.livestream.com/accounts/3332377/events/10770836/broadcasts/235372589.secure.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
 https://alanza.iptv2022.com/RedeMetropole-ptbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
@@ -435,18 +433,16 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://stmv1.srvif.com/cineplaytv1/cineplaytv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
+https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3aJDBet.png" group-title="BRASIL",CINE PIX
-https://stmv1.srvif.com/channel1/channel1/chunklist_w259901065.m3u8
+https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL",WEB TV CINE
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="BRASIL",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
-https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
-https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
