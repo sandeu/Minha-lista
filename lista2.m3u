@@ -30,22 +30,6 @@ https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
 
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
-https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 STAR TREK
-https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 CHIPS
-https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA  
-https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 6 OS TRES PATETAS
-https://stmv1.srvif.com/tvserie6/tvserie6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 7 AGENTE 86
-https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 O HOMEM DE 6 MILHOES DE DOLARES
-https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
