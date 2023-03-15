@@ -375,6 +375,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4egK1Qn.png" group-title="BRASIL",TV YEEAAH
 https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j26mDkh.png" group-title="BRASIL", POLIDORO TV
