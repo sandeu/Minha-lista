@@ -394,7 +394,7 @@ https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8
 x#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="BRASIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="BRASIL", JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+https://stmv1.painelvideo.top/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="BRASIL",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
@@ -692,9 +692,9 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV LEGENDADO
-https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+https://stmv1.painelvideo.top/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+https://stmv1.painelvideo.top/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DKunHAm.png" group-title="BRASIL",TV PLANALTO NORTE
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
