@@ -23,8 +23,6 @@ https://d7luqmstmj331.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3aJDBet.png" group-title="BRASIL",CINE PIX
 https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
-https://api.new.livestream.com/accounts/3332377/events/10770836/broadcasts/235372589.secure.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
 https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
