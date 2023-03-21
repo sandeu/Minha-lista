@@ -213,6 +213,8 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
 https://node1.ecast.site:3502/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
+http://streaming.jornalmn.com.br:80/live/tvmn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
 https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
@@ -524,7 +526,7 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
 https://alanza.iptv2022.com/X_PLUS_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv5.zcast.com.br/jair9258/jair9258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
