@@ -6,6 +6,26 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SPARK TV
 https://ev-h.phncdn.com/hls/videos/202303/13/427330851/,720P_4000K,480P_2000K,240P_1000K,_427330851.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1679604512&validto=1679611712&ipa=189.6.27.127&hdl=-1&hash=pqDveC22yj2ZLDM%2B3my%2FPGSDwWM%3D&
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3451
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3452
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3453
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3456
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3457
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3458
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SPARK TV
 https://d7luqmstmj331.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SPARK TV
