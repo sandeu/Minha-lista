@@ -74,7 +74,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3443
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3442
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3441
-vvv#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3439
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",TESTE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3438
