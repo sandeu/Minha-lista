@@ -253,8 +253,6 @@ https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="BRASIL",FILMRISE SERIES GRATUITAS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C8Ovlho.png" group-title="BRASIL",FILMES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="BRASIL",ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="BRASIL",MY TIME
@@ -275,8 +273,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=95926e843ec7970ed65dd54a0edbd88e&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&timestamp=1651100850&id=4676&ip=2804%3A14c%3A6580%3A5d0e%3A11ee%3Ab353%3Acc54%3A1c61&override_expiration=1500&sign=tsqt7ApnwgucpA5uTxrXfAKYENmJSPB67bs2bLIl7%2Bs%3D
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="BRASIL",RUN TIME COMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
-#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREEZONE
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:-1 tvg-logo="https://imgur.com/KlBTxwj.png" group-title="BRASIL",SOL BRASIL 
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G1hP8mG.png" group-title="BRASIL", NOSEY ESCANDALOS
