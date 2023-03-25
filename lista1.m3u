@@ -1145,7 +1145,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WuXrv6Y.png" group-title="ESPORTES", NITRO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/g5di4Eh.png" group-title="ESPORTES", NITRO TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3497
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
