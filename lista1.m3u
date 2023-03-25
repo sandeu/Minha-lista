@@ -463,6 +463,8 @@ https://stmv1.srvif.com/cineplaytv1/cineplaytv1/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CHfszO8.png" group-title="BRASIL",CRISTMAS TV
+https://stmv1.painelvideo.top/cristmastv/cristmastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lSLF0nh.png" group-title="BRASIL", WEB TV CINE
@@ -1171,7 +1173,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/9xAdcpA.png" group-title="ESPORTES",CHIKARA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/4oLkvhW.png" group-title="ESPORTES",BLACK NEON
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3431
 #EXTINF:-1 tvg-logo="https://imgur.com/d9u8Nz5.png" group-title="ESPORTES", MMA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3471
