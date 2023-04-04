@@ -347,6 +347,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a00072202
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630e30ba3583440007c64a20/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL",  FASHION TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jhCH444.png" group-title="BRASIL",REDE ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8 RONDONIA
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
@@ -927,8 +929,6 @@ https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jhCH444.png" group-title="DESENHOS",REDE ITV
-https://stmv1.paineltv.net/miguel1318/miguel1318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
@@ -1159,7 +1159,7 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NmJH1AD.png" group-title="BRASIL",THE BIBLE
+#EXTINF:-1 tvg-logo="https://imgur.com/NmJH1AD.png" group-title="RELIGIOSO",THE BIBLE
 https://stmv1.srvsh.com.br/thebible/thebible/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
