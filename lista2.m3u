@@ -153,6 +153,8 @@ https://tv02.zas.media:1936/murilotv/murilotv/playlist.m3u8
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist_w785990519.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="BRASIL", TV BRAGA BRASIL
 https://alanza.iptv2022.com/Braga_Brasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Zm8efEr.png" group-title="RELIGIOSO",ABC BRASIL
+https://cdn.jmvstream.com/w/AVJ-12986/playlist/chunklist.m3u8
 
 
 
