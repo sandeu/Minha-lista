@@ -278,9 +278,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://imgur.com/o2obcEK.png" group-title="BRASIL",RUN TIME CRIME
 https://stream.ads.ottera.tv/cl/230406cgnc8j4rac18lff9p82g/1280x720_3071200_0_f.m3u8?i=475_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/bNQzA6P.png" group-title="BRASIL",RUN TIME THRILLER AND TERROR
-https://stream.ads.ottera.tv/cl/230406cgnc9aie3s2g9j93rgpg/1280x720_3071200_0_f.m3u8?i=475_4866
-#EXTINF:-1 tvg-logo="https://imgur.com/H6kLcND.png" group-title="BRASIL",RUN TIME ROMANCE
 https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8?i=475_4864
+#EXTINF:-1 tvg-logo="https://imgur.com/H6kLcND.png" group-title="BRASIL",RUN TIME ROMANCE
+https://stream.ads.ottera.tv/cl/230406cgnc9aie3s2g9j93rgpg/1280x720_3071200_0_f.m3u8?i=475_4866
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
