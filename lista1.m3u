@@ -276,9 +276,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="BRASIL",RUN TIME COMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:-1 tvg-logo="https://imgur.com/o2obcEK.png" group-title="BRASIL",RUN TIME CRIME
-https://stream.ads.ottera.tv/cl/230406cgnc8j4rac18lff9p82g/1280x720_3071200_0_f.m3u8?i=475_2153
-#EXTINF:-1 tvg-logo="https://imgur.com/bNQzA6P.png" group-title="BRASIL",RUN TIME THRILLER AND TERROR
 https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8?i=475_4864
+#EXTINF:-1 tvg-logo="https://imgur.com/bNQzA6P.png" group-title="BRASIL",RUN TIME THRILLER AND TERROR
+https://stream.ads.ottera.tv/cl/230406cgnc8j4rac18lff9p82g/1280x720_3071200_0_f.m3u8?i=475_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/H6kLcND.png" group-title="BRASIL",RUN TIME ROMANCE
 https://stream.ads.ottera.tv/cl/230406cgnc9aie3s2g9j93rgpg/1280x720_3071200_0_f.m3u8?i=475_4866
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
