@@ -119,10 +119,6 @@ https://5a0c3936c25c8.streamlock.net/8012/8012/playlist.m3u8
 https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="BRASIL", BMTV
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VJrDYC9.png" group-title="BRASIL", Q TAL CHANNEL
-https://alanza.iptv2022.com/QTAL_Channel/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
-#EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", REDE QUE DEMAIS
-https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Gk0CxFE.png" group-title="BRASIL", B CHANNEL
 https://bchannel.akamaized.net/bwe/bwe/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0cG2XsJ.png" group-title="BRASIL", SUZUKY TV
