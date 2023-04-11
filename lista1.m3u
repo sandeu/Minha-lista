@@ -935,6 +935,8 @@ https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E5QEy0u.png" group-title="BRASIL",TV POP BRASIL
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ejwHjFl.png" group-title="BRASIL",ACESSO TV
+https://video01.logicahost.com.br/acessotv5/acessotv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/s8Zzi95.png" group-title="BRASIL", TV JA
