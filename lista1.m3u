@@ -303,6 +303,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Je5BrsX.png" group-title="BRASIL",AMAZONIA TV E RADIO
+https://cdn.jmvstream.com/w/AVJ-13076/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/276FuIH.png" group-title="BRASIL",PET LOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n00IZfO.png" group-title="BRASIL",RECEITAS FAST
