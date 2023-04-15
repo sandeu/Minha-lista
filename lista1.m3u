@@ -278,7 +278,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:-1 tvg-logo="https://imgur.com/o2obcEK.png" group-title="BRASIL",RUN TIME CRIME
 https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8?i=475_4864
-#EXTINF:-1 tvg-logo="https://imgur.com/bNQzA6P.png" group-title="BRASIL",RUN TIME THRILLER AND TERROR
+#EXTINF:-1 tvg-logo="https://imgur.com/MbNBDo4.png" group-title="BRASIL",RUN TIME CINE ESPANTO
 https://stream.ads.ottera.tv/cl/230406cgncjt4l7lmg6854s5gg/1280x720_3071200_0_f.m3u8?i=475_4865
 #EXTINF:-1 tvg-logo="https://imgur.com/H6kLcND.png" group-title="BRASIL",RUN TIME ROMANCE
 https://stream.ads.ottera.tv/cl/230406cgnc9aie3s2g9j93rgpg/1280x720_3071200_0_f.m3u8?i=475_4866
@@ -1199,7 +1199,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jwXWRqP.png" group-title="RELIGIOSO",THE BIBLE
-https://stmv1.srvsh.com.br/thebible/thebible/playlist.m3u8
+https://stmv4.voxtvhd.com.br/thebible/thebible/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
