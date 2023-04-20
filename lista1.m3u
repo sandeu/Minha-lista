@@ -412,6 +412,8 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
 https://video01.kshost.com.br:4443/alan4876/alan4876/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
@@ -632,8 +634,6 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VziSYoE.png" group-title="BRASIL", VIA MORENA
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="BRASIL", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="BRASIL", TV OSORIO NEWS
