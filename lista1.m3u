@@ -489,13 +489,15 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CHfszO8.png" group-title="BRASIL",CRISTMAS TV
-https://stmv1.painelvideo.top/cristmastv/cristmastv/playlist.m3u8
+https://stmv1.srvif.com/cristmastv/cristmastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5OVuhZh.png" group-title="BRASIL",EURO ONE
 https://stmv4.voxtvhd.com.br/euroone/euroone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TIzo214.png" group-title="BRASIL",TRAILER CHANNEL
+https://stmv4.voxtvhd.com.br/trailer/trailer/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZmIulxF.png" group-title="BRASIL",THE SILENCE TV
-https://stmv1.painelvideo.top/silencetv/silencetv/playlist.m3u8
+https://stmv4.voxtvhd.com.br/silencetv/silencetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehLwRd5.png" group-title="BRASIL",EMOTION TV
-https://stmv1.painelvideo.top/emotiontv/emotiontv/playlist.m3u8
+https://stmv1.srvif.com/emotiontv/emotiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV
