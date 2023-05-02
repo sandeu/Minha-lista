@@ -78,8 +78,31 @@ https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5OVuhZh.png" group-title="BRASIL",EURO ONE
+https://stmv4.voxtvhd.com.br/euroone/euroone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TIzo214.png" group-title="BRASIL",TRAILER CHANNEL
+https://stmv4.voxtvhd.com.br/trailer/trailer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZmIulxF.png" group-title="BRASIL",THE SILENCE TV
+https://stmv4.voxtvhd.com.br/silencetv/silencetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="BRASIL",CLASSIQUE TV LEGENDADO
 https://stmv1.painelvideo.top/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 1 AS PANTERAS
+https://stmv4.voxtvhd.com.br/tvserie1/tvserie1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 2 MULHER BIONICA
+https://stmv4.voxtvhd.com.br/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 3 O HOMEM DE 6 MILHOES DE DOLARES
+https://stmv4.voxtvhd.com.br/tvserie8/tvserie8/chunklist_w2004116562.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 4 STAR TREK
+https://stmv4.voxtvhd.com.br/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 5 CHIPS
+https://stmv4.voxtvhd.com.br/tvserie4/tvserie4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 6 GUERRA SOMBRA E AGUA FRESCA  
+https://stmv4.voxtvhd.com.br/tvserie5/tvserie5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 7 AGENTE 86
+https://stmv4.voxtvhd.com.br/tvserie7/tvserie7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 OS TRES PATETAS
+https://stmv4.voxtvhd.com.br/tvserie6/tvserie6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
