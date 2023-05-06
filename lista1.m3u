@@ -100,6 +100,8 @@ https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pwRCtt4.png" group-title="BRASIL", TV DESCALVADO
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/QBH2FuC.png" group-title="BRASIL", TV OTIMISTA
 https://hls.directradios.com/otimista/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
