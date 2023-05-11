@@ -372,6 +372,8 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cO9Ipfa.png" group-title="BRASIL",VIVAX TV 
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CoAFSECNZODkDyarw_EnFIWY7-0oRyg7ee3D9u3in_o-zbsR2-FddDxPL7F6IhExGa80SO3r-mRhSPgtC7JxeXDqtgV01XxhxycKRuCKWbszlkcuVYypAFvUM7YmxuYQoyJw8BNKEJS6kxKL7v9kKAEiVSEBcwavWEbZnRvBBQk2bYEo3Y6MT127ZZMv_Hvu5c95IjO7VgjoX39D8nn-boKpci4B2T6hCg4sA6Wy0O-ACYjMIB5Qp-0ilbKTOo7_7UeBYvtdcTyOjRt-bGCh8JDSQ5QKywdyKxxeWOvRgiHnkvrrKYNKgSWDcZ5uh9kDtEqE27DwANebei0fn6QBaGwPbmqEoQ1g_1NeElrWHJMmFhVhcHXmSngnv3yjPTIzDlA6RgIk2Dg41clTcVZ7dwbz4q712-TCb6l3Pf2qOkMbJl1Vy6u7MoArwpykIzh2lg3vVlIgXrkC-SXKYrkphFKWVsfC-c7i5tioBeJwuysvCNiIP3qCnhwD2t2G3XukLxnzguVE5wi9ZOfnjZ_vPCboQdPbERcQx4Eyb6l1sOckM_kgKTXr5po0i_sQFWijZjUOioONTQ-ujm5bmLDc2MZvgagAU6TlLNyupXDqCxm7ZzYG6ijqNgrlVHKm2s0R0eMH3OxQP7ICoglxOtumzvJ9aU2ENpb41dLLUA_ZI-8bslEHQ4-l0IcFw7BvezFwbAC-DVtvbh8tyoRbIWNPxARZTmdHhL22xbJ_HHkR_jMIF8e5XrByPEC98bAQfTPlJ3JY4KKdp93hL6EFfhXJOZM82lV4JZi9spZFb0DOfYhfaTVHl3-YZnBysczvdzt63pW5SiIfNSBlFlEVZlVHHPUiqxoMU5sArHdmLVujDUg4IAEqCXVzLWVhc3QtMTD5BA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://streaming.cloudecast.com/memfs/d82529b5-3d6f-4995-acb1-6b0a2c3164fa_output_0.m3u8?session=9SSWsCLmjFNfHXiGacyPAZ
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
