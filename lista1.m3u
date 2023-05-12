@@ -405,15 +405,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 #EXTINF:-1 tvg-logo="https://imgur.com/ybn0c7a.png" group-title="BRASIL",GAMING FOR UBISOFT
 https://i.mjh.nz/PlutoTV/62e01661a3e6270007f4ec9e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
 https://stmv.srvvox.com.br/otakusigntv/otakusigntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TvaXD9h.png" group-title="BRASIL",CANAL START
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4egK1Qn.png" group-title="BRASIL",TV YEEAAH
-https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
@@ -422,7 +420,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
 https://video01.kshost.com.br:4443/alan4876/alan4876/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLONE
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
