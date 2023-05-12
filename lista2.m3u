@@ -77,8 +77,13 @@ https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
 https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bgPlPmC.png" group-title="BRASIL", DUE MUNDI CHANNEL
 https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
+#EXTINF:-1 tvg-logo="https://imgur.com/cO9Ipfa.png" group-title="BRASIL",VIVAX TV 
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CoAFSECNZODkDyarw_EnFIWY7-0oRyg7ee3D9u3in_o-zbsR2-FddDxPL7F6IhExGa80SO3r-mRhSPgtC7JxeXDqtgV01XxhxycKRuCKWbszlkcuVYypAFvUM7YmxuYQoyJw8BNKEJS6kxKL7v9kKAEiVSEBcwavWEbZnRvBBQk2bYEo3Y6MT127ZZMv_Hvu5c95IjO7VgjoX39D8nn-boKpci4B2T6hCg4sA6Wy0O-ACYjMIB5Qp-0ilbKTOo7_7UeBYvtdcTyOjRt-bGCh8JDSQ5QKywdyKxxeWOvRgiHnkvrrKYNKgSWDcZ5uh9kDtEqE27DwANebei0fn6QBaGwPbmqEoQ1g_1NeElrWHJMmFhVhcHXmSngnv3yjPTIzDlA6RgIk2Dg41clTcVZ7dwbz4q712-TCb6l3Pf2qOkMbJl1Vy6u7MoArwpykIzh2lg3vVlIgXrkC-SXKYrkphFKWVsfC-c7i5tioBeJwuysvCNiIP3qCnhwD2t2G3XukLxnzguVE5wi9ZOfnjZ_vPCboQdPbERcQx4Eyb6l1sOckM_kgKTXr5po0i_sQFWijZjUOioONTQ-ujm5bmLDc2MZvgagAU6TlLNyupXDqCxm7ZzYG6ijqNgrlVHKm2s0R0eMH3OxQP7ICoglxOtumzvJ9aU2ENpb41dLLUA_ZI-8bslEHQ4-l0IcFw7BvezFwbAC-DVtvbh8tyoRbIWNPxARZTmdHhL22xbJ_HHkR_jMIF8e5XrByPEC98bAQfTPlJ3JY4KKdp93hL6EFfhXJOZM82lV4JZi9spZFb0DOfYhfaTVHl3-YZnBysczvdzt63pW5SiIfNSBlFlEVZlVHHPUiqxoMU5sArHdmLVujDUg4IAEqCXVzLWVhc3QtMTD5BA.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/CHfszO8.png" group-title="BRASIL",CRISTMAS TV
+https://stmv1.srvif.com/cristmastv/cristmastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ehLwRd5.png" group-title="BRASIL",EMOTION TV
+https://stmv1.srvif.com/emotiontv/emotiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5OVuhZh.png" group-title="BRASIL",EURO ONE
 https://stmv4.voxtvhd.com.br/euroone/euroone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TIzo214.png" group-title="BRASIL",TRAILER CHANNEL
