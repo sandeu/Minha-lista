@@ -110,6 +110,8 @@ https://stmv4.voxtvhd.com.br/tvserie5/tvserie5/playlist.m3u8
 https://stmv4.voxtvhd.com.br/tvserie7/tvserie7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="BRASIL",TV SERIES 8 OS TRES PATETAS
 https://stmv4.voxtvhd.com.br/tvserie6/tvserie6/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0eGCUGz.png" group-title="DESENHOS", THE FLINTSTONES TV
+https://stmv1.srvif.com/flintstones/flintstones/chunklist_w2038045644.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
