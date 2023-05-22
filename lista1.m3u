@@ -409,7 +409,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
-https://stmv.srvvox.com.br/otakusigntv/otakusigntv/playlist.m3u8
+https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1911371551.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TvaXD9h.png" group-title="BRASIL",CANAL START
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
@@ -487,7 +487,7 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W0mh61k.png" group-title="BRASIL",TV 100
 https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1557526838.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="BRASIL", TV MEU XODO
@@ -516,6 +516,8 @@ https://stmv7.samcast.com.br/alexandreantoniodasilva9954/alexandreantoniodasilva
 https://livefocamundo.com:8081/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q7BmXXw.png" group-title="BRASIL", TV NORDESTE
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cXgwA49.png" group-title="BRASIL",TOP TV (RADIO TV 88)
+https://pa-def.srvsite.com/site/playertv/7035
 #EXTINF:-1 tvg-logo="https://imgur.com/jrUqeSV.png" group-title="BRASIL", VILA TV
 https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
