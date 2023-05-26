@@ -74,6 +74,10 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3aJDBet.png" group-title="BRASIL",CINE PIX
 https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="BRASIL",NATURE TV
+https://stmv3.voxtvhd.com.br/nattv/nattv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/1REHA6P.png" group-title="BRASIL", CSN
+https://acesso.ecast.site:3613/live/csnlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j1oQorS.png" group-title="BRASIL", CINEMONDE
 https://cinemond.akamaized.net/cinemonde/cinemonde/chunklist.m3u8
