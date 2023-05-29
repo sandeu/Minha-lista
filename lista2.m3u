@@ -413,8 +413,6 @@ https://alanza.iptv2022.com/TV_FAMILIA/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/4iBmTJZ.png" group-title="BRASIL", UNIVESP TV
 http://45.232.196.7:5000/live/UNIVESP/720p.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", TV EDUCACAO
-http://45.232.196.7:5000/live/MULTICULTURA/720p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/LiA8dz8.png" group-title="BRASIL", TV GUARAPARI
 https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JVjcC1i.png" group-title="BRASIL", TV DA CIDADE SP
