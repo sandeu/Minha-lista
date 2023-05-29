@@ -48,6 +48,8 @@ http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL",TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", TV EDUCACAO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
