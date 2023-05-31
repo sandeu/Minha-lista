@@ -980,8 +980,6 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/kE5Dp7y.png" group-title="DESENHOS", A PANTERA COR DE ROSA
-https://stmv1.painelvideo.top/pinktv/pinktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="DESENHOS",TV KIDS MAIS
