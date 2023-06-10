@@ -202,6 +202,18 @@ https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//p
 https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjdF11R.png" group-title="BRASIL",TV8 RONDONIA
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/twqYjb5.png" group-title="ESTUDIO FM", TERE FM TV
+https://livefocamundo.com:8081/terefmco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
+https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/g5di4Eh.png" group-title="ESPORTES", NITRO TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3497
+#EXTINF:-1 tvg-logo="https://imgur.com/3E4hv5M.png" group-title="ESPORTES", MZ SPORTS
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/157Si5M.png" group-title="TELEVENDAS",TV BALCAO
 https://cdn.jmvstream.com/w/AVJ-10760/playlist/playlist.m3u8
