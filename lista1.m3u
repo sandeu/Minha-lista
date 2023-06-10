@@ -950,16 +950,12 @@ https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/vQCAET1.jpg" group-title="DESENHOS", TELESUR COSTA RICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qTQehX.jpg" group-title="DESENHOS", KID CENTRAL
 https://simultv.s.llnwi.net/n4s4/KidCentral/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/daKspFd.jpg" group-title="DESENHOS", KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/3vNbGRa.jpg" group-title="DESENHOS", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/2nAK8bQ.jpg" group-title="DESENHOS", CLASSIC TOONS TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/aA7toze.jpg" group-title="DESENHOS", FOREVER KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
@@ -981,9 +977,9 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0rHWmek.png" group-title="AGRO", NOTICIAS AGRICOLAS
 https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CTr2bUc.png" group-title="ESTUDIO FM", 98 LIVE
-https://stream-04.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSrK6dQqVaBpKkjmBCYqYAi2Mj6LK9u80dWek8bPQnYQJ)/dm/3/x8ilwg3/s/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSta3fTfepMlm5vQtgBmL_RgRu2SLf-r9cJT_3h_9ps-3)/dm/3/x8ilwg3/s/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
-https://5cf4a2c2512a2.streamlock.net/interativafm/interativafm/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w332012945.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
@@ -996,10 +992,6 @@ http://rtmp.cdn.upx.net.br/00079/myStream.sdp/playlist.m3u8
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/twqYjb5.png" group-title="ESTUDIO FM", TERE FM TV
-https://livefocamundo.com:8081/terefmco/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qbJwtyS.png" group-title="ESTUDIO FM", CBN RJ FM
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
@@ -1058,8 +1050,6 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS3/index.m3u8
 https://alanza.iptv2022.com/RS_NEWS_SPORTS_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 5
 https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wLOmKSg.png" group-title="ESPORTES", TV ADQS
-https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PpfyPE9.png" group-title="ESPORTES", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="ESPORTES", ESPORTES BRASILIA
@@ -1067,25 +1057,19 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VqBYhgt.png" group-title="ESPORTES", REAL MADRID TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+https://stream.ads.ottera.tv/cl/230610ci2ckp34di6sikojlrog/1280x720_3000140_0_f.m3u8?i=475_1545
 #EXTINF:-1 tvg-logo="https://imgur.com/yrT80vz.png" group-title="ESPORTES", ESPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/SzfT5WK.png" group-title="ESPORTES", FUEL TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/SzfT5WK.png" group-title="ESPORTES", FUEL TV
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/g5di4Eh.png" group-title="ESPORTES", NITRO TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3497
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/3E4hv5M.png" group-title="ESPORTES", MZ SPORTS
-https://cloudvideo.servers10.com:8081/8248/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bSjSinV.png" group-title="ESPORTES", CANELA SPORTS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+https://stream.ads.ottera.tv/cl/230610ci2cls901i2hdnovh1ng/960x540_1865538_1_f.m3u8?i=475_2013
 #EXTINF:-1 tvg-logo="https://imgur.com/2zSfUre.png" group-title="ESPORTES",EDGE SPORTS
 https://img-edgesport-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/venDYu7.png" group-title="ESPORTES",ORIGIN SPORTS
@@ -1094,8 +1078,6 @@ https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/IkRLW8q.png" group-title="ESPORTES", NFL CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/7TUohxV.png" group-title="ESPORTES", MLS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="ESPORTES", Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="ESPORTES",COMBATE GLOBAL
@@ -1118,8 +1100,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/yK23aMs.png" group-title="ESPORTES", BEIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nSfWCZw.png" group-title="ESPORTES",TV DUBAI RACING 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkcsVlD.png" group-title="ESPORTES", TELETRACK 
