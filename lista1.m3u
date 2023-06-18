@@ -450,8 +450,6 @@ https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hVcFrj2.png" group-title="BRASIL",EMPIRE TV
-https://video01.kshost.com.br:4443/roniel7264/roniel7264/chunklist_w1326591306.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="BRASIL", CHANNEL 1
@@ -584,6 +582,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w1044140307.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE
+https://video01.kshost.com.br:4443/roniel7264/roniel7264/chunklist_w1326591306.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9uksSSd.png" group-title="BRASIL", TV NOVA MT
 https://video01.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w912595013.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1Q8s4j.png" group-title="BRASIL", TV TUDO MWEB
@@ -714,8 +714,6 @@ https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w1064962290.m3u8
 https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w65054005.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ekF19OV.png" group-title="BRASIL",TV OPINIAO PLAY
 https://video04.logicahost.com.br/tvpopular/tvpopular/chunklist_w1502481354.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE NO AR
-https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="BRASIL",TV PASSO FUNDO
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="BRASIL", REDE SPTV
