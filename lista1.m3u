@@ -154,6 +154,8 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT CUIABA
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/chunklist_w1060020854.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Eim2EzC.png" group-title="BRASIL", TV IGUACU REDE MASSA
@@ -261,17 +263,17 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="BRASIL",DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="BRASIL",RUN TIME 
-https://stream.ads.ottera.tv/cl/230511chej2jh0dv5ahjik7550/960x540_1927200_1_f.m3u8?i=475_2153
+https://stream.ads.ottera.tv/cl/230619ci84tfov7e9aen2k7fb0/640x360_1126400_3_f.m3u8?i=475_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="BRASIL",RUN TIME ACAO
-https://stream.ads.ottera.tv/cl/230128cfaqg0cmlf6hn18l6lqg/960x540_1927200_1_f.m3u8?i=475_2552
+https://stream.ads.ottera.tv/cl/230619ci84tob4di6mjocrm6c0/854x480_1355200_2_f.m3u8?i=475_2552
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="BRASIL",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/cl/230511chej4l0p00rkvoar8hng/960x540_1927200_1_f.m3u8?i=475_2553
+https://stream.ads.ottera.tv/cl/230619ci84ua0v7e9aen2k7n10/854x480_1355200_2_f.m3u8?i=475_2553
 #EXTINF:-1 tvg-logo="https://imgur.com/o2obcEK.png" group-title="BRASIL",RUN TIME CRIME
-https://stream.ads.ottera.tv/cl/230407cgnnb2eqvijh1a070ad0/960x540_1927200_1_f.m3u8?i=475_4864
+https://stream.ads.ottera.tv/cl/230619ci84uf34di6mjocrmcf0/854x480_1355200_2_f.m3u8?i=475_4864
 #EXTINF:-1 tvg-logo="https://imgur.com/MbNBDo4.png" group-title="BRASIL",RUN TIME CINE ESPANTO
-https://stream.ads.ottera.tv/cl/230407cgnncrrtj8dghtsp9s30/960x540_1927200_1_f.m3u8?i=475_4865
+https://stream.ads.ottera.tv/cl/230619ci84ujlhqgp3ibi269eg/854x480_1355200_2_f.m3u8?i=475_4865
 #EXTINF:-1 tvg-logo="https://imgur.com/H6kLcND.png" group-title="BRASIL",RUN TIME ROMANCE
-https://stream.ads.ottera.tv/cl/230509chd8oktpcsv1artk2nn0/960x540_1927200_1_f.m3u8?i=475_4866
+https://stream.ads.ottera.tv/cl/230619ci84uo8gv6tq24dpdc9g/854x480_1355200_2_f.m3u8?i=475_4866
 #EXTINF:-1 tvg-logo="https://imgur.com/XaOfFLd.png" group-title="BRASIL",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/cl/230530chr6i0tai2iei7oc5kb0/1280x720_3071200_0_f.m3u8?i=475_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
@@ -892,6 +894,8 @@ https://cdn.jmvstream.com/w/AVJ-12942/playlist/playlist.m3u8
 https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vv6UkzL.png" group-title="BRASIL", TV CONSCIENCIA
 https://video04.logicahost.com.br/tvconsciencia/tvconsciencia/chunklist_w453444360.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1qfNOfC.png" group-title="BRASIL", TV CACIQUE
+https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/chunklist_w1109147341.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
