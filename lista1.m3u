@@ -324,8 +324,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 https://srv5.zcast.com.br/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="BRASIL",PRANKS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
 #EXTINF:-1 tvg-logo="https://imgur.com/uflSiKs.png" group-title="BRASIL",COMEDIA BRASIL
