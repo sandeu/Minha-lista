@@ -52,6 +52,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
