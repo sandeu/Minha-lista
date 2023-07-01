@@ -3,6 +3,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",teste
+https://live-as-01-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMDIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjg4MzMxMzY0LCJpYXQiOjE2ODgyNDQ5NjQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOWQ1ODYyMGQtMGY5Ny00MWMxLTllOWQtZjk2M2E1ODlhNWQ2IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDAsaT0yKS9wZmMxL3BsYXlsaXN0Lm0zdTgifQ.0QKI1Qsoiut7jSUXPsgSG9atvDzTQZNWEWlWRNcK-WOLxV1x9Y8t5ZvF4IiNEbVOwVCrZ8E1aefNC9gDb3EP_tEoy0Zr8ZZoFwhHJ1i2U8OFGT8lE7FJjVAtOBKiPdM3U9eFFiIYr8I1Lvthc11SdTOMIAIEXytQ3YPwmaMyctQ_Om05DKoD3WNrnJ876J5PDWwPjGGcdHvMrMbdJ6l5xyxMY86NE5iGvVh9L5WRIxbtNDWsg1c3SaPyBf_IgQEpvWbWj-bUerqAezi24EWZ6pK6Ua95cjfcm_h8UrLaYr_eIh9aziuRYlu-luOMHAL4lw55UHKLdhu4iSPAGSkmFQ/nu/f(bMax=3300000,bMin=2000,i=2)/pfc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",teste2
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000,i=2)/pfc1/edge-cache-token=Expires=1688331475&KeyName=media-cdn-keyset-prod&IPRanges=MTg3LjE5LjE1OS44OC8zMg==&Signature=UVIynSNfjRpjCgPzxMLcVSQlaPYbct6tJbmIYcgEmQPOPfGxTu5MPXi_puDznXveEDh82mPKM_kcVfYzlKsWAw==/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",872
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
