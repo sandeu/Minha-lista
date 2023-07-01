@@ -63,7 +63,7 @@ http://150.162.188.10:8080/hls/1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NIBMqrg.png" group-title="BRASIL", TV ESCOLA
 http://168.205.87.198:8555/live/1368/123456/137.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
@@ -75,7 +75,7 @@ https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
 https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1672775127~exp=1672781727~acl=/*~hmac=b062a5ce395ff67708ef5c6308303bcfe36342408a628547c5df5b5521becfe5
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b507904.m3u8?sts=st=1688239365~exp=1688245965~acl=/*~hmac=286842d5d6a63647f7a0c38ce12c6585708eb58873846aea17ac48473ddf2b3e
 #EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE
 https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="BRASIL",TV VICOSA
@@ -265,11 +265,11 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="BRASIL",DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="BRASIL",RUN TIME 
-https://stream.ads.ottera.tv/cl/230619ci84tfov7e9aen2k7fb0/640x360_1126400_3_f.m3u8?i=475_2153
+https://cutt.ly/Runtime_Nowadays_m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="BRASIL",RUN TIME ACAO
-https://stream.ads.ottera.tv/cl/230619ci84tob4di6mjocrm6c0/854x480_1355200_2_f.m3u8?i=475_2552
+https://cutt.ly/Runtime_acao_Nowadays_m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="BRASIL",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/cl/230619ci84ua0v7e9aen2k7n10/854x480_1355200_2_f.m3u8?i=475_2553
+https://cutt.ly/RComedia_Nowadays-m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o2obcEK.png" group-title="BRASIL",RUN TIME CRIME
 https://stream.ads.ottera.tv/cl/230619ci84uf34di6mjocrmcf0/854x480_1355200_2_f.m3u8?i=475_4864
 #EXTINF:-1 tvg-logo="https://imgur.com/MbNBDo4.png" group-title="BRASIL",RUN TIME CINE ESPANTO
