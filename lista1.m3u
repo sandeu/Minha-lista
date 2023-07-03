@@ -403,7 +403,7 @@ https://video01.kshost.com.br:4443/alan4876/alan4876/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
+https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
@@ -985,13 +985,13 @@ https://stream01-tvcoopsc.netpointcdn.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/293732657225160076823212.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="AGRO",AGRO BRASIL
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="AGRO",AGRO CANAL
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/361826445095418785973450.m3u8
+https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p7gJt8P.png" group-title="AGRO",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0rHWmek.png" group-title="AGRO", NOTICIAS AGRICOLAS
