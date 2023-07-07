@@ -550,6 +550,8 @@ https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
 https://5d82644094cc0.streamlock.net/estacao104tv/estacao104tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/kw3VQlw.png" group-title="BRASIL", ESTACAO WEB TV
 https://video01.kshost.com.br:4443/maria8005/maria8005/chunklist_w200414404.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/JblATnz.png" group-title="BRASIL", TELEWEB 
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w419033723.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c8T2eyr.png" group-title="BRASIL", TV SAO CAETANO
