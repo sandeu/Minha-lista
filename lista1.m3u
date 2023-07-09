@@ -914,6 +914,8 @@ https://video04.logicahost.com.br/tvconsciencia/tvconsciencia/chunklist_w4534443
 https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/chunklist_w1109147341.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XHeDKLK.png" group-title="BRASIL", VOX V
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WAuXAHZ.png" group-title="BRASIL", TV CIRCUITO
+https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
