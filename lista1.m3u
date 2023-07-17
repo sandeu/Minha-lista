@@ -414,6 +414,8 @@ https://video01.kshost.com.br:4443/alan4876/alan4876/playlist.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
+https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
