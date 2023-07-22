@@ -390,14 +390,12 @@ https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 https://video01.logicahost.com.br/creativetv/creativetv/chunklist_w1065479792.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rrNIqAb.png" group-title="BRASIL", RDTV DIGITAL
 https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NIBMqrg.png" group-title="BRASIL", TV ESCOLA
+http://168.205.87.198:8555/live/1368/123456/137.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/d4Zq0sE.png" group-title="BRASIL",SOUL KIDS
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="BRASIL", MULTI RIO
-http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="BRASIL",TV KIDS MAIS
-https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/u40mZm9.png" group-title="BRASIL",HOLLYWIRE TV
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
@@ -547,12 +545,6 @@ https://stmv1.srvif.com/tvseuapatroa/tvseuapatroa/playlist.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/11TzX8h.png" group-title="MUSICA",RADIO CONTACT
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yClx7yE.png" group-title="RELIGIOSO",RIT TV
-http://168.205.87.198:8555/live/1499/123456/168.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qrCRI4S.png" group-title="RELIGIOSO",TV FELIZ
-https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qkbl6Uu.png" group-title="RELIGIOSO",REDE SUPER
-https://ydhcoch1rw.zoeweb.tv/zw9009/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZWX3Fnt.png" group-title="DESENHOS", XILAM TV
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/waRkqZc.png" group-title="ESTUDIO FM", RADIO TRIBUNA FM
@@ -672,8 +664,6 @@ https://playback2.akamaized.net/str...caw2mf_1@2128000p.m3u8?dw=14400&ts=1657404
 https://manifest-gce-us-east1-production.cfcdn.mux.com/X02gVJ29n8dL8zTGSfNTtkm4Ef9qVztoJpz7V26V67eP02e02A01qVz9Y2Zx02WbSRefchSwSgpTsZxBDiozRe01tEGA/rendition.m3u8?cdn=cloudflare&expires=1655413200&skid=default&signature=NjJhYjk5ZDBfZDRjNzBkYWRjZTU4ODVkMDgxNGZiMDRjOTI5ZmU2ZWEyMjNiMWFkMjJiZTA4MzdmYjE4YTc0ZDgzOGI0M2U0Yg==
 #EXTINF:-1 tvg-logo="https://imgur.com/Lj7SGzD.png" group-title="BRASIL",AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL",  REDE MEIO NORTE
-http://168.205.87.198:8555/live/1499/123456/99.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RPBEBvp.png" group-title="BRASIL",TODO MUNDO ODEIA O CHRIS
 https://stmv1.srvif.com/todomundoodeiaochris/todomundoodeiaochris/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CAjE7xe.png" group-title="BRASIL",UM MALUCO NO PEDACO
