@@ -1022,8 +1022,6 @@ https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
 https://ythlsgo.onrender.com/video/6MUYFEO2Tvc.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
 https://ythlsgo.onrender.com/video/MiyuKjNPui8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IuawVOe.jpg" group-title="DESENHOS", PICA PAU
-https://ythlsgo.onrender.com/video/8prmkJPDY0w.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
@@ -1472,10 +1470,6 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qm0S9JU.png" group-title="INTERNET", LOUPE
 https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TZvMiiu.png" group-title="INTERNET", QUIETUDE 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/8c908ec5-15bd-4cc9-b21f-c2725fdf84d5/0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RPaVEFU.png" group-title="INTERNET", FISH TANK
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/6f277f68-bc5b-4724-80ed-8e03bb6d9142/1.m3u8
 
 
 
