@@ -1014,10 +1014,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b2700078
 https://ythlsgo.onrender.com/video/dQBEioK0XR0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mBl8EkM.jpg" group-title="DESENHOS", NICKELODEON
 https://ythlsgo.onrender.com/video/EPje1MCQ1bU.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KhNUN2T.jpg" group-title="DESENHOS", NICK JUNIOR
+https://ythlsgo.onrender.com/video/cMTMJYd4UcQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
 https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
 https://ythlsgo.onrender.com/video/6MUYFEO2Tvc.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
+https://ythlsgo.onrender.com/video/YG2-HFM96t8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
 https://ythlsgo.onrender.com/video/MiyuKjNPui8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
