@@ -1012,6 +1012,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b2700078
 https://ythlsgo.onrender.com/video/dQBEioK0XR0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mBl8EkM.jpg" group-title="DESENHOS", NICKELODEON
 https://ythlsgo.onrender.com/video/EPje1MCQ1bU.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2CN6QnP.jpg" group-title="DESENHOS", PJ MASKS
+https://ythlsgo.onrender.com/video/0nI_z4Y_yVk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
 https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
