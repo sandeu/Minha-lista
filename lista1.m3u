@@ -40,6 +40,8 @@ http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL",TV POCOS
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="BRASIL", CANAL GOV
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
@@ -1232,6 +1234,8 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jz3Y4h4.png" group-title="RELIGIOSO",BOA VONTADE TV
 https://ythlsgo.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mhC6VsS.png" group-title="RELIGIOSO",TV MANA BRASIL
+https://ythlsgo.onrender.com/video/pQkeQq7SfTQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
