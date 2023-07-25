@@ -415,7 +415,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
-https://video01.kshost.com.br:4443/alan4876/alan4876/playlist.m3u8
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
@@ -500,8 +500,6 @@ https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aNcmRsQ.png" group-title="BRASIL",TV SANTA
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hwBAIjL.png" group-title="BRASIL",A 3 CINE
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2IxUNIj.png" group-title="BRASIL", WEB TV ENTORNO SUL
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZCxSWFt.png" group-title="BRASIL",TV METROPOLITANA
