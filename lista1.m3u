@@ -44,6 +44,8 @@ https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
@@ -66,8 +68,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
 http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="BRASIL",CANAL SAUDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
