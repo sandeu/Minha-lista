@@ -1191,7 +1191,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/chunklist_w354824524.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/faofls5.png" group-title="RELIGIOSO",REDE SECULO 21
@@ -1208,8 +1208,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BvoOz3J.png" group-title="RELIGIOSO",TV EDUCAR
-https://alanza.iptv2022.com/TV_Educar/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CTmglaA.png" group-title="RELIGIOSO",REDE ALFA
@@ -1235,9 +1233,7 @@ https://video01.kshost.com.br:4443/gente8322/gente8322/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTA5ODE2ODksImlhdCI6MTY5MDM3Njg4OSwiaWQiOiIwMTg5OTI1MC01Y2ZmLTdiNWItYmYxNy0yZDkyZDJkMWM1MGQiLCJuYmYiOjE2OTAzNzUwODksInVpZCI6IjAxODk5MjUwLTVjZmYtN2I1Yi1iZjE3LTJkOTJkMmQxYzUwZCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.nmU3Nx8DNv5meFjkCJ5hTP5lSKCkhemPWD5TA3TMQ3g&uid=01899250-5cff-7b5b-bf17-2d92d2d1c50d
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPMrWZZ.png" group-title="RELIGIOSO",IMPD TV
@@ -1255,11 +1251,9 @@ https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV 2
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
-https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/playlist.m3u8
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w1948357658.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
 https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="RELIGIOSO", TVE ES
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ikedHwg.png" group-title="RELIGIOSO", TV GERMANA
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
@@ -1450,10 +1444,6 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821631-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25075146-4d3f-4138-a177-5d8a41b330d4&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="INTERNET",CHIVE TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FgNjrw3.png" group-title="INTERNET",ALWAYS FUNNY VIDEOS
-https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FgNjrw3.png" group-title="INTERNET",ALWAYS FUNNY VIDEOS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV ESPANHOL
@@ -1462,8 +1452,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qm0S9JU.png" group-title="INTERNET", LOUPE
-https://linear-144.frequency.stream/144/hls/master/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/EDTKAxS.png" group-title="INTERNET", WEATHER SPY
+https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 
