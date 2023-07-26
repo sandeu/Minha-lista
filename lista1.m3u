@@ -428,6 +428,8 @@ https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 https://ythls.onrender.com/video/V98Ej5Odk_0.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
+http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
@@ -1028,6 +1030,8 @@ https://ythlsgo.onrender.com/video/YG2-HFM96t8.m3u8
 https://ythlsgo.onrender.com/video/Va6cFRP1qiI.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
 https://ythlsgo.onrender.com/video/MiyuKjNPui8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
