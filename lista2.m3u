@@ -77,6 +77,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Z4blJYb.png" group-title="RELIGIOSO",TV FRONTEIRA MOVIES
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QvDhXQg.png" group-title="RELIGIOSO",TV FRONTEIRA CHANNEL
+https://srv4.zcast.com.br/fronteirachannel/fronteirachannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="RELIGIOSO",TV FRONTEIRA KIDS
+https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3aJDBet.png" group-title="BRASIL",CINE PIX
 https://stmv1.painelvideo.top/channel1/channel1/playlist.m3u8
