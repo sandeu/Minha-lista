@@ -950,6 +950,8 @@ https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/chunklist_b732000.m3u8?p=79&s=1690286423&e=1690286543&h=2509d5fa58aa3645bbb874d46cba1e4b
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythlsgo.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
+https://ythlsgo.onrender.com/video/4JkVKr9Yfss.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
 https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="BRASIL", CANAL VIVER BRASIL
@@ -1096,8 +1098,6 @@ https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
 #EXTINF:-1 tvg-logo="https://imgur.com/KBVlGkh.png" group-title="ESTUDIO FM", 98 FM
 https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/saSgBpC.png" group-title="ESTUDIO FM", RADIO ELDORADO
-https://cdn.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
 https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w261558147.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
@@ -1111,7 +1111,7 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 #EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="ESTUDIO FM", RADIO PLANALTO NEWS 92,1
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM 101,7
-https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-8388/LVW8388_DAQuOVXoPG/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
@@ -1223,7 +1223,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
-https://ythlsgo.onrender.com/video/fdfAkQy1m6w.m3u8
+https://ythlsgo.onrender.com/video/Rlv5DEwZ_Xg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
 http://api.new.livestream.com/accounts/10205943/events/10199127/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
