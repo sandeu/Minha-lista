@@ -558,8 +558,6 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="BRASIL", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Yg79Sam.png" group-title="BRASIL",TV CNB
-https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w210678125.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
 https://srv5.zcast.com.br/jair9258/jair9258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="BRASIL", BS TV
