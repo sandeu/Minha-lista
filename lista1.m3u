@@ -292,6 +292,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=475
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=475_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
 https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="BRASIL",ADRENALINA FREE ZONE
