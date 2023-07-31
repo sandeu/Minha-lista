@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=475
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2968
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=475_2153
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2804
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",teste
 https://ipgotv.net.br/tv/videos/canal_fora_da_lei/
