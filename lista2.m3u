@@ -8,11 +8,24 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5590
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5591
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5592
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5593
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5594
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5595
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5596
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5597
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5598
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5599
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",teste
-https://ipgotv.net.br/tv/videos/canal_fora_da_lei/
-#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",teste2
-https://ipgotv.net.br/tv/videos/christmas_tv/
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",872
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
