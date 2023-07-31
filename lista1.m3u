@@ -1420,4 +1420,11 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="INTERNET", EARTH TV
+https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="INTERNET", ANIMAL AFRICANO 4K
+https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="INTERNET", 4K NATURAL WONDERS
+https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
+
 
