@@ -429,8 +429,6 @@ https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
 https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
-https://ythls.onrender.com/video/V98Ej5Odk_0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
@@ -1426,7 +1424,5 @@ https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="INTERNET", 4K NATURAL WONDERS
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="INTERNET", 4K MARITIMO
-https://ythls.onrender.com/video/dM4GXQ0dB1M.m3u8
 
 
