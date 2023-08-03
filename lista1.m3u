@@ -116,6 +116,12 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GFm3pXL.png" group-title="BRASIL", CLC TV
 http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8L8pE8M.png" group-title="BRASIL", FANDOM TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
+https://cdn2.connectbr.com.br/life/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="BRASIL", QUEENS UNITED TV
+https://cdn2.connectbr.com.br/Queens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
@@ -128,8 +134,6 @@ http://cdn.connectbr.com.br/Life/index.m3u8
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRebuO1.png" group-title="BRASIL",PHOENIX TV
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8L8pE8M.png" group-title="BRASIL", FANDOM TV
-http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a68bw6H.png" group-title="BRASIL",UNREEL BR
 https://extremeinternational-unreel-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3g7ijoK.png" group-title="BRASIL",XR HEALTH BRASIL
