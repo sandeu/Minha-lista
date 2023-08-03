@@ -432,12 +432,24 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
 https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="BRASIL",URBAN DOCS
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="BRASIL",URBAN RETRO
+https://5ad482a77183d.streamlock.net/urbantvretrogmail.com/urbantvretrogmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="BRASIL",URBAN MOVIES
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="BRASIL",URBAN TRAVEL
+https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="BRASIL",URBAN TURBO
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CsEFfvK1Xrd3mEK9Rd-QnRbl0Suy9LYj_PVsTA1bT_5L-VBfNOxlg4xCE5MlCyeAHvONugaZ2B2qpsv2oKEicS-AQoiuY-ZhfxFjBvjyvrRqoYvWRhm6BpGyPonNtPiKgSW_wvKKjKi-4DjaCCaLk0oEHf5HN86y75psi2jUrZWACUKC7Q1tvmWevodotY__f_-AmBj9GX8aGp-d6XH_m0eERJJbxdYLwWj4EsL5sdo9yupmeRG60EboWAjvhilZtvePNlPjEz9YdL-op7j8zO5G_tBC-TGPVTWllI-X-YpSJTFc2P_Oe-jxbEuf33QVAy2t2IwfdiPifkxUVSgZAAy9W0800bcZVEawEspVCeAge-2t_NMoOcA7DZM-aNlOTM8tHhv41uw5KNlfIE3h28AtkVbTf_5Cxa-jA7CBK0wHK2q7HlUtEEW6s6eL4r3BVqITpQ08jQ-HjtH8bCm2fNfab4qM1AbfZu6zwCCFg6CHIgC8vfI1uG-1tfaRg0MslZmm12oa5L_l-aAOe2hXUTr1F5Di5Pv6Icai3W_Tgn2VWfuKXnFAnra0qLLOrv1cEJHtJxzXgjbfP5w_veYhLRxlkkTDYjd4sBi14Q9zEulFyN_DTJFj0JfGp-Adbzm5aUm3cTt-psR55Hq9fR_G6-ldOw63wGjKfH2zt_SSftaXiElTQdOGM7SgpXQCH0t43wkhmwf8B8KHhBs2Y93Le0KrVdkfSgZqm_P4ivFTeg7PnLkA8rxmmpX7slFElWVuwPPjW_ehCNyuoSo3wHoGRwgT6Bbt4SfzBQdlviueopSuW7deKGAIYG_tv67TczO_3Kmgp90hj8gYmBm1JQrZ8d3P80FjL6LGNH902o0QPfF0UO56lvCXJkBwFTpYV-zK76LuB6PzvQclo_rOt4bno2gZ4L16VzjCdoAaHaEhoAEDM680Ggw3ZLoYlQiGfNDMSV8gASoJdXMtZWFzdC0yMJUH.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="BRASIL", OS TRES PATETAS
