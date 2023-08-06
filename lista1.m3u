@@ -122,6 +122,8 @@ http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
 https://cdn2.connectbr.com.br/life/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="BRASIL", QUEENS UNITED TV
 https://cdn2.connectbr.com.br/Queens/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
@@ -990,6 +992,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="DESENHOS",TV KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fgRFQA2.png" group-title="DESENHOS",CLUBINHO FUN
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/LiSnCh7.png" group-title="DESENHOS", OS PADRINHOS MAGICOS
@@ -1052,6 +1056,8 @@ https://ythlsgo.onrender.com/video/Va6cFRP1qiI.m3u8
 https://ythlsgo.onrender.com/video/MiyuKjNPui8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILAGRO BRASIL
+http://201.87.136.36:8091/hls/tvmilagro.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
 https://stream01-tvcoopsc.netpointcdn.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
@@ -1438,6 +1444,8 @@ https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/reqHFUJ.png" group-title="INTERNET", NATURESCAPE
 https://stream.ads.ottera.tv/cl/230803cj5evpdm3b64of5irh40/1920x1080_5711200_3_f.m3u8?i=475_3041
+#EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="INTERNET", NATURE STREAM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="INTERNET", EARTH TV
 https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="INTERNET", ANIMAL AFRICANO 4K
