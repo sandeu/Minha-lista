@@ -92,8 +92,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
 #EXTINF: -1 tvg-logo="https://imgur.com/G0ePXs0.png" group-title="BRASIL", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILLAGRO BRASIL
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0rHWmek.png" group-title="AGRO", NOTICIAS AGRICOLAS
 https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 
