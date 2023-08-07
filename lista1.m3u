@@ -1093,7 +1093,7 @@ https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
-http://rtmp.cdn.upx.net.br/00079/myStream.sdp/playlist.m3u8
+https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RADIO TUPI
