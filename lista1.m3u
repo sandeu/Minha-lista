@@ -90,6 +90,8 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 https://live.cdn.upx.com/00046/myStream.sdp/chunklist.m3u8?20a249b9102cb906c401d6481d924910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",Curta HD
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
+https://ythlsgo.onrender.com/video/OWeEUedp_6c.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -1138,6 +1140,8 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM 101,7
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DZwbEHQ.png" group-title="ESTUDIO FM", URBANA PLAY FM
+https://ythlsgo.onrender.com/video/WrgYwNF4H9c.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
