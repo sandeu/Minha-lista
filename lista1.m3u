@@ -8,12 +8,12 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="BRASIL", RAKUTEN DOCUMENTARIOS
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC TV PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC NOVELAS TV PORTUGAL
 https://eventos.live.impresa.pt/opto_in21080p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="BRASIL", RAKUTEN DOCUMENTARIOS
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
