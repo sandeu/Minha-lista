@@ -365,8 +365,6 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 #EXTINF:-1 tvg-logo="https://imgur.com/TGMfjd7.png" group-title="BRASIL",FORA TEDIO TV
 https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1378479783.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_justforlaughsgags_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="BRASIL",PRANKS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
@@ -982,6 +980,8 @@ https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/chunklist_b732000.m3u8?p=79&s=1690286423&e=1690286543&h=2509d5fa58aa3645bbb874d46cba1e4b
+#EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="BRASIL", TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w525955339.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythlsgo.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
