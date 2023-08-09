@@ -83,6 +83,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://imgur.com/4egK1Qn.png" group-title="BRASIL",TV YEEAAH
 https://stmv1.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9lxxzv.png" group-title="BRASIL", UP TV
+https://ythlsgo.onrender.com/video/Jclys3OIBk8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="TELEVENDAS",UP TV
+https://ythlsgo.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",KARAOKE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
