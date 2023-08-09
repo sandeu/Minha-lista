@@ -1322,6 +1322,8 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="MUSICA", REDE LIVRE
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oS0i9CJ.png" group-title="MUSICA", REDE SULAMERICA HITS
+https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fY4HVfN.png" group-title="MUSICA",WEB TV GUETTO
 https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
