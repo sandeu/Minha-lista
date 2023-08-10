@@ -95,6 +95,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
 
 #EXTINF: -1 tvg-logo="https://imgur.com/G0ePXs0.png" group-title="BRASIL", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mBl8EkM.jpg" group-title="DESENHOS", NICKELODEON
+https://ythlsgo.onrender.com/video/EPje1MCQ1bU.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oG3zUS9.jpg" group-title="DESENHOS", NICK JUNIOR
+https://ythlsgo.onrender.com/video/7TjlCKkvxr4.m3u8
 
 
 
