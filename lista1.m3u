@@ -1053,17 +1053,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
-https://ythlsgo.onrender.com/video/dQBEioK0XR0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mBl8EkM.jpg" group-title="DESENHOS", NICKELODEON
-https://ythlsgo.onrender.com/video/EPje1MCQ1bU.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oG3zUS9.jpg" group-title="DESENHOS", NICK JUNIOR
-https://ythlsgo.onrender.com/video/7TjlCKkvxr4.m3u8
+https://ythlsgo.onrender.com/video/k--MD867Tm0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
 https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
-https://ythlsgo.onrender.com/video/6MUYFEO2Tvc.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
 https://ythlsgo.onrender.com/video/YG2-HFM96t8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
+https://ythlsgo.onrender.com/video/-Od02AXYrCc.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MVXTXh.jpg" group-title="DESENHOS", BRIDIE SQUIRREL
 https://ythlsgo.onrender.com/video/Va6cFRP1qiI.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
