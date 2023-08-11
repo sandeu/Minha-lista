@@ -166,6 +166,8 @@ https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="BRASIL", TV DIARIO
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
+#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="BRASIL", CANAL EMPREENDER
+https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
 http://megablaze.com.global.prod.fastly.net/live/band/play2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND MINAS
@@ -980,8 +982,6 @@ https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/chunklist_b732000.m3u8?p=79&s=1690286423&e=1690286543&h=2509d5fa58aa3645bbb874d46cba1e4b
 #EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="BRASIL", TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w525955339.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="BRASIL", CANAL EMPREENDER
-https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythlsgo.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
@@ -1036,6 +1036,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fHutaGN.png" group-title="DESENHOS", KIDS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/dJ9ZXiV.png" group-title="DESENHOS", NICK
+https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P481Z9Y.png" group-title="DESENHOS", NICK CLASSICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/IsA6nhP.png" group-title="DESENHOS", A VIDA MODERNA DE ROCKO
@@ -1468,5 +1470,5 @@ https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
 https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="INTERNET", 4K NATURAL WONDERS
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="INTERNET", LOVE NATURE 4K 
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
