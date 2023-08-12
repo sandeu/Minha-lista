@@ -91,6 +91,22 @@ https://ythlsgo.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 https://stmv1.samcast.com.br/washington9400/washington9400/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/s8Zzi95.png" group-title="BRASIL", TV JA
 https://srv4.zcast.com.br/josineide7801/josineide7801/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MR6UAi0.png" group-title="BRASIL",CONECTA MAIS WEB TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/vSYetuV.png" group-title="BRASIL", TERESOPOLIS TV
+https://cdn.jmvstream.com/w/LVW-11574/LVW11574_CEJO5rAP5p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE
+https://video01.kshost.com.br:4443/roniel7264/roniel7264/chunklist_w1326591306.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/j8hCh39.png" group-title="BRASIL", HITS TV
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0DzRgYb.png" group-title="BRASIL", TV ALTIORA
+https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/chunklist_w1684092787.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/JblATnz.png" group-title="BRASIL", TELEWEB 
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w419033723.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
+https://stmv1.srvif.com/lucianotvps/lucianotvps/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",KARAOKE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
