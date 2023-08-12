@@ -901,7 +901,7 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="BRASIL",TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZIYiiMS.png" group-title="BRASIL", WEB TV PIQUET
-https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/playlist.m3u8
+https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/chunklist_w669765239.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nmI1IXD.png" group-title="BRASIL", MAM NEWS WEB TV
 https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QaXVtCL.png" group-title="BRASIL", WEB TV PARANA
