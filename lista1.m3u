@@ -660,6 +660,8 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w1044140307.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TuRxt9m.png" group-title="BRASIL",TV IBIAPABANA
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/chunklist_w362097750.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="BRASIL",TV EMPIRE
 https://video01.kshost.com.br:4443/roniel7264/roniel7264/chunklist_w1326591306.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9uksSSd.png" group-title="BRASIL", TV NOVA MT
@@ -940,10 +942,6 @@ https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/playlist.m3u8
 https://stmv1.samcast.com.br/hadailtonjose5865/hadailtonjose5865/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E5QEy0u.png" group-title="BRASIL",TV POP BRASIL
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/s8Zzi95.png" group-title="BRASIL", TV JA
-https://srv4.zcast.com.br/josineide7801/josineide7801/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="BRASIL",TV A PLATEIA
 https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHVtoml.png" group-title="BRASIL", REDE SEMPRE TV
@@ -958,8 +956,6 @@ https://tv02.zas.media:1936/unimidia/unimidia/playlist.m3u8
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/coCbgm2.png" group-title="BRASIL", TV INTERIOR
 https://core-cdn-02-huoplay.brasilnet.net.br/TV-INTERIOR-PUB-01-01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mH00bIl.png" group-title="BRASIL", VILA RE TV
-https://stmv1.samcast.com.br/washington9400/washington9400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FKjnQOC.png" group-title="BRASIL", STUDIO MAX TV
 https://59f1cbe63db89.streamlock.net:1443/studiomax/_definst_/studiomax/chunklist_w607402107.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cgj5xfq.png" group-title="BRASIL", WEB TV RMB
@@ -973,7 +969,7 @@ https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/chunklist_w1109147341.m
 #EXTINF:-1 tvg-logo="https://imgur.com/XHeDKLK.png" group-title="BRASIL", VOX TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAuXAHZ.png" group-title="BRASIL", TV CIRCUITO
-https://cdn.jmvstream.com/w/AVJ-12968/playlist/chunklist.m3u8
+https://cdn.jmvstream.com/w/AVJ-14994/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/chunklist_b732000.m3u8?p=79&s=1690286423&e=1690286543&h=2509d5fa58aa3645bbb874d46cba1e4b
 #EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="BRASIL", TV PBC
