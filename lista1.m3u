@@ -444,10 +444,6 @@ https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
-https://acesso.ecast.site:3142/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
-https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",URBAN TV
 https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="BRASIL",URBAN DOCS
@@ -534,10 +530,16 @@ https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1557526838.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ysE0T0e.png" group-title="BRASIL",CINE TV HITS
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="BRASIL", TV MEU XODO
 https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oWsAZq2.png" group-title="BRASIL", TV CIDADE
+https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aNcmRsQ.png" group-title="BRASIL",TV SANTA
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2IxUNIj.png" group-title="BRASIL", WEB TV ENTORNO SUL
@@ -600,10 +602,12 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
+https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aI5XFxc.png" group-title="BRASIL", TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/KIXTT1i.png" group-title="BRASIL", TV ESTACAO
 https://5d82644094cc0.streamlock.net/estacao104tv/estacao104tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/kw3VQlw.png" group-title="BRASIL", ESTACAO WEB TV
@@ -640,8 +644,6 @@ https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a9dR9dX.png" group-title="BRASIL",CARAVELAS TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ysE0T0e.png" group-title="BRASIL",CINE TV HITS
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Lad9m4X.png" group-title="BRASIL", ASTRAL TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
@@ -694,8 +696,6 @@ https://video04.logicahost.com.br/novariotv/novariotv/chunklist_w502523388.m3u8
 https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wy4AtlL.png" group-title="BRASIL", TV SAO JOAO NET
 http://131.161.22.250:1923/BZmZmZK5y2G2ota2oty/a/BZmZmZK5y2G2ota2oty/1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oWsAZq2.png" group-title="BRASIL", TV CIDADE
-https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="BRASIL", TV CARUARA
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="BRASIL",NOVA TV AGROTOUR
