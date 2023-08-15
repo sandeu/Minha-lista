@@ -130,7 +130,7 @@ https://cdn2.connectbr.com.br/life/playlist.m3u8
 https://cdn2.connectbr.com.br/Queens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2flVKSc.png" group-title="BRASIL",BORA FILMES
+#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="BRASIL",BORA FILMES
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
@@ -1260,6 +1260,8 @@ https://ythlsgo.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K80WBnu.png" group-title="RELIGIOSO",PROMESSAS
+http://cdn.connectbr.com.br/Promessas/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fdsMNM.png" group-title="RELIGIOSO",CANAL PROMESSAS
 https://video01.kshost.com.br:4443/gente8322/gente8322/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
