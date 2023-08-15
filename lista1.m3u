@@ -960,8 +960,6 @@ https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-14994/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/chunklist_b732000.m3u8?p=79&s=1690286423&e=1690286543&h=2509d5fa58aa3645bbb874d46cba1e4b
-#EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="BRASIL", TV PBC
-https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w525955339.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyoRI0V.png" group-title="BRASIL", TV POTIGUARA
 https://stmv1.samcast.com.br/francisco1875/francisco1875/chunklist_w684685854.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
