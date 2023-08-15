@@ -130,6 +130,8 @@ https://cdn2.connectbr.com.br/life/playlist.m3u8
 https://cdn2.connectbr.com.br/Queens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2flVKSc.png" group-title="BRASIL",BORA FILMES
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
