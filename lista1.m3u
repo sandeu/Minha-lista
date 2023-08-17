@@ -768,6 +768,8 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="BRASIL", BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SB9zq5x.png" group-title="BRASIL", TV VISUAL
+https://stmv1.srvif.com/renanxs/renanxs/chunklist_w2064402939.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ozhg54z.png" group-title="BRASIL",CANAL RICOS
 https://5d82644094cc0.streamlock.net:443/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f3G8W7B.png" group-title="BRASIL", TV NOVA ESPERANCA
@@ -1402,6 +1404,8 @@ http://159.203.148.226/live/farra_src.m3u8
 https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JJ8dbcY.png" group-title="MUSICA",RADIO ITALIA TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5dSVWUy.png" group-title="MUSICA",JBTV
+https://stream-us-east-1.getpublica.com/cl/230817cjf99ados1och7s9ufu0/960x540_1710726_4_f.m3u8?i=513_4838
 #EXTINF:-1 tvg-logo="https://imgur.com/QRmASnS.png" group-title="MUSICA",1 MUZ
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WTRxEei.png" group-title="MUSICA",RADIO 51 TV
