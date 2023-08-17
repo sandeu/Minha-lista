@@ -71,7 +71,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
-
+#EXTINF:-1,MaxLife
+https://st-srv02.alfamax.com.br/GLCPLAY/MAX_LIFE/playlist.m3u8
+#EXTINF:-1,MaxLife Western
+https://st-srv02.alfamax.com.br/GLCPLAY/MAX_WESTERN/playlist.m3u8
+#EXTINF:-1,Doc Brasil
+https://st-srv02.alfamax.com.br/GLCPLAY/DOC_BRASIL/playlist.m3u8
+#EXTINF:-1,Cine Amore
+https://st-srv02.alfamax.com.br/GLCPLAY/AMORE/playlist.m3u8
+#EXTINF:-1,Fear Brasil
+https://st-srv02.alfamax.com.br/GLCPLAY/FEAR_BRASIL/index.m3u8
+#EXTINF:-1,To Grow
+https://st-srv02.alfamax.com.br/GLCPLAY/TO_GROW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
