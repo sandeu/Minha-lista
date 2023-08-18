@@ -72,6 +72,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
 #EXTINF:-1,MaxLife
+https://player-teste.cdn.tv.br/channels?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTIzMjYxMTYsImlhdCI6MTY5MjMwODExNiwic3ViIjoicGxheWVyLXRlc3RlLmNkbi50di5iciMxNjg1NzI3MTQwIn0.0tQiDta31XqYczQI0G29lHW96vtEvDzE9qI1NDAVts4
+#EXTINF:-1,MaxLife
 https://st-srv02.alfamax.com.br/GLCPLAY/MAX_LIFE/playlist.m3u8
 #EXTINF:-1,MaxLife Western
 https://st-srv02.alfamax.com.br/GLCPLAY/MAX_WESTERN/playlist.m3u8
