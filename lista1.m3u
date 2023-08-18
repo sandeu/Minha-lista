@@ -101,7 +101,7 @@ https://ythlsgo.onrender.com/video/OWeEUedp_6c.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
-https://ythlsgo.onrender.com/video/DzzatpwSBJg.m3u8
+https://ythlsgo.onrender.com/video/xJhTSamlOjw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -1356,6 +1356,8 @@ https://qwest-mix-lg.amagi.tv/playlist.m3u8
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="MUSICA", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cxUae8h.png" group-title="MUSICA", SUPER CLASSICS TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Aowvfq5.png" group-title="MUSICA", REAL MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/6b580ad6-e7a5-4f17-ab79-d8813d0b887d/2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
