@@ -184,6 +184,8 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
+https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT INTERNACIONAL
 https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT SP
@@ -256,7 +258,7 @@ https://ythlsgo.onrender.com/video/RiRs29trHv4.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1791784311.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ68Fvx.png" group-title="BRASIL",TV A CRITICA
 https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pAytmPY.png" group-title="BRASIL",RF TV
+#EXTINF:-1 tvg-logo="https://imgur.com/imf40Iq.png" group-title="BRASIL",RF TV
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -454,8 +456,6 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1050568292.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
