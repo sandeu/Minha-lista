@@ -3,7 +3,12 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
+https://amg01391-sbtinfast-amg01391c1-lg-mx-653.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgmx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
+https://amg01391-sbtinfast-amg01391c2-lg-br-651.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_justforlaughsgags_001.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
