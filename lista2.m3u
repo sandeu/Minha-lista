@@ -93,6 +93,9 @@ https://st-srv02.alfamax.com.br/GLCPLAY/TO_GROW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
+#EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
