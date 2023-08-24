@@ -292,10 +292,6 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gqGc84a.png" group-title="BRASIL",NE 10 PLAY
-https://d1fs3krp06xlzt.cloudfront.net/out/v1/00902aedec684ecc84e3ff78f48f37b7/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FlKAlOi.png" group-title="BRASIL", RADIO JORNAL
-https://d2c7scwrei7r2w.cloudfront.net/out/v1/be4eece91bcf48418694f0a87ad470d7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
@@ -1122,6 +1118,10 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://ythlsgo.onrender.com/video/dw54p_YXMIE.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gqGc84a.png" group-title="ESTUDIO FM",NE 10 PLAY
+https://d1fs3krp06xlzt.cloudfront.net/out/v1/00902aedec684ecc84e3ff78f48f37b7/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FlKAlOi.png" group-title="ESTUDIO FM", RADIO JORNAL
+https://d2c7scwrei7r2w.cloudfront.net/out/v1/be4eece91bcf48418694f0a87ad470d7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
