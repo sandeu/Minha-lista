@@ -212,6 +212,8 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7xI4wvQ.png" group-title="BRASIL", BR8 TV
+https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
@@ -670,6 +672,8 @@ https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Lad9m4X.png" group-title="BRASIL", ASTRAL TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Lad9m4X.png" group-title="BRASIL", ASTRAL TV
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/je39kFr.png" group-title="BRASIL", CANAL SMART
 https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
