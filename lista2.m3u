@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1, TV Cultura
+https://us-east-1.prod.tvcoins.com/player/player.html?tenant-id=culturaplay&channel-id=2457d4f0-1519-4d1d-bc46-3cbe03074e72&autoplay=true
+
 #EXTINF:-1, ZooMoo Kids
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
