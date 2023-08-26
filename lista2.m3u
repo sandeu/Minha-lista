@@ -116,7 +116,50 @@ http://cdn-1.nxplay.com.br/MUSIC_HD/index.m3u8
 #EXTINF:-1, Prime Box Brasil
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
+#EXTINF:-1, Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
+#EXTINF:-1, Cartoon Network
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1, Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1, Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1, TNT
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1, TNT
+https://cdn-1.nxplay.com.br/TNT/index.m3u8
+
+#EXTINF:-1, Travel Box Brasil
+http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
+
+#EXTINF:-1, FashionTV
+http://cdn-1.nxplay.com.br/FASHION_HD/index.m3u8
+
+#EXTINF:-1, E-BLACK
+https://cdn-1.nxplay.com.br/MEGA_TK/index.m3u8
+
+#EXTINF:-1, E-HITS
+https://cdn-1.nxplay.com.br/HITTS_TK/index.m3u8
+
+#EXTINF:-1, E-CLASSICS
+https://cdn-1.nxplay.com.br/CLASSICHITS_TK/index.m3u8
+
+#EXTINF:-1, E-LATINO
+https://cdn-1.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
+
+#EXTINF:-1, E-POP
+https://cdn-1.nxplay.com.br/Cult_TK/index.m3u8
+
+#EXTINF:-1, E-PARTT
+https://cdn-1.nxplay.com.br/BRAmusic_TK/index.m3u8
+
+#EXTINF:-1, E-ROCK
+https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
 https://amg01391-sbtinfast-amg01391c1-lg-mx-653.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgmx/playlist.m3u8
