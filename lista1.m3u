@@ -208,7 +208,7 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7xI4wvQ.png" group-title="BRASIL", BR8 TV
+#EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="BRASIL", BR8 TV
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1101,7 +1101,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CTr2bUc.png" group-title="ESTUDIO FM", 98 LIVE
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Q3g_iYWOIczVLFHjxDq3KCnUFDIIJQ6lap5MRo1exe_)/cloud/3/x8ilwg3/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-TU5eze_17eHl2xP-1xfv1-LEgMxjzNBAwVw9c9VjmVW)/cloud/3/x8ilwg3/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w332012945.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mqIunic.png" group-title="ESTUDIO FM", RTL SANTOS
@@ -1120,10 +1120,6 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://ythlsgo.onrender.com/video/dw54p_YXMIE.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gqGc84a.png" group-title="ESTUDIO FM",NE 10 PLAY
-https://d1fs3krp06xlzt.cloudfront.net/out/v1/00902aedec684ecc84e3ff78f48f37b7/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FlKAlOi.png" group-title="ESTUDIO FM", RADIO JORNAL
-https://d2c7scwrei7r2w.cloudfront.net/out/v1/be4eece91bcf48418694f0a87ad470d7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
