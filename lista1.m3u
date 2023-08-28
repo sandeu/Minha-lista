@@ -382,8 +382,6 @@ https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6c
 https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1378479783.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="BRASIL",JUST FOR LAUGHS
-https://ythlsgo.onrender.com/video/VhotFZVp7Y0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="BRASIL",PRANKS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
 #EXTINF:-1 tvg-logo="https://imgur.com/uflSiKs.png" group-title="BRASIL",COMEDIA BRASIL
@@ -995,7 +993,7 @@ https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GSWxHX8.png" group-title="BRASIL", WEB TV STATTUS
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
-https://ythlsgo.onrender.com/video/rLwp9Z-rnms.m3u8
+https://ythlsgo.onrender.com/video/kyKvdZ8Mc70.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://ythlsgo.onrender.com/video/kfsC2UmeEgk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
@@ -1003,7 +1001,7 @@ https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="BRASIL", CANAL VIVER BRASIL
 https://ythlsgo.onrender.com/video/IG0gI8DWiQA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rD0nGo1.png" group-title="BRASIL", TV CONEXAO BRASIL
-https://ythlsgo.onrender.com/video/7WSENnK8ge4.m3u8
+https://ythlsgo.onrender.com/video/727pDMm3VjE.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
@@ -1166,8 +1164,6 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM 101,7
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DZwbEHQ.png" group-title="ESTUDIO FM", URBANA PLAY FM
-https://ythlsgo.onrender.com/video/WrgYwNF4H9c.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
