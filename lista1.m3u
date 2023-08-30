@@ -1498,11 +1498,11 @@ https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="INTERNET", EARTH TV
 https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="INTERNET", ANIMAL AFRICANO 4K
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K
 https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="INTERNET", 4K NATURAL WONDERS
+#EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="4K", 4K NATURAL WONDERS
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="INTERNET", LOVE NATURE 4K 
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="4K", LOVE NATURE 4K 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
 https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
