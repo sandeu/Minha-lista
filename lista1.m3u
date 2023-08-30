@@ -441,9 +441,9 @@ https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VfqenLo.png" group-title="BRASIL",CAPTAIN TSUBASA
 https://i.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J8g6T35.png" group-title="BRASIL",GEEK E TECK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://i.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ybn0c7a.png" group-title="BRASIL",GAMING FOR UBISOFT
-https://i.mjh.nz/PlutoTV/62e01661a3e6270007f4ec9e-alt.m3u8
+https://i.mjh.nz/PlutoTV/64c815e8a1c6130008fef928-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
@@ -496,6 +496,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
 https://i.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="BRASIL",O HOMEM QUE VEIO DO CEU
+https://i.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/Rju4d92.png" group-title="BRASIL",MACGYVER
@@ -1502,3 +1504,40 @@ https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="INTERNET", LOVE NATURE 4K 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
+https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eWkCwCH.png" group-title="FILMES",FILMES ACAO
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KThjxPQ.png" group-title="FILMES",ADRENALINA FRREZONE
+https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4DTl9IQ.png" group-title="FILMES",CINE COMEDIA
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JEbw4bv.png" group-title="FILMES",CINE COMEDIA ROMANTICA
+https://i.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/w0xISJx.png" group-title="FILMES",CINE DRAMA
+https://i.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
+https://i.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="FILMES",CINE ROMANCE
+https://i.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="FILMES",FILMES SUSPENSE
+https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4zSw6LD.png" group-title="FILMES",CINE CRIME
+https://i.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zg5aVww.png" group-title="FILMES",CINE TERROR
+https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tKrU63x.png" group-title="FILMES",FICCAO CIENTIFICA
+https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l3ePt46.png" group-title="FILMES",RUNTIME
+https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7Cc0Ot8.png" group-title="FILMES",FILMES NACIONAIS
+https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pb8wybB.png" group-title="FILMES",CINE CLASSICOS
+https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lwlrF3h.png" group-title="FILMES",CINE INSPIRACAO
+https://i.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2EG6bS0.png" group-title="FILMES",CINE FAMILIA
+https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XjYSIxC.png" group-title="FILMES",PARAMOUNT APRESENTA
+https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
+
