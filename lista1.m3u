@@ -1007,7 +1007,7 @@ https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GSWxHX8.png" group-title="BRASIL", WEB TV STATTUS
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
-https://ythlsgo.onrender.com/video/5JLnjW2BuIs.m3u8
+https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://ythlsgo.onrender.com/video/kfsC2UmeEgk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
@@ -1036,6 +1036,8 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
+https://ythls.onrender.com/channel/UCx68_7D0FoZSu_u0z7Qc8sQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LiSnCh7.png" group-title="DESENHOS", OS PADRINHOS MAGICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/C5qWG1y.png" group-title="DESENHOS", OGGY E AS BARATAS
@@ -1498,10 +1500,12 @@ https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="INTERNET", EARTH TV
 https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K
-https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u8OVYJ3.png" group-title="4K", JAPAN 4K
+https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="4K", 4K NATURAL WONDERS
 https://ythls.onrender.com/video/t4Dy8WAvMnY.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K
+https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="4K", LOVE NATURE 4K 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/IX8RH5P.png" group-title="4K", FIREPLACE 4K
