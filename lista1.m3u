@@ -639,7 +639,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tdk3PNw.png" group-title="BRASIL", TV BRASIL HITS
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
-https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q1eUvkh.png" group-title="BRASIL",MEGHA WEB TV
