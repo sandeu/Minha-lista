@@ -1188,6 +1188,8 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM 101,7
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wBbqR7w.png" group-title="ESPORTES", CANAL 21
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-ZkAVS9GTCFWVVBbvEEbc3Vni2w7p09UJnHp4zQy1Url)/cloud/3/x8nm6tr/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
