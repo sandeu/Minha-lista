@@ -1012,6 +1012,8 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GSWxHX8.png" group-title="BRASIL", WEB TV STATTUS
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UFbQEt3.png" group-title="BRASIL", NOVA TV LITORAL
+https://acesso.ecast.site:3781/live/novatvlitorallive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
