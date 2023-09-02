@@ -270,6 +270,10 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
+https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
+https://srv5.zcast.com.br/redelitoral/redelitoral/chunklist_w382050094.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
