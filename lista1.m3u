@@ -626,6 +626,8 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://live01.livemustv.com.br/tv1716/tv1716/chunklist_w294859121.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Wl1aKSs.png" group-title="BRASIL", TV CIDADE HD
+https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist_w1814621371.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="BRASIL", TV RABELO
 https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
@@ -1094,16 +1096,12 @@ https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://imgur.com/ZuxItLa.jpg" group-title="DESENHOS", PICA PAU
-https://ythlsgo.onrender.com/video/DBmn7jwpYqg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 https://ythlsgo.onrender.com/video/k--MD867Tm0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
 https://ythlsgo.onrender.com/video/Pj9YnrOxo-w.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
-https://ythlsgo.onrender.com/video/EkQJYSZA014.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
-https://ythlsgo.onrender.com/video/-Od02AXYrCc.m3u8
+https://ythlsgo.onrender.com/video/1mX_-Kah6iU.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MVXTXh.jpg" group-title="DESENHOS", BRIDIE SQUIRREL
 https://ythlsgo.onrender.com/video/Va6cFRP1qiI.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
@@ -1188,8 +1186,6 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM 101,7
 https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wBbqR7w.png" group-title="ESPORTES", CANAL 21
-https://ythlsgo.onrender.com/video/f0ngJB4XpXs.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
