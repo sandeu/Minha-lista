@@ -254,6 +254,12 @@ https://st-srv02.alfamax.com.br/GLCPLAY/FEAR_BRASIL/index.m3u8
 https://st-srv02.alfamax.com.br/GLCPLAY/TO_GROW/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
+#EXTINF:-1 tvg-logo="https://imgur.com/ZuxItLa.jpg" group-title="DESENHOS", PICA PAU
+https://ythlsgo.onrender.com/video/DBmn7jwpYqg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zeiip1s.jpg" group-title="DESENHOS", DETETIVE LABRADOR
+https://ythlsgo.onrender.com/video/-Od02AXYrCc.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wBbqR7w.png" group-title="ESPORTES", CANAL 21
+https://ythlsgo.onrender.com/video/f0ngJB4XpXs.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
