@@ -110,8 +110,8 @@ https://tv.unisc.br/hls/test.m3u8
 http://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pwRCtt4.png" group-title="BRASIL", TV DESCALVADO
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/QBH2FuC.png" group-title="BRASIL", TV OTIMISTA
-https://hls.directradios.com/otimista/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="BRASIL", TV OTIMISTA
+https://5a1e323a9ae38.directradios.com/otimista/livestream/chunklist_w834157733.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ZqOn5uN.png" group-title="BRASIL", TV EDUCADORA
@@ -458,6 +458,8 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RxSUBAq.png" group-title="BRASIL", YEEAAH TV
+http://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
@@ -619,7 +621,7 @@ https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="BRASIL", WEB TV XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/ZvseLJs.png" group-title="BRASIL", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
