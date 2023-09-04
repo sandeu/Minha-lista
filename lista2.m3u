@@ -3,8 +3,11 @@
 
 
 
-#EXTINF:-1, GLOBO SP
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1, CANAL 21
+http://superblazertop.com.br.global.prod.fastly.net/live/cana21/play2.m3u8
+
+#EXTINF:-1, BAND FM
+http://superblazertop.com.br.global.prod.fastly.net/live/bandfm/play2.m3u8
 
 #EXTINF:-1, ZooMoo Kids
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
@@ -110,6 +113,9 @@ https://cdn-1.nxplay.com.br/BAND_SPORTS_NXPLAY/index.m3u8
 
 #EXTINF:-1, Record (SP)
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+
+#EXTINF:-1, Globo SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1, Globo (TV TEM)
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
