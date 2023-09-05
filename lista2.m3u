@@ -275,6 +275,8 @@ https://st-srv02.alfamax.com.br/GLCPLAY/CLC2/playlist.m3u8
 https://st-srv02.alfamax.com.br/GLCPLAY/FANDOM2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST TV MIX
 https://qwestaaaa-qwestjazz-uk-samsungtv-lew0b.amagi.tv/playlist/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="BRASIL", TV DIARIO
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
