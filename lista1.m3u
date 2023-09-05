@@ -622,8 +622,6 @@ https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/ZvseLJs.png" group-title="BRASIL", TVS RETRO
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
 https://live01.livemustv.com.br/tv1716/tv1716/chunklist_w294859121.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL",CANAL 29
@@ -1022,6 +1020,8 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GSWxHX8.png" group-title="BRASIL", WEB TV STATTUS
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YWZo9FM.png" group-title="BRASIL", TV CONECTADA
+https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/chunklist_w68522620.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
