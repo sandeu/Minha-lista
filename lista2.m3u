@@ -4,7 +4,34 @@
 
 
 #EXTINF:-1, CANAL 21
-http://superblazertop.com.br.global.prod.fastly.net/live/cana21/play2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-a_eJod1BMlA-_Nd_Qr2Szxbi-cSXkDVYCiSIBBHxrBi)/cloud/3/x8nm6tr/s/live-2.m3u8
+
+#EXTINF:-1,DIDI REDPILL
+https://ythlsgo.onrender.com/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
+
+#EXTINF:-1,TV BAND RIO
+https://ythlsgo.onrender.com/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
+
+#EXTINF:-1,OESTE SEM FILTRO
+https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+
+#EXTINF:-1,BAND JORNALISMO
+https://ythlsgo.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8
+
+#EXTINF:-1,UOL ESPORTE
+https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
+
+#EXTINF:-1,FLA TV
+https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
+
+#EXTINF:-1,FLU TV
+https://ythlsgo.onrender.com/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
+
+#EXTINF:-1,VASCO TV
+https://ythlsgo.onrender.com/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
+
+#EXTINF:-1,BOTAFOGO TV
+https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
 
 #EXTINF:-1, BAND FM
 http://superblazertop.com.br.global.prod.fastly.net/live/bandfm/play2.m3u8
