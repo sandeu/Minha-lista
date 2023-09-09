@@ -210,8 +210,6 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="BRASIL", BR8 TV
-https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
@@ -648,7 +646,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wpG9TWZ.png" group-title="BRASIL",WISE PLAY TV
 https://acesso.ecast.site:3142/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Q1eUvkh.png" group-title="BRASIL",MEGHA WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/GlDOcax.png" group-title="BRASIL",MEGHA WEB TV
 https://stmv1.srvif.com/redemegha/redemegha/chunklist_w1969387002.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
 https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
@@ -712,6 +710,8 @@ https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/chunklist_w362097750.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9uksSSd.png" group-title="BRASIL", TV NOVA MT
 https://video01.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w912595013.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="BRASIL", BR8 TV
+https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1013840.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1Q8s4j.png" group-title="BRASIL", TV TUDO WEB
 https://v8.ciclano.io:1443/tudoweb/_definst_/tudoweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uHTDEzJ.png" group-title="BRASIL",CAMPOS WEB TV
