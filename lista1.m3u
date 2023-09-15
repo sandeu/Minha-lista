@@ -123,7 +123,7 @@ https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playli
 #EXTINF:-1 tvg-logo="https://imgur.com/Si4xzT8.png" group-title="BRASIL",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/40SOqdh.png" group-title="BRASIL",ULTRAFARMA TV
-https://stream.castr.com/619bcb57cf4d69d7ce7762c2/live_cf9cf240474c11ee800f35153c89d755/tracks-v1a1/mono.m3u8
+https://stream.castr.com/619bcb57cf4d69d7ce7762c2/live_cf9cf240474c11ee800f35153c89d755/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="BRASIL",UNIVERSIDADE DA PESSOA
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
