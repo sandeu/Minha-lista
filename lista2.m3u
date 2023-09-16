@@ -1127,8 +1127,6 @@ https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w879483746.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="MUSICA",POWER TV
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="MUSICA",MAIS UM
-https://stream.ichibantv.ga:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="MUSICA",PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/umg86Bs.png" group-title="MUSICA",NASHVILLE COUNTRY TV
