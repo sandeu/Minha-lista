@@ -666,6 +666,8 @@ https://video01.kshost.com.br:4443/maria8005/maria8005/chunklist_w200414404.m3u8
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mDUcgV9.png" group-title="BRASIL",LAGOA TV
 https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w1182408638.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL", TV MON HD
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c8T2eyr.png" group-title="BRASIL", TV SAO CAETANO
 https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wvFt1Nm.png" group-title="BRASIL", GRU WEB TV
@@ -898,8 +900,6 @@ https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/chunklist_w179365615
 https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
 #EXTINF:-1 tvg-logo="https://imgur.com/Htci37P.png" group-title="BRASIL",TV DESTAQUE NACIONAL
 https://5a0c3936c25c8.streamlock.net/tvdestaquenacional/tvdestaquenacional/chunklist_w204614973.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL", TV MON
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="BRASIL", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="BRASIL", CONECT TV
