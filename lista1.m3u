@@ -4,8 +4,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FDLT87n.png" group-title="BRASIL", TESTE
-https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/master.m3u8?hdnts=exp=1695138783~acl=/*~hmac=e11707f0f8bec8eaddd34e7e84ce63f19a2e08d8d651475412be2f96f8ef4005
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="BRASIL", RAKUTEN DOCUMENTARIOS
@@ -14,6 +12,8 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC NOVELAS TV PORTUGAL
 https://eventos.live.impresa.pt/opto_in21080p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="BRASIL", TVI FICCAO
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=737056373
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
@@ -1426,6 +1426,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a067e7c65ff60007b408
 https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 #EXTINF:-1 tvg-logo="https://imgur.com/0ZBftQe.png" group-title="MUSICA",PORTAL 90
 https://live.tvcontrolcp.com:1936/portal90/portal90/chunklist_w1194022327.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ElCNIbG.png" group-title="MUSICA",EURODANCE 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="MUSICA",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
@@ -1448,6 +1450,8 @@ https://stream.ichibantv.com:3230/stream/play.m3u8
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gdmSy9I.png" group-title="MUSICA",DANCE TELEVISION
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/B8pyFmS.png" group-title="MUSICA",DANCE TV
+https://stmv1.cnarlatam.com/danncetv/danncetv/chunklist_w802976222.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DaWz8AL.png" group-title="MUSICA", FARRA TV
 http://159.203.148.226/live/farra_src.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BrG3aEE.png" group-title="MUSICA", BOX PLAYLIST
