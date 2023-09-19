@@ -401,8 +401,6 @@ https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CoAFSECNZODkDyarw_EnFIWY7-0
 https://stmv1.painelvideo.top/pinktv/pinktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W1mIU3j.png" group-title="BRASIL",TV CIDADE RJ
 https://stream.ichibantv.ga:3827/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/gazetaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8lL90QK.png" group-title="BRASIL", REDE CIDADE RIO GRANDE
 https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kQh2rI7.png" group-title="BRASIL", TV NTV
