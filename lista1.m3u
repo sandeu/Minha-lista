@@ -11,7 +11,7 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC TV PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC NOVELAS TV PORTUGAL
-https://eventos.live.impresa.pt/opto_in21080p.m3u8
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="BRASIL", TVI FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=737056373
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
@@ -1026,6 +1026,8 @@ https://stmv.allflixtv.com/chicbrasiltv/chicbrasiltv/playlist.m3u8
 https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YWZo9FM.png" group-title="BRASIL", TV CONECTADA
 https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/chunklist_w68522620.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/lyRgsjz.png" group-title="BRASIL", UP TV AMERICANA
 https://ythls.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
