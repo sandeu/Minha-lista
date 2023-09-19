@@ -268,12 +268,12 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 http://streaming.jornalmn.com.br:80/live/tvmn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
 https://acesso.ecast.site:3456/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
@@ -286,6 +286,8 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
+https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DEWyBTC.png" group-title="BRASIL", VIRTUAL TV 2
