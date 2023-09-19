@@ -198,6 +198,22 @@ https://cdn-1.nxplay.com.br/BRAmusic_TK/index.m3u8
 #EXTINF:-1, E-ROCK
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/rD0nGo1.png" group-title="BRASIL", TV CONEXAO BRASIL
+https://ythlsgo.onrender.com/video/uKdb0fc3Cyg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t3PKqra.png" group-title="BRASIL", CNV TV 
+https://ythlsgo.onrender.com/video/APOyy9V1FDo.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="BRASIL",URBAN DOCS
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="BRASIL",URBAN RETRO
+https://5ad482a77183d.streamlock.net/urbantvretrogmail.com/urbantvretrogmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="BRASIL",URBAN MOVIES
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="BRASIL",URBAN TRAVEL
+https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="BRASIL",URBAN TURBO
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
 https://amg01391-sbtinfast-amg01391c1-lg-mx-653.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgmx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
