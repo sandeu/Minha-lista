@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FDLT87n.png" group-title="BRASIL", TESTE
-https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/hdntl=exp=1695222389~acl=%2f*~data=hdntl~hmac=23d070b49919215abe1dae50a1affd3cf672722a11c3ef80afe2b7d13838c718/master_720.m3u8
+https://amd01eng.akamaized.net/hls/live/2008102/pgm_fazenda15/master.m3u8?hdnts=exp=1695138783~acl=/*~hmac=e11707f0f8bec8eaddd34e7e84ce63f19a2e08d8d651475412be2f96f8ef4005
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="BRASIL", RAKUTEN DOCUMENTARIOS
