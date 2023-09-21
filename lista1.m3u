@@ -290,6 +290,8 @@ https://live-ak.vimeocdn.com/exp=1695308053~acl=%2F74a23c23-41eb-429e-b479-f0e0a
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xjcrRhj.png" group-title="BRASIL", REDE CERRADO
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w792262963.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DEWyBTC.png" group-title="BRASIL", VIRTUAL TV 2
