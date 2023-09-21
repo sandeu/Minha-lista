@@ -1056,7 +1056,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/z3loChM.png" group-title="DESENHOS",TV KIDS MAIS
+#EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgRFQA2.png" group-title="DESENHOS",CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
