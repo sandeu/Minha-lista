@@ -504,8 +504,6 @@ https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
 https://pa-def.srvsite.com/site/playertv/7035
 #EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
 https://stmv7.samcast.com.br/alexandreantoniodasilva9954/alexandreantoniodasilva9954/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/nDmQTzc.png" group-title="BRASIL",LASS TV
-https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rxdpoyY.png" group-title="BRASIL", TOK TELEVISION
 https://video1.earthcam.com//myearthcam//415695cddd911ffd26216e4fa42f953e.flv//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TjtH6e4.png" group-title="BRASIL",MAIS FAVELA TV
@@ -707,8 +705,6 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2v59tFU.png" group-title="BRASIL",TV COGNOPOLIS
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/Rlo1Tp2.png" group-title="BRASIL", SEVEN TV
-https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="BRASIL", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5EkGqxt.png" group-title="BRASIL", TV JAGUAR
@@ -969,14 +965,8 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=5874329047397081000
 #EXTINF:-1 tvg-logo="https://imgur.com/2OqfCBh.png" group-title="BRASIL", TV TAROBA  fora do ar
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VBovmsF.png" group-title="BRASIL",RECORD NEWS  fora do ar
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/poLpCRu.png" group-title="BRASIL",TV VARZEA GRANDE  fora do ar
 https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/21KaEUn.png" group-title="BRASIL",CANAL CURTA  fora do ar
-https://live.charlotteproducoes.com/hls/curta.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/12GDR6W.png" group-title="BRASIL",CHESPIRITO
-http://168.205.87.198:8555/live/1499/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL", PLAY CHANNEL
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/playchannelsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmFLiHh.png" group-title="BRASIL",PLAY CHANNEL
