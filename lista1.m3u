@@ -200,6 +200,8 @@ https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/chunklist_w106002
 https://ythlsgo.onrender.com/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vlQ2NwB.png" group-title="BRASIL", REDE MASSA
+https://d10tspkqgju994.cloudfront.net/out/v1/8b3b2a4d26ce46adbb916381d8f78df8/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Eim2EzC.png" group-title="BRASIL", TV IGUACU REDE MASSA
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="BRASIL", BEM TV
