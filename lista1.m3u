@@ -181,7 +181,7 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", TV VALE DO URUARA
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-14849/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT INTERNACIONAL
@@ -664,6 +664,8 @@ https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w975613525.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="BRASIL", SEVEN TV
 https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w1980160673.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xa4vZnr.png" group-title="BRASIL", KE TV
+https://stmv7.samcast.com.br/ketv/ketv/chunklist_w1755661317.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
 https://tv02.zas.media:1936/midtv/midtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
