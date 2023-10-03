@@ -315,6 +315,8 @@ https://stream.castr.com/619bcb57cf4d69d7ce7762c2/live_cf9cf240474c11ee800f35153
 https://live-ak.vimeocdn.com/exp=1695308053~acl=%2F74a23c23-41eb-429e-b479-f0e0ac7fabd7%2F%2A~hmac=80465ce0ae365ae4cce48b99a9bf36dfeb9e53449eb9ac7677b68d66c682edde/74a23c23-41eb-429e-b479-f0e0ac7fabd7/chunklist_b3256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-logo="https://imgur.com/TGMfjd7.png" group-title="BRASIL",FORA TEDIO TV
 https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1378479783.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
+https://srv5.zcast.com.br/redelitoral/redelitoral/chunklist_w382050094.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
