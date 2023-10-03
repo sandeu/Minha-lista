@@ -81,7 +81,7 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index720p.m3u8
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
@@ -175,7 +175,7 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="BRASIL", CANAL EMPREENDER
 https://ythlsgo.onrender.com/video/12tgKVOESYM.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
-http://superblazertop.com.br.global.prod.fastly.net/live/band/play2.m3u8
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND MINAS
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", TV VALE DO URUARA
@@ -280,8 +280,6 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
-https://srv5.zcast.com.br/redelitoral/redelitoral/chunklist_w382050094.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RKW3AUs.png" group-title="BRASIL", TV PRINCESA
 https://princesa2.brasilstream.com.br/hls/princesa2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
@@ -426,6 +424,8 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
+https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
