@@ -980,6 +980,10 @@ https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="BRASIL",FALA LITORAL WEB TV
 https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nLEYe4h.png" group-title="BRASIL", RTV LITORAL ABAIS
+https://stmv1.srvif.com/rtvabais/rtvabais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png" group-title="BRASIL",TV LITORAL RN
+https://stmv1.srvif.com/tvlitoralrn/tvlitoralrn/chunklist_w420715477.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="BRASIL",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IZ3gRAt.png" group-title="BRASIL",TV TI VEJO
@@ -998,8 +1002,6 @@ https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="BRASIL", PIX TV
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nLEYe4h.png" group-title="BRASIL", RTV LITORAL ABAIS
-https://stmv1.srvif.com/rtvabais/rtvabais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DS3Z1MG.png" group-title="BRASIL", UNIMIDIA TV
 https://tv02.zas.media:1936/unimidia/unimidia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/POfeR8p.png" group-title="BRASIL", TV FEIRA DE SANTANA
