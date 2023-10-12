@@ -278,6 +278,8 @@ https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
 https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/unMWuPW.png" group-title="BRASIL", TV ONDA DIGITAL
+https://ythlsgo.onrender.com/video/EqavSXmoIGw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
