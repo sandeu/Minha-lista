@@ -678,6 +678,8 @@ https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w975613525.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="BRASIL", SEVEN TV
 https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w1980160673.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1168168565.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xa4vZnr.png" group-title="BRASIL", KE TV
 https://stmv7.samcast.com.br/ketv/ketv/chunklist_w1755661317.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VZKpfcj.png" group-title="BRASIL", MOON PLUS TV
