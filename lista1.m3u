@@ -286,8 +286,6 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1iA7o6m.png" group-title="BRASIL", TV LITORAL
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RKW3AUs.png" group-title="BRASIL", TV PRINCESA
-https://princesa2.brasilstream.com.br/hls/princesa2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
@@ -312,6 +310,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
+https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
@@ -1050,8 +1050,6 @@ https://ythls.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://ythlsgo.onrender.com/video/0wRhAVRIB1U.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
-https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="BRASIL", CANAL VIVER BRASIL
 https://ythlsgo.onrender.com/video/IG0gI8DWiQA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
