@@ -1526,6 +1526,10 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://imgur.com/EOA0k5n.png" group-title="MUSICA",XITE JUST CHILL
 https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://imgur.com/oK48xxp.png" group-title="MUSICA",THE COUNTRY NETWORK
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ec8bc455-a588-479f-9189-de9aa37e2a8b/0.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TuPDuV8.png" group-title="MUSICA",HTV
+https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3343/amlst:mainstream/chunklist_b5056552.m3u8?p=local&op_id=58&userId=0&channelId=3343&stime=1697310080&etime=1697396480&token=098c92bfe3f1b1860897e
 #EXTINF:-1 tvg-logo="https://imgur.com/P4JNqWi.png" group-title="INTERNET",FAILARMY
 https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",PEOPLE ARE AWESOME
@@ -1552,6 +1556,8 @@ https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I819zzF.png" group-title="INTERNET", EARTH TV
 https://ythlsgo.onrender.com/video/b-PyEswUenE.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="4K", 4K TRAVEL
+https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8OVYJ3.png" group-title="4K", JAPAN 4K
 https://ythls.onrender.com/channel/UCZ0fkEaTm106vBdvd4PK_sA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZyvCphq.png" group-title="4K", 4K NATURAL WONDERS
