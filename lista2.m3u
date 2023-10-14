@@ -3,6 +3,17 @@
 
 
 
+
+
+#EXTINF:-1, CNN
+https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/CNN_BR.m3u8
+
+#EXTINF:-1, CNN
+https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/CNN_BR/tracks-v5a1.m3u8
+
+#EXTINF:-1, CNN
+https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/CNN_BR/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1, CANAL 21
 https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-ez-cw_3I7Ge9EaFAX9eHS8mAAjyneE0Pf1uWeHx1VBZ)/cloud/3/x8nm6tr/s/live-2.m3u8#cell=lnyc
 
