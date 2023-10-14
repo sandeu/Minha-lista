@@ -311,7 +311,15 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.co
 #EXTINF:-1 tvg-logo="https://imgur.com/18InL8A.png" group-title="BRASIL", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
-https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
+https://acesso.ecast.site:3862/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
+https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", O DIA TV
 https://ythlsgo.onrender.com/video/E-7BGdeFSn4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
@@ -430,14 +438,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a00072202
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
-https://acesso.ecast.site:3862/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
-https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
@@ -688,6 +688,8 @@ https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1168168565.m3u8
 https://stmv7.samcast.com.br/ketv/ketv/chunklist_w1755661317.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VZKpfcj.png" group-title="BRASIL", MOON PLUS TV
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w12301485.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/un6waGO.png" group-title="BRASIL", CANAL METROPOLITANO DE NOTICIAS
+https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w1021370721.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
 https://tv02.zas.media:1936/midtv/midtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
