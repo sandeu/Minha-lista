@@ -5,8 +5,10 @@
 
 
 
-#EXTINF:-1, CNN
-https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/CNN_BR.m3u8
+#EXTINF:-1, TESTE SAMSUNG
+https://d7luqmstmj331.cloudfront.net/index.m3u8
+
+
 
 #EXTINF:-1, CNN
 https://stream.broadpeak.io/9978b7063e297d842c230b731e04e713/CNN_BR/tracks-v5a1.m3u8
