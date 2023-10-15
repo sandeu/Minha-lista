@@ -336,6 +336,12 @@ https://princesa2.brasilstream.com.br/hls/princesa2/index.m3u8
 https://stmv1.srvif.com/cinepix/cinepix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W0mh61k.png" group-title="BRASIL",TV 100
 https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nDmQTzc.png" group-title="BRASIL",LASSTV
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w1344843560.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/kICiCYs.png" group-title="BRASIL", TRI TV
+https://5c483b9d1019c.streamlock.net/tritv/tritv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="BRASIL",REDE CAXIAS TV
+https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
