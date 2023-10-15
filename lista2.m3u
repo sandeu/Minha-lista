@@ -330,6 +330,10 @@ https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w1378479783.m3u8
 https://srv5.zcast.com.br/redelitoral/redelitoral/chunklist_w382050094.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RKW3AUs.png" group-title="BRASIL", TV PRINCESA
 https://princesa2.brasilstream.com.br/hls/princesa2/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/UBYKWUS.png" group-title="BRASIL", CINE PIX TV
+https://stmv1.srvif.com/cinepix/cinepix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/W0mh61k.png" group-title="BRASIL",TV 100
+https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XpLAfyO.png" group-title="MUSICA",REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
