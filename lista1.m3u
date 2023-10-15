@@ -136,8 +136,6 @@ https://cdn2.connectbr.com.br/life/playlist.m3u8
 https://cdn2.connectbr.com.br/Queens/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="BRASIL",BORA FILMES
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
@@ -523,9 +521,7 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
 http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
-https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w636251259.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
@@ -548,8 +544,6 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="BRASIL",TV RIO PRETO
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dFIriUs.png" group-title="BRASIL",TV CONFIEGO
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XypKGyv.png" group-title="BRASIL",ORIUNDI TV
 https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBbmnyl.png" group-title="BRASIL", TV J SID
@@ -1514,6 +1508,8 @@ https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/mUGyKmS.png" group-title="4K", LOUPE 4K 
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="FILMES", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ysE0T0e.png" group-title="FILMES",CINE TV HITS
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
@@ -1524,6 +1520,8 @@ https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oWsAZq2.png" group-title="FILMES", TV CIDADE
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dFIriUs.png" group-title="FILMES",TV CONFIEGO
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="FILMES", CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/chunklist_w1996314886.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
@@ -1532,6 +1530,8 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="FILMES",BORA FILMES
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="FILMES",ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES",MY TIME
