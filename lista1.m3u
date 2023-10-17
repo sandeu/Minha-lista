@@ -1592,6 +1592,8 @@ https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
 https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
+https://i.mjh.nz/SamsungTVPlus/all.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="PEGADINHAS",PRANKS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
 #EXTINF:-1 tvg-logo="https://imgur.com/rn6WG4I.png" group-title="PEGADINHAS",CAMERA SMILE TV
