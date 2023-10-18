@@ -170,6 +170,8 @@ https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="BRASIL", CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H7o9MOo.png" group-title="BRASIL", TV CIDADE RJ
+https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="BRASIL", TV DIARIO
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",GLOBO SP
@@ -317,7 +319,7 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+https://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
@@ -520,8 +522,6 @@ https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="BRASIL", TV CARIOCA NET
 https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w636251259.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
-https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMeVNfm.png" group-title="BRASIL",TV NA ATIVA
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
@@ -982,8 +982,6 @@ https://stmv1.transmissaodigital.com/sttattus/sttattus/chunklist_w1102857444.m3u
 https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/chunklist_w68522620.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H7o9MOo.png" group-title="BRASIL", TV CIDADE RJ
-https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
@@ -1092,8 +1090,6 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CTr2bUc.png" group-title="ESTUDIO FM", 98 LIVE
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-TU5eze_17eHl2xP-1xfv1-LEgMxjzNBAwVw9c9VjmVW)/cloud/3/x8ilwg3/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w246335953.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mqIunic.png" group-title="ESTUDIO FM", RTL SANTOS
@@ -1500,6 +1496,8 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="FILMES", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="FILMES",LIFE SCTV
+https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ysE0T0e.png" group-title="FILMES",CINE TV HITS
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
