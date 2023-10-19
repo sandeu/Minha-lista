@@ -284,6 +284,8 @@ https://acesso.ecast.site:3456/hybrid/play.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/unMWuPW.png" group-title="BRASIL", TV ONDA DIGITAL
 https://ythlsgo.onrender.com/video/7Skbyixrf-4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/unMWuPW.png" group-title="BRASIL", TV ONDA DIGITAL
+https://ythlsgo.onrender.com/video/7Skbyixrf-4?t=99.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
