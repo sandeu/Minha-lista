@@ -588,8 +588,6 @@ https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 https://acesso.ecast.site:3142/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GlDOcax.png" group-title="BRASIL",MEGHA WEB TV
 https://stmv1.srvif.com/redemegha/redemegha/chunklist_w1969387002.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cxd6W5z.png" group-title="BRASIL", WEB TV ZERO
-https://stmv2.voxtvhd.com.br/webtvzero/webtvzero/chunklist_w1863160772.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aI5XFxc.png" group-title="BRASIL", TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/KIXTT1i.png" group-title="BRASIL", TV ESTACAO
@@ -617,7 +615,7 @@ https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w12301485.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/un6waGO.png" group-title="BRASIL", CANAL METROPOLITANO DE NOTICIAS
 https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w1021370721.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
-https://tv02.zas.media:1936/midtv/midtv/playlist.m3u8
+https://a.cdni.live/centenacomunicacao/centenacomunicacao/chunklist_w505338144.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
 https://video01.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/493q2l2.png" group-title="BRASIL", TV SERRA VERDE
