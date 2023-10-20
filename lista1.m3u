@@ -654,6 +654,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w35338165.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
+https://a.cdni.live/tvpombal/tvpombal/chunklist_w847476905.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TuRxt9m.png" group-title="BRASIL",TV IBIAPABANA
 https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="BRASIL", TV BOQUEIRAO
@@ -1414,6 +1416,8 @@ http://159.203.148.226/live/farra_src.m3u8
 https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JJ8dbcY.png" group-title="MUSICA",RADIO ITALIA TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="MUSICA",TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QRmASnS.png" group-title="MUSICA",1 MUZ
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WTRxEei.png" group-title="MUSICA",RADIO 51 TV
