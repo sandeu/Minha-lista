@@ -412,8 +412,6 @@ https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jhCH444.png" group-title="BRASIL",REDE ITV
 https://stmv1.paineltv.net/miguel1318/miguel1318/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",novelissima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
@@ -771,8 +769,6 @@ https://stmv1.srvsite.com/amazingtv/amazingtv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/mathiastv/mathiastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uXs9OE2.png" group-title="BRASIL",TVBS
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
-https://stmv2.samcast.com.br/alex8404/alex8404/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jF3Qu0r.png" group-title="BRASIL", UP WEB TV 
 https://stmv1.srvsh.com.br/paulo2505/paulo2505/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ySWy7Cm.png" group-title="BRASIL", TV BOMBA
@@ -1213,8 +1209,6 @@ http://ott-cdn.ucom.am/s49/index.m3u8
 https://stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qy8Ab43.png" group-title="MUSICA",TV MAXIMA
 https://tvdatta.com:3279/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="MUSICA",TV 538
-https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="MUSICA",RU TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/28iIVGo.png" group-title="MUSICA", DRONE CHANNEL
