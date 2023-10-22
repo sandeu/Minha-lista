@@ -1213,7 +1213,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="ESPORTES",COMBATE GLOBAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://imgur.com/8idDaav.png" group-title="ESPORTES",XFC TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+https://stream-us-east-1.getpublica.com/cl/231022ckqioohem6d1rds6b6gg/1280x720_2274726_0_f.m3u8?i=513_2351
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/d9u8Nz5.png" group-title="ESPORTES", MMA TV
