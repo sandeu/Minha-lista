@@ -265,6 +265,14 @@ https://cdn-1.nxplay.com.br/BRAmusic_TK/index.m3u8
 #EXTINF:-1, E-ROCK
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
 
+
+#EXTINF:-1, H PLUS
+https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, H PLUS
+https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=a40b82bda1bad730383f637a1df212f5253dfcca-baf51e7bdd001b8ff51d091d4f0e91a2-1698225335-1698182135
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/rD0nGo1.png" group-title="BRASIL", TV CONEXAO BRASIL
 https://ythlsgo.onrender.com/video/uKdb0fc3Cyg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t3PKqra.png" group-title="BRASIL", CNV TV 
