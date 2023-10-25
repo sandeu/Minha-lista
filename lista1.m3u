@@ -1514,8 +1514,8 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dFIriUs.png" group-title="FILMES",TV CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="FILMES", CHANNEL 1
-https://stmv1.srvif.com/movies1/movies1/chunklist_w1996314886.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV WESTERN
