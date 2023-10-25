@@ -5,62 +5,555 @@
 
 
 
-#EXTINF:-1, HOMEFULL
-https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+#EXTINF:-1,TV Turma da Mônica
+https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8
 
-#EXTINF:-1, JUST FOR ALL
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,TV Aparecida
 
-#EXTINF:-1, DJANGO
-https://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1, SPARK TV
-https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, OS DEZ MANDAMENTOS
-https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1, TESTE 6
-https://cdn-ue1-prod.tsv2.amagi.tv/...studio-mvsphrecomedia-samsungbr/playlist.m3u8/
-
-#EXTINF:-1, WILD EARTH
-https://cc-0573ljsgymaix.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, NOVELANDO
-https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, TV ZYN
-https://cc-5w3mfvzg9saoi.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, NEW BRASIL
-https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, AFV
-https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, TRACE BRASIL
-https://cc-ccfvktkgxl5qg.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, MASTERCHEF
-https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, JP NEWS
-https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, EMPREENDER
-https://cc-t36qky98i4sus.akamaized.net/playlist.m3u8
-
-#EXTINF:-1, DEZ MANDAMENTOS
+#EXTINF:-1,Os Dez Mandamentos
 https://cc-y98opvcxg57zf.akamaized.net/playlist.m3u8
 
-#EXTINF:-1, REVRY BRASIL
+#EXTINF:-1,Novelando
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,Pluto TV Investigacao Total
+https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8
+
+#EXTINF:-1,Record News
+https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1,Jovem Pan News
+https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1,Euronews Portugues
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Bloomberg TV
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,Receitas Fast
+https://cc-owguzxrso3vrq.akamaized.net/index.m3u8
+
+#EXTINF:-1,Tastemade
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Homeful
+https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+
+#EXTINF:-1,Novelando
+https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,Novelisima (m3u8 from Ottera)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1,MasterChef Brasil
+https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,Sony One Shark Tank Brasil
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Encantador de Cães (m3u8 from Pluto tv)
+https://i.mjh.nz/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u8
+
+#EXTINF:-1,Canal UOL
+https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
+
+#EXTINF:-1,Canal Empreender
+
+
+#EXTINF:-1,BR IN TV
+
+
+#EXTINF:-1,Demand Africa (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungbr-demand-africa-por-samsungbrazil/playlist.m3u8
+
+#EXTINF:-1,Nosey Escândalos
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Fashion TV International
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Hollywire (m3u8 from Ottera in English)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2209
+
+#EXTINF:-1,L!ke
+
+
+#EXTINF:-1,Love Nature (m3u8 from Xumo)
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,WildEarth
+https://cc-0573ljsgymaix.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,Stingray Naturescape
+https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8
+
+#EXTINF:-1,Weather Spy
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Toon Goggles (m3u8 from Ottera)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
+
+#EXTINF:-1,Bob Esponja
+https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
+
+#EXTINF:-1,Nick Clássico
+https://i.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
+
+#EXTINF:-1,Nick Jr.Club
+https://i.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8
+
+#EXTINF:-1,Baby Shark TV
+
+
+#EXTINF:-1,TV Zyn
+https://cc-5w3mfvzg9saoi.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,FIFA+
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1,GE Fast
+https://cc-lfwebwvwdaf0i.akamaized.net/index.m3u8
+
+#EXTINF:-1,Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1,People Are Awesome
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Hard Knocks Fight Championship
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+
+#EXTINF:-1,Motorvision.TV (m3u8 from Ottera)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1,Pluto TV Naruto
+https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
+
+#EXTINF:-1,Pluto TV Anime
+https://i.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
+
+#EXTINF:-1,Sato +
+
+
+#EXTINF:-1,Ubisoft TV
+https://ov.ottera.tv/channels/medialive_ubl_ut/master1400000.m3u8;session=medialive_ubl_ut
+
+#EXTINF:-1,MTV Biggest Pop
+https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
+
+#EXTINF:-1,Clubbing TV (Geo)
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Qwest TV Mix
+https://qwest-mix-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Trace Brasil
+https://cc-ccfvktkgxl5qg.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,A Culpa é do Cabral
+https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8
+
+#EXTINF:-1,Tratamento de Choque HD
+https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+
+#EXTINF:-1,The Pet Collective
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,FailArmy
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Just for Laughs Gags
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,AFV Family
+https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
+
+#EXTINF:-1,The Shield
+
+
+#EXTINF:-1,Pluto TV Investigacao Total
+https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8
+
+#EXTINF:-1,Smithsonian Channel Pluto TV
+https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8
+
+#EXTINF:-1,Sony One - Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,FilmRise Series Gratuitas
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+
+#EXTINF:-1,Revry Brasil
 https://revry-brazil.akamaized.net/playlist.m3u8
 
-#EXTINF:-1, SPARK TV
+#EXTINF:-1,Dark Matter TV
+https://d2gjhy8g9ziabr.cloudfront.n...stitched/samsungtvplus_br_darkmatter_001.m3u8
+
+#EXTINF:-1,Booh!
+
+
+#EXTINF:-1,Grjngo Brasil
+https://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,Runtime Ação
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+
+#EXTINF:-1,Adrenalina Freezone (m3u8 from Ottera)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
+
+#EXTINF:-1,Cindie Lite (m3u8 from Ottera)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+
+#EXTINF:-1,MyTime Movie Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+
+#EXTINF:-1,Cine Familia
+
+
+#EXTINF:-1,Spark TV
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 
+#EXTINF:-1,Runtime TV
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+
+#EXTINF:-1,NetMovies
 
 
+#EXTINF:-1,MovieSphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+
+#EXTINF:-1,GLOBO RJ
+https://8mwx.short.gy/GLOBORJ
+
+#EXTINF:-1,GLOBO SP
+https://8mwx.short.gy/GLOBOSP
+
+#EXTINF:-1,GLOBO MG
+https://8mwx.short.gy/GLOBOMG
+
+#EXTINF:-1,GLOBO NEWS
+https://8mwx.short.gy/GLOBONEWS
+
+#EXTINF:-1,SPORTV
+https://8mwx.short.gy/SPORTV
+
+#EXTINF:-1,SPORTV 2
+https://8mwx.short.gy/SPORTV2
+
+#EXTINF:-1,SPORTV 3
+https://8mwx.short.gy/SPORTV3
+
+#EXTINF:-1,CANAL COMBATE
+https://8mwx.short.gy/COMBATE
+
+#EXTINF:-1,PREMIERE
+https://8mwx.short.gy/PFC24HORAS
+
+#EXTINF:-1,PREMIERE MOSAICO
+https://8mwx.short.gy/PREMIEREMOSAICO
+
+#EXTINF:-1,PREMIERE 2
+https://8mwx.short.gy/PREMIERE2
+
+#EXTINF:-1,PREMIERE 3
+https://8mwx.short.gy/PREMIERE3
+
+#EXTINF:-1,PREMIERE 4
+https://8mwx.short.gy/PREMIERE4
+
+#EXTINF:-1,CANAL OFF
+https://8mwx.short.gy/CANALOFF
+
+#EXTINF:-1 A&E
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 AMC
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 ANIMAL PLANET
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 ARTE 1
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 AXN
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 BAND
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1 BAND NEWS
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 BAND SPORTS
+http://bdtb.io/live/378724/pcapQ5/71804.m3u8
+
+#EXTINF:-1 BIS
+http://bdtb.io/live/378724/pcapQ5/71809.m3u8
+
+#EXTINF:-1 CANÇÃO NOVA
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 Cartoonito
+http://bdtb.io/live/378724/pcapQ5/71815.m3u8
+
+#EXTINF:-1 Cinemax
+http://bdtb.io/live/378724/pcapQ5/71836.m3u8
+
+#EXTINF:-1 CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 Combate
+http://bdtb.io/live/378724/pcapQ5/71846.m3u8
+
+#EXTINF:-1 Comedy Central
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
+
+#EXTINF:-1 CURTA!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 Discovery Channel
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 Discovery Home & Health
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 Discovery Science
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 Discovery Theater
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 Discovery Turbo
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 Discovery World
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 Disney Channel
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 E!
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 Espn
+http://bdtb.io/live/378724/pcapQ5/71914.m3u8
+
+#EXTINF:-1 Espn 2
+http://bdtb.io/live/378724/pcapQ5/71923.m3u8
+
+#EXTINF:-1 Espn
+http://bdtb.io/live/378724/pcapQ5/71910.m3u8
+
+#EXTINF:-1 Espn 4
+http://bdtb.io/live/378724/pcapQ5/71961.m3u8
+
+#EXTINF:-1 Espn Extra
+http://bdtb.io/live/378724/pcapQ5/71918.m3u8
+
+#EXTINF:-1 Fish TV
+https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+
+#EXTINF:-1 Food Network
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 Fox Sports 2
+http://bdtb.io/live/378724/pcapQ5/71955.m3u8
+
+#EXTINF:-1 FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 Globo News
+http://bdtb.io/live/378724/pcapQ5/131112.m3u8
+
+#EXTINF:-1 Globo Nordeste
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 Globo RJ
+http://bdtb.io/live/378724/pcapQ5/131182.m3u8
+
+#EXTINF:-1 Globo SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 Gloob
+http://bdtb.io/live/378724/pcapQ5/72100.m3u8
+
+#EXTINF:-1 Gloobinho
+http://bdtb.io/live/378724/pcapQ5/131173.m3u8
+
+#EXTINF:-1 GNT
+http://bdtb.io/live/378724/pcapQ5/131136.m3u8
+
+#EXTINF:-1 HBO
+http://bdtb.io/live/378724/pcapQ5/72120.m3u8
+
+#EXTINF:-1 HBO 2
+http://bdtb.io/live/378724/pcapQ5/72113.m3u8
+
+#EXTINF:-1 HBO Family
+http://bdtb.io/live/378724/pcapQ5/72117.m3u8
+
+#EXTINF:-1 HBO Mundi
+http://bdtb.io/live/378724/pcapQ5/72124.m3u8
+
+#EXTINF:-1 HBO Plus
+http://bdtb.io/live/378724/pcapQ5/72128.m3u8
+
+#EXTINF:-1 HBO Pop
+http://bdtb.io/live/378724/pcapQ5/72131.m3u8
+
+#EXTINF:-1 HBO Signature
+http://bdtb.io/live/378724/pcapQ5/72137.m3u8
+
+#EXTINF:-1 HBO Xtreme
+http://bdtb.io/live/378724/pcapQ5/72141.m3u8
+
+#EXTINF:-1 HGTV
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 History
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 History 2
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+
+#EXTINF:-1 Discovery ID
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 Lifetime
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
+#EXTINF:-1 Megapix
+http://bdtb.io/live/378724/pcapQ5/131204.m3u8
+
+#EXTINF:-1 MTV HD
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
+
+#EXTINF:-1 MTV live
+http://bdtb.io/live/378724/pcapQ5/72177.m3u8
+
+#EXTINF:-1 Multishow
+http://bdtb.io/live/378724/pcapQ5/131134.m3u8
+
+#EXTINF:-1 Nick Jr.
+http://bdtb.io/live/378724/pcapQ5/72204.m3u8
+
+#EXTINF:-1 Nickelodeon
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+
+#EXTINF:-1 Paramount Channel
+http://bdtb.io/live/378724/pcapQ5/72220.m3u8
+
+#EXTINF:-1 Premiere Clubes
+http://bdtb.io/live/378724/pcapQ5/72266.m3u8
+
+#EXTINF:-1 Prime Box
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 Record TV
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 Rede TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 Sony
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF;-1 Sony Movies
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 Space
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 SporTV
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 SporTV 2
+http://bdtb.io/live/378724/pcapQ5/72324.m3u8
+
+#EXTINF:-1 SporTV 3
+http://bdtb.io/live/378724/pcapQ5/131108.m3u8
+
+#EXTINF:-1 Studio Universal
+http://bdtb.io/live/378724/pcapQ5/72337.m3u8
+
+#EXTINF:-1 TCM
+https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=NEeC0XAyedVDLoo9wunFjw&3U1G7qaTxrPbalZnEx=1697629323
+
+#EXTINF:-1 Telecine Action
+http://bdtb.io/live/378724/pcapQ5/72348.m3u8
+
+#EXTINF:-1 Telecine Cult
+http://bdtb.io/live/378724/pcapQ5/72353.m3u8
+
+#EXTINF:-1 Telecine Fun
+http://bdtb.io/live/378724/pcapQ5/72357.m3u8
+
+#EXTINF:-1 Telecine Pipoca
+http://bdtb.io/live/378724/pcapQ5/72361.m3u8
+
+#EXTINF:-1 Telecine Premium
+http://bdtb.io/live/378724/pcapQ5/72365.m3u8
+
+#EXTINF:-1 Telecine Touch
+http://bdtb.io/live/378724/pcapQ5/72369.m3u8
+
+#EXTINF:-1 TCL
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 TNT
+http://bdtb.io/live/378724/pcapQ5/72379.m3u8
+
+#EXTINF:-1 TNT Series
+http://bdtb.io/live/378724/pcapQ5/72384.m3u8
+
+#EXTINF:-1 Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 Travel Box
+http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
+
+#EXTINF:-1 TruTv
+http://bdtb.io/live/378724/pcapQ5/76669.m3u8
+
+#EXTINF;-1 TV Rá-Tim-Bum
+http://bdtb.io/live/378724/pcapQ5/72415.m3u8
+
+#EXTINF:-1 Universal TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
+
+#EXTINF:-1 VIVA
+http://bdtb.io/live/378724/pcapQ5/72430.m3u8
+
+#EXTINF:-1 Warner TV
+http://bdtb.io/live/378724/pcapQ5/72434.m3u8
+
+#EXTINF:-1 WooHoo
+https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
+
+#EXTINF;-1 ZooMoo
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
 
 
