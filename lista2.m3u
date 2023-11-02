@@ -869,6 +869,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
+
+#EXTINF: -1 tvg-logo="https://imgur.com/dtQSNZp.png" group-title="ESPORTES", TV KOBERTURA
+https://video01.kshost.com.br:4443/cesar2067/cesar2067/chunklist_w1704694394.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
+https://livestream.zazerconer.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WAuXAHZ.png" group-title="BRASIL", TV CIRCUITO
+https://cdn.jmvstream.com/w/AVJ-14994/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/POfeR8p.png" group-title="BRASIL", TV FEIRA DE SANTANA
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ikedHwg.png" group-title="RELIGIOSO", TV GERMANA
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
+
 #EXTINF:-1,MaxLife
 https://player-teste.cdn.tv.br/channels?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTIzMjYxMTYsImlhdCI6MTY5MjMwODExNiwic3ViIjoicGxheWVyLXRlc3RlLmNkbi50di5iciMxNjg1NzI3MTQwIn0.0tQiDta31XqYczQI0G29lHW96vtEvDzE9qI1NDAVts4
 #EXTINF:-1,MaxLife
