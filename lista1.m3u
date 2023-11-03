@@ -580,6 +580,8 @@ https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist_w1814621371.m
 https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="BRASIL",ABC BRASIL
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1903301311.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
@@ -590,8 +592,6 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w35338165.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
 https://a.cdni.live/tvpombal/tvpombal/chunklist_w847476905.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UFbQEt3.png" group-title="BRASIL", NOVA TV LITORAL
-https://acesso.ecast.site:3781/live/novatvlitorallive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xos2K9Z.png" group-title="BRASIL", ON TV CAMPOS
 https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist_w723805984.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
@@ -646,8 +646,6 @@ https://video01.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="BRASIL",ABC BRASIL
-https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1903301311.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="BRASIL", TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/nabXcv1.png" group-title="BRASIL", WEB TV ALTERNATIVA
