@@ -869,7 +869,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/c8T2eyr.png" group-title="BRASIL", TV SAO CAETANO
+https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/dtQSNZp.png" group-title="ESPORTES", TV KOBERTURA
 https://video01.kshost.com.br:4443/cesar2067/cesar2067/chunklist_w1704694394.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
