@@ -780,11 +780,8 @@ https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8
 https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/tracks-v1a1/mono.m3u8?token=a40b82bda1bad730383f637a1df212f5253dfcca-baf51e7bdd001b8ff51d091d4f0e91a2-1698225335-1698182135
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rD0nGo1.png" group-title="BRASIL", TV CONEXAO BRASIL
-https://ythlsgo.onrender.com/video/uKdb0fc3Cyg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t3PKqra.png" group-title="BRASIL", CNV TV 
 https://ythlsgo.onrender.com/video/APOyy9V1FDo.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="BRASIL",URBAN DOCS
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="BRASIL",URBAN RETRO
@@ -796,32 +793,6 @@ https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.c
 #EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="BRASIL",URBAN TURBO
 https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
-https://amg01391-sbtinfast-amg01391c1-lg-mx-653.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgmx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
-https://amg01391-sbtinfast-amg01391c2-lg-br-651.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL", URBAN PRIVE
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_justforlaughsgags_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_justforlaughsgags/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",JUST FOR LAUGHS GAGS
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_newbrasiltv_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_newbrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_brintv_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_brintv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_novelissima_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_novelissima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_netmovies_001.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="BRASIL",MOVIE SPHERE 2
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_netmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",872
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5581
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
@@ -873,8 +844,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 https://video02.logicahost.com.br/tvcs/tvcs/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/dtQSNZp.png" group-title="ESPORTES", TV KOBERTURA
 https://video01.kshost.com.br:4443/cesar2067/cesar2067/chunklist_w1704694394.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
-https://livestream.zazerconer.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAuXAHZ.png" group-title="BRASIL", TV CIRCUITO
 https://cdn.jmvstream.com/w/AVJ-14994/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/POfeR8p.png" group-title="BRASIL", TV FEIRA DE SANTANA
