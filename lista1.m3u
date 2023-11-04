@@ -1488,9 +1488,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-sams
 https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="INTERNET", NATURE STREAM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DGjqfHW.png" group-title="INTERNET", NAT GEO WILD YOUTUBE
+https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="4K", 4K TRAVEL
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCpLow10iz3-cofN_570bwPQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="4K", LOVE NATURE 4K 
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
