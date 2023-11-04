@@ -636,7 +636,7 @@ https://stmv.jnbhost.com.br/redenewstv/redenewstv/chunklist_w1894004897.m3u8
 https://serv4.videovox.pw/video55103/video55103/chunklist_w283788221.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nta9r5G.png" group-title="BRASIL", YPE TV
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1736853376.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tDtVLrT.png" group-title="BRASIL", AGORA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/tDtVLrT.png" group-title="BRASIL", TV AGORA
 https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
 https://a.cdni.live/centenacomunicacao/centenacomunicacao/chunklist_w505338144.m3u8
@@ -988,6 +988,8 @@ https://video01.kshost.com.br:4443/omar5075/omar5075/chunklist_w1707006481.m3u8
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/42Psqdg.png" group-title="BRASIL", TV LONDRES
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9Z7mdcC.png" group-title="BRASIL", AMERICA TV
+https://stmv7.samcast.com.br/natanael4054/natanael4054/chunklist_w317502909.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
