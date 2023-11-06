@@ -346,6 +346,8 @@ https://revry-brazil.akamaized.net/playlist.m3u8
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nX5oQ3j.png" group-title="BRASIL",MASPER TV
 https://livestream.zazerconer.workers.dev/channel/UCsCSTbuIhgfvcCh8LtMbe-A.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
