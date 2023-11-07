@@ -102,6 +102,8 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 https://live.cdn.upx.com/00046/myStream.sdp/chunklist.m3u8?20a249b9102cb906c401d6481d924910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",CURTA HD
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT
+https://livestream.zazerconer.workers.dev/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
 https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
