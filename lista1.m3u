@@ -126,6 +126,8 @@ https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playli
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="BRASIL",UNIVERSIDADE DA PESSOA
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EgHTGvn.png" group-title="BRASIL",SPACE TODAY TV
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QTfmOoQ.png" group-title="BRASIL",BCC TV
