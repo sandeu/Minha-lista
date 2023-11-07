@@ -102,7 +102,7 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 https://live.cdn.upx.com/00046/myStream.sdp/chunklist.m3u8?20a249b9102cb906c401d6481d924910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",CURTA HD
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT
+#EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
 https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
@@ -320,7 +320,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qA1wno7.png" group-title="BRASIL", LIG TV
+#EXTINF:-1 tvg-logo="https://imgur.com/qA1wno7.png" group-title="BRASIL", LIG TV YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCtHd8zjECQxcLizA_k2nMTg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w840161283.m3u8
