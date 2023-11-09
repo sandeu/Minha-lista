@@ -599,9 +599,7 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="BRASIL",ABC BRASIL
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1903301311.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3455
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HAb2Ksu.png" group-title="BRASIL",TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
