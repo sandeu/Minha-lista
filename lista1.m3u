@@ -356,8 +356,6 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nX5oQ3j.png" group-title="BRASIL",MASPER TV
-https://livestream.zazerconer.workers.dev/channel/UCsCSTbuIhgfvcCh8LtMbe-A.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KlBTxwj.png" group-title="BRASIL",SOL BRASIL 
@@ -1130,7 +1128,7 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RADIO TUPI
-https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCdVRtE_84iZufDiQRX-49Lw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KBd7Txf.png" group-title="ESTUDIO FM", RADIO MANCHETE RIO
 https://livestream.zazerconer.workers.dev/channel/UCKA7NlhZBhTqbhtfYizumjA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
