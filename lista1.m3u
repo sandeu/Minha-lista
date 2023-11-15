@@ -278,14 +278,14 @@ https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q8Luizx.png" group-title="BRASIL",BM&C NEWS
 https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
-https://encurtador.com.br/bqAJ8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Q9tzI.png" group-title="BRASIL",D+ NEWS
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vhtj40c.png" group-title="BRASIL",TV SOU NOTICIA
+https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NQ68Fvx.png" group-title="BRASIL",TV A CRITICA 
 https://livestream.zazerconer.workers.dev/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oiyGlGY.png" group-title="BRASIL",RTN TV
@@ -418,6 +418,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/c8lqm3N.png" group-title="BRASIL",ASSOMBRACOES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/7Q10TKp.png" group-title="BRASIL",NEGOCIO FECHADO
+https://i.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL",  FASHION TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
@@ -1483,6 +1485,8 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://imgur.com/EOA0k5n.png" group-title="MUSICA",XITE JUST CHILL
 https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",5 MINUT CRAFTS
+https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb7c3e167b766f8f9e993560d5f940aade0433d05d39d1603ea05dc126941558d0b8f4c9e84db9687ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee0545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578e70f545cc94f6d8ce1881d3c57ea856e73144597b25c9cd7b96905be3899f6b3bcd272a74f0348cd2fb74f38fe73d217ecabdad9d77fe09c78557f90a558821e88100ade811c73aa8f45aa8ed9ad2475330a7c521114f425b13eb895c11af67e80124d17a7ddb8d7cc8957a0caa400f1eea8ded1180c60797ba63a1bd7a092ac99251d1fad8e6b8e0db1ecc778daf91e94334444e97ecc9fddb329500df2def8f6e59507d4041bf9356c5c9ea5f3f5d7f879552db29d6d8b184aed01432c66c1a15bd2e891b4d5bc53a6873f23eb9b4082cd87644d56e7dcc513bd616a7f834a3f392a5272ba5d2c275fa6dc4bc1e9da351fe236f0f42fbd9046b68603190e26f063539e440e7d8c5a8372a08fef8c0fb8f02695e77471c5cc5b2a7439a88c13b14599400712e274665e36ebc5ed60e4d0f39da5e82fc7b13ab32617cb6e96f271906f0efbe8e80dacf3ec55cdbddf2342a7b14238a3a0b2261c4a5cf3ed93d58756e5290050610e529e689c850d825da9d7a111042b09ea2/38/960x540_2200000/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/29iOWzC.png" group-title="INTERNET",JUST LAUGH
 https://livestream.zazerconer.workers.dev/channel/UCiSCzEMhe0KOXFX7rGN_bBA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4JNqWi.png" group-title="INTERNET",FAILARMY
@@ -1521,6 +1525,8 @@ https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/mUGyKmS.png" group-title="4K", LOUPE 4K 
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://imgur.com/GNKJICq.png" group-title="FILMES", CINE NATAL
+https://i.mjh.nz/PlutoTV/5f8a11ce2a4559000782a583-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="FILMES", SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="FILMES", TV GALLO
