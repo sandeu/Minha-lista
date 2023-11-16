@@ -270,6 +270,8 @@ https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 https://i.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
+https://cc-y4riz7eo92zpm.akamaized.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
@@ -360,6 +362,8 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G1hP8mG.png" group-title="BRASIL", NOSEY ESCANDALOS
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0a6N9ah.png" group-title="BRASIL", CULTNE TV
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/video_360640_p_0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fOGh0Tz.png" group-title="BRASIL",DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3Jd2lQz.png" group-title="BRASIL",ABBA RTV
@@ -392,6 +396,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NPxnnoU.png" group-title="BRASIL",PANICO
+https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8qUQdY3.png" group-title="BRASIL",A CULPA E DO CABRAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
