@@ -823,7 +823,7 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5bq2FIv.png" group-title="BRASIL", TVC PELOTAS
 https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Iw8f5Ft.png" group-title="BRASIL", BAH TV 
-https://streaming03.zas.media:1936/bahtv/bahtv/playlist.m3u8
+https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1931635703.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LMeuMC5.png" group-title="BRASIL", TV NATIVOOS
 https://srv6.zcast.com.br/lckbaltar/lckbaltar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
