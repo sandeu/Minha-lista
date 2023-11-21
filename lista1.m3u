@@ -322,6 +322,8 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="BRASIL", TV GAZIN
+https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qA1wno7.png" group-title="BRASIL", LIG TV YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCtHd8zjECQxcLizA_k2nMTg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
@@ -358,8 +360,6 @@ https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TPn5Jd9.png" group-title="BRASIL", JONYS TV
-https://163vod-adaptive.akamaized.net/exp=1700250331~acl=%2F8332477b-e479-4c42-8562-689dc75923e2%2F%2A~hmac=4f0ae0f925fdffd06f7be8ea8a0136f0fd2d28bccd6f74461f39a202c8044df4/8332477b-e479-4c42-8562-689dc75923e2/sep/audio/f062e648/playlist.m3u8?query_string_ranges=1
 #EXTINF:-1 tvg-logo="https://imgur.com/KlBTxwj.png" group-title="BRASIL",SOL BRASIL 
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G1hP8mG.png" group-title="BRASIL", NOSEY ESCANDALOS
