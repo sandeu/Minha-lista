@@ -612,6 +612,8 @@ https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1903301311.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HAb2Ksu.png" group-title="BRASIL",TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fvm4Q9U.png" group-title="BRASIL",SAT TV
+https://stmv7.samcast.com.br/elias7768/elias7768/chunklist_w370147323.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w35338165.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
@@ -902,8 +904,6 @@ https://tv02.zas.media:1936/tveon/tveon/playlist.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zUUhAfF.png" group-title="BRASIL",US BRASIL TV
 https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="BRASIL",BRAZITV
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/stream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P0kFCD3.png" group-title="BRASIL", PHILLY USA TV
 https://streaming03.zas.media:1936/phillyusa/phillyusa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpQKY4x.png" group-title="BRASIL", TV CNB ORLANDO
@@ -1020,6 +1020,8 @@ https://stmv7.samcast.com.br/natanael4054/natanael4054/chunklist_w317502909.m3u8
 https://stmv3.voxtvhd.com.br/tvrlt/tvrlt/chunklist_w206220781.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YWZo9FM.png" group-title="BRASIL", TV CONECTADA
 https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/chunklist_w68522620.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qOXQfvJ.png" group-title="BRASIL", TV BIGUACU
+https://59f1cbe63db89.streamlock.net:1443/biguawebtv/_definst_/biguawebtv/chunklist_w1306344590.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
