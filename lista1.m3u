@@ -665,7 +665,7 @@ https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VkmzxdL.png" group-title="BRASIL", TVC POTIRAGUA
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i5TgT9o.png" group-title="BRASIL", TV MAIS
-https://srv1.saragosonet.com.br/play/hls/tvmais/1_0/index.m3u8?tkn=4191437044
+https://srv1.saragosonet.com.br/play/hls/tvmais/0_1/index.m3u8?tkn=1138655257
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
 https://a.cdni.live/centenacomunicacao/centenacomunicacao/chunklist_w505338144.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
