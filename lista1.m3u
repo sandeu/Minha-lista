@@ -816,6 +816,10 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hr5dCWq.png" group-title="BRASIL",TV GRAMADO
 https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="BRASIL",TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/5bq2FIv.png" group-title="BRASIL", TVC PELOTAS
+https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1724467255.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ak6GNHl.png" group-title="BRASIL",TV JUNDIAI HOJE
@@ -828,8 +832,6 @@ https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w1064962290.m3u8
 https://stmv1.srvstm.com/igor8605/igor8605/chunklist_w65054005.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ekF19OV.png" group-title="BRASIL",TV OPINIAO PLAY
 https://video04.logicahost.com.br/tvpopular/tvpopular/chunklist_w1502481354.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="BRASIL",TV PASSO FUNDO
-https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/MByVw7Z.png" group-title="BRASIL", REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="BRASIL", MASTER SHOW TV
@@ -846,8 +848,6 @@ https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
 https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/chunklist_w1370974237.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/gaiXfuL.png" group-title="BRASIL", OV TV
 https://video01.logicahost.com.br/othervoice/othervoice/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/5bq2FIv.png" group-title="BRASIL", TVC PELOTAS
-https://video01.kshost.com.br:4443/associacao6754/associacao6754/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/2LFfC8B.png" group-title="BRASIL", TV ALDEIA
 https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w505858583.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/rlGDGn5.png" group-title="BRASIL", GUARANTA TV
