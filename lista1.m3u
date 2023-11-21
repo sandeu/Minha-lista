@@ -785,15 +785,15 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5dVjM69.png" group-title="BRASIL",TV PLANALTO NORTE
 https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist_w460655075.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qIzyAmA.png" group-title="BRASIL",WEB TV PROGRESSO
-https://novo.bitstreaming.info:443/oprogressotvstation/oprogressotvstation/playlist-480p.m3u8
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w73777379.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", TV QUE DEMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", REDE QUE DEMAIS
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VJrDYC9.png" group-title="BRASIL", Q TAL CHANNEL
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w391290188.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="BRASIL", BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w855883239.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SB9zq5x.png" group-title="BRASIL", TV VISUAL
 https://stmv1.srvif.com/renanxs/renanxs/chunklist_w2064402939.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NEX3D1j.png" group-title="BRASIL", TV MAIS MS
