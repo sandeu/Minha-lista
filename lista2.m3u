@@ -844,7 +844,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 https://encurtador.com.br/bqAJ8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZIYiiMS.png" group-title="BRASIL", WEB TV PIQUET
 https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/chunklist_w669765239.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w309686598.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c8T2eyr.png" group-title="BRASIL", TV SAO CAETANO
@@ -859,8 +858,6 @@ https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UFbQEt3.png" group-title="BRASIL", NOVA TV LITORAL
 https://acesso.ecast.site:3781/live/novatvlitorallive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wKFre7L.png" group-title="BRASIL", 7 TVS 
 https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
 
