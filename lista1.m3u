@@ -42,6 +42,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/YiYItLR.png" group-title="BRASIL",TV CEARA
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/VDZyVg4.png" group-title="BRASIL",TBC BRASIL CENTRAL
+https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL",PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL",TV POCOS
