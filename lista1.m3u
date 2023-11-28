@@ -240,6 +240,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zgorH51.png" group-title="BRASIL", REDE TV PARANA
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
@@ -740,6 +742,8 @@ https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3
 https://video01.kshost.com.br:4443/sueli3485/sueli3485/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AyBmKh5.png" group-title="BRASIL",NOVA RIO TV
 https://video04.logicahost.com.br/novariotv/novariotv/chunklist_w502523388.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UK2abq7.png" group-title="BRASIL",TENDA TV
+https://tv02.zas.media:1936/tendatv/tendatv/chunklist_w326984041.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehFStWI.png" group-title="BRASIL",TV ERE NEWS
 https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wy4AtlL.png" group-title="BRASIL", TV SAO JOAO NET
