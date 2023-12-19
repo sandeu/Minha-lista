@@ -364,6 +364,8 @@ https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
 https://revry-brazil.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VLrIvMV.png" group-title="BRASIL", DRAG
+https://i.mjh.nz/PlutoTV/1645111f1d8436e00081bb2bd-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
