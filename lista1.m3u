@@ -140,12 +140,14 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 https://video01.kshost.com.br:4443/bccinternational523/bccinternational523/chunklist_w945587718.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VDmu8ND.png" group-title="BRASIL",CONDO FORNECEDOR TV
 https://video05.logicahost.com.br/condofornecedor/condofornecedor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XASXObO.png" group-title="BRASIL", CANAL CINCO
+https://5a57bda70564a.streamlock.net/canal5/canal5.sdp/chunklist_w2134568454.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCDFGV7.png" group-title="BRASIL", HOMEFULL
 https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YwM5kyn.png" group-title="BRASIL", QUEENS UNITED TV
 https://cdn2.connectbr.com.br/Queens/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aDSWuz4.png" group-title="BRASIL", REDE UTV
 https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",UNIQUE TV
@@ -288,6 +290,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="BRASIL", 24 HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q8Luizx.png" group-title="BRASIL",BM&C NEWS
 https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
@@ -502,6 +506,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NiyKuci.png" group-title="BRASIL", INFERNO SOBRE RODAS
+https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
@@ -1273,12 +1279,12 @@ https://img-edgesport-lg.amagi.tv/playlist.m3u8
 https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIfhqwf.png" group-title="ESPORTES", DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/IsSmFNJ.png" group-title="ESPORTES",PFL MMA
+https://i.mjh.nz/PlutoTV/164f6180130ab3300083d896b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/24Q8Kav.png" group-title="ESPORTES",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="ESPORTES", Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="ESPORTES",COMBATE GLOBAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/2ojj4X0.png" group-title="ESPORTES", FIGHT
