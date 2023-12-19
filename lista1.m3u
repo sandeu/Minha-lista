@@ -1616,13 +1616,13 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="FILMES",RUN TIME 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+https://stream.ads.ottera.tv/cl/231219cm0ecp7c8upetm2o9o10/1280x720_3071200_0_f.m3u8?i=728_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+https://stream.ads.ottera.tv/cl/231219cm0ec9fc8upetm2o9j9g/1280x720_3071200_0_f.m3u8?i=728_2552
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="FILMES",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+https://stream.ads.ottera.tv/cl/231219cm0eckfc8upetm2o9meg/1280x720_3071200_0_f.m3u8?i=728_2553
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES",RUN TIME CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+https://stream.ads.ottera.tv/cl/231219cm0dsgskehrp983p6f80/1280x720_3071200_0_f.m3u8?i=728_4864
 #EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="FILMES",RUN TIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="FILMES",RUN TIME ROMANCE
