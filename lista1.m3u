@@ -686,6 +686,10 @@ https://serv4.videovox.pw/video55103/video55103/chunklist_w283788221.m3u8
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1736853376.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tDtVLrT.png" group-title="BRASIL", TV AGORA
 https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2qpW8wJ.png" group-title="BRASIL", TV SERRA BRANCA
+https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
+https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VkmzxdL.png" group-title="BRASIL", TVC POTIRAGUA
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i5TgT9o.png" group-title="BRASIL", TV MAIS
@@ -723,7 +727,7 @@ https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/chunklist_w362097750.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9uksSSd.png" group-title="BRASIL", TV NOVA MT
 https://video01.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w912595013.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xFqwWfy.png" group-title="BRASIL", BR8 TV
-https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b2628000.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1Q8s4j.png" group-title="BRASIL", TV TUDO WEB
 https://v8.ciclano.io:1443/tudoweb/_definst_/tudoweb/chunklist_w697300041.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uHTDEzJ.png" group-title="BRASIL",CAMPOS WEB TV
@@ -1241,6 +1245,8 @@ https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="ESPORTES",VITRINE ESPORTIVA
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1INGikR.png" group-title="ESPORTES",TOP SPORTS TV
+https://video05.logicahost.com.br/tvsports/tvsports/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
@@ -1287,6 +1293,8 @@ https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/IsSmFNJ.png" group-title="ESPORTES",PFL MMA
 https://i.mjh.nz/PlutoTV/164f6180130ab3300083d896b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title="ESPORTES",COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/24Q8Kav.png" group-title="ESPORTES",FITE
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="ESPORTES", Hard Knocks Fight Championship
@@ -1626,13 +1634,13 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="FILMES",RUN TIME 
-https://stream.ads.ottera.tv/cl/231219cm0ecp7c8upetm2o9o10/1280x720_3071200_0_f.m3u8?i=728_2153
+https://stream.ads.ottera.tv/cl/231219cm0v75521ansfpkuoe70/854x480_1355200_2_f.m3u8?i=728_2153
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
-https://stream.ads.ottera.tv/cl/231219cm0ec9fc8upetm2o9j9g/1280x720_3071200_0_f.m3u8?i=728_2552
+https://stream.ads.ottera.tv/cl/231219cm0v53d21ansfpkunp70/854x480_1355200_2_f.m3u8?i=728_2552
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="FILMES",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/cl/231219cm0eckfc8upetm2o9meg/1280x720_3071200_0_f.m3u8?i=728_2553
+https://stream.ads.ottera.tv/cl/231219cm0v6ivs75mp9tv46r0g/854x480_1355200_2_f.m3u8?i=728_2553
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES",RUN TIME CRIME
-https://stream.ads.ottera.tv/cl/231219cm0dsgskehrp983p6f80/1280x720_3071200_0_f.m3u8?i=728_4864
+https://stream.ads.ottera.tv/cl/231219cm0v70e9ldperi6r74sg/854x480_1355200_2_f.m3u8?i=728_4864
 #EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="FILMES",RUN TIME CINE ESPANTO
 https://stream.ads.ottera.tv/cl/231219cm0pmu0pc25oct6oho30/854x480_1355200_2_f.m3u8?i=728_4865
 #EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="FILMES",RUN TIME ROMANCE
@@ -1679,6 +1687,8 @@ https://i.mjh.nz/PlutoTV/15fa991b1f09e020007e78626-alt.m3u8
 https://i.mjh.nz/PlutoTV/15f171f032cd22e0007f17f3d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XjYSIxC.png" group-title="FILMES",PARAMOUNT APRESENTA
 https://i.mjh.nz/PlutoTV/160072798dcf437000755b4f3-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zbkttaF.png" group-title="PEGADINHAS",CAMERAS ESCONDIDAS
+http://ddsw.xyz:80/8590438094/9912004092/968600
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
