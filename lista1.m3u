@@ -294,10 +294,12 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q8Luizx.png" group-title="BRASIL",BM&C NEWS
 https://livestream.zazerconer.workers.dev/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
-https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0am6O8k.png" group-title="BRASIL",DCM TV
+https://livestream.zazerconer.workers.dev/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
+https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Q9tzI.png" group-title="BRASIL",D+ NEWS
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhtj40c.png" group-title="BRASIL",TV SOU NOTICIA
@@ -1056,6 +1058,8 @@ https://livestream.zazerconer.workers.dev/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 https://livestream.zazerconer.workers.dev/channel/UC1pXFbM6hPRkUUTeO3txrtw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YkM3Gd4.png" group-title="BRASIL", CANAL VIVER BRASIL
 https://livestream.zazerconer.workers.dev/channel/UC4jv6LD8nMFjmQT2Iu4ypxQ.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/WXL8799.png" group-title="BRASIL", TV PRINCESA DO VALE
+https://livestream.zazerconer.workers.dev/channel/UCBaAOCmKwNjryZPhrK1fjqQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/lyRgsjz.png" group-title="TELEVENDAS", UP TV AMERICANA
 https://livestream.zazerconer.workers.dev/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
@@ -1175,6 +1179,8 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RADIO TUPI
 https://livestream.zazerconer.workers.dev/channel/UCdVRtE_84iZufDiQRX-49Lw.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TH3t9OT.png" group-title="ESTUDIO FM", REDE ITATIAIA
+https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
