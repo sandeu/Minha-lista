@@ -840,8 +840,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
-https://encurtador.com.br/bqAJ8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZIYiiMS.png" group-title="BRASIL", WEB TV PIQUET
 https://stmv2.samcast.com.br/francisconicomedes5798/francisconicomedes5798/chunklist_w669765239.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imjGvKZ.png" group-title="BRASIL",TV JORNAL DO NORDESTE
