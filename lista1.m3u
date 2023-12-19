@@ -420,6 +420,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NPxnnoU.png" group-title="BRASIL",PANICO
 https://i.mjh.nz/PlutoTV/1602e80c762306a0007179876-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/89weUos.png" group-title="BRASIL",PANICO NA BAND
+http://ddsw.xyz:80/8590438094/9912004092/968616
 #EXTINF:-1 tvg-logo="https://imgur.com/8qUQdY3.png" group-title="BRASIL",A CULPA E DO CABRAL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
