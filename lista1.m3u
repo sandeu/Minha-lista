@@ -1140,6 +1140,10 @@ https://i.mjh.nz/PlutoTV/164e50055286f6b000838c067-alt.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ce6da250-de55-11eb-891d-f5c10c1a4818&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b969c849-ee2f-4f54-9563-53225c56a2be&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://imgur.com/dQUKuQb.jpg" group-title="DESENHOS", TOM E JERRY
+http://ddsw.xyz:80/8590438094/9912004092/968556
+#EXTINF:-1 tvg-logo="https://imgur.com/9t2yGpn.jpg" group-title="DESENHOS", PICA PAU
+http://ddsw.xyz:80/8590438094/9912004092/968514
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
