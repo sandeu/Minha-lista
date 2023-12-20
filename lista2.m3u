@@ -36,6 +36,14 @@ https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 https://cdn-stream.viloud.tv/9978b7063e297d8408697b862c0962b5/hls/channel/e50c3bfc4e68fbaedd0c03db08be774d.m3u8
 #EXTINF:-1,H! PLUS
 https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/index.m3u8
+#EXTINF:-1,WOOHOO
+https://cdn-2.nxplay.com.br/woohoo_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WOOHOO
+https://r-br.nxtv.com.br/woohoo_2/index.m3u8
+#EXTINF:-1,WOOHOO
+https://cdn-fast.nxtv.com.br/livepl/woohoo_2-modified.m3u8
+
+
 
 #EXTINF:-1,Os Dez Mandamentos
 https://cc-y98opvcxg57zf.akamaized.net/playlist.m3u8
