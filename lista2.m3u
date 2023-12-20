@@ -24,6 +24,18 @@ https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8
 
 #EXTINF:-1,TV Aparecida
 
+#EXTINF:-1,HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN BRASIL
+https://r-br.nxtv.com.br/CNN_BR/index.m3u8
+#EXTINF:-1,RECORD NEWS
+https://r-br.nxtv.com.br/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1,EUROPA - FILMES NACIONAIS
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FILMES +ACTION
+https://cdn-stream.viloud.tv/9978b7063e297d8408697b862c0962b5/hls/channel/e50c3bfc4e68fbaedd0c03db08be774d.m3u8
+#EXTINF:-1,H! PLUS
+https://cdn-2.nxplay.com.br/PLAYOUT_02_HMAIS/index.m3u8
 
 #EXTINF:-1,Os Dez Mandamentos
 https://cc-y98opvcxg57zf.akamaized.net/playlist.m3u8
