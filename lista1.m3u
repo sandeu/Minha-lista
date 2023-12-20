@@ -1191,6 +1191,8 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCdVRtE_84iZufDiQRX-49Lw.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TH3t9OT.png" group-title="ESTUDIO FM", REDE ITATIAIA
 https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/baJrt3o.png" group-title="ESTUDIO FM", 98 LIVE
+https://livestream.zazerconer.workers.dev/channel/UClF866E2u34LioEzDppZj9g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
