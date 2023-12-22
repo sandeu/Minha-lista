@@ -572,6 +572,8 @@ https://tv02.zas.media:1936/centraltv/centraltv/pkaylist.m3u8
 https://cdn.jmvstream.com/w/LVW-12702/LVW12702_4w34UJPZz7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sqeyj3Z.png" group-title="BRASIL",PORTAL H
 https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w490760853.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bb81a1c.png" group-title="BRASIL", IMG TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15526/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="BRASIL", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TdS2MLG.png" group-title="BRASIL",KTV BRASIL
