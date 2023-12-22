@@ -288,6 +288,8 @@ https://cc-y4riz7eo92zpm.akamaized.net/hls/main.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN DIGITAL
+https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="BRASIL", 24 HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
