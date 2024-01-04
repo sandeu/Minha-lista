@@ -1466,6 +1466,10 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xKdPqGW.png" group-title="MUSICA",NOW 80S
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cxUae8h.png" group-title="MUSICA", SUPER CLASSICS TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hbuq9qF.png" group-title="MUSICA",KISS TV
