@@ -888,6 +888,14 @@ https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist
 https://acesso.ecast.site:3781/live/novatvlitorallive.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wKFre7L.png" group-title="BRASIL", 7 TVS 
 https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fY4HVfN.png" group-title="MUSICA",WEB TV GUETTO
+https://srv1.zcast.com.br/cristiano1178/cristiano1178/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cxUae8h.png" group-title="MUSICA", SUPER CLASSICS TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics//chunklist_w723619.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LN0KVDo.png" group-title="MUSICA",KERRANG TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-logo="https://imgur.com/CdfnKup.png" group-title="MUSICA",LA BOCINA LATINA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3364
 
 #EXTINF:-1,MaxLife
 https://player-teste.cdn.tv.br/channels?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTIzMjYxMTYsImlhdCI6MTY5MjMwODExNiwic3ViIjoicGxheWVyLXRlc3RlLmNkbi50di5iciMxNjg1NzI3MTQwIn0.0tQiDta31XqYczQI0G29lHW96vtEvDzE9qI1NDAVts4
