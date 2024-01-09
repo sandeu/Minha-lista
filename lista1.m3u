@@ -976,8 +976,6 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 https://5a2b083e9f360.streamlock.net/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="BRASIL",STUDIO TV
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="BRASIL",TV CAMARA SP
-https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/chunklist_b2690048.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="BRASIL",TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="BRASIL", TV PADRE CICERO
@@ -1068,6 +1066,14 @@ https://video05.logicahost.com.br/tvgeral/tvgeral/chunklist_w393830397.m3u8
 https://stmv3.voxtvhd.com.br/tvyoru/tvyoru/chunklist_w1191863260.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="BRASIL",TV CAMARA SP
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bN6nj3U.png" group-title="BRASIL",TV CAMARA RIO
+https://livestream.zazerconer.workers.dev/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8H12HiW.png" group-title="BRASIL",TV ALERJ
+https://livestream.zazerconer.workers.dev/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Da4eUTc.png" group-title="BRASIL",TV AL
+https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://livestream.zazerconer.workers.dev/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
