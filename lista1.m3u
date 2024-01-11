@@ -1344,6 +1344,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfea
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO", KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="RELIGIOSO", UNIVERSO KIDS
+https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
