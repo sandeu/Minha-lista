@@ -457,7 +457,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2ef
 #EXTINF:-1 tvg-logo="https://imgur.com/c8lqm3N.png" group-title="BRASIL",ASSOMBRACOES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/7Q10TKp.png" group-title="BRASIL",NEGOCIO FECHADO
-https://i.mjh.nz/PlutoTV/164ad7394798def00087b2bfe-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL",  FASHION TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
@@ -471,23 +471,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 #EXTINF:-1 tvg-logo="https://imgur.com/boOKDzw.png" group-title="BRASIL",NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/EVQWkGq.png" group-title="BRASIL",NARUTO SHIPPUDEN
-https://i.mjh.nz/PlutoTV/164c92f965580090008084968-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/RGSsqRp.png" group-title="BRASIL",TOKUSATO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/Dtd7GGj.png" group-title="BRASIL",DEATH NOTE
-https://i.mjh.nz/PlutoTV/1625464a945b6a200079257d1-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/GBBnfTl.png" group-title="BRASIL",ONE PIECE
-https://i.mjh.nz/PlutoTV/1624b1c8d4321e200073ee421-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/hz5X4Un.png" group-title="BRASIL",BEYBLADE
-https://i.mjh.nz/PlutoTV/1633dc392e0282400071b0d39-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/TSvJ3Dt.png" group-title="BRASIL",SUPER ONZE
-https://i.mjh.nz/PlutoTV/163988c2750108d00072e2686-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/NHDDOTh.png" group-title="BRASIL",YU-GI-OH
 https://i.mjh.nz/PlutoTV/163988a50be012600070f5db3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VfqenLo.png" group-title="BRASIL",CAPTAIN TSUBASA
-https://i.mjh.nz/PlutoTV/1646663b01593940008990a57-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/J8g6T35.png" group-title="BRASIL",GEEK E TECK
-https://i.mjh.nz/PlutoTV/1605cc4de7ff3c50007be0f65-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/ybn0c7a.png" group-title="BRASIL",GAMING FOR UBISOFT
 https://ov.ottera.tv/channels/medialive_ubl_ut/master1400000.m3u8;session=medialive_ubl_ut
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
@@ -511,7 +511,7 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w809538453.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zSnSoGh.png" group-title="BRASIL",CLUBE DO TERROR
-https://i.mjh.nz/PlutoTV/164e501eec630a900088ed0f8-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="BRASIL",FILMRISE SERIES GRATUITAS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
@@ -519,7 +519,7 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiyKuci.png" group-title="BRASIL", INFERNO SOBRE RODAS
-https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2c773efb5100082efb73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
@@ -527,9 +527,9 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0gvImpR.png" group-title="BRASIL", SERIES
 https://i.mjh.nz/PlutoTV/15f121262a189a800076b9386-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/08DowrA.png" group-title="BRASIL",SERIES ACAO
-https://i.mjh.nz/PlutoTV/16474ab1da51cb80008bfb5f4-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/m3CFvl8.png" group-title="BRASIL",SERIES SCI FI
-https://i.mjh.nz/PlutoTV/163d2ba2f60bc8f0008981a0e-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/9mRZyHr.png" group-title="BRASIL", OS TRES PATETAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
@@ -537,17 +537,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d
 #EXTINF:-1 tvg-logo="https://imgur.com/UU2MN0R.png" group-title="BRASIL",A FEITICEIRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
-https://i.mjh.nz/PlutoTV/1648776bf536e0c0008b49aef-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/648776bf536e0c0008b49aef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="BRASIL",O HOMEM QUE VEIO DO CEU
-https://i.mjh.nz/PlutoTV/162052d3b4eeb740007fbe125-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://imgur.com/Rju4d92.png" group-title="BRASIL",MACGYVER
-https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/b6BhufD.png" group-title="BRASIL",LOUCO POR VOCE
-https://i.mjh.nz/PlutoTV/164877764dc7a760008a12799-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/dWazyzp.png" group-title="BRASIL",STARSKY & HUTCH
-https://i.mjh.nz/PlutoTV/16489c4a066e48500083ccf97-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6489c4a066e48500083ccf97/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/tRae10A.png" group-title="BRASIL",ARNOLD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="BRASIL",KENAN E KEL
@@ -561,9 +561,9 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="BRASIL",AMIGOS E HERMANOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/cFgBNo7.png" group-title="BRASIL",CSI MIAMI
-https://i.mjh.nz/PlutoTV/163eb9c5351f5d000085e8d7e-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/vNv8A5E.png" group-title="BRASIL",NCIS
-https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/W7sP97c.png" group-title="BRASIL",REDE TV FAMILIA
 https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/famSoXX.png" group-title="BRASIL",SPACE TV
