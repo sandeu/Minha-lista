@@ -1072,7 +1072,7 @@ https://stream.ichibantv.com:3522/hybrid/play.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8H12HiW.png" group-title="BRASIL",TV ALERJ
 https://livestream.zazerconer.workers.dev/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Da4eUTc.png" group-title="BRASIL",TV AL
+#EXTINF:-1 tvg-logo="https://imgur.com/uyFSLBq.png" group-title="BRASIL",TVAL SC
 https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://livestream.zazerconer.workers.dev/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
@@ -1506,6 +1506,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w310581555.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w807250039.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="MUSICA",OTTO FM TV
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jr0O3cn.png" group-title="MUSICA",GO RTV
