@@ -166,6 +166,10 @@ http://cdn.connectbr.com.br/Inspire/index.m3u8
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ypgLUt7.png" group-title="BRASIL",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZS2coZP.png" group-title="FILMES",LIFE MEDIA
+https://cdn2.connectbr.com.br/life/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="FILMES",LIFE SCTV
+https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Biv3ZbJ.png" group-title="BRASIL",UP CHANNEL
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRebuO1.png" group-title="BRASIL",PHOENIX TV
@@ -1620,10 +1624,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8a11ce2
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="FILMES", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZS2coZP.png" group-title="FILMES",LIFE MEDIA
-https://cdn2.connectbr.com.br/life/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="FILMES",LIFE SCTV
-https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ysE0T0e.png" group-title="FILMES",CINE TV HITS
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1051860614.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
