@@ -166,9 +166,9 @@ http://cdn.connectbr.com.br/Inspire/index.m3u8
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ypgLUt7.png" group-title="BRASIL",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZS2coZP.png" group-title="FILMES",LIFE MEDIA
+#EXTINF:-1 tvg-logo="https://imgur.com/ZS2coZP.png" group-title="BRASIL",LIFE MEDIA
 https://cdn2.connectbr.com.br/life/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="FILMES",LIFE SCTV
+#EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Biv3ZbJ.png" group-title="BRASIL",UP CHANNEL
 http://cdn.connectbr.com.br/UPChannel/index.m3u8
