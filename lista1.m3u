@@ -204,6 +204,8 @@ https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rhwX3ID.png" group-title="BRASIL", CANAL EMPREENDER
 https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND MINAS
@@ -216,8 +218,6 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://cc-5w3mfvzg9saoi.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT INTERNACIONAL
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT SP
 https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/2402654f-e16b-4f35-ab84-87088eeb2397/4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT BA
@@ -346,8 +346,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/q9oBxiz.png" group-title="BRASIL", 40 GRAUS TV 
 https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FNPcGnl.png" group-title="BRASIL",TV A7 CALDAS NOVAS
-https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="BRASIL", TV GAZIN
@@ -578,6 +576,8 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jGwhmPF.png" group-title="BRASIL", TV DIFUSAO
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cwer0BB.png" group-title="BRASIL", OLHA TV
+https://5cf4a2c2512a2.streamlock.net/8272/8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1668713230.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="BRASIL", PIX TV
@@ -656,12 +656,8 @@ https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1903301311.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HAb2Ksu.png" group-title="BRASIL",TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fvm4Q9U.png" group-title="BRASIL",SAT TV
-https://stmv7.samcast.com.br/elias7768/elias7768/chunklist_w370147323.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uiT62N6.png" group-title="BRASIL", TV SONATA
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w35338165.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EKNwiy9.png" group-title="BRASIL",TV POMBAL
-https://a.cdni.live/tvpombal/tvpombal/chunklist_w847476905.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xos2K9Z.png" group-title="BRASIL", ON TV CAMPOS
 https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist_w723805984.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uoIAHrh.png" group-title="BRASIL", SDS TV
@@ -702,8 +698,6 @@ https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w12301485.m3u8
 https://video01.logicahost.com.br/redebemtv/redebemtv/chunklist_w1021370721.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UMvoEup.png" group-title="BRASIL", REDE NEWS WEB TV
 https://stmv.jnbhost.com.br/redenewstv/redenewstv/chunklist_w1894004897.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Cwer0BB.png" group-title="BRASIL", TV OLHA
-https://serv4.videovox.pw/video55103/video55103/chunklist_w283788221.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nta9r5G.png" group-title="BRASIL", YPE TV
 https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1736853376.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tDtVLrT.png" group-title="BRASIL", TV AGORA
