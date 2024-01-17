@@ -407,11 +407,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 #EXTINF:-1 tvg-logo="https://imgur.com/PkNVtXo.png" group-title="BRASIL",ANIMAIS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
-https://stream.ads.ottera.tv/cl/240115cmihov0v7e9a21lsv4l0/1280x720_2965600_0_f.m3u8?i=475_3363
+https://stream.ads.ottera.tv/cl/240117cmjs7tskehrs749hmgt0/1280x720_2965600_0_f.m3u8?i=475_3363
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3Yv9nCb.png" group-title="BRASIL",NATURE TIME
-https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Je5BrsX.png" group-title="BRASIL",AMAZONIA TV E RADIO
