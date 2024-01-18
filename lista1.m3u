@@ -874,6 +874,8 @@ https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1931635703.m3u8
 https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vjGyzK4.png" group-title="BRASIL",TV BALNEARIO CAMBORIU
 https://stmv2.samcast.com.br/sandro9822/sandro9822/chunklist_w1978183284.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="BRASIL",REDE TV SUL
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w599203836.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LMeuMC5.png" group-title="BRASIL", TV NATIVOOS
 https://srv6.zcast.com.br/lckbaltar/lckbaltar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="BRASIL",DEMAIS TV
@@ -920,8 +922,6 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w795565642.
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="BRASIL",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="BRASIL",REDE TV SUL
-https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w1685716813.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS
 https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w1915773076.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
