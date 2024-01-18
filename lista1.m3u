@@ -1099,7 +1099,7 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tJnUJHx.png" group-title="DESENHOS", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
-https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
+https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
