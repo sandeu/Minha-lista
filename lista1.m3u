@@ -1198,6 +1198,8 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/J3Vk9ol.png" group-title="AGRO",CANAL SOLO FERTIL
+https://canalsolofertil.live/memfs/a338bfab-1992-4a2b-816e-e7758b30c90c_output_0.m3u8?session=mSSUGvS962GYozgvHyTPfh
 #EXTINF:-1 tvg-logo="https://imgur.com/oNJtAWv.png" group-title="ESTUDIO FM", ANTENA 1
 https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
