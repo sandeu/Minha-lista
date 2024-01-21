@@ -708,6 +708,8 @@ https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
 https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZmTfNN1.png" group-title="BRASIL", ILHA NEWS
+https://a.cdni.live/redeilhafm/redeilhafm/chunklist_w695002253.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VkmzxdL.png" group-title="BRASIL", TVC POTIRAGUA
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i5TgT9o.png" group-title="BRASIL", TV MAIS
