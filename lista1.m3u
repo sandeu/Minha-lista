@@ -1681,45 +1681,43 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="FILMES",ADRENALINA FREE ZONE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://r.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="FILMES",ADRENALINA FREE ZONE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eWkCwCH.png" group-title="FILMES",FILMES ACAO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://imgur.com/KThjxPQ.png" group-title="FILMES",ADRENALINA FRREZONE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4DTl9IQ.png" group-title="FILMES",CINE COMEDIA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JEbw4bv.png" group-title="FILMES",CINE COMEDIA ROMANTICA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w0xISJx.png" group-title="FILMES",CINE DRAMA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="FILMES",CINE ROMANCE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="FILMES",FILMES SUSPENSE
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4zSw6LD.png" group-title="FILMES",CINE CRIME
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/6479ff764f5ba5000878dfe2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zg5aVww.png" group-title="FILMES",CINE TERROR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tKrU63x.png" group-title="FILMES",FICCAO CIENTIFICA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l3ePt46.png" group-title="FILMES",RUNTIME
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Cc0Ot8.png" group-title="FILMES",FILMES NACIONAIS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pb8wybB.png" group-title="FILMES",CINE CLASSICOS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lwlrF3h.png" group-title="FILMES",CINE INSPIRACAO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2EG6bS0.png" group-title="FILMES",CINE FAMILIA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XjYSIxC.png" group-title="FILMES",PARAMOUNT APRESENTA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://r.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zbkttaF.png" group-title="PEGADINHAS",CAMERAS ESCONDIDAS
 http://ddsw.xyz:80/8590438094/9912004092/968600
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
