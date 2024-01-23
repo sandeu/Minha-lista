@@ -1358,6 +1358,8 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SaUJa6q.png" group-title="RELIGIOSO", FILMES DE JESUS
+https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ucnCA6I.png" group-title="RELIGIOSO",MI TV
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
