@@ -92,8 +92,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w975861469.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/36daa1db-7637-4beb-af27-a67dd26f6360_index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
-https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MVjWesF.png" group-title="BRASIL",FMU TV
 https://stmv1.srvstm.com/fernando5813/fernando5813/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
@@ -574,6 +572,8 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/jGwhmPF.png" group-title="BRASIL", TV DIFUSAO
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cwer0BB.png" group-title="BRASIL", OLHA TV
 https://serv4.videovox.pw/video55103/video55103/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cwer0BB.png" group-title="BRASIL", OLHA TV
