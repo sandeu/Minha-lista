@@ -1456,6 +1456,8 @@ https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_
 https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w986822312.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yosyvBm.png" group-title="MUSICA",MPB CHANNEL
 https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w119214344.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
+https://srv5.zcast.com.br/carlosdavi8435/carlosdavi8435/chunklist_w1134124364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o9LgTUF.png" group-title="MUSICA", TOP TV
