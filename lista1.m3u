@@ -1234,28 +1234,20 @@ https://livestream.zazerconer.workers.dev/channel/UC4H7DT7HrPO2KoYzlRU0nnA.m3u8
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM", RADIO MONTE FM
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2tC7Ns0.png" group-title="ESTUDIO FM",RADIO Q FM
-https://qfm.ddns.net/hlsq/index.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/NeQRmS8.png" group-title="ESTUDIO FM", RADIO UIRAPURU
-https://video01.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HsqPpTK.png" group-title="ESTUDIO FM", RADIO CLUBE FM 99
-https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
-#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="ESTUDIO FM", RADIO TV MONTANHESA
-https://qfm.ddns.net/hlsmErv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM 104,5
-https://virtues.es:1936/indfm/indfm/chunklist_w368502117.m3u8
+https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
-#EXTINF:-1 tvg-logo="https://imgur.com/KBVlGkh.png" group-title="ESTUDIO FM", 98 FM
-https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7aiZyfw.png" group-title="ESTUDIO FM", HOT 98 FM
+https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w844935972.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
-https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w261558147.m3u8
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1388071864.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CbYZvDh.png" group-title="ESTUDIO FM", RADIO EU E VOCE
