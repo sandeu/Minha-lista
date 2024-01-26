@@ -1105,7 +1105,7 @@ https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6KoWUW.png" group-title="TELEVENDAS",CANAL DE PRODUTOS
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+https://5e837408ea907.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w2044159929_b1000000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="DESENHOS", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tJnUJHx.png" group-title="DESENHOS", CARTOON NETWORK
@@ -1393,7 +1393,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1535996070.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
@@ -1607,11 +1607,9 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EDTKAxS.png" group-title="INTERNET", WEATHER SPY
 https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
+https://wildearth-plex.amagi.tv/masterR432p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/reqHFUJ.png" group-title="INTERNET", NATURESCAPE
 https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://imgur.com/8TMPtNG.png" group-title="INTERNET", NATURE STREAM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/673ab6b7-ae9f-4305-ba72-fbaf367ca747/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qK2RI85.png" group-title="4K", 4K TRAVEL
 https://4k-travel-vivalive.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/video_360p_1000014572.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K YOUTUBE
