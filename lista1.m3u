@@ -314,6 +314,8 @@ https://livestream.zazerconer.workers.dev/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZmTfNN1.png" group-title="BRASIL", ILHA NEWS
+https://a.cdni.live/redeilhafm/redeilhafm/chunklist_w695002253.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Q9tzI.png" group-title="BRASIL",D+ NEWS
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhtj40c.png" group-title="BRASIL",TV SOU NOTICIA
@@ -334,8 +336,12 @@ https://tvd.acessaradios.com.br/tvdrcaes/tvdrcaes.stream/chunklist_w802878256.m3
 https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/unMWuPW.png" group-title="BRASIL", TV ONDA DIGITAL YOUTUBE
 https://livestream.zazerconer.workers.dev/channel/UCleEDSt_ZmBeU9CWU4q0rWA.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qA1wno7.png" group-title="BRASIL", LIG TV YOUTUBE
+https://livestream.zazerconer.workers.dev/channel/UCQ2VQxELjJfdYn2Q4-0WPzQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
@@ -356,8 +362,6 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="BRASIL", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qA1wno7.png" group-title="BRASIL", LIG TV YOUTUBE
-https://livestream.zazerconer.workers.dev/channel/UCQ2VQxELjJfdYn2Q4-0WPzQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w840161283.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/CuGVc5p.png" group-title="BRASIL", VIRTUAL TV
@@ -392,8 +396,6 @@ https://r.mjh.nz/PlutoTV/645111f1d8436e00081bb2bd-alt.m3u8
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
 https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KlBTxwj.png" group-title="BRASIL",SOL BRASIL 
@@ -466,7 +468,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2ef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/7Q10TKp.png" group-title="BRASIL",NEGOCIO FECHADO
 https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL",  FASHION TV
+#EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL", FASHION TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
@@ -493,7 +495,6 @@ https://r.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NHDDOTh.png" group-title="BRASIL",YU-GI-OH
 https://r.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VfqenLo.png" group-title="BRASIL",CAPTAIN TSUBASA
-
 https://r.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J8g6T35.png" group-title="BRASIL",GEEK E TECK
 https://r.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
@@ -647,7 +648,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tUUmml2.png" group-title="BRASIL", TRES PASSOS TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/otfx2in.png" group-title="BRASIL", TV GRAMADO NET
+#EXTINF:-1 tvg-logo="https://imgur.com/QJxGuvC.png" group-title="BRASIL", TV GRAMADO NET
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="BRASIL", WEB TV XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
@@ -721,8 +722,6 @@ https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
 https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZmTfNN1.png" group-title="BRASIL", ILHA NEWS
-https://a.cdni.live/redeilhafm/redeilhafm/chunklist_w695002253.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1PFvP6e.png" group-title="BRASIL", OPORTUNIDADES TV
 https://maistop.net/live/webtv/webtv/2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VkmzxdL.png" group-title="BRASIL", TVC POTIRAGUA
