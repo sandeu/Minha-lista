@@ -1236,7 +1236,7 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="ESTUDIO FM", 95 MAIS FM
 https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM",TV SUPER MARAJOARA
+#EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM",RADIO SUPER MARAJOARA
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RADIO TUPI
 https://livestream.zazerconer.workers.dev/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
