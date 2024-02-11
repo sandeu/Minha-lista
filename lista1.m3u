@@ -1250,6 +1250,8 @@ https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 https://livestream.zazerconer.workers.dev/channel/UClF866E2u34LioEzDppZj9g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="BRASIL", RADIO DIARIO MACAPA
+https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A7tzip6.png" group-title="ESTUDIO FM", RADIO DEUS E AMOR YOUTUBE
