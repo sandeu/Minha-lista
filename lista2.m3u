@@ -958,8 +958,6 @@ https://cdn-1.nxplay.com.br/cheftv1/index.m3u8
 https://stmv1.paineltv.net/miguel1318/miguel1318/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lyoRI0V.png" group-title="BRASIL", TV POTIGUARA
 https://stmv1.samcast.com.br/francisco1875/francisco1875/chunklist_w684685854.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xKdPqGW.png" group-title="MUSICA",NOW 80S
-https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 #EXTINF:-1 tvg-logo="https://imgur.com/0ZBftQe.png" group-title="MUSICA",PORTAL 90
 https://live.tvcontrolcp.com:1936/portal90/portal90/chunklist_w1194022327.m3u8
 
@@ -991,8 +989,6 @@ https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/chunklist_w16840927
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w419033723.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/pKiKmoJ.png" group-title="BRASIL", TV ALAGONET
 https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
-https://stmv1.srvif.com/lucianotvps/lucianotvps/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",KARAOKE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=851
@@ -1104,8 +1100,6 @@ https://stmv2.voxtvhd.com.br/rededecanaisdetv/rededecanaisdetv/playlist.m3u8
 https://video01.logicahost.com.br/redeipitangatv/redeipitangatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3igIxnk.png" group-title="BRASIL",TVI VILA IMPERIAL
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8MpPp2E.png" group-title="BRASIL", TV GENIALL
-https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cXgwA49.png" group-title="BRASIL",TOP TV (RADIO TV 88)
 https://pa-def.srvsite.com/site/playertv/7035
 #EXTINF:-1 tvg-logo="https://imgur.com/BmfzcP7.png" group-title="BRASIL", NOVA TV VALE
