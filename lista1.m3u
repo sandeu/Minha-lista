@@ -1060,8 +1060,6 @@ https://video04.logicahost.com.br/tvconsciencia/tvconsciencia/chunklist_w4534443
 https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/chunklist_w1109147341.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XHeDKLK.png" group-title="BRASIL", VOX TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/06e5d1accf9243cc88d4d4a336094a92/manifest.m3u8?p=79&s=1702991871&e=1702991991&h=23cfaf4b9d922a7ab656e27f6926daf4
 #EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="BRASIL", TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j9fmTSw.png" group-title="BRASIL", CHIC BRASIL TV
@@ -1094,6 +1092,8 @@ https://stmv3.voxtvhd.com.br/tvyoru/tvyoru/chunklist_w1191863260.m3u8
 https://5d82644094cc0.streamlock.net/webtvnacional/webtvnacional/chunklist_w157904252.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QeVkrXZ.png" group-title="BRASIL", TV CHICO JOAO
 https://stmv.webtvninjas.com.br/tvchicojoao/tvchicojoao/chunklist_w172673806.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
+https://livestream.zazerconer.workers.dev/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://livestream.zazerconer.workers.dev/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
