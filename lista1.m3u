@@ -72,6 +72,8 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/w6jtXfM.png" group-title="BRASIL", TV LAFAIETE
+https://edge1o.live.opencaster.com/caster/xgGcHkCjoypu.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
@@ -160,8 +162,6 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8188/8188/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",UNIQUE TV
 https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/vI7gC3m.png" group-title="BRASIL", LIFE CHANNEL BRASIL
-https://cdn2.connectbr.com.br/life/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DTuLlhV.png" group-title="BRASIL",HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="BRASIL",INSPIRE
