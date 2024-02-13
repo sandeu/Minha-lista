@@ -1272,6 +1272,8 @@ https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
 #EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fDiFBw4.png" group-title="ESTUDIO FM", RADIO NOVA ONDA FM
+https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/chunklist_w925747159.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
 https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", TV TRANSJOVEM
