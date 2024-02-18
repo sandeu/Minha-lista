@@ -72,16 +72,12 @@ https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/w6jtXfM.png" group-title="BRASIL", TV LAFAIETE
-https://edge1o.live.opencaster.com/caster/xgGcHkCjoypu.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ytObGUU.png" group-title="BRASIL", GUIA TV
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jmWibFt.png" group-title="BRASIL", TV DIVERSA 
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0aZw4CM.png" group-title="BRASIL",TVE BAHIA
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vI1ttGb.png" group-title="BRASIL",REDE BELA ALIANCA
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
@@ -256,6 +252,8 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 https://r.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
@@ -708,6 +706,8 @@ https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w1980160673.m
 https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1168168565.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xa4vZnr.png" group-title="BRASIL", KE TV
 https://stmv7.samcast.com.br/ketv/ketv/chunklist_w1755661317.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qy8o0DM.png" group-title="BRASIL", LUCAS TV
+https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VZKpfcj.png" group-title="BRASIL", MOON PLUS TV
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w12301485.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OKJ35N.png" group-title="BRASIL", TV METROPOLE NEWS
@@ -1674,8 +1674,6 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dFIriUs.png" group-title="FILMES",TV CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4AcC8Tm.png" group-title="FILMES",GOTHIC MOVIES
-https://stmv1.srvif.com/gothic/gothic/chunklist_w1743357601.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
