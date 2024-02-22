@@ -867,6 +867,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
+#EXTINF:-1 tvg-logo="https://imgur.com/sqeyj3Z.png" group-title="BRASIL",PORTAL H
+https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w490760853.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV PB
 https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
