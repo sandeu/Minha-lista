@@ -718,6 +718,8 @@ https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
 https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/WXL8799.png" group-title="BRASIL", TV PRINCESA DO VALE
 https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/fZJpVP3.png" group-title="BRASIL", RADIO E TV EXPLOSAO
+https://srv3.zcast.com.br/edson7532/edson7532/chunklist_w1478088953.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1PFvP6e.png" group-title="BRASIL", OPORTUNIDADES TV
 https://maistop.net/live/webtv/webtv/2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O8mENzx.png" group-title="BRASIL", TV CIDADE CATANDUVA
