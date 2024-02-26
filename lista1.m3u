@@ -639,7 +639,7 @@ https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="BRASIL", WEB TV XTREME
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
-https://stmv5.samcast.com.br/luciano2275/luciano2275/playlist.m3u8
+https://stmv5.samcast.com.br/luciano2275/luciano2275/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8MpPp2E.png" group-title="BRASIL", TV GENIALL
 https://redetvgeniall.online/live/TVGeniall_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
