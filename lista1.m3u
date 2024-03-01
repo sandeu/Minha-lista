@@ -262,6 +262,8 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="BRASIL", REDE TV MAIS
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mmGmrWw.png" group-title="BRASIL", TV GUARA
+https://srv1.zcast.com.br/igo8807/igo8807/chunklist_w677545559.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="BRASIL", ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="BRASIL", NDTV FLORIPA
