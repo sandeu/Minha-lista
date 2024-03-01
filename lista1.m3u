@@ -1594,6 +1594,8 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1012000_sltur.m3u8?nimblesessionid=1569342451
 #EXTINF:-1 tvg-logo="https://imgur.com/OXk87kh.png" group-title="MUSICA",BALLE BALLE
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CdfnKup.png" group-title="MUSICA",LA BOCINA LATINA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UOSivy7.png" group-title="MUSICA",TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1597330789.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bp7vhsD.png" group-title="MUSICA", TRACE LATINA
