@@ -1234,6 +1234,8 @@ https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
 https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
+https://video04.logicahost.com.br/blink103/blink103/chunklist_w1560446680.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
 https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
