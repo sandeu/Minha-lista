@@ -1248,6 +1248,8 @@ https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
+https://a.cdni.live/ativa98/ativa98/chunklist_w663523560.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="ESTUDIO FM", 95 MAIS FM
 https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM", RADIO SUPER MARAJOARA
