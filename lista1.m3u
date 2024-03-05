@@ -250,8 +250,6 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 https://r.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
@@ -1264,7 +1262,7 @@ https://livestream.zazerconer.workers.dev/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
 https://livestream.zazerconer.workers.dev/channel/UClF866E2u34LioEzDppZj9g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="BRASIL", RADIO DIARIO MACAPA
+#EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM", RADIO DIARIO MACAPA
 https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
@@ -1700,8 +1698,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO 2
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="FILMES",BORA FILMES
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="FILMES",ENTRETENDO
