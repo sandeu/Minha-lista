@@ -1287,6 +1287,8 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uLn6L8q.png" group-title="BRASIL", TV NOVA FAMILIA
 https://video01.logicahost.com.br/novafamilia/novafamilia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YjGsueO.png" group-title="ESTUDIO FM", ALPHA FM
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlci02j7w-6W21aqndzNXrg91G7aLHdxB3-1jV2iTEFk)/dm/3/x82yivf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zLKSSpR.png" group-title="MUSICA",TV UNIAO BRASILIA
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8
