@@ -1122,8 +1122,6 @@ https://5e837408ea907.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="DESENHOS", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tJnUJHx.png" group-title="DESENHOS", CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
@@ -1193,15 +1191,15 @@ http://ddsw.xyz:80/8590438094/9912004092/968556
 #EXTINF:-1 tvg-logo="https://imgur.com/9t2yGpn.jpg" group-title="DESENHOS", PICA PAU
 http://ddsw.xyz:80/8590438094/9912004092/968514
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
-https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
+https://ythls-v2.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
-https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+https://ythls-v2.onrender.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
-https://livestream.zazerconer.workers.dev/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8
+https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
-https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+https://ythls-v2.onrender.com/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
-https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8
+https://ythls-v2.onrender.com/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt6ea2q.jpg" group-title="DESENHOS", CARTOON CLASSICS
@@ -1305,9 +1303,9 @@ https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT YOUTUBE
-https://livestream.zazerconer.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+https://ythls-v2.onrender.com/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV YOUTUBE
-https://livestream.zazerconer.workers.dev/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+https://ythls-v2.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/sY9fGt8.png" group-title="ESPORTES", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
@@ -1421,7 +1419,7 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A882iST.png" group-title="RELIGIOSO",TV HORIZONTE
-https://livestream.zazerconer.workers.dev/channel/UCWzdJWCYUYPWPKgfi9YXKNQ.m3u8
+https://ythls-v2.onrender.com/channel/UCWzdJWCYUYPWPKgfi9YXKNQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CTmglaA.png" group-title="RELIGIOSO",REDE ALFA
@@ -1437,13 +1435,13 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="RELIGIOSO", RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jz3Y4h4.png" group-title="RELIGIOSO",BOA VONTADE TV
-https://livestream.zazerconer.workers.dev/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+https://ythls-v2.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/XB0vsSt.png" group-title="RELIGIOSO",TV MUNDO MAIOR
-https://livestream.zazerconer.workers.dev/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
+https://ythls-v2.onrender.com/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/iWjvd96.png" group-title="RELIGIOSO",REDE BRASIL COMUNICACAO
-https://livestream.zazerconer.workers.dev/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
+https://ythls-v2.onrender.com/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/NgbQYnI.png" group-title="RELIGIOSO",TV VERDADE
-https://livestream.zazerconer.workers.dev/channel/UCHsEdehNhCJQgVEG7BiTztw.m3u8
+https://ythls-v2.onrender.com/channel/UCHsEdehNhCJQgVEG7BiTztw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w340003209.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
