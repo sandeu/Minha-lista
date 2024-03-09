@@ -1242,6 +1242,8 @@ https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
