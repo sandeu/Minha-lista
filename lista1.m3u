@@ -1244,6 +1244,8 @@ https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
+https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
@@ -1276,8 +1278,12 @@ https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM
 https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="ESTUDIO FM", RADIO CULTURA FM
+https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wdkSQ1W.png" group-title="ESTUDIO FM", RADIO CLUBE 98
+https://clubeam.brasilstream.com.br/hls/clubeam/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM 98
