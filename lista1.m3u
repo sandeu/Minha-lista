@@ -1248,6 +1248,8 @@ https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
 https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/z05pXjE.png" group-title="ESTUDIO FM",NATIVA CAMPINAS
+https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist_w1453481796.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
 https://a.cdni.live/ativa98/ativa98/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="ESTUDIO FM", 95 MAIS FM
@@ -1274,6 +1276,8 @@ http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM
