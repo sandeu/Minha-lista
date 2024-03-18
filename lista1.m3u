@@ -716,6 +716,10 @@ https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5xOZJqi.png" group-title="BRASIL", TV SERRA AMERICA
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="BRASIL", WEB TV CAMPAO DE TUDO
+https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YdiiYfY.png" group-title="BRASIL", TVC BRASIL DE NOTICIAS
+https://a.cdni.live/tvcbrasil/tvcbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
 https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/WXL8799.png" group-title="BRASIL", TV PRINCESA DO VALE
