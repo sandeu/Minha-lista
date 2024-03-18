@@ -1094,6 +1094,8 @@ https://5d82644094cc0.streamlock.net/webtvnacional/webtvnacional/chunklist_w2109
 https://stmv.webtvninjas.com.br/tvchicojoao/tvchicojoao/chunklist_w172673806.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NA9Bgls.png" group-title="BRASIL", TV PLUG
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/chunklist_w1617847758.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pCo2Mt2.png" group-title="BRASIL", CBTV PLAY
+https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w1366506788.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://ythls-v2.onrender.com/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
@@ -1682,6 +1684,8 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES", SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
+https://stmv1.srvif.com/channel80s/channel80s/chunklist_w1721669609.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o0HfhX.png" group-title="FILMES", HTO FILMES
 https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=a1a330c6f36ca2432da0fb5bed500e05c72abb59-8c13dcc88546dd2e689414eb7c66bb54-1706259420-1706216220
 #EXTINF:-1 tvg-logo="https://imgur.com/sAd0tgb.png" group-title="FILMES", SO PLAY ACAO
