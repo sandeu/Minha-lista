@@ -22,6 +22,8 @@ https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+#EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="BRASIL", TV CULTURA INTERNACIONAL
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="BRASIL", TV CULTURA
@@ -1194,6 +1196,8 @@ https://r.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
 https://r.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://imgur.com/1pmdp8N.png" group-title="DESENHOS", DUCK TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dQUKuQb.jpg" group-title="DESENHOS", TOM E JERRY
