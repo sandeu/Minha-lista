@@ -476,6 +476,8 @@ https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZrVcQKz.png" group-title="BRASIL", BORUTO NARUTO NEXT GENERATION
 https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="BRASIL",SATO MAIS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
 #EXTINF:-1 tvg-logo="https://imgur.com/RGSsqRp.png" group-title="BRASIL",TOKUSATO
 https://r.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dtd7GGj.png" group-title="BRASIL",DEATH NOTE
@@ -1652,6 +1654,8 @@ https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",5 MINUT CRAFTS
 https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",5 MINUT CRAFTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6581
 #EXTINF:-1 tvg-logo="https://imgur.com/P4JNqWi.png" group-title="INTERNET",FAILARMY
 https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",PEOPLE ARE AWESOME
