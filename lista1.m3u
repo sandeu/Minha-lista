@@ -61,7 +61,7 @@ https://br5093.streamingdevideo.com.br/dehujsezdd/dehujsezdd/chunklist_w18566706
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4554
 #EXTINF: -1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="BRASIL", CANAL GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
@@ -248,6 +248,8 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 https://r.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
