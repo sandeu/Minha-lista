@@ -282,8 +282,6 @@ https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1617
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
-#EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
-https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
@@ -359,8 +357,8 @@ https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="BRASIL", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w840161283.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="BRASIL", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 #EXTINF: -1 tvg-logo="https://imgur.com/CuGVc5p.png" group-title="BRASIL", VIRTUAL TV
 https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
@@ -1492,7 +1490,7 @@ https://video01.kshost.com.br:4443/gente8322/gente8322/playlist.m3u8
 https://srv5.zcast.com.br/universotv/universotv/playlist_w1311287270.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",MANA BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/EbCNfIm.png" group-title="RELIGIOSO",MANA BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4572
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4574
