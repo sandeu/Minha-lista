@@ -279,7 +279,7 @@ https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1617
 #EXTINF:-1 tvg-logo="https://imgur.com/A2IAM5V.png" group-title="BRASIL", TV PARANAIBA
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
 https://d2onzzjj60kwf4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nv20c2esh4tz7-v2-prod/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
@@ -358,6 +358,8 @@ https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w840161283.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 #EXTINF: -1 tvg-logo="https://imgur.com/CuGVc5p.png" group-title="BRASIL", VIRTUAL TV
 https://st-srv02.alfamax.com.br/VirtualTV/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF: -1 tvg-logo="https://imgur.com/DEWyBTC.png" group-title="BRASIL", VIRTUAL TV 2
@@ -1486,8 +1488,12 @@ https://video01.kshost.com.br:4443/gente8322/gente8322/playlist.m3u8
 https://srv5.zcast.com.br/universotv/universotv/playlist_w1311287270.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oulc4K4.png" group-title="RELIGIOSO", TV VOTULINE
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",MANA BRASIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4572
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4574
+#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4585
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPMrWZZ.png" group-title="RELIGIOSO",IMPD TV
