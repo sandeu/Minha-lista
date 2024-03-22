@@ -1232,6 +1232,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/84036
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8hDSlcR.png" group-title="AGRO",AGRO MAIS
+https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="AGRO",AGRO BRASIL
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ebNRqmy.png" group-title="AGRO",AGRO CANAL
