@@ -344,6 +344,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png" group-title="BRASIL",TV LITORAL RN
 https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YPDzdMK.png" group-title="BRASIL", TV GAZETA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4585
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
@@ -1496,8 +1498,6 @@ https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4572
 #EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4574
-#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4585
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPMrWZZ.png" group-title="RELIGIOSO",IMPD TV
