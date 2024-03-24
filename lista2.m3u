@@ -1,6 +1,26 @@
 #EXTM3U 
 
 
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT/index.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV/index.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_HD/index.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV_HD/index.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV_HD_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RIT TV
+https://cdn-2.nxplay.com.br/RIT_TV_HD_TK/index.m3u8
 
 
 
