@@ -728,8 +728,10 @@ https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5xOZJqi.png" group-title="BRASIL", TV SERRA AMERICA
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="BRASIL", WEB TV CAMPAO DE TUDO
+#EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="BRASIL", WEB TV CAMPEAO DE TUDO
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zGtzHQJ.png" group-title="BRASIL",TV MAR
+https://live-c.cf.dmcdn.net/sec2(LVvmJXhaM9QtR2STCvkZOvcgwpGFpNr50uAetuFQHnNVTi5yULQCuN0nV74_gTNJFW8rXi9b69MbnerPutMfnc-8HDg-cxEhHcRHw6NL8_s)/dm/3/x8i500l/d/live-2.m3u8#cell=lcfc
 #EXTINF:-1 tvg-logo="https://imgur.com/YdiiYfY.png" group-title="BRASIL", TVC BRASIL DE NOTICIAS
 https://a.cdni.live/tvcbrasil/tvcbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
@@ -978,8 +980,6 @@ http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="BRASIL",NOVA ERA TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zGtzHQJ.png" group-title="BRASIL",TV MAR
-https://stream-02.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSkago2B8BZI5lLMz4scqFLnz0uXSsZijap6FRLMcoWYc)/dm/3/x8i500l/d/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://imgur.com/WNvxlJ8.png" group-title="BRASIL",ALPHA CHANNEL
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KH4Ai8a.png" group-title="BRASIL",TV PANTANAL
