@@ -1229,9 +1229,9 @@ http://201.87.136.36:8091/hls/tvmilagro.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
 https://stream01-tvcoopsc.netpointcdn.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/84036
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3221
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/141
+https://cdn-2.nxplay.com.br/CANAL_DO_BOI_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8hDSlcR.png" group-title="AGRO",AGRO MAIS
