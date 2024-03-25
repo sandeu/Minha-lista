@@ -1254,6 +1254,8 @@ https://live-c.cf.dmcdn.net/sec2(qZ4ptRASmt2ggPXPqGQfnwBSCX5gOLK4sXVlUoWHI2lt2PM
 https://ythls-v2.onrender.com/video/9_yk7WimxEA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
+https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
 https://video05.logicahost.com.br/blink105/blink105/chunklist_w1664250019.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
