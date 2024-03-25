@@ -2,17 +2,18 @@
 
 
 #EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/RIT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/RIT/index.m3u8
-#EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/RIT_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/RIT_TV/index.m3u8
-#EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/RIT_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/RIT_HD/index.m3u8
+
+#EXTINF:-1,ICONIC TV
+https://cdn-2.nxplay.com.br/ICONIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ICONIC TV
+https://cdn-2.nxplay.com.br/ICONIC/index.m3u8
+#EXTINF:-1,iMAX Western TV
+https://cdn-2.nxplay.com.br/IMAX_WESTERN/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iMAX Western TV
+https://cdn-2.nxplay.com.br/IMAX_WESTERN/index.m3u8
 #EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/RIT_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
@@ -27,13 +28,13 @@ https://cdn-2.nxplay.com.br/GLOBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/GLOBO/index.m3u8
 #EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/GLOBO_TV/tracks-v1a1/mono.m3u8
+https://cdn-2.nxplay.com.br/TV_GLOBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/GLOBO_TV/index.m3u8
+https://cdn-2.nxplay.com.br/TV_GLOBO/index.m3u8
 #EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/GLOBO_HD/tracks-v1a1/mono.m3u8
+https://cdn-2.nxplay.com.br/TV_GLOBO_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
-https://cdn-2.nxplay.com.br/GLOBO_HD/index.m3u8
+https://cdn-2.nxplay.com.br/TV_GLOBO_HD/index.m3u8
 #EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/GLOBO_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
