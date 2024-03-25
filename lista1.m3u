@@ -111,11 +111,11 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV OITAVA
 https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
-https://ythls-v2.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8?playlist=index
+https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
-https://ythls-v2.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8?playlist=index
+https://cdn-2.nxplay.com.br/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bN6nj3U.png" group-title="BRASIL",TV CAMARA RIO
 https://ythls-v2.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/8H12HiW.png" group-title="BRASIL",TV ALERJ
