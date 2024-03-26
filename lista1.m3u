@@ -1718,6 +1718,8 @@ https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=a1a330c6f36ca
 https://c-01-sp.nxtv.com.br/bpk-token/1aa@5zwyqgjn1cd0eq2tmovflnrbn0pwfguj5p1l4vba/hls/channel/sep/e50c3bfc4e68fbaedd0c03db08be774d/high.m3u8?mm_sp&bpkio_sessionid=10b0b42c87-00acdce7-950b-4154-9e60-bc927f576596&bpkio_serviceid=9978b7063e297d8408697b862c0962b5&category=all
 #EXTINF:-1 tvg-logo="https://imgur.com/L1wXeRv.png" group-title="FILMES", SO PLAY NACIONAL
 https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=c5d2e324b7e9d0215bc451c20b9df5b3fc004160-a93659d45ff0b5c74bea6a9e2847b0cb-1707707679-1707664479
+#EXTINF:-1 tvg-logo="https://imgur.com/nvQgeIX.png" group-title="FILMES", CINE BRASIL
+https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w373973492.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Wu26NhR.png" group-title="FILMES", CINE BRASIL TV
 https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="FILMES", TV GALLO
