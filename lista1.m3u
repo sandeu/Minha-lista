@@ -202,6 +202,8 @@ https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",TV TEM
+http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
@@ -1250,10 +1252,6 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w7548606
 https://canalsolofertil.live/memfs/a338bfab-1992-4a2b-816e-e7758b30c90c_output_0.m3u8?session=mSSUGvS962GYozgvHyTPfh
 #EXTINF:-1 tvg-logo="https://imgur.com/o9i2biE.png" group-title="AGRO",RURAL NO AR
 https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oNJtAWv.png" group-title="ESTUDIO FM", ANTENA 1
-https://live-c.cf.dmcdn.net/sec2(wGRIa4wMZhN2P2m2m8gYeoDkyzXoJ8Hl7hX4TQwW-_CacHrbh0U4dZsDh1gZLffU7KnHY3se5UwZZNfGm7Kculo7oPEXMZANaOSw2-ZClYs)/dm/3/x8naz0t/s/live-2.m3u8#cell=lcfc
-#EXTINF:-1 tvg-logo="https://imgur.com/gIppte6.png" group-title="ESTUDIO FM", OURO VERDE FM
-https://ythls-v2.onrender.com/video/9_yk7WimxEA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
