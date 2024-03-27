@@ -553,7 +553,7 @@ https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UU2MN0R.png" group-title="BRASIL",A FEITICEIRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
-https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
+https://stmv1.srvif.com/cangels/cangels/chunklist_w1381300654.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="BRASIL",O HOMEM QUE VEIO DO CEU
 https://r.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EPrOTAH.png" group-title="BRASIL",RETRO 
