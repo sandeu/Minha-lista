@@ -326,6 +326,8 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1134839487.
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL", REDE MEIO NORTE
 https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL", REDE MEIO NORTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6447
 #EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL", TVD ES
 https://tvd.acessaradios.com.br/tvdrcaes/tvdrcaes.stream/chunklist_w802878256.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
