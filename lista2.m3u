@@ -929,9 +929,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=894
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="BRASIL",SEM SINAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=895
 
+#EXTINF:-1 tvg-logo="https://imgur.com/oNJtAWv.png" group-title="ESTUDIO FM", ANTENA 1
+https://live-c.cf.dmcdn.net/sec2(wGRIa4wMZhN2P2m2m8gYeoDkyzXoJ8Hl7hX4TQwW-_CacHrbh0U4dZsDh1gZLffU7KnHY3se5UwZZNfGm7Kculo7oPEXMZANaOSw2-ZClYs)/dm/3/x8naz0t/s/live-2.m3u8#cell=lcfc
+#EXTINF:-1 tvg-logo="https://imgur.com/gIppte6.png" group-title="ESTUDIO FM", OURO VERDE FM
+https://ythls-v2.onrender.com/video/9_yk7WimxEA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/sqeyj3Z.png" group-title="BRASIL",PORTAL H
 https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w490760853.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="BRASIL", CTV PB
 https://stmv1.samcast.com.br/ctvpb/ctvpb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZIYiiMS.png" group-title="BRASIL", WEB TV PIQUET
