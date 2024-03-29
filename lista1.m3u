@@ -58,6 +58,8 @@ https://acesso.ecast.site:3675/live/novatvlive.m3u8
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/qcdeB1c.png" group-title="BRASIL",TV TODO DIA
 https://br5093.streamingdevideo.com.br/dehujsezdd/dehujsezdd/chunklist_w1856670635.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="BRASIL",TV BRASIL INTERNACIONAL
+https://tvbrasilinternacional-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
