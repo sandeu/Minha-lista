@@ -1029,7 +1029,7 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="BRASIL",TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mcOMVMk.png" group-title="BRASIL", TV PADRE CICERO
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6449
 #EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="BRASIL", SAO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="BRASIL",TV GRANDE NATAL
@@ -1120,6 +1120,8 @@ https://stmv.webtvninjas.com.br/tvchicojoao/tvchicojoao/chunklist_w172673806.m3u
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/chunklist_w1617847758.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pCo2Mt2.png" group-title="BRASIL", CBTV PLAY
 https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w1366506788.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X4MB0pG.png" group-title="BRASIL", TV SEPIOL
+https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1217902928.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://ythls-v2.onrender.com/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
