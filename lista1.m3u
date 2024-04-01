@@ -270,6 +270,8 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 https://srv1.zcast.com.br/igo8807/igo8807/chunklist_w677545559.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YXvSdlo.png" group-title="BRASIL", ESFLIX TV
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
+https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="BRASIL", NDTV FLORIPA
 https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/400Pz68.png" group-title="BRASIL", NDTV CRICIUMA
@@ -330,10 +332,10 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="BRASIL", REDE MEIO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6447
-#EXTINF:-1 tvg-logo="https://imgur.com/9h10HQt.png" group-title="BRASIL", TVD ES
+#EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="BRASIL", TVD ES
 https://tvd.acessaradios.com.br/tvdrcaes/tvdrcaes.stream/chunklist_w802878256.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
-https://acesso.ecast.site:3456/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
+https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
@@ -388,8 +390,6 @@ https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LPVQxyv.png" group-title="BRASIL",REDE RECON
-https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
