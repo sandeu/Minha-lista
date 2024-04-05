@@ -42,7 +42,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL",TVE MS
+#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL", TVE MS
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/YiYItLR.png" group-title="BRASIL",TV CEARA
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
