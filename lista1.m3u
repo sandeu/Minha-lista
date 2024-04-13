@@ -672,6 +672,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://rpn3.bozztv.com/ssh101/ssh101/nostalgia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LETZAUg.png" group-title="BRASIL", TV CHANNEL NETWORK
+https://serv2.videovox.pw/video28392/video28392/chunklist_w711457385.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Wl1aKSs.png" group-title="BRASIL", TV CIDADE HD
 https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist_w1814621371.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="BRASIL", TV RABELO
@@ -722,6 +724,8 @@ https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1168168565.m3u8
 https://stmv7.samcast.com.br/ketv/ketv/chunklist_w1755661317.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c6SEOhn.png" group-title="BRASIL", LUCAS TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iNdXSmE.png" group-title="BRASIL", UP WEB TV
+https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w1067020811.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VZKpfcj.png" group-title="BRASIL", MOON PLUS TV
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist_w12301485.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OKJ35N.png" group-title="BRASIL", TV METROPOLE NEWS
@@ -738,6 +742,8 @@ https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8
 https://stmv2.srvsh.com.br/tvserraamerica4639/tvserraamerica4639/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/INkJnhX.png" group-title="BRASIL", WEB TV CAMPEAO DE TUDO
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TotJjRX.png" group-title="BRASIL", TV MEGA BRASIL
+https://video01.kshost.com.br/sergio7305/sergio7305/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zGtzHQJ.png" group-title="BRASIL",TV MAR
 https://live-c.cf.dmcdn.net/sec2(LVvmJXhaM9QtR2STCvkZOvcgwpGFpNr50uAetuFQHnNVTi5yULQCuN0nV74_gTNJFW8rXi9b69MbnerPutMfnc-8HDg-cxEhHcRHw6NL8_s)/dm/3/x8i500l/d/live-2.m3u8#cell=lcfc
 #EXTINF:-1 tvg-logo="https://imgur.com/wKmXFcN.png" group-title="BRASIL",MAIS TV CANOAS
@@ -1126,6 +1132,8 @@ https://stmv3.voxtvhd.com.br/tvplug/tvplug/chunklist_w1617847758.m3u8
 https://stmv2.samcast.com.br/carla7379/carla7379/chunklist_w1366506788.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c5YGfUb.png" group-title="BRASIL", AG TV
 https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsKNfYW.png" group-title="BRASIL",TV MAIS MARILIA
+https://rpn3.bozztv.com/ssh101/ssh101/tvmaiismarilia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
