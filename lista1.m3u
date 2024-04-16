@@ -369,7 +369,7 @@ https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="BRASIL", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist_w889048662.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yYP3hjw.png" group-title="BRASIL", RBTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4577
 #EXTINF: -1 tvg-logo="https://imgur.com/CuGVc5p.png" group-title="BRASIL", VIRTUAL TV
