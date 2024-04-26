@@ -265,13 +265,13 @@ http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q8Luizx.png" group-title="BRASIL",BM&C NEWS
-https://ythls.onrender.com/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8
+https://ythls-v2.onrender.com/channel/UCoja0MNI4SIvXqJR3szbSfw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/0am6O8k.png" group-title="BRASIL",DCM TV
-https://ythls.onrender.com/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8
+https://ythls-v2.onrender.com/channel/UCutrj9cR0cNi2PfiTMGAWrA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/KX3qFzy.png" group-title="BRASIL",REDE TVT YOUTUBE
-https://ythls.onrender.com/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8
+https://ythls-v2.onrender.com/channel/UCmQTY7b5w61WlmBbJ5a8XrQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/Sir3kHP.png" group-title="BRASIL",TV 247 YOUTUBE
-https://ythls.onrender.com/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8
+https://ythls-v2.onrender.com/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/ZmTfNN1.png" group-title="BRASIL", ILHA NEWS
 https://a.cdni.live/redeilhafm/redeilhafm/chunklist_w695002253.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
@@ -305,7 +305,7 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/unMWuPW.png" group-title="BRASIL", TV ONDA DIGITAL YOUTUBE
-https://ythls.onrender.com/channel/UCleEDSt_ZmBeU9CWU4q0rWA.m3u8
+https://ythls-v2.onrender.com/channel/UCleEDSt_ZmBeU9CWU4q0rWA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="BRASIL",TV DO POVO 
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/78uH3ix.png" group-title="BRASIL",TVM PARA
@@ -349,7 +349,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
-https://ythls.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
 https://revry-brazil.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VLrIvMV.png" group-title="BRASIL", MTV DRAG
@@ -1009,15 +1009,15 @@ https://rpn3.bozztv.com/ssh101/ssh101/tvmaiismarilia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
-https://ythls.onrender.com/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8
+https://ythls-v2.onrender.com/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
-https://ythls.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
+https://ythls-v2.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8?playlist=index
 #EXTINF: -1 tvg-logo="https://imgur.com/lyRgsjz.png" group-title="TELEVENDAS", UP TV AMERICANA
-https://ythls.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
+https://ythls-v2.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
-https://ythls.onrender.com/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+https://ythls-v2.onrender.com/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
-https://ythls.onrender.com/channel/UCNCSZVTzpLwqyl5V2BL8sHg.m3u8
+https://ythls-v2.onrender.com/channel/UCNCSZVTzpLwqyl5V2BL8sHg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
