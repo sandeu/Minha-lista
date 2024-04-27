@@ -613,7 +613,7 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAaEGQy.png" group-title="BRASIL",X PLUS TV 
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="BRASIL",ABC BRASIL
-https://stmv1.srvstm.com/abc7762/abc7762/chunklist.m3u8
+https://stmv2.srvsh.com.br/abcbrasil634/abcbrasil634/chunklist_w759505148.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HAb2Ksu.png" group-title="BRASIL",TV JAPI
@@ -1287,7 +1287,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playli
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VqBYhgt.png" group-title="ESPORTES", REAL MADRID TV
-https://stream.ads.ottera.tv/cl/240406co8l9ulhg25rn5qcli30/512x288_906215_3_f.m3u8?i=475_1545
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xSvl5Io.png" group-title="ESPORTES", DAZN WOMENS SPORT
 https://r.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hKEFCLc.png" group-title="ESPORTES", DAZN COMBAT
