@@ -78,8 +78,6 @@ http://150.162.188.10:8080/hls/1.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w975861469.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w264262920.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
-https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
@@ -300,6 +298,8 @@ https://tvd.acessaradios.com.br/tvdrcaes/tvdrcaes.stream/chunklist_w802878256.m3
 https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5oO72Vy.png" group-title="BRASIL", LIDER TV
 http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
+https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="BRASIL", TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="BRASIL", TV ONE
