@@ -686,6 +686,8 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-16090/playlist/chunklist.m3u8
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i5TgT9o.png" group-title="BRASIL", TV MAIS
 https://srv1.saragosonet.com.br/play/hls/tvmais/1_0/index.m3u8?tkn=714978012
+#EXTINF:-1 tvg-logo="https://imgur.com/Ls3B8YJ.png" group-title="BRASIL", TV METROPOLIS
+https://stmv1.voxtvhd.com.br/juan8116/juan8116/chunklist_w1335546599.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="BRASIL", MID TV
 https://a.cdni.live/midtvbr/midtvbr/chunklist_w688348574.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA8UGax.png" group-title="BRASIL",TV SERTAO PETROLINA
@@ -1044,6 +1046,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w345953685.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgRFQA2.png" group-title="DESENHOS",CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
