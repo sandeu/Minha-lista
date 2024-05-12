@@ -1102,10 +1102,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dQUKuQb.jpg" group-title="DESENHOS", TOM E JERRY
-http://ddsw.xyz:80/8590438094/9912004092/968556
-#EXTINF:-1 tvg-logo="https://imgur.com/9t2yGpn.jpg" group-title="DESENHOS", PICA PAU
-http://ddsw.xyz:80/8590438094/9912004092/968514
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 https://ythls-v2.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
