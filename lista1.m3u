@@ -714,8 +714,6 @@ https://video05.logicahost.com.br/tvnovaweb1/tvnovaweb1/chunklist_w599042749.m3u
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b2570240.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/t1Q8s4j.png" group-title="BRASIL", TV TUDO WEB
 https://stmv1.paineldevideo.com.br/jesiel/jesiel/chunklist_w1031182380.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="BRASIL", TV ATITUDE NEW
-https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uHTDEzJ.png" group-title="BRASIL",CAMPOS WEB TV
 https://tv.rbstream.com.br/joseroberto9307/joseroberto9307/chunklist_w1676978315.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
@@ -1156,6 +1154,8 @@ https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/chunklist_w1799739845.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
 https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rZpi3EA.png" group-title="ESTUDIO FM", REDE BLITZ
+https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w750196655.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
@@ -1268,6 +1268,8 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1INGikR.png" group-title="ESPORTES",TOP SPORTS TV
 https://video05.logicahost.com.br/tvsports/tvsports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
+https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
