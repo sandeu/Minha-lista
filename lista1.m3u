@@ -319,9 +319,9 @@ https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.
 #EXTINF:-1 tvg-logo="https://imgur.com/YPDzdMK.png" group-title="BRASIL", TV GAZETA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4585
 #EXTINF:-1 tvg-logo="https://imgur.com/TAjCSyH.png" group-title="BRASIL", TVC
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w1149874108.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="BRASIL", TV ALTERNATIVA 
-https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w1912578061.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/q9oBxiz.png" group-title="BRASIL", 40 GRAUS TV 
@@ -378,6 +378,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea64
 https://r.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PkNVtXo.png" group-title="BRASIL",ANIMAIS
 https://r.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
+http://95.67.12.82:9098
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
