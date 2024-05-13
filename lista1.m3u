@@ -400,6 +400,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4546
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
+https://cdn-4.nxplay.com.br/parafernaria/tracks-v1a1/mono.m3u8?token=0f2b41b169bab890ac77e8b5fa4ff6e81bb48690-61700d79fa0892e3227e345d79a0edb0-1715601647-1715558447
 #EXTINF:-1 tvg-logo="https://imgur.com/NPxnnoU.png" group-title="BRASIL",PANICO
 https://r.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
