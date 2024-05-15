@@ -1121,9 +1121,9 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt6ea2q.jpg" group-title="DESENHOS", CARTOON CLASSICS
 https://g-mana.sofast.tv/media/36027b53-b873-4781-a013-9d68bb436009/mainManifest.m3u8?ads.channel_name=CARTOON CLASSICS&ads.content_genre=Cartoons&ads.content_language=en&ads.coppa=1&ads.content_rating=G&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3389
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILAGRO BRASIL
-http://201.87.136.36:8091/hls/tvmilagro.m3u8
+https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea95109729bfdb577864810d1e9435-5428c7f69ccc6bc0b7017704e9185e62-1715823041-1715779841
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
-https://stream01-tvcoopsc.netpointcdn.com.br/playlist.m3u8
+https://stream01-tvcoopsc.netpointcdn.com.br/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3221
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
@@ -1141,7 +1141,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J3Vk9ol.png" group-title="AGRO",CANAL SOLO FERTIL
-https://canalsolofertil.live/memfs/a338bfab-1992-4a2b-816e-e7758b30c90c_output_0.m3u8?session=mSSUGvS962GYozgvHyTPfh
+https://canalsolofertil.live/memfs/f2606ea4-0a77-40ac-91f6-1e803a34405c_output_0.m3u8?session=V7WcxGVxsxCHUGLCMr56vC
 #EXTINF:-1 tvg-logo="https://imgur.com/o9i2biE.png" group-title="AGRO",RURAL NO AR
 https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
@@ -1639,7 +1639,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o0HfhX.png" group-title="FILMES", HTO FILMES
 https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=a1a330c6f36ca2432da0fb5bed500e05c72abb59-8c13dcc88546dd2e689414eb7c66bb54-1706259420-1706216220
 #EXTINF:-1 tvg-logo="https://imgur.com/sAd0tgb.png" group-title="FILMES", SO PLAY ACAO
-https://c-01-sp.nxtv.com.br/bpk-token/1aa@5zwyqgjn1cd0eq2tmovflnrbn0pwfguj5p1l4vba/hls/channel/sep/e50c3bfc4e68fbaedd0c03db08be774d/high.m3u8?mm_sp&bpkio_sessionid=10b0b42c87-00acdce7-950b-4154-9e60-bc927f576596&bpkio_serviceid=9978b7063e297d8408697b862c0962b5&category=all
+https://cam4-hls.xcdnpro.com/322/cam4-origin-live/ethansteban3-322-60216d41-733b-401b-b1be-085469ffe7ba_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L1wXeRv.png" group-title="FILMES", SO PLAY NACIONAL
 https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=c5d2e324b7e9d0215bc451c20b9df5b3fc004160-a93659d45ff0b5c74bea6a9e2847b0cb-1707707679-1707664479
 #EXTINF:-1 tvg-logo="https://imgur.com/nvQgeIX.png" group-title="FILMES", CINE BRASIL
@@ -1682,6 +1682,8 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES", DARKFLIX 
