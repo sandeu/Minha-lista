@@ -672,6 +672,12 @@ https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/chunklist_w983955822.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TotJjRX.png" group-title="BRASIL", TV MEGA BRASIL
 https://video01.kshost.com.br:4443/sergio7305/sergio7305/chunklist_w1226339950.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cXlJrmD.png" group-title="BRASIL",SULINA TV
+https://stmv5.samcast.com.br/sulinatv/sulinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DixAGGs.png" group-title="BRASIL",88 POP BR
+https://stmv7.samcast.com.br/88pop/88pop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOpSRf7.png" group-title="BRASIL",CAMARAGIBE TV
+https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/chunklist_w716206468.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YdiiYfY.png" group-title="BRASIL", TVC BRASIL DE NOTICIAS
 https://a.cdni.live/tvcbrasil/tvcbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SyvMIeV.png" group-title="BRASIL", WEB TV MATO GROSSO NEWS
