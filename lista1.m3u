@@ -1466,8 +1466,6 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
 https://live.1wkd.alibsoft.com/hls/JajP7nYSpbv1SPCT.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MugSqny.png" group-title="MUSICA", TV RADIO LITORAL
-https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w262603647.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="MUSICA",MAIS UM
 https://stream.ichibantv.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4EVG4OV.png" group-title="MUSICA", TV 019
@@ -1628,6 +1626,8 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="FILMES",TV 100
 https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
 https://stmv1.srvif.com/channel80s/channel80s/chunklist_w1721669609.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/84XaLlV.png" group-title="FILMES", MULTI CANAIS
@@ -1636,6 +1636,8 @@ https://stmv1.srvif.com/multicanais/multicanais/chunklist_w682556111.m3u8
 https://stmv1.srvif.com/emotion/emotion/chunklist_w1632082469.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IG0EEB6.png" group-title="FILMES", CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o0HfhX.png" group-title="FILMES", HTO FILMES
 https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=a1a330c6f36ca2432da0fb5bed500e05c72abb59-8c13dcc88546dd2e689414eb7c66bb54-1706259420-1706216220
 #EXTINF:-1 tvg-logo="https://imgur.com/sAd0tgb.png" group-title="FILMES", SO PLAY ACAO
@@ -1662,8 +1664,6 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dFIriUs.png" group-title="FILMES",TV CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV WESTERN
@@ -1684,8 +1684,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES", DARKFLIX 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
