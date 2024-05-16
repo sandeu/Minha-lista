@@ -1252,6 +1252,12 @@ https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
 https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YcPDH50.png" group-title="ESTUDIO FM", RADIO ELDORADO 
 https://cdn.live.br1.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tggwktr.png" group-title="ESTUDIO FM",TROPICAL FM
+https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1991508081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBpTihy.png" group-title="ESTUDIO FM",RADIO SOCIEDADE
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w98903025.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BPgVoIh.png" group-title="ESTUDIO FM",RADIO RCC FM 95.3
+https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM", RADIO CAFE VIOLA
 https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w359193974.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM", RADIO NATUREZA FM
