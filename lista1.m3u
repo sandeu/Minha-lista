@@ -1206,6 +1206,8 @@ https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM SC
+https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
 https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM
@@ -1258,6 +1260,8 @@ https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1991508081.m3u8
 https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w98903025.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BPgVoIh.png" group-title="ESTUDIO FM",RADIO RCC FM 95.3
 https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="ESTUDIO FM",RADIO NOVA ERA
+https://stmv1.conectastreaming.com/novaera/novaera/chunklist_w985997650.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM", RADIO CAFE VIOLA
 https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w359193974.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM", RADIO NATUREZA FM
@@ -1634,6 +1638,10 @@ https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/mUGyKmS.png" group-title="4K", LOUPE 4K 
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-logo="https://imgur.com/Qyoc3Id.png" group-title="Canais | FILMES",PLAYPOCA FILMES
+http://168.205.87.198:8555/live/1427/123456/238.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qyoc3Id.png" group-title="Canais | FILMES",PLAYPOCA SERIES
+http://168.205.87.198:8555/live/1427/123456/239.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES", SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="FILMES",TV 100
