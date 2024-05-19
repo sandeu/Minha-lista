@@ -552,6 +552,8 @@ https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/playlist.m3u8?fbcli
 https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1931635703.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/T6khWM8.png" group-title="BRASIL",LATINA SAT
+https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sqeyj3Z.png" group-title="BRASIL",PORTAL H
