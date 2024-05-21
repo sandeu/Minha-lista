@@ -552,6 +552,16 @@ https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/playlist.m3u8?fbcli
 https://tv02.zas.media:1936/bahtv/bahtv/chunklist_w1931635703.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LrTGoQn.png" group-title="BRASIL", TV CLASSICOS
+https://ssh101-fl.bozztv.com/ssh101/monteirotv890/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/7t1OwHI.png" group-title="BRASIL", TV NOSTALGIA
+https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1142305731.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6khWM8.png" group-title="BRASIL",LATINA SAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", TV LIBERDADE
@@ -604,14 +614,6 @@ https://stream.ichibantv.com:3522/hybrid/play.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/M6abukT.png" group-title="BRASIL", TV PONTA DA SERRA
 https://host.painelhub.online:3982/hybrid/play.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/7t1OwHI.png" group-title="BRASIL", TV NOSTALGIA
-https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1142305731.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LETZAUg.png" group-title="BRASIL", TV CHANNEL NETWORK
 https://serv2.videovox.pw/video28392/video28392/chunklist_w711457385.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="BRASIL", TV RABELO
