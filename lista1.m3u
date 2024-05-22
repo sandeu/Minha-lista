@@ -276,7 +276,7 @@ https://ythls-v2.onrender.com/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8?playlist=ind
 https://a.cdni.live/redeilhafm/redeilhafm/chunklist_w695002253.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/e5Q9tzI.png" group-title="BRASIL",D+ NEWS
+#EXTINF:-1 tvg-logo="https://imgur.com/XaadIgm.png" group-title="BRASIL",D+ NEWS
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhtj40c.png" group-title="BRASIL",TV SOU NOTICIA
 https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
@@ -352,6 +352,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
 https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?playlist=index
+#EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
+https://r.mjh.nz/PlutoTV/662156805a31f70013dba21c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
 https://revry-brazil.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VLrIvMV.png" group-title="BRASIL", MTV DRAG
@@ -1330,6 +1332,8 @@ https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a6818c7bdc8d0008457b21-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQhG4bk.png" group-title="ESPORTES", FORMULA 1 CHANNEL
+https://r.mjh.nz/PlutoTV/65c69ee3d77d450008c80438-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
