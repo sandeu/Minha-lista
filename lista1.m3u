@@ -18,6 +18,8 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+#EXTINF:-1 tvg-logo="https://imgur.com/wE4Y1ql.png" group-title="BRASIL",DORAMAS TV
+https://stmv3.voxtvhd.com.br/doramastv/doramastv/chunklist_w1251217875.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="BRASIL", TV CULTURA
@@ -58,6 +60,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/0A4BCjR.png" group-title="BRASIL", CANAL SAUDE
+https://edge-pa-01.eduplay.rnp.br/media/ocp(r(yxh2cQ)t(F9MXu6d6Qdg)p(d(-iU)k(Cfw)m(SkFZgfmxzgQmjqXheuPNYw)n(a(qu2OJA6r50e7fRmTKPCqewHM06E)s(7gw)'a(u6s5nOWlu1sYYTxsd7j44Lt5)s(ibs)))s(t(Vtc)b(s0AY2-XSA8dbsf2I43YlLr-M6tSMFYyD3Cio0qirIcqnkBB48j4KwY9jDCdcDq5Kpqwox7zvDVWvO4TRYiAmJUL5IbBjP21ADVlY4YeJSYmlVdFzchHinzxU6NvpHFAYieCwd3pLvEoyZom5a1ZtcnCG15Kntj-T0XmW76Q)'t(w7k)b(sIY3muAqbxl0nFwkXJOpI44c4qv2tzvoVys)))/360_index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
@@ -188,6 +192,8 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e8iUtfD.png" group-title="BRASIL", TV SUCESSO GOIANIA
+https://live-stream.gsnoticias.net.br/live/live-goiania.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_360.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_360.flv
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/sbt-tvzyn-lgeu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT CENTRAL
