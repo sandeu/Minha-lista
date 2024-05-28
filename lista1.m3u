@@ -564,6 +564,8 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 https://ssh101-fl.bozztv.com/ssh101/monteirotv890/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/7t1OwHI.png" group-title="BRASIL", TV NOSTALGIA
 https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1142305731.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="BRASIL",TV 100
+https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
 https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
@@ -1664,8 +1666,6 @@ http://168.205.87.198:8555/live/1427/123456/238.m3u8
 http://168.205.87.198:8555/live/1427/123456/239.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES", SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="FILMES",TV 100
-https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
