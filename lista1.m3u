@@ -572,6 +572,8 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="BRASIL", TELEWEB TV
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6khWM8.png" group-title="BRASIL",LATINA SAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", LIBERDADE RADIO E TV
