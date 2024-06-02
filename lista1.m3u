@@ -1056,6 +1056,8 @@ https://5e837408ea907.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="DESENHOS", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BOR0NyU.png" group-title="DESENHOS", CHAVES DESENHO
+http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
