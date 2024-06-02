@@ -1061,7 +1061,7 @@ https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BOR0NyU.png" group-title="DESENHOS", CHAVES DESENHO
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/VINKeWX.png" group-title="DESENHOS",PICA PAU
-https://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
@@ -1153,7 +1153,7 @@ https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=ind
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
 https://ythls-v2.onrender.com/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
-https://ythls-v2.onrender.com/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?playlist=index
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4382
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt6ea2q.jpg" group-title="DESENHOS", CARTOON CLASSICS
