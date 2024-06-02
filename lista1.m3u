@@ -510,6 +510,8 @@ https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
 https://r.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m3CFvl8.png" group-title="BRASIL",SERIES SCI FI
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P6WeoZS.png" group-title="BRASIL",UM MALUCO NO PEDACO
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
 https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
@@ -1058,6 +1060,8 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BOR0NyU.png" group-title="DESENHOS", CHAVES DESENHO
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/VINKeWX.png" group-title="DESENHOS",PICA PAU
+https://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
@@ -1068,6 +1072,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="DESENHOS", PEPE LEGAL
 http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8?
+#EXTINF: -1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="DESENHOS", ZE BUSCAPE
+http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8?
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="DESENHOS", PATOLINO
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
@@ -1076,6 +1082,10 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w345953685.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tiFOfmW.png" group-title="DESENHOS",CORAGEM O CAO COVARDE
+http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/cVk9Ueo.png" group-title="DESENHOS",A VACA E O FRANGO
+http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/fgRFQA2.png" group-title="DESENHOS",CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
@@ -1132,6 +1142,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="DESENHOS", FUTURAMA
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 https://ythls-v2.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
