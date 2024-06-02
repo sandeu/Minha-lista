@@ -1064,6 +1064,10 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="DESENHOS", PEPE LEGAL
+http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8?
+#EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="DESENHOS", PATOLINO
+http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
