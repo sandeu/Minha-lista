@@ -1,6 +1,33 @@
 #EXTM3U 
 
 
+
+
+#EXTINF:-1,PERNALONGA
+http://24hrs.homelinux.com:8080/24H-pernalonga/video.m3u8?
+#EXTINF:-1,MANDA CHUVA
+http://24hrs.homelinux.com:8080/24H-mandachuva/video.m3u8?
+#EXTINF:-1,JOSIEEASGATINHAS
+http://24hrs.homelinux.com:8080/24H-josieeasgatinhas/video.m3u8?
+#EXTINF:-1,os herculoides
+http://24hrs.homelinux.com:8080/24H-osherculoides/video.m3u8?
+#EXTINF:-1,os herculoides
+http://24hrs.homelinux.com:8080/24H-herculoides/video.m3u8?
+#EXTINF:-1,os homem passaro
+http://24hrs.homelinux.com:8080/24H-homempassaro/video.m3u8?
+#EXTINF:-1,batman
+http://24hrs.homelinux.com:8080/24H-batmandesenho/video.m3u8?
+#EXTINF:-1,corrida maluca
+http://24hrs.homelinux.com:8080/24H-corridamaluca/video.m3u8?
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,RIT TV
 https://cdn-2.nxplay.com.br/RIT_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RIT TV
