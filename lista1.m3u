@@ -1072,6 +1072,10 @@ https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/VINKeWX.png" group-title="DESENHOS",PICA PAU
 http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/kD8qoxx.png" group-title="DESENHOS",TOM E JERRY
+http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1iuMGch.png" group-title="DESENHOS",POPEYE
+http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="DESENHOS", UNIVERSO KIDS
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
@@ -1080,10 +1084,22 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="DESENHOS", CORRIDA MALUCA
+http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="DESENHOS", PEPE LEGAL
 http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8?
 #EXTINF: -1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="DESENHOS", ZE BUSCAPE
 http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8?
+#EXTINF: -1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="DESENHOS", TARTARUGA TOUCHE
+http://24hrs.homelinux.com:8080/24H-tartarugatuche/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/QXM9iQa.png" group-title="DESENHOS", JAMBO E RUIVAO
+http://24hrs.homelinux.com:8080/24H-jamboeruivao/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/twqYcQ8.png" group-title="DESENHOS", OS FLINTSTONES
+http://24hrs.homelinux.com:8080/24H-osflistony/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/iKMZkCi.png" group-title="DESENHOS", SCOOBY DOO
+http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="DESENHOS", MANDA CHUVA
+http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="DESENHOS", PATOLINO
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
@@ -1160,10 +1176,12 @@ http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
 http://24hrs.homelinux.com:8080/24H-luluzinha/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/eDV3ZbQ.png" group-title="DESENHOS", THUNDERCATS
 http://24hrs.homelinux.com:8080/24H-thundercats/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/RjaMyiV.png" group-title="DESENHOS", HE MAN
+http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
-https://ythls-v2.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?playlist=index
+http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
-https://ythls-v2.onrender.com/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?playlist=index
+http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
