@@ -3,14 +3,24 @@
 
 
 
+#EXTINF:-1,CANAL EDUCACAO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4560
+#EXTINF:-1,TV SENADO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
+#EXTINF:-1,TV CAMARA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4551
+#EXTINF:-1,STINGRAY CLASSICA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4522
+#EXTINF:-1,QELLO CONCERTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4464
 #EXTINF:-1,PERNALONGA
-http://24hrs.homelinux.com:8080/24H-pernalonga/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-caocoragem/video.m3u8?
 #EXTINF:-1,MANDA CHUVA
-http://24hrs.homelinux.com:8080/24H-mandachuva/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-avacaeofrango/video.m3u8?
 #EXTINF:-1,JOSIEEASGATINHAS
-http://24hrs.homelinux.com:8080/24H-josieeasgatinhas/video.m3u8?
+https://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?
 #EXTINF:-1,os herculoides
-http://24hrs.homelinux.com:8080/24H-osherculoides/video.m3u8?
+http://24hrs.homelinux.com:8080/24H-zecolmeia/video.m3u8?
 #EXTINF:-1,os herculoides
 http://24hrs.homelinux.com:8080/24H-herculoides/video.m3u8?
 #EXTINF:-1,os homem passaro
