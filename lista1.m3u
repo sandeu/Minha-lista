@@ -503,9 +503,11 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
+http://168.205.87.198:8555/live/1427/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5UKIxPf.png" group-title="BRASIL", CHAVES
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YRDnUMz.png" group-title="BRASIL", CHAPOLIM COLORADO
+http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NiyKuci.png" group-title="BRASIL", INFERNO SOBRE RODAS
 https://r.mjh.nz/PlutoTV/64ff2c773efb5100082efb73-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
@@ -522,6 +524,8 @@ https://r.mjh.nz/PlutoTV/6474ab1da51cb80008bfb5f4-alt.m3u8
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P6WeoZS.png" group-title="BRASIL",UM MALUCO NO PEDACO
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/qI10h43.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
 https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
@@ -1831,7 +1835,7 @@ https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2EG6bS0.png" group-title="FILMES",CINE FAMILIA
 https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zbkttaF.png" group-title="PEGADINHAS",CAMERAS ESCONDIDAS
-http://ddsw.xyz:80/8590438094/9912004092/968600
+http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
 https://r.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
