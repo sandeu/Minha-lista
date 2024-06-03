@@ -107,7 +107,7 @@ https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
-https://cdn-2.nxplay.com.br/TV_SENADO/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",TV O POVO
 https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -482,6 +482,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iKBIabM.png" group-title="BRASIL",CANAL START
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
