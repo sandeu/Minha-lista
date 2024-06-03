@@ -1152,6 +1152,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="DESENHOS", FUTURAMA
 http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/TgflQnY.png" group-title="DESENHOS", OS SIMPSONS
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/4R0rZqg.png" group-title="DESENHOS", LULUZINHA
+http://24hrs.homelinux.com:8080/24H-luluzinha/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/eDV3ZbQ.png" group-title="DESENHOS", THUNDERCATS
+http://24hrs.homelinux.com:8080/24H-thundercats/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 https://ythls-v2.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
