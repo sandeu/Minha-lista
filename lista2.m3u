@@ -11,6 +11,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4551
 #EXTINF:-1,STINGRAY CLASSICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4522
+#EXTINF:-1,STINGRAY DJAZZ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4589
 #EXTINF:-1,QELLO CONCERTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4464
 #EXTINF:-1,PERNALONGA
