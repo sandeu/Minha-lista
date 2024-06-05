@@ -103,7 +103,7 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV OITAVA
 https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
-https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
+https://cdn-3.nxplay.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
@@ -1739,11 +1739,9 @@ https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o0HfhX.png" group-title="FILMES", HTO FILMES
-https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?token=a1a330c6f36ca2432da0fb5bed500e05c72abb59-8c13dcc88546dd2e689414eb7c66bb54-1706259420-1706216220
-#EXTINF:-1 tvg-logo="https://imgur.com/sAd0tgb.png" group-title="FILMES", SO PLAY ACAO
-https://cam4-hls.xcdnpro.com/322/cam4-origin-live/ethansteban3-322-60216d41-733b-401b-b1be-085469ffe7ba_aac/chunklist.m3u8
+https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/L1wXeRv.png" group-title="FILMES", SO PLAY NACIONAL
-https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?token=c5d2e324b7e9d0215bc451c20b9df5b3fc004160-a93659d45ff0b5c74bea6a9e2847b0cb-1707707679-1707664479
+https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/nvQgeIX.png" group-title="FILMES", CINE BRASIL
 https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w373973492.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Wu26NhR.png" group-title="FILMES", CINE BRASIL TV
@@ -1844,10 +1842,6 @@ http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
 https://r.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="PEGADINHAS",JUST FOR LAUGHS
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bYxEyKy.png" group-title="PEGADINHAS",PRANKS TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3421
-#EXTINF:-1 tvg-logo="https://imgur.com/rn6WG4I.png" group-title="PEGADINHAS",CAMERA SMILE TV
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/485ea1e9-7ca2-4487-bd9e-89ce0fc4d5bc/0.m3u8
 
 
 
