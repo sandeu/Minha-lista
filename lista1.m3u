@@ -1237,7 +1237,7 @@ https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w750196655.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
-https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 
 https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
