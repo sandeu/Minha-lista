@@ -103,7 +103,7 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV OITAVA
 https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
-https://cdn-3.nxplay.com.br/TV_JUSTICA/index.m3u8
+https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
@@ -1188,6 +1188,10 @@ http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
 http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
 http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gVZ1gQP.jpg" group-title="DESENHOS", WOLVERINE
+http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sImUen6.jpg" group-title="DESENHOS", DENIS O PIMENTINHA
+http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
