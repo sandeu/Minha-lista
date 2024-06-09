@@ -562,6 +562,10 @@ https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3UFU3YL.png" group-title="BRASIL", TV MARRECAS
+https://video03.logicahost.com.br/mundox/mundox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cwer0BB.png" group-title="BRASIL", OLHA TV
 https://cdnhd.iblups.com/hls/YV22T5BE5O.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nKPnbQS.png" group-title="BRASIL",TV VITORIA PE
@@ -578,6 +582,8 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 https://ssh101-fl.bozztv.com/ssh101/monteirotv890/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/7t1OwHI.png" group-title="BRASIL", TV NOSTALGIA
 https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1142305731.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/davbBNf.png" group-title="BRASIL", REVIVA TV
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="BRASIL",TV 100
 https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
