@@ -1096,6 +1096,8 @@ https://srv3.zcast.com.br/universo3/universo3/chunklist_w143793473.m3u8
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON MARATONAS
+https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="DESENHOS", CORRIDA MALUCA
@@ -1366,6 +1368,8 @@ https://stream.uniquetv.com.br/uniquetvsports/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4dV5fG1.png" group-title="ESPORTES",NA TELA TV
+https://cdn-4.nxplay.com.br/NA_TELA_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NRdlPpn.png" group-title="ESPORTES",VITRINE ESPORTIVA
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1INGikR.png" group-title="ESPORTES",TOP SPORTS TV
