@@ -16,6 +16,14 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2000
+http://24hrs.homelinux.com:8080/24H-malhacao2000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2001
+http://24hrs.homelinux.com:8080/24H-malhacao2001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2002
+http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2008
+http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-logo="https://imgur.com/wE4Y1ql.png" group-title="BRASIL",DORAMAS TV
