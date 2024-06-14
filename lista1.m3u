@@ -1108,6 +1108,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/TjasvmG.png" group-title="DESENHOS", JONNY QUEST
+http://24hrs.homelinux.com:8080/24H-Jonny.Quest.S01/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="DESENHOS", CORRIDA MALUCA
 http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="DESENHOS", PEPE LEGAL
@@ -1124,6 +1126,8 @@ http://24hrs.homelinux.com:8080/24H-osflistony/playlist.m3u8
 http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="DESENHOS", MANDA CHUVA
 http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/video.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/yQuehXS.png" group-title="DESENHOS", PERNALONGA
+http://24hrs.homelinux.com:8080/24H-pernalonga.txt/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="DESENHOS", PATOLINO
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
