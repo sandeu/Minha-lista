@@ -1206,6 +1206,8 @@ http://24hrs.homelinux.com:8080/24H-luluzinha/video.m3u8
 http://24hrs.homelinux.com:8080/24H-thundercats/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RjaMyiV.png" group-title="DESENHOS", HE MAN
 http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/RjaMyiV.png" group-title="DESENHOS", SHE RA
+http://24hrs.homelinux.com:8080/24H-She.Ra.S01/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="DESENHOS", PEPPA PIG
