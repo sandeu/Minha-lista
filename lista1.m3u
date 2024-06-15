@@ -1206,7 +1206,7 @@ http://24hrs.homelinux.com:8080/24H-luluzinha/video.m3u8
 http://24hrs.homelinux.com:8080/24H-thundercats/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/RjaMyiV.png" group-title="DESENHOS", HE MAN
 http://24hrs.homelinux.com:8080/24H-Heman.S01/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/RjaMyiV.png" group-title="DESENHOS", SHE RA
+#EXTINF: -1 tvg-logo="https://imgur.com/reUsKdq.png" group-title="DESENHOS", SHE RA
 http://24hrs.homelinux.com:8080/24H-She.Ra.S01/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4xgjoTb.jpg" group-title="DESENHOS", CAVERNA DO DRAGAO
 http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
@@ -1216,6 +1216,8 @@ http://24hrs.homelinux.com:8080/24H-Peppa.Pig.S01.S02.S03.S04/playlist.m3u8
 http://24hrs.homelinux.com:8080/24H-wolverine/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sImUen6.jpg" group-title="DESENHOS", DENIS O PIMENTINHA
 http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Iqn91b8.jpg" group-title="DESENHOS", SUPER MARIO
+http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
