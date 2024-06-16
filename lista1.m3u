@@ -209,7 +209,7 @@ https://live-stream.gsnoticias.net.br/live/live-goiania.flv,https://live-stream.
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/sbt-tvzyn-lgeu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT CENTRAL
-https://ythls-v2.onrender.com/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8?playlist=index
+https://ythls.armelin.one/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT BA
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT
@@ -375,7 +375,7 @@ https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="BRASIL", MANUAL DO MUNDO
 http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
-https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
 https://r.mjh.nz/PlutoTV/662156805a31f70013dba21c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
@@ -1069,15 +1069,15 @@ https://rpn3.bozztv.com/ssh101/ssh101/tvmaiismarilia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
-https://ythls-v2.onrender.com/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
-https://ythls-v2.onrender.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/lyRgsjz.png" group-title="TELEVENDAS", UP TV AMERICANA
-https://ythls-v2.onrender.com/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
-https://ythls-v2.onrender.com/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
-https://ythls-v2.onrender.com/channel/UCNCSZVTzpLwqyl5V2BL8sHg.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCNCSZVTzpLwqyl5V2BL8sHg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
@@ -1219,9 +1219,9 @@ http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Iqn91b8.jpg" group-title="DESENHOS", SUPER MARIO
 http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
-https://ythls-v2.onrender.com/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
-https://ythls-v2.onrender.com/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4382
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
@@ -1373,9 +1373,9 @@ https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT YOUTUBE
-https://ythls-v2.onrender.com/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV YOUTUBE
-https://ythls-v2.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?playlist=index
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oOIB3QZ.png" group-title="ESPORTES", URBAN SPORTS
