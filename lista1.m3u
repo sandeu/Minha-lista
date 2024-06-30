@@ -442,8 +442,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O9S1zzI.png" group-title="BRASIL",TRATAMENTO DE CHOQUE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YgS4qSQ.png" group-title="BRASIL",ESTILO DE VIDA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/9tT2tWj.png" group-title="BRASIL",DOCUMENTARIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/MN9IqXW.png" group-title="BRASIL",INVESTIGACAO
@@ -538,8 +536,6 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 https://stmv1.srvif.com/tvseriem/tvseriem/chunklist_w244607807.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1752280504.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0gvImpR.png" group-title="BRASIL", SERIES
-https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4O2PLBv.png" group-title="BRASIL",SERIES DRAMA
 https://r.mjh.nz/PlutoTV/65f060d84e01740008d7421f-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBv8SSc.png" group-title="BRASIL",SERIES COMEDIA
@@ -554,8 +550,6 @@ https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/qI10h43.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CstE5yv.png" group-title="BRASIL",JEANNIE E UM GENIO
-https://r.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
 https://stmv1.srvif.com/cangels/cangels/chunklist_w1381300654.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/873Vk6B.png" group-title="BRASIL",O HOMEM QUE VEIO DO CEU
@@ -564,8 +558,6 @@ https://r.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Rju4d92.png" group-title="BRASIL",MACGYVER
 https://r.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tRae10A.png" group-title="BRASIL",ARNOLD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="BRASIL",KENAN E KEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="BRASIL",ICARLY
