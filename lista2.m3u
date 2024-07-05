@@ -5,11 +5,11 @@
 
 
 #EXTINF:-1,teste
-https://cc-48kfje07zxub5.akamaized.net/index.m3u8
+https://cc-48kfje07zxub5.akamaized.net/hls/main.m3u8
 #EXTINF:-1,teste 2
-https://cc-panvcqnzkgrdl.akamaized.net/index.m3u8
+https://cc-panvcqnzkgrdl.akamaized.net/hls/main.m3u8
 #EXTINF:-1,teste 3
-https://cc-jgu3zy16r6upn.akamaized.net/index.m3u8
+https://cc-jgu3zy16r6upn.akamaized.net/hls/main.m3u8
 
 
 #EXTINF:-1,FILME NACIONAL ???
