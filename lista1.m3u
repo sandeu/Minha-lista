@@ -25,7 +25,7 @@ http://24hrs.homelinux.com:8080/24H-malhacao2002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2008
 http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wE4Y1ql.png" group-title="BRASIL",DORAMAS TV
 https://stmv3.voxtvhd.com.br/doramastv/doramastv/chunklist_w1251217875.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA
@@ -265,19 +265,21 @@ https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1617
 #EXTINF:-1 tvg-logo="https://imgur.com/A2IAM5V.png" group-title="BRASIL", TV PARANAIBA
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
-https://cc-07et6wc1z29gv.akamaized.net/index.m3u8
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
-https://cc-y4riz7eo92zpm.akamaized.net/hls/main.m3u8
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
-https://cc-lpqo0gcfdazd6.akamaized.net/playlist.m3u8
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="BRASIL", 24 HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
@@ -374,6 +376,8 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/G6356KK.png" group-title="BRASIL", CANAL LIKE
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="BRASIL", MANUAL DO MUNDO
 http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
@@ -508,6 +512,8 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
+#EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
+https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="BRASIL", ULB TV
@@ -1202,6 +1208,8 @@ https://r.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8
 https://r.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1pmdp8N.png" group-title="DESENHOS", DUCK TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
@@ -1229,7 +1237,7 @@ http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Iqn91b8.jpg" group-title="DESENHOS", SUPER MARIO
 http://24hrs.homelinux.com:8080/24H-supermario/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
-https://ythls.armelin.one/channel/UCEnXFTwKRy4zSafAGPkooNA.m3u8
+https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M2bKw1v.jpg" group-title="DESENHOS", TALKING TOM
 https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q4FpFH7.jpg" group-title="DESENHOS", LEO O CAMINHAO
@@ -1437,7 +1445,9 @@ https://r.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JWTiecW.png" group-title="ESPORTES", WORLD POKER TOUR
 https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
-https://r.mjh.nz/PlutoTV/65a6818c7bdc8d0008457b21-alt.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFC COMBAT
+https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQhG4bk.png" group-title="ESPORTES", FORMULA 1 CHANNEL
@@ -1867,7 +1877,7 @@ https://r.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w0xISJx.png" group-title="FILMES",CINE DRAMA
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
-https://r.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8
+https://jmp2.uk/PlutoTV/633dcebd80386500074a2461-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="FILMES",CINE ROMANCE
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="FILMES",FILMES SUSPENSE
