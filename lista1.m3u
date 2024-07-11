@@ -468,6 +468,16 @@ https://r.mjh.nz/PlutoTV/6474aadc8e3c0a0008b98493-alt.m3u8
 https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL", FASHION TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+#EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+#EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+#EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+#EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
