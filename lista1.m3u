@@ -500,16 +500,6 @@ https://r.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8
 https://r.mjh.nz/PlutoTV/65d9167818036500080e8780-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OoQ5Dt8.png" group-title="BRASIL",ANIMAX TV
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MBC3UYa.png" group-title="BRASIL",ANIME ONEGAI 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
-#EXTINF:-1 tvg-logo="https://imgur.com/MBC3UYa.png" group-title="BRASIL",ANIME ONEGAI 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
-#EXTINF:-1 tvg-logo="https://imgur.com/MBC3UYa.png" group-title="BRASIL",ANIME ONEGAI 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
-#EXTINF:-1 tvg-logo="https://imgur.com/MBC3UYa.png" group-title="BRASIL",ANIME ONEGAI 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
-#EXTINF:-1 tvg-logo="https://imgur.com/MBC3UYa.png" group-title="BRASIL",ANIME ONEGAI 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-logo="https://imgur.com/J8g6T35.png" group-title="BRASIL",GEEK E TECK
 https://r.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
