@@ -326,7 +326,7 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 http://srv26513565.ultasrv.com:8080/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a9xSBJx.png" group-title="BRASIL", POP TV SC
 https://ssh101-fl.bozztv.com/ssh101/somosregional/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uikDfUz.png" group-title="BRASIL", HIHON WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/uikDfUz.png" group-title="BRASIL", NIHON WEB TV
 https://stream.nihonwebtv.com:3778/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
