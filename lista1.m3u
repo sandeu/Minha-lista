@@ -1616,6 +1616,8 @@ https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w119214344.m3u8
 https://srv5.zcast.com.br/carlosdavi8435/carlosdavi8435/chunklist_w1134124364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MnKrwq8.png" group-title="MUSICA",TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o9LgTUF.png" group-title="MUSICA", TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MBSUUsK.png" group-title="MUSICA", FM TV
@@ -1664,6 +1666,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playli
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w713391550.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAUQNQm.png" group-title="MUSICA",SURF ROOTS
 https://cdnvod.panda-os.com/livehls/6334b01306304444c756ebc4/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jAUQNQm.png" group-title="MUSICA",SURF ROOTS 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",LOVE SONGS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/kniBSoa.png" group-title="MUSICA",VH1 MUSIC LEGENDS
