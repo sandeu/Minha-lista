@@ -16,6 +16,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gTSfwzz.png" group-title="BRASIL",A ESCRAVA ISAURA
+https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="BRASIL",MALHACAO FAST
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2000
 http://24hrs.homelinux.com:8080/24H-malhacao2000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JFaBo8v.png" group-title="BRASIL",MALHACAO 2001
@@ -28,6 +32,8 @@ http://24hrs.homelinux.com:8080/24H-malhacao2008/tracks-v1a1/mono.m3u8
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wE4Y1ql.png" group-title="BRASIL",DORAMAS TV
 https://stmv3.voxtvhd.com.br/doramastv/doramastv/chunklist_w1251217875.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5tHkE33.png" group-title="BRASIL", TV CULTURA FAST
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:-1 tvg-logo="https://imgur.com/ZV8L3gl.png" group-title="BRASIL", TV CULTURA
@@ -208,6 +214,8 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
 https://live-stream.gsnoticias.net.br/live/live-goiania.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_360.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_360.flv
 #EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/sbt-tvzyn-lgeu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT
+https://aovivo.maissbt.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT CENTRAL
 https://ythls.armelin.one/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT BA
@@ -280,6 +288,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KLatQEl.png" group-title="BRASIL",LEADSTORY
+https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Iqh2Xq.png" group-title="BRASIL", 24 HS NEWS
 http://cdn.connectbr.com.br/24_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
@@ -430,6 +440,8 @@ https://cdn.jmvstream.com/w/AVJ-13076/playlist/chunklist.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w1wjy1n.png" group-title="BRASIL", VIAGENS
 https://r.mjh.nz/PlutoTV/5f32d432d612e50007e56133-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Sg8jkYa.png" group-title="BRASIL",RECEITAS FAST
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKkajA6.png" group-title="BRASIL",SABOR E ARTE
 https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/33msz2e.png" group-title="BRASIL",TASTEMADE
@@ -1417,9 +1429,13 @@ https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w142211
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT YOUTUBE
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
 https://play.mercadolivre.com.br/vivo/cazetv/3cfc4f63a7c34cdf996b7d5f49375f32?origin=sd_mainslider#DEAL_ID=MLB34469&S=landingHubdescontaco&V=0&T=MainSliderItem-normal&L=MS_CAZETV&deal_print_id=f6790e20-3eeb-11ef-8348-a17bea68389c&c_id=mainslideritem-normal&c_element_order=1&c_campaign=MS_CAZETV&c_uid=f6790e20-3eeb-11ef-8348-a17bea68389c
 #EXTINF:-1 tvg-logo="https://imgur.com/7EiNsrY.png" group-title="ESPORTES", FIFA
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0q6qsui.png" group-title="ESPORTES", GE FAST
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oOIB3QZ.png" group-title="ESPORTES", URBAN SPORTS
 https://stream.uniquetv.com.br/uniquetvsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
@@ -1900,6 +1916,8 @@ https://r.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
 https://jmp2.uk/PlutoTV/633dcebd80386500074a2461-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
+https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VC5lyKm.png" group-title="FILMES",CINE ROMANCE
 https://r.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKajPqD.png" group-title="FILMES",FILMES SUSPENSE
