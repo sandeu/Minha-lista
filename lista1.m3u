@@ -1650,6 +1650,8 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-12934/playlist/chunklist.m3u8
 https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w1703774679.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DHiNxAJ.png" group-title="MUSICA",DECADAS TV
+https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="MUSICA", REDE LIVRE
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oS0i9CJ.png" group-title="MUSICA", REDE SULAMERICA HITS
