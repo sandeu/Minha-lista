@@ -1331,7 +1331,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM 
-https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
+https://cdn.livespanel.com/radioatividade/live/chunks.m3u8?nimblesessionid=12773178
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
@@ -1346,20 +1346,12 @@ https://a.cdni.live/ativa98/ativa98/playlist.m3u8
 https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM", RADIO SUPER MARAJOARA
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RADIO TUPI
-https://ythls-v2.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/TH3t9OT.png" group-title="ESTUDIO FM", REDE ITATIAIA
-https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/baJrt3o.png" group-title="ESTUDIO FM", 98 LIVE
-https://ythls-v2.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM", RADIO DIARIO MACAPA
 https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RADIO REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/A7tzip6.png" group-title="ESTUDIO FM", RADIO DEUS E AMOR YOUTUBE
-https://ythls-v2.onrender.com/channel/UC5BPvgWTJbjWR5yRHLlf2qQ.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="ESTUDIO FM",CATVE FM
@@ -1850,7 +1842,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cgNbgzq.png" group-title="FILMES",REPUBLIC
 https://video01.soultv.com.br/republic/republic/chunklist_w265545587.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UEp3M7J.png" group-title="FILMES",SOU MAIS TV
+#EXTINF:-1 tvg-logo="https://imgur.com/UEp3M7J.png" group-title="FILMES",SOU MAIS POP TV
 https://video04.logicahost.com.br/soumaispop/soumaispop/chunklist_w1329289915.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4o0HfhX.png" group-title="FILMES", HTO FILMES
 https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8?
