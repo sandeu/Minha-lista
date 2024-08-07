@@ -212,7 +212,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e8iUtfD.png" group-title="BRASIL", TV SUCESSO GOIANIA
 https://live-stream.gsnoticias.net.br/live/live-goiania.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live/live-goiania_360.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_720.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_480.flv,https://live-stream.gsnoticias.net.br/live2/live-goiania_360.flv
-#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL",TV ZYNK
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="BRASIL", TV ZYNK
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/sbt-tvzyn-lgeu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="BRASIL", SBT INTERNACIONAL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
