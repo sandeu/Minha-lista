@@ -132,6 +132,8 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/e9yEiKM.png" group-title="BRASIL",LORENZI TRAVEL TV
+https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VDmu8ND.png" group-title="BRASIL",CONDO FORNECEDOR TV
 https://video05.logicahost.com.br/condofornecedor/condofornecedor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e03PfZF.png" group-title="BRASIL",INOVA 360
@@ -458,6 +460,10 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1752280504.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYMgKPT.png" group-title="BRASIL",AS PANTERAS
 https://stmv1.srvif.com/cangels/cangels/chunklist_w1381300654.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ozG4O97.png" group-title="BRASIL",STAR TREK
+https://stmv1.srvif.com/startrek/startrek/chunklist_w718505192.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C90abkS.png" group-title="BRASIL",FAMILIA DINOSSAUROS
+https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist_w1647219376.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="BRASIL",KENAN E KEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="BRASIL",ICARLY
@@ -470,6 +476,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/famSoXX.png" group-title="BRASIL",SPACE TV
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
+https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
@@ -912,6 +920,30 @@ https://stmv2.samcast.com.br/dermeval8653/dermeval8653/chunklist_w1865310606.m3u
 https://ythls.armelin.one/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
 https://ythls.armelin.one/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7s7Q1rV.png" group-title="BRASIL", TV AM
+https://stmv1.srvsite.com/tvam/tvam/chunklist_w2084857497.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9xeYJHT.png" group-title="BRASIL", WEB TV SAO LUIS CANOAS RS
+https://stmv1.samcast.com.br/enei9364/enei9364/chunklist_w911589119.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Y4X2D9.png" group-title="BRASIL", WEB CONEXAO TV
+https://video04.logicahost.com.br/webconexao/webconexao/chunklist_w1199703184.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i8CLBfx.png" group-title="BRASIL", VEZA TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="BRASIL", KANUCA TV
+https://srv3.zcast.com.br/kanucatv/kanucatv/chunklist_w733398580.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Hiwu3Qe.png" group-title="BRASIL", TV UNINOBRE
+https://video01.kshost.com.br:4443/uninobre1381/uninobre1381/chunklist_w515523358.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FMfBQWz.png" group-title="BRASIL", BRAZI TV
+https://cbtvnow.com:5866/hls/livest2024.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Hw42Ajy.png" group-title="BRASIL", TV ESTACAO
+https://5a0c3936c25c8.streamlock.net/estacaotv/estacaotv/chunklist_w1993526521.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PLntrBW.png" group-title="BRASIL", TVCB
+https://stmv2.samcast.com.br/dermeval8653/dermeval8653/chunklist_w103793650.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DCU7ibc.png" group-title="BRASIL", LOGBRANDS TV
+https://cdn.live.br1.jmvstream.com/webtv/logbrands/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C1hFKJJ.png" group-title="BRASIL", BDC TV
+https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1382488545.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j9XKTPB.png" group-title="BRASIL", DESTAK BRASIL TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12924/playlist/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/lyRgsjz.png" group-title="TELEVENDAS", UP TV AMERICANA
 https://ythls.armelin.one/channel/UCsAJCP5sbCczdRifNnaynuQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
