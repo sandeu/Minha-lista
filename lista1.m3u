@@ -136,6 +136,8 @@ https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5da
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e9yEiKM.png" group-title="BRASIL",LORENZI TRAVEL TV
 https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RHfOBfx.png" group-title="BRASIL",VIAGENS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/VDmu8ND.png" group-title="BRASIL",CONDO FORNECEDOR TV
 https://video05.logicahost.com.br/condofornecedor/condofornecedor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e03PfZF.png" group-title="BRASIL",INOVA 360
@@ -343,9 +345,11 @@ https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6356KK.png" group-title="BRASIL", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="BRASIL", MANUAL DO MUNDO
-http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
 https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
 https://revry-brazil.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
@@ -364,6 +368,10 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CaXWpQX.png" group-title="BRASIL",TURBO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/AgEFqXm.png" group-title="BRASIL",NATUREZA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Ic0GYjZ.png" group-title="BRASIL",ANIMAIS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 http://95.67.12.82:9098
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
@@ -388,6 +396,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4546
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F9vlK9G.png" group-title="BRASIL",COZINHA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
 https://cdn-4.nxplay.com.br/parafernaria/tracks-v1a1/mono.m3u8?token=0f2b41b169bab890ac77e8b5fa4ff6e81bb48690-61700d79fa0892e3227e345d79a0edb0-1715601647-1715558447
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
@@ -396,6 +406,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/PKguK6V.png" group-title="BRASIL",CANAL DA PRACA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gBDcmJI.png" group-title="BRASIL",MINHA OBSESSAO FAVORITA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/BMFaYXG.png" group-title="BRASIL",ACUMULADORES OBSSESSIVOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/9tT2tWj.png" group-title="BRASIL",DOCUMENTARIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/MN9IqXW.png" group-title="BRASIL",INVESTIGACAO
@@ -428,6 +442,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OoQ5Dt8.png" group-title="BRASIL",ANIMAX TV
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gLuNgQ8.png" group-title="BRASIL",GEEK TECH
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
@@ -916,8 +932,6 @@ https://srv4.zcast.com.br/jose5773/jose5773/chunklist_w65849597.m3u8
 https://video01.kshost.com.br:4443/david7639/david7639/chunklist_w581435479.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XA8MkPv.png" group-title="BRASIL", TV ITAIPUACU WEB
 https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodriguescardoso1832/chunklist_w1618182933.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/NOEvBhy.png" group-title="BRASIL", TVCB
-https://stmv2.samcast.com.br/dermeval8653/dermeval8653/chunklist_w1865310606.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wk2zWFb.png" group-title="BRASIL", TV CLIC BRASIL
 https://ythls.armelin.one/channel/UCgNceAGW4ukpGq7us0T12jA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OrQRsso.png" group-title="BRASIL", DIARIO TV TERESOPOLIS
@@ -938,8 +952,8 @@ https://video01.kshost.com.br:4443/uninobre1381/uninobre1381/chunklist_w51552335
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hw42Ajy.png" group-title="BRASIL", TV ESTACAO
 https://5a0c3936c25c8.streamlock.net/estacaotv/estacaotv/chunklist_w1993526521.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PLntrBW.png" group-title="BRASIL", TVCB
-https://stmv2.samcast.com.br/dermeval8653/dermeval8653/chunklist_w103793650.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/NOEvBhy.png" group-title="BRASIL", TVCB
+https://stmv2.samcast.com.br/dermeval8653/dermeval8653/chunklist_w1865310606.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DCU7ibc.png" group-title="BRASIL", LOGBRANDS TV
 https://cdn.live.br1.jmvstream.com/webtv/logbrands/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C1hFKJJ.png" group-title="BRASIL", BDC TV
@@ -1021,7 +1035,7 @@ https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1pmdp8N.png" group-title="DESENHOS", DUCK TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6457
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6650bf5c94d5580008e7501a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
@@ -1380,6 +1394,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",MTV CLASSIC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/635bfb89b5cd9b0007ca9d63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",MTV CLASSIC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",MTV ROCKS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",MTV FLOW LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b219eed88ef00007403c2clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",YO MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01d84fe11e500084aefc1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/ElCNIbG.png" group-title="MUSICA",EURODANCE 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
