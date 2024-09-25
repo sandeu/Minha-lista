@@ -970,6 +970,10 @@ https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1382488545.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12924/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cUpsNXo.png" group-title="BRASIL", PEN TV
 https://stmv8.samcast.com.br/ritagabriele2079/ritagabriele2079/chunklist_w1294899721.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h3pLmOm.png" group-title="BRASIL", SUA TV
+https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GyYGFgk.png" group-title="BRASIL", MINUTO NORDESTE WEB TV
+https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
