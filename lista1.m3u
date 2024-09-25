@@ -502,6 +502,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
 https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hoWEOnc.png" group-title="BRASIL",REDE AMERICA
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
