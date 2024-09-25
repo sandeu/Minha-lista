@@ -258,6 +258,10 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dw2M6XW.png" group-title="BRASIL",VEJA +
+https://cdn-5.nxplay.com.br/CANAL_ABRIL/tracks-v1a1/mono.m3u8?token=a643c4facb82867b723b70ba635b0b8e3663f89f-6ff7d09cfbbda8e44f32d63b21c13757-1727307829-1727264629
+#EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="BRASIL",BM&C NEWS
+https://cdn-fast.nxtv.com.br/ENC_STENNA/BMC_H264_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840ae3505174db1fbe&bpkio_sessionid=10c1d3a132-42d2f9fb-3a54-4cab-8f19-f75c6b0780fb&category=all&mm_sp&token=a300d5b4ab41156df63ff373ffdd81ae2d84bc2e-632825a257b5063a5deb3eaae892b361-1727307829-1727264629
 #EXTINF:-1 tvg-logo="https://imgur.com/KLatQEl.png" group-title="BRASIL",LEADSTORY
 https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
@@ -964,6 +968,8 @@ https://cdn.live.br1.jmvstream.com/webtv/logbrands/playlist/chunklist.m3u8
 https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w1382488545.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j9XKTPB.png" group-title="BRASIL", DESTAK BRASIL TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12924/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cUpsNXo.png" group-title="BRASIL", PEN TV
+https://stmv8.samcast.com.br/ritagabriele2079/ritagabriele2079/chunklist_w1294899721.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
