@@ -115,7 +115,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",CANAL FDR
-https://5a57bda70564a.streamlock.net/opovo/opovo.sdp/chunklist_w993052480.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="BRASIL", FURG TV
