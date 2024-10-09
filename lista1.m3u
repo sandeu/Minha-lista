@@ -1162,8 +1162,8 @@ https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM", RADIO PLANALTO NEWS
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM
-https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM LONDRINA
+https://stream.castr.com/66e37e8a5e128507f2c53fac/live_ada7ec0074e911ef81c8e3887c807bac/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K0HSU7i.png" group-title="ESTUDIO FM", RADIO EDUCADORA 
 https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kBz6Znn.png" group-title="ESTUDIO FM", RADIO LITORAL FM
@@ -1178,14 +1178,8 @@ https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
 https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A2ebA0p.png" group-title="ESTUDIO FM", RADIO UIRAPURU
 https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YcPDH50.png" group-title="ESTUDIO FM", RADIO ELDORADO 
-https://cdn.live.br1.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tggwktr.png" group-title="ESTUDIO FM",TROPICAL FM
 https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1991508081.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NBpTihy.png" group-title="ESTUDIO FM",RADIO SOCIEDADE
-https://painel.sintonizar.tv.br:19360/sociedadevideo/sociedadevideo.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BPgVoIh.png" group-title="ESTUDIO FM",RADIO RCC FM 95.3
-https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="ESTUDIO FM",RADIO NOVA ERA
 https://stmv1.conectastreaming.com/novaera/novaera/chunklist_w985997650.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM", RADIO CAFE VIOLA
