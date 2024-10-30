@@ -73,7 +73,7 @@ https://canalgov-stream.ebc.com.br/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/0A4BCjR.png" group-title="BRASIL", CANAL SAUDE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4552
+https://edge-rn-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_s8BWq6GvQ)p(d(iNo)k(LpA)m(XaDimwKv-gxUBVnJM1El2w)n(a(05ien_HD9AYBNoanm32UzZNonUc)s(SWc)'a(MH4IcxA0UPnh7hR9gW3O0zGP)s(w-w)'a(2GJk0fF9eNRU8YFn21ObxcPT)s(aIA)))s(t(lNs)b(sIm4PhdteDeWHFwtfQ7K-h39fCl5avevLEBwjT_0R7SC7MU2Jonomn3LfIEIZu0FpEwfAejQehElhFDsXQ6r0RyCB4ezA1JSlNF1Hs8iu9_XmVm2V-zAeJZt_rwFAYIg29GYiHW7UsCShp4BcaVa99GlkP5zKszsQMI3sVw)'t(2WY)b(3TassN5gYh_dH3RdDUvxu8B4UPsyY-DIZkU)))/360_index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
@@ -118,6 +118,8 @@ https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
+#EXTINF:-1 tvg-logo="https://imgur.com/PK3JLkS.png" group-title="BRASIL",TV CIDADAO
+https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",CANAL FDR
 https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="BRASIL",UNISC TV
@@ -1257,7 +1259,7 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="ESPORTES", ESPORTES BRASILIA
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wUHcbZo.png" group-title="ESPORTES", WOOHOO SURF
-https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8?token=ebfd22f5495bb6561d816586bbcfb2a3b9855187-9e247a004426d8895fb450e9f2e82ea1-1706259420-1706216220
+https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SzfT5WK.png" group-title="ESPORTES", FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
@@ -1270,7 +1272,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFC COMBAT
+#EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFT COMBAT
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
