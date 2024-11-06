@@ -1135,13 +1135,13 @@ https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rZpi3EA.png" group-title="ESTUDIO FM", REDE BLITZ
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w750196655.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XQwkoQ8.png" group-title="ESTUDIO FM", METROPOLES FM
-https://srv3.zaracast.com.br/metropoles5/metropoles5/chunklist_w381934996.m3u8
+https://video09.logicahost.com.br/tvradio/tvradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/27laNDi.png" group-title="ESTUDIO FM", ATIVIDADE FM
-https://cdn.livespanel.com/radioatividade/live/chunks.m3u8?nimblesessionid=15739476
+https://cdn.livespanel.com/radioatividade/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/toR5rPu.png" group-title="ESTUDIO FM", SUCESSO FM
