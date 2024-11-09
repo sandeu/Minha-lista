@@ -96,6 +96,8 @@ http://150.162.188.10:8080/hls/1.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w975861469.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w264262920.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nsoM2Rv.png" group-title="BRASIL",TV THATHI CAMPINAS
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w672815662.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
@@ -236,6 +238,8 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w599203836.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yUZgINN.png" group-title="BRASIL", TV SAO LUIS
+https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/chunklist_w797727025.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="BRASIL", REDE TV MAIS
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mmGmrWw.png" group-title="BRASIL", TV GUARA CAXIAS
