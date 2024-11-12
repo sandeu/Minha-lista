@@ -538,6 +538,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/famSoXX.png" group-title="BRASIL",SPACE TV
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL",UMA TV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
 https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hoWEOnc.png" group-title="BRASIL",REDE AMERICA
@@ -1213,7 +1215,7 @@ https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w20186446
 #EXTINF:-1 tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM", RADIO PLANALTO NEWS
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM LONDRINA
-https://stream.castr.com/66e37e8a5e128507f2c53fac/live_ada7ec0074e911ef81c8e3887c807bac/index.fmp4.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-19064/LVW19064_SkS5KoFxo2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/K0HSU7i.png" group-title="ESTUDIO FM", RADIO EDUCADORA 
 https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kBz6Znn.png" group-title="ESTUDIO FM", RADIO LITORAL FM
