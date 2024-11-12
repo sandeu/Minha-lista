@@ -88,6 +88,8 @@ https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w672085632
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ItpYDvC.png" group-title="BRASIL",TV BELTRAO
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V3Tpj4V.png" group-title="BRASIL",REDE TVS
+https://video01.kshost.com.br:4443/rede1250/rede1250/chunklist_w315984156.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vI1ttGb.png" group-title="BRASIL",REDE BELA ALIANCA
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kclL9nZ.png" group-title="BRASIL",TV UFSC
@@ -270,6 +272,8 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
+https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
@@ -1128,6 +1132,8 @@ https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w7548606
 https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756_output_0.m3u8?session=LWJwJCzuSg9VbPEDcAWEFk
 #EXTINF:-1 tvg-logo="https://imgur.com/o9i2biE.png" group-title="AGRO",RURAL NO AR
 https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xKeXCkv.png" group-title="AGRO",TV AGRO E NOSSO
+https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w645943908.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://5cf4a2c2512a2.streamlock.net/interativafm/interativafm/chunklist_w1370606192.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
