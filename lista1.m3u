@@ -151,7 +151,7 @@ https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RHfOBfx.png" group-title="BRASIL",VIAGENS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/zWUCcsJ.png" group-title="BRASIL",TRAVEL +
-https://cdn-fast.nxtv.com.br/1080p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d847d4ebb9bb007c41f&bpkio_sessionid=10f1f10d10-14ce9378-4a43-42e7-9922-8701d2f871b9&category=all&mm_sp&token=05c2776dc9b98b7eef6e5c587e2796b6c8f67035-514e6120759c33208cfe9d5142c1166a-1729597588-1729554388
+https://cdn-fast.nxtv.com.br/1080p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d847d4ebb9bb007c41f&bpkio_sessionid=10e1b13e85-4f3674d2-dbf2-4369-810a-129959d9a938&category=all&mm_sp&token=373c560118c81c6d515110591dbd7f1f582901ca-dd35e386aa0f3b9eea51d0fe071190ed-1731470422-1731427222
 #EXTINF:-1 tvg-logo="https://imgur.com/VDmu8ND.png" group-title="BRASIL",CONDO FORNECEDOR TV
 https://video05.logicahost.com.br/condofornecedor/condofornecedor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e03PfZF.png" group-title="BRASIL",INOVA 360
@@ -387,7 +387,7 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LgHo8BX.png" group-title="BRASIL", SALON LINE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/AK8Yr2x.png" group-title="BRASIL", FIT DANCE
-https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Fit_Dance_BR/Fit_Dance.m3u8
+https://cdn-fast.nxtv.com.br/1080p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d840ee39e06e1d92f0f&bpkio_sessionid=10e1b13e85-2f44801c-5228-480c-a044-438becf407a8&category=all&mm_sp&token=5c5cea814dd5abbb8c3310322875c236c7ad3493-87e130413ccd2c9c92e690db7373607d-1731305419-1731262219
 #EXTINF:-1 tvg-logo="https://imgur.com/Gu8661Y.png" group-title="BRASIL",EURO NEWS
 https://video01.logicahost.com.br/tveuronews/tveuronews/chunklist_w327706824.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
@@ -422,6 +422,8 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VKkajA6.png" group-title="BRASIL",SABOR E ARTE
 https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VKkajA6.png" group-title="BRASIL",SABOR E ARTE 2
+https://cdn-5.nxplay.com.br/SABOR_E_ARTE_2/tracks-v2a1/mono.m3u8?token=8651299c8cd14c49b8f94ab7475abd497d8b5985-423143b7bc9efa33814fb1392416657d-1731305419-1731262219
 #EXTINF:-1 tvg-logo="https://imgur.com/33msz2e.png" group-title="BRASIL",TASTEMADE
 https://tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZWO59xM.png" group-title="BRASIL",KFOOD
@@ -510,6 +512,8 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
 https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist_w670877994.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
+https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="BRASIL",FILMRISE SERIES GRATUITAS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
