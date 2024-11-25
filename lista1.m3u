@@ -552,6 +552,8 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 https://stmv3.webtvninjas.com.br/telaplay/telaplay/chunklist_w1230148511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL",UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NUfwJKo.png" group-title="BRASIL",RNS TV
+https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
 https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hoWEOnc.png" group-title="BRASIL",REDE AMERICA
