@@ -1510,6 +1510,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff5
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KOnaEmu.png" group-title="MUSICA",CLASSICOS FM
 https://v01.taaqui.org/joel/joel/chunklist_w1956860927.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VXClRmI.png" group-title="MUSICA",4ACETV CLASSIC POP HIT
+https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_004/3673e65ae595e1ab0fb6103be12b6c53.sdp/live/8571_push_3387_0044ACETVCLASSICPOPHIT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w271212718.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV TROPICAL
