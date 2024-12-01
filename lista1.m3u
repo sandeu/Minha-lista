@@ -1178,6 +1178,8 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dNhWQ9R.png" group-title="ESTUDIO FM", TERRA FM
+https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EAgXiYq.png" group-title="ESTUDIO FM", NATIVA FM CAMPINAS
 https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
