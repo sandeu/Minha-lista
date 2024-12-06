@@ -304,6 +304,8 @@ https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3
 https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oiyGlGY.png" group-title="BRASIL",RTN TV
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q0upt2V.png" group-title="BRASIL",BDC TV
+https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w732973892.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imf40Iq.png" group-title="BRASIL",RF TV
 https://tv01.zas.media:1936/rftv/rftv/chunklist_w1517783712.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
@@ -1044,6 +1046,8 @@ https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 https://stmv1.srvif.com/tvgamela/tvgamela/chunklist_w793988822.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KoGTjlu.png" group-title="BRASIL", ARREPIA WEB TV
 https://stmv1.srvif.com/arrepia/arrepia/chunklist_w861245348.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Xr3vFZT.png" group-title="BRASIL", SITIO TV
+https://video09.logicahost.com.br/sitiotv/sitiotv/chunklist_w571897897.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
@@ -1182,8 +1186,6 @@ https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
 https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EAgXiYq.png" group-title="ESTUDIO FM", NATIVA FM CAMPINAS
 https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM 
-https://watchbrdlv.s.llnwi.net/live/radiomassa/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
 https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
