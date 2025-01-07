@@ -274,6 +274,8 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3454
+#EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
