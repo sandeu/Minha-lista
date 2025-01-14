@@ -254,6 +254,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d3
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
 https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=5ebb3b53e2d3451fd788b6864b84364de2d37ed8-73fae8b191e3e386a4a3d2d2fb886acf-1731110573-1731067373
+#EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",CNBC BRASIL
 https://live-b2.cf.dmcdn.net/sec2(dHZLDKrvHEzVuU2dNlFqbEMsm019OzAchM25nYZzb5HTtt5q-YNQxSHQzL1Q0-DzXw4vu1tZpIJz-0NZWSNP_XubjpYycIzrtHq6G3UmxTgTG1Hx546x3rG0uQgW0kso)/cloud/3/x99a9pe/s/live-240.m3u8#cell=lcfb2
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
@@ -1032,6 +1034,8 @@ https://video01.kshost.com.br:4443/iago7595/iago7595/chunklist_w181325443.m3u8
 https://stmv8.samcast.com.br/novatvi2098/novatvi2098/chunklist_w2128666532.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UpJnYUY.png" group-title="BRASIL", MATO GROSSO NEWS
 https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist_w1278167744.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsQVoD7.png" group-title="BRASIL", TV GENTE BRASIL
+https://pop.uniquetv.com.br/tvgentebrasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
