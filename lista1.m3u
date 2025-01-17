@@ -542,6 +542,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NUfwJKo.png" group-title="BRASIL",RNS TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
+https://strv.painelhub.online/lftv/lftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0chwE6N.png" group-title="BRASIL",POP TV
 https://pop.tv.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
