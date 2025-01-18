@@ -544,6 +544,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NUfwJKo.png" group-title="BRASIL",RNS TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
+https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
 https://strv.painelhub.online/lftv/lftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="BRASIL", REDE LIVRE
@@ -573,7 +575,7 @@ https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5TPSD12.png" group-title="BRASIL", TV POMPEIA
-https://stmv1.srvif.com/ferrera/ferrera/chunklist_w2028533024.m3u8
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/davbBNf.png" group-title="BRASIL", REVIVA TV
 https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="BRASIL",TV 100
