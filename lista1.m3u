@@ -1228,7 +1228,7 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w359193974.m3u8
 https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT YOUTUBE
+#EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -1249,7 +1249,7 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+https://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 3
 https://alanza.iptv2022.com/RS_NEWS_SPORTS3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 4
@@ -1258,6 +1258,8 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_4/index.m3u8
 https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="ESPORTES", ESPORTES BRASILIA
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yrT80vz.png" group-title="ESPORTES", ESPORTES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/wUHcbZo.png" group-title="ESPORTES", WOOHOO SURF
 https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SzfT5WK.png" group-title="ESPORTES", FUEL TV
@@ -1279,7 +1281,7 @@ https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QwtFd4K.png" group-title="ESPORTES", TENNIS MAIS
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
@@ -1294,20 +1296,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b186
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title="ESPORTES",COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/24Q8Kav.png" group-title="ESPORTES",FITE
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VCDr7F.png" group-title="ESPORTES", Hard Knocks Fight Championship
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/2ojj4X0.png" group-title="ESPORTES", FIGHT
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/UTSMpfP.png" group-title="ESPORTES", LUCHA LIBRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/YsMpxv0.png" group-title="ESPORTES", FOX SPORTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/etZXdjC.png" group-title="ESPORTES", SPORTS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
