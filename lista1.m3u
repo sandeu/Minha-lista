@@ -1030,26 +1030,16 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 https://stmv7.samcast.com.br/paulo8649/paulo8649/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="BRASIL", TV CENTRAL DO BRASIL
 https://stmv2.centralcast.com.br/central/central/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Gc6Wpgf.png" group-title="TELEVENDAS",TV POLISHOP YOUTUBE
-https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qX3AbmM.png" group-title="TELEVENDAS",JOIAS VIP YOUTUBE
-https://ythls.armelin.one/channel/47GjsMwfG-M.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/G6KoWUW.png" group-title="TELEVENDAS",CANAL DE PRODUTOS
-https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
 https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w1844398733_b1000000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHlp3TD.png" group-title="TELEVENDAS",CMD TV
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lTkFozN.png" group-title="TELEVENDAS",LIVE TV
-https://live.mediastreaming.com.br/livetvhd/livetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wV92cPv.png" group-title="DESENHOS", DREAMWORKS TV
-https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IJLXWDG.png" group-title="DESENHOS", MR  BEAN
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66a9367b99bb0f3a78c0a32b/variant.m3u8?x-plex-token=dpbtLk6kyMyNLWiv9QC-&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1737211350&url=56276047be45ff15b5600b83c676cc51-6b9c1e0096d4326ced4c91fb6949924dd22720657840ebc910414a8ccfd72afd72b43c390685a1a360968cc97f6ce999f22dc92a905bb13c57cad48c1d96776ec80e85e9a9a72543d441d0843fa8d07072b6469c23b7b89777262a0f7078601be9523837d8bf35face3520335af0f79faa5a56b8fe0f00ee66ced6bdcc1d4579325f7a4afee8fc750aebd3defe40f89363901b48426eab2d264b936cb668344cdc1fd35c8b1bff5ccc8f68e0589b5631591b1e6606271db8bf62d2b45275f593600e0b818a0edcf7362eb70fe582e1d720f2a0547ccd46c39b19ab178dc11f5ad101186cdb98d6b55c4d45ef6a207c3a5b3655fefaadfd3720caa56aa3b14096a277e482c94067ede5c79df24022b5784b227e84fbbee82565eeaea9132057ce9a886fd37ed9e6452746df16476bfa6d1ccf5e6ceda2036e406382205b7eb33ee8cd0c45953b5d121585722e9780d80de6087cd90c0c3611f90bfc0d703f604173d8e5a9bdbbac528f57a6ed8a516622f6b33a10824dfc0ae1f98deefdd36bcf493b001261161b123e07e3eb327a18d63cc7fe7afeb66bc9d265a9d8e491f4242d686d182c26eb85efe8425dcb0454115bf3e6f4d308a3c4b13d910e5bf0e640555bef5df8c1b99437341263624ff1b75e1b0da74ee113b3fe948735634a9eb7780b648aa8ed14c8295a4dce6eb67ceb9913dfe43f8f92a4248602de7dd747f69194371e2231fde79aa7a1be41a2b17d960e482ba56c8caa0c81004a1197ede55d9adef63d08fa35ae401d77c64d808db3e17792ca9d610e72341552fc38b3bee3dc70a346127512fade78af99272582120758f7d7b01ffbc6007595bad1bc87c4ae76447729fe3e62724bc729c2d1d85d29294359b838269a4267dd7960cc8f9358824e159e923e8c5b1b83f132874423de6bc38f5cb6b76497090ab18753ca6056e1a66a0e31eef4ffce85807762c80a1733b61c4af4af58ee553b34df280588ac1cecb2cb6a2ca8a90845cd9889be436223b1e1c3ab95ab9ba34a29d50256ac43d36292a64b3d42b97f1467856dca9d068cc4273518abee3c48cd3f4ecd5bee66fc5269b5e3311629dab19a814e742128dc3cc2a20aa3a3e5ad306193e56758d6457be2cd29f4cf572e794a9a642aed3c23a92c2a1be73b58560faff9b1c5a0ed71fe1e58491350d3a2f9185b8542a5706d867c59934274610b04082af8215abb8b5d8831015654fa56678100fe81e9d7d6cb18eaa830bf13ceab9075641bb8107cf6bfd7992c2a11c353b0fe2313a9c6c16968e294a8455367c1641520d21a61f13cdae6c0cd5b84d0c94bfabe121451fab8b020a52898176898eabb03d3aefcbb767022f37147fc140c6d3c78da834340a78d829db9b0a588935238f400cb36d1f9482f71cbb0b1e4ef8366ab8faf21320b6091aeeece91e5b712de8fb109b4798db018e617918615bf78f8fa363bb384e6b1d7442c2b7773f9d538e89a4f16d1c7f3df0da5d02f05861e5e26a1595bb150d5743a12f65e8229472dcdac5604a7022f35be8b560ec0d2ba69f063ff625199bba2d92724a6540fbbe1a3423619f6007e4580fa2814dce96579feb19bb71d5e1e05d71a6cf00a1800b71b944137d13af903ff1b394db0c6c179ee62ed9c671be9c45311a262252af969c96550a8efcdfebf9e122a09f77be93ae0f9ab621203321d2f18bfa4690556733cfd1808c7826389646ec6ff8118cfcd021b400d283e450dbdce9e3bfe8520c9c05d89817f8a662265ce5de2526cdd04f9d1cc4cf82b19fb31efec837caa5f47a27ea67fb5ec5c5c7cc4d87a35505244fe83b6ea330da67a7142578553281c8b4e16a8b6894c9150c8f794b7bde6df9471718fc77120ede1e14b7803f7b6ac1205ac88a22811e166649d92f68f4d967451baf41e6ddea042002b393869f2f41fb7246f0e7cf800d80d5a41eac088cdee1ae6e8069eee794cf54aff3f585e351c7ee00e7a65c742c3009ea5adcfbd737afccbb599beebaa6105763d35b2004508c34055908393cd386b279a8d6360fed7cf527db557f6b16d703e31e6b1f587dbe42647c1782ddd822bf0121d7b7e05731a09a8851a2a4a2b21f75504d9b0329ef0393da10b0419ce90de763a4743f288f4055857fad23adf28d3b3fbda09101b86e9dce5703862e297a9ddbbbf023d48f63989f3d25e78c0606c1d6e8351b405eb300e48fcbb39e9df0fded9af2b23b49a6b81aa7d2d9aa5b1b101eb78ef511463ff6541591076a52f0aefb5307e3644e7308bee4c9cdf1e47b5fab3671a409dc527247e35e199e464d8795a0ffecab019e46315da18c2d6024d524017c1214c71eedd62505ab06f7a90713e87e9e1142f04ab72324ad139996a89547dd091e94eb7ceccebffac2de0d9d73b47da689d1fc4efef5cd001175a9f596314f0e8c875a97f76e3e5d056143b58189d0da078e998ddc3baeb91ddebab0b0bbd658a090ab888a9d857e5ebe6c562f794ce5a1404d4d1f47c8a903fe54352a399278aa446afb5f840900544895b5265a6cd879c04f5adac49d931ab031cbe89e8d81b6a709d0bb376e8c5efb18be987a756ddb203964da29960ac16330ebff47dab0c93a07f4ea5e8bb071bddf37477972c66ac06d23b561fd2705cbe027b9e981f5186adc09a54867a025df689366e2616eb4c74c779972313fa6bd086bf610bafcef543fe7cbb0030ac503bc313000a16c282a483524399d9e9d12b0056503850ac673e2e31a2c87b24ce86dacc2a0e2b82b9bb27b25b21240fb7261b21122b93be30c649b74942a0ca35426b0e4081548be0f8d5d2a63444c02987bee23fd2ff7b202cd9242b9ae246d45d2fd1cfd9f36baae28aa184886bb0a1eb929eba06499b435a1cdc95563f48049e8ac118833e4bf13ce10f4ed5ae4c2132ea5845453f011d0fa73d669c4f3bc76c63039de8ab7d19417349876472635d44fd6bf2d9111563fd9a5966ba1db191c236ab991248f9ae8168c76f30bd55f3b8d4549a2e88f70521d831b8f31fd54cfe2569bc6ec83a97aa8a1268ce2e6c1c749b488b7661fd3c2f36336ce1df074cce0878d13c635456f0ca55bfbf1281c492d0d7f52aa4140bde9fd0b50d4e9e4de5bfbfcaccd7471f27b6c2b3a7eaf1e7ed4cb7a5aa14fa57769999e4df90dddf879512bc5b24ae97fbf160f1962e3aa8ee369e08daa70f8fe2fcd973bf6e652fa5d97538a2cc71df162e83c1e5f95ac7c0b085518d5d7f48d8d63fc5188cdbae21c3ef3c6582a9af19df629ed60d2efa1b15c01a47cca195fc929ac39ac42c968571c5d68be00777adac330cd3fc0f1ef1e4616537d3c83d0a47ebd876fdb0adc0fce160dd7f8e81233d
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
@@ -1076,8 +1066,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b502
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/WhWFd21.png" group-title="DESENHOS", TURMA DA MONICA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/WhWFd21.png" group-title="DESENHOS", TURMA DA MONICA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3458
 #EXTINF:-1 tvg-logo="https://imgur.com/g7RCejA.png" group-title="DESENHOS", COCORICO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/VRxtpeS.png" group-title="DESENHOS", BABYFIRST
@@ -1108,14 +1096,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1pmdp8N.png" group-title="DESENHOS", DUCK TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
-#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
-https://srv3.zcast.com.br/kanucatv/kanucatv/chunklist_w733398580.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LtbhMnd.jpg" group-title="DESENHOS", RAKUTEN FAMILIA
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILAGRO BRASIL
 https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea95109729bfdb577864810d1e9435-5428c7f69ccc6bc0b7017704e9185e62-1715823041-1715779841
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
@@ -1328,8 +1314,6 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzZoCth.png" group-title="RELIGIOSO", GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SaUJa6q.png" group-title="RELIGIOSO", FILMES DE JESUS
-https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ucnCA6I.png" group-title="RELIGIOSO",MI TV
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
@@ -1345,7 +1329,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fn1iUxg.png" group-title="RELIGIOSO",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5Gm1owq.png" group-title="RELIGIOSO",TV PAI ETERNO
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="RELIGIOSO",TVCI
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/chunklist_w1107376017.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR
@@ -1360,8 +1344,6 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
 https://cdn.live.br1.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6439
 #EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1535996070.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3UqIyN3.png" group-title="RELIGIOSO",REDE GOSPEL
@@ -1372,10 +1354,8 @@ https://cdn-2.nxplay.com.br/RIT_TV/index.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="RELIGIOSO", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jz3Y4h4.png" group-title="RELIGIOSO",BOA VONTADE TV
-https://ythls-v2.onrender.com/channel/HWjtA6rXnhU.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://imgur.com/NgbQYnI.png" group-title="RELIGIOSO",TV VERDADE
-https://cdn-2.nxplay.com.br/TV_VERDADE/tracks-v1a1/mono.m3u8
+https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
@@ -1401,11 +1381,15 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV 2
-https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+https://srv2.fortenet.com.br/topmixtvgospel02/topmixtvgospel02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX ECLETICO
+https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV POP
+https://video03.logicahost.com.br/canal03/canal03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV SERTANEJO
+https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w1948357658.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UMxyDML.png" group-title="RELIGIOSO", OASIS TV
-https://stmv5.samcast.com.br/oasistv/oasistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X4MB0pG.png" group-title="RELIGIOSO", TV SEPIOL
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1217902928.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="RELIGIOSO", KK TV
