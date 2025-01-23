@@ -1378,24 +1378,22 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Onprkf.png" group-title="RELIGIOSO",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV FILMES
-https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV 2
 https://srv2.fortenet.com.br/topmixtvgospel02/topmixtvgospel02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX ECLETICO
-https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV POP
-https://video03.logicahost.com.br/canal03/canal03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="RELIGIOSO",TOP MIX TV SERTANEJO
-https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRkfzt2.png" group-title="RELIGIOSO", SEMEAR TV
 https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w1948357658.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X4MB0pG.png" group-title="RELIGIOSO", TV SEPIOL
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1217902928.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="RELIGIOSO", KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX ECLETICO
+https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP
+https://video03.logicahost.com.br/canal03/canal03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV SERTANEJO
+https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
@@ -1580,6 +1578,8 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://imgur.com/81R9SfF.png" group-title="FILMES", CINEMINHA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="FILMES",TOP MIX TV FILMES
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="FILMES", SONY ONE CLASSICS
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
