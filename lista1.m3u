@@ -606,6 +606,8 @@ https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 https://stmv1.srvif.com/movies1/movies1/chunklist_w627840571.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aNcmRsQ.png" group-title="BRASIL",TV SANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w1100750118.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AaYnvJp.png" group-title="BRASIL",TV ACAUA
+https://stmv1.srvsh.com.br/matheus7686/matheus7686/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2IxUNIj.png" group-title="BRASIL", WEB TV ENTORNO SUL
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W4ZKNqq.png" group-title="BRASIL",TV METROPOLITANA RIO
@@ -1480,6 +1482,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1397201610.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="MUSICA",OTTO FM TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jUd8gQy.png" group-title="MUSICA",GOLD TV
+https://srv4.zcast.com.br/goldtv/goldtv/chunklist_w984540021.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt8SXxy.png" group-title="MUSICA", RADIO CAPITAL TIVU
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8iTx50s.png" group-title="MUSICA", OCKO TV
