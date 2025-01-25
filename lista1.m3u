@@ -185,7 +185,7 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="BRASIL", CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
+http://15.235.15.230:14783
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
@@ -388,10 +388,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea64
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Ic0GYjZ.png" group-title="BRASIL",ANIMAIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/OuQGvlt.png" group-title="BRASIL",O ENCANTADOR DE CAES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 http://95.67.12.82:9098
+#EXTINF:-1 tvg-logo="https://imgur.com/OuQGvlt.png" group-title="BRASIL",O ENCANTADOR DE CAES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
 https://stmv1.samcast.com.br/nativatv/nativatv/chunklist_w18429760.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/276FuIH.png" group-title="BRASIL",PET LOVERS TV
@@ -404,14 +404,14 @@ https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/33msz2e.png" group-title="BRASIL",TASTEMADE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/F9vlK9G.png" group-title="BRASIL",COZINHA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/ZWO59xM.png" group-title="BRASIL",KFOOD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/F9vlK9G.png" group-title="BRASIL",COZINHA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
 https://fast-channels.b-cdn.net/parafernalha/aovivo_abr/parafernalha/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d841e821205cc9b62c6&bpkio_sessionid=10f1b1b31-a744e3ce-6bcc-49ee-bd90-7a1ab57a0432&category=all&mm_sp&token=cbb9f0dd7d59f40a228e82016efcc0e232d1daf8-250b244c7c13b6a18e761567b1605384-1736904392-1736861192
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
