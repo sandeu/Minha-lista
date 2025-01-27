@@ -290,6 +290,8 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist_w1517783712.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gmk4ksJ.png" group-title="BRASIL",BR IN TV
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mrxRHjJ.png" group-title="BRASIL", TV JORNAL MN
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="BRASIL", REDE MEIO
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w845016475.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5oO72Vy.png" group-title="BRASIL", LIDER TV
