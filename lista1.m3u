@@ -551,7 +551,7 @@ https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
-https://strv.painelhub.online/lftv/lftv/playlist.m3u8
+https://hubwatch.online/TVNacao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="BRASIL", REDE LIVRE
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
@@ -1258,6 +1258,8 @@ https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NoV0mSQ.png" group-title="ESPORTES",VGS TV
+https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
@@ -1284,14 +1286,14 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec78livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/hKEFCLc.png" group-title="ESPORTES", DAZN COMBAT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFT COMBAT
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBCM21P.png" group-title="ESPORTES", TENNIS TV CLASSICS
 https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QwtFd4K.png" group-title="ESPORTES", TENNIS MAIS
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
