@@ -1046,8 +1046,16 @@ https://stmv1.srvif.com/clausavi/clausavi/chunklist_w1114331700.m3u8
 https://stmv3.voxtvhd.com.br/josimarcastrodasilva2385/josimarcastrodasilva2385/chunklist_w1145393076.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dap0cfn.png" group-title="BRASIL",TV LIBERDADE
 https://video01.kshost.com.br:4443/eberson6273/eberson6273/chunklist_w510156592.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/44QkBsS.png" group-title="BRASIL",7TVS
+https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ktqM6SX.png" group-title="BRASIL",TV CULTURAL HD
+https://srv4.zcast.com.br/tvcultural/tvcultural/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bkd857H.png" group-title="BRASIL",CLTV
+https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
@@ -1139,7 +1147,7 @@ https://aovivo.equipea.com.br:5443/aovivort/streams/JNFSspFZZZkSFmc8173297631616
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O8nUJfA.png" group-title="AGRO",MAIS MS
-https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist_w754860603.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J3Vk9ol.png" group-title="AGRO",CANAL SOLO FERTIL
