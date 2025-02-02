@@ -464,6 +464,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 #EXTINF:-1 tvg-logo="https://imgur.com/TI68yeA.png" group-title="BRASIL",ANIME ONEGAI 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
+#EXTINF:-1 tvg-logo="https://imgur.com/H8WfuOK.png" group-title="BRASIL",HALLO ANIME
+https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
@@ -522,12 +524,14 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist_w670877994.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
-#EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
+#EXTINF:-1 tvg-logo="https://imgur.com/rKTIFFF.png" group-title="BRASIL", RBTI
 https://cdn-3.nxplay.com.br/CENTRAL_DO_PLAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="BRASIL",FILMRISE SERIES GRATUITAS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="BRASIL",HALLO SERIES
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
@@ -1282,6 +1286,8 @@ https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS
+https://cdn-5.nxplay.com.br/URBAN_SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
@@ -1658,6 +1664,8 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES",HALLO MOVIE
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fg6sbMh.png" group-title="FILMES",SO MOVIES
 https://fast-channels.b-cdn.net/9978b7063e297d84a7e38194f374e57c/soplay_movies/aovivo_abr/soplay_movies/aovivo_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="FILMES",RUN TIME 
