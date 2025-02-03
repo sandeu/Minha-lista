@@ -1140,6 +1140,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tXRMkZE.jpg" group-title="DESENHOS",DCPC
+https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
