@@ -1350,6 +1350,8 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
+https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
