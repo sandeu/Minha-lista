@@ -1308,6 +1308,8 @@ https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fodoMB8.png" group-title="ESPORTES", NATIONAL SPORTS CHANNEL
+https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS
 https://cdn-5.nxplay.com.br/URBAN_SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 2
@@ -1346,12 +1348,18 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QwtFd4K.png" group-title="ESPORTES", TENNIS +
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV INTERNACIONAL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
-https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2IGUY3a.png" group-title="ESPORTES", MAVTV BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
 https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3467
+#EXTINF:-1 tvg-logo="https://imgur.com/S8hhpxN.png" group-title="ESPORTES", MTR SPRT 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
@@ -1376,8 +1384,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/yzR8jEi.png" group-title="ESPORTES", DISTRO SPORTS TV
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fodoMB8.png" group-title="ESPORTES", NATIONAL SPORTS CHANNEL
-https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AkKvT3q.png" group-title="ESPORTES", WOMENS SPORTS NETWORK
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
