@@ -26,16 +26,18 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mand
 https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="BRASIL",MALHACAO FAST
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mM6hB6x.png" group-title="BRASIL",NOVELAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="BRASIL",WE DO TV AMOR
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="BRASIL",WE DO TV AMOR
 https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhrKY8K.png" group-title="BRASIL", D.P.A.
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mM6hB6x.png" group-title="BRASIL",NOVELAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA FAST
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/IUhjJEM.png" group-title="BRASIL", TV CULTURA DO PARA
@@ -602,8 +604,6 @@ https://srv1.zcast.com.br/joaodepaula5617/joaodepaula5617/playlist.m3u8
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
-https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tv22M9K.png" group-title="BRASIL", TRUCK TV
 https://stmv7.samcast.com.br/jairsoaresdeoliveira8255/jairsoaresdeoliveira8255/chunklist_w922852341.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nKPnbQS.png" group-title="BRASIL",TV VITORIA PE
