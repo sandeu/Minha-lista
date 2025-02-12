@@ -134,6 +134,8 @@ https://tv.unisc.br/hls/test.m3u8
 https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/YbBPUjR.png" group-title="BRASIL", HALLO DOC
 https://cdn-5.nxplay.com.br/HALLODOC/tracks-v2a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/Yn1lUtM.png" group-title="BRASIL", URBAN DOC
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="BRASIL", TV OTIMISTA
 https://5a7bcfb834237.directradios.net/otimista/livestream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
@@ -154,6 +156,8 @@ https://srv3.zcast.com.br/traveltv/traveltv/chunklist_w738577777.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/zWUCcsJ.png" group-title="BRASIL",TRAVEL+
 https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p4gAg3b.png" group-title="BRASIL",URBAN TRAVEL
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e03PfZF.png" group-title="BRASIL",INOVA 360
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XASXObO.png" group-title="BRASIL", CANAL CINCO
