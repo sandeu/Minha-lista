@@ -596,6 +596,8 @@ https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
 https://hubwatch.online/TVNacao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rALtpSy.png" group-title="BRASIL",TV GUSS
+https://stmv2.samcast.com.br/daniel6726/daniel6726/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="BRASIL", REDE LIVRE
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
@@ -1326,10 +1328,12 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fodoMB8.png" group-title="ESPORTES", NATIONAL SPORTS CHANNEL
 https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS
-https://cdn-5.nxplay.com.br/URBAN_SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 1
+https://pop.uniquetv.com.br/uniquesports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 2
 https://pop.uniquetv.com.br/uniquesports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 3
+https://pop.uniquetv.com.br/uniquesports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
