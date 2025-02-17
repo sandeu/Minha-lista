@@ -262,6 +262,8 @@ https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="BRASIL", RECORD TV AMPLITUDE JUINA
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Hdsta1n.png" group-title="BRASIL", TV VILA REAL
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iEVpI6C.png" group-title="BRASIL", ANTENA 10 TV
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1617572517_b1396000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A2IAM5V.png" group-title="BRASIL", TV PARANAIBA
@@ -1450,6 +1452,8 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="RELIGIOSO", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0yx7zpI.png" group-title="RELIGIOSO", TV SUL BAHIA
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NgbQYnI.png" group-title="RELIGIOSO",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
