@@ -1114,6 +1114,8 @@ https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w16638
 https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pxhxBsH.png" group-title="BRASIL",TV VOCE
 https://tv02.zas.media:1936/tvvoce/tvvoce/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FcjFVsn.png" group-title="BRASIL",TV MOCINHA
+https://play.radio.br:8089/mocinhalive/mocinhalive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
