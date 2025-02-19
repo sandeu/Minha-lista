@@ -244,7 +244,7 @@ https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w505069364.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/chunklist_w141896292.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV GO
 https://cdn.nx-cdn.net/REDETV_GO/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -255,7 +255,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zgorH51.png" group-title="BRASIL", REDE TV PARANA
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w492224410.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EgKx2J1.png" group-title="BRASIL", REDE TV MAIS
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="BRASIL", TV PANTANAL
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yUZgINN.png" group-title="BRASIL", TV SAO LUIS
