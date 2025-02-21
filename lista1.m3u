@@ -1215,7 +1215,7 @@ https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea9
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
 https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1056016498_b429000_sleng.m3u8
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
