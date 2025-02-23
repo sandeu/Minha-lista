@@ -142,6 +142,8 @@ https://cdn-5.nxplay.com.br/HALLODOC/tracks-v2a1/mono.m3u8
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tLNhB0J.png" group-title="BRASIL", TV OTIMISTA
 https://5a7bcfb834237.directradios.net/otimista/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/beLCgmj.png" group-title="BRASIL",UNB TV
+https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/720_index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ZqOn5uN.png" group-title="BRASIL", TV EDUCADORA
