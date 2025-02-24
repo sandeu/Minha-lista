@@ -319,7 +319,7 @@ https://srv1.zcast.com.br/bdctv/bdctv/chunklist_w732973892.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bkd857H.png" group-title="BRASIL",CLTV
 https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imf40Iq.png" group-title="BRASIL",RF TV
-https://tv01.zas.media:1936/rftv/rftv/chunklist_w1517783712.m3u8
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WIng2q1.png" group-title="BRASIL",AMAZON SAT 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gmk4ksJ.png" group-title="BRASIL",BR IN TV
@@ -1247,13 +1247,13 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
 https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/27laNDi.png" group-title="ESTUDIO FM", ATIVIDADE FM
-https://cdn.livespanel.com/radioatividade/live/playlist.m3u8
+https://a.cdni.live/radioatividade/radioatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/toR5rPu.png" group-title="ESTUDIO FM", SUCESSO FM
+https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8sqj4GW.png" group-title="ESTUDIO FM", 103 FM
 https://live.cdn.upx.com/738d/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/toR5rPu.png" group-title="ESTUDIO FM", SUCESSO FM
-https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dNhWQ9R.png" group-title="ESTUDIO FM", TERRA FM
