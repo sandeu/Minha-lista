@@ -543,9 +543,9 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
-https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iKBIabM.png" group-title="BRASIL",CANAL START
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8
+https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5L3FCne.png" group-title="BRASIL",UNIQUE SUPER GEEK
