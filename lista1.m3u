@@ -308,6 +308,8 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaadIgm.png" group-title="BRASIL",D+ NEWS
 https://virtues.es:1936/portalviu/portalviu/chunklist_w2030673226.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i4zzVu4.png" group-title="BRASIL",TV O REPORTER
+https://pop.uniquetv.com.br/tvoreporter/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vhtj40c.png" group-title="BRASIL",TV SOU NOTICIA
 https://stmv1.paineltv.net/neryfm/neryfm/chunklist_w552741943.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QlwoWsH.png" group-title="BRASIL",ROYAL WORLD
@@ -656,6 +658,8 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", LIBERDADE RADIO E TV
@@ -1122,6 +1126,8 @@ https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
 https://tv02.zas.media:1936/tvvoce/tvvoce/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FcjFVsn.png" group-title="BRASIL",TV MOCINHA
 https://play.radio.br:8089/mocinhalive/mocinhalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GREVfqe.png" group-title="BRASIL",TV BIG ARACATUBA
+https://stmv2.srvsh.com.br/rodrigo5948/rodrigo5948/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1266,6 +1272,8 @@ https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
 https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EAgXiYq.png" group-title="ESTUDIO FM", NATIVA FM CAMPINAS
 https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
+https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
 https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
