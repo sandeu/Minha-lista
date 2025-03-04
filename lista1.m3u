@@ -676,6 +676,8 @@ https://cdn.jmvstream.com/w/LVW-12702/LVW12702_4w34UJPZz7/chunklist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PzrBunF.png" group-title="BRASIL",MOTION BRASIL
 https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w1174982258.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9rYwSm2.png" group-title="BRASIL", TV INFINITO
+https://isaocorp.cloudecast.com/tv_infinito_web/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
