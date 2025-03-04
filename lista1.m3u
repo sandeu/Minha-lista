@@ -686,6 +686,8 @@ https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chun
 https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
 https://stmv1.srvif.com/movies1/movies1/chunklist_w627840571.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA 2
+https://stmv4.voxtvhd.com.br/tvbarbacenaonline/tvbarbacenaonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aNcmRsQ.png" group-title="BRASIL",TV SANTA
 https://video04.logicahost.com.br/tvsanta/tvsanta/chunklist_w1100750118.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AaYnvJp.png" group-title="BRASIL",TV ACAUA
