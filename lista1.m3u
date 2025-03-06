@@ -574,6 +574,8 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
 https://cdn-5.nxplay.com.br/PLAY_TV_FAST/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="BRASIL", YEEAAH
+https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
 https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist_w670877994.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
