@@ -1262,6 +1262,8 @@ https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756_output_0
 https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xKeXCkv.png" group-title="AGRO",TV AGRO E NOSSO
 https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w645943908.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/giXWvgt.png" group-title="AGRO",TV NOTICIAS AGRICOLAS
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w2088018233.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w1227989423.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
@@ -1462,6 +1464,8 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bjoyg5Y.png" group-title="ESPORTES", GLORY KICKBOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/szjLbOT.png" group-title="ESPORTES", LUCHA PLUS
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UTSMpfP.png" group-title="ESPORTES", LUCHA LIBRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/YsMpxv0.png" group-title="ESPORTES", FOX SPORTS
