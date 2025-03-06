@@ -211,15 +211,13 @@ https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g1JkaOH.png" group-title="BRASIL", TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
-https://live-cm-ah-21-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQwOTM0NTAzLCJpYXQiOjE3NDA5MjM3MDMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMTNkZTM5NzItZDFmMS00NDgxLTkwYzEtZDk1N2VlYzg1Y2Q0IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDAsZHZyPTEyMCkvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.iMtl1jWKs8fs9zJflRgqlT-gI9P5a4IOY3go-iprKC7iO-YZGLT-JE4XNVmPSPDyyB3KyGbEyzuPXB4Rl3bxELB6zGi21Jow25AH-K9t2KDd4WxaRPEOZPH6IEbhhQT_lE6YizFsgxRRLsb9UicoZNyyPnrLJOIxWBb2Y3dv4xS7lzmMTIGUS7GOa6r3SQ9tKtqBMy_OpfO1nBdad93GQ1ZJu1mX41ssH-iIYVVlSabapl18HaxqCOIPTjKheIh8E7-mdyqYIqMlSXTUOcbbJnB8rM7y3dxOtVTRzr6PV1augp1zQqddFsTmayzXrqi_2uU7bFXzssuRZHLD1hn-yA/nu/f(bMax=3300000,bMin=2000,dvr=120)/globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
-https://live-cm-ah-10-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTAtMzgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQwOTM4MTUxLCJpYXQiOjE3NDA5MjczNTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMTNkZTM5NzItZDFmMS00NDgxLTkwYzEtZDk1N2VlYzg1Y2Q0IiwicGF0aCI6Ii9udS9mKGJNYXg9MzMwMDAwMCxiTWluPTIwMDAsZHZyPTEyMCkvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.nl-NqBsqOp_Z8vkpgleq_qZBQiBClmwa3fQJxiiL8osZhEgSYD3-33VDxRzutV2AuysfrurEFaK1ACcMwpdfQkxH8Y3EvtHESOyA8AGmp7hrMwfR9N4i2fRfADjwlD08HGkynJ-iNUkTL9tZNj6aTaUtLyDQDzk8UA-cfoE2Ce-M5svEWc24K8MeXdL5dqLqep6fuNBnbZFrk5oEYh-UsYYq6FvoqXD7kXvwc88Uc56It5UEsEkPT17FI4oV2rMgEXrBDpCFXcVaW12XrjKXLY8pHUig6vdW6Qg3ru6SmPj1ssUK8B0uhpAzUbzAfqt7u5vfVyF0hZ4DyxldDhwkuw/nu/f(bMax=3300000,bMin=2000,dvr=120)/globo-sp1/playlist.m3u8
+https://lvstr.cfd/globorj-globorio/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", BAND
-https://super-cdn.link/band/index.m3u8
+https://lvstr.cfd/band/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", TV VALE DO URUARA
