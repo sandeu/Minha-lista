@@ -678,6 +678,8 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w1174982258.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9rYwSm2.png" group-title="BRASIL", TV INFINITO
 https://isaocorp.cloudecast.com/tv_infinito_web/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dNhWQ9R.png" group-title="BRASIL", TERRA FM
+https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
@@ -1266,6 +1268,8 @@ https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w645943908.m3u8
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w2088018233.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w1227989423.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
+https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
@@ -1288,12 +1292,8 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://live.cdn.upx.com/738d/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dNhWQ9R.png" group-title="ESTUDIO FM", TERRA FM
-https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EAgXiYq.png" group-title="ESTUDIO FM", NATIVA FM CAMPINAS
 https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
-https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
 https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
