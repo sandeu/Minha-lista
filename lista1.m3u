@@ -118,6 +118,8 @@ https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="BRASIL", TV GAZETA NORTE MINEIRA
 https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0yx7zpI.png" group-title="BRASIL", TV SUL BAHIA
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oVSxOWc.png" group-title="BRASIL",TV SUL
 https://live.cdn.upx.com/00046/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",CURTA HD
@@ -1518,8 +1520,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="RELIGIOSO", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0yx7zpI.png" group-title="RELIGIOSO", TV SUL BAHIA
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NgbQYnI.png" group-title="RELIGIOSO",TV VERDADE
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
