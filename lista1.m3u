@@ -618,7 +618,7 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="BRASIL",AMIGOS E HERMANOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
-#EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL",UMA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RLLhnDa.png" group-title="BRASIL",VTX TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
