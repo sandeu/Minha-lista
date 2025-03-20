@@ -1150,6 +1150,8 @@ https://stmv2.srvsh.com.br/rodrigo5948/rodrigo5948/playlist.m3u8
 https://stmv1.tv.ssplay.top/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iICwtqP.png" group-title="BRASIL", TV CANAL BRASILEIRO
 https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/chunklist_w1029008511.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6rcQUZI.png" group-title="BRASIL", TV MIRA FM
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1270,6 +1272,8 @@ https://video05.logicahost.com.br/agronoar/agronoar/chunklist_w2049672059.m3u8
 https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w645943908.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/giXWvgt.png" group-title="AGRO",TV NOTICIAS AGRICOLAS
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w2088018233.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3RBM5sw.png" group-title="AGRO",CANAL AGROPLUS
+https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w1227989423.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
@@ -1374,6 +1378,8 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w359193974.m3u8
 https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TzOvTYi.png" group-title="ESTUDIO FM", RADIO E TV LIBERAL
+https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
