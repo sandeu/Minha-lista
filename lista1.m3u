@@ -668,6 +668,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lNeQDyW.png" group-title="BRASIL",FUTEBOL RIO LARGO
+https://stmv1.srvif.com/futebolriolargo/futebolriolargo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="BRASIL", LIBERDADE RADIO E TV
@@ -1164,6 +1166,8 @@ https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunkl
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w1888904948.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IJLXWDG.png" group-title="DESENHOS", MR  BEAN
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xcBbOM1.png" group-title="DESENHOS",TV LEMBRANCA HANNA BARBERA
+https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
