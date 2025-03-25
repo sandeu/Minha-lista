@@ -686,6 +686,8 @@ https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w11749
 https://isaocorp.cloudecast.com/tv_infinito_web/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dNhWQ9R.png" group-title="BRASIL", TERRA FM
 https://stmv8.samcast.com.br/grupoterrafm/grupoterrafm/chunklist_w1605363568.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/is6XRXb.png" group-title="BRASIL", TV INTERIOR
+https://live.tvinterior.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Txx7IK3.png" group-title="BRASIL", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MOhLYVP.png" group-title="BRASIL", BR GLOBAL STATION
