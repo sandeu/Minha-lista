@@ -286,6 +286,8 @@ https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
@@ -1841,9 +1843,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 tvg-logo="https://imgur.com/Nvrt3Xc.png" group-title="FILMES",CRIME E INVESTIGACAO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=as_TshZd9CzgmBEoMzVy
 #EXTINF:-1 tvg-logo="https://imgur.com/KThjxPQ.png" group-title="FILMES",ADRENALINA FRREZONE
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KThjxPQ.png" group-title="FILMES",ADRENALINA FRREZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
-https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
