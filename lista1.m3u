@@ -468,6 +468,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cc-cts4xd2rn8b9n.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ooMVunM.png" group-title="BRASIL",PEGADINHAS
+http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
 https://cdn-5.nxplay.com.br/parafernaria/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bua4qSW.png" group-title="BRASIL",PORTA DOS FUNDOS
