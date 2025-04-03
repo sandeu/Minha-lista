@@ -1294,6 +1294,8 @@ https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w645943908.m3u8
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w2088018233.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3RBM5sw.png" group-title="AGRO",CANAL AGROPLUS
 https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VQRfu4U.png" group-title="AGRO",BRTVMAX
+https://b-vz-e9c250bd-4c9.tv.pandavideo.com.br/6c697665-a12e-44a9-9af4-b0910543fc37/live/custom_referrer=https://brtvmax.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://video09.logicahost.com.br/interativafm/interativafm/chunklist_w1227989423.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
