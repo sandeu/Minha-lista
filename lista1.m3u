@@ -680,6 +680,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/muj3ZcQ.png" group-title="BRASIL", OLHA TV
+http://24.152.8.38:5001/live/olhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lNeQDyW.png" group-title="BRASIL",FUTEBOL RIO LARGO
 https://stmv1.srvif.com/futebolriolargo/futebolriolargo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
