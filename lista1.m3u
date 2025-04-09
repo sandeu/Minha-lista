@@ -976,6 +976,8 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="BRASIL", REDE TV MAIS
 https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w1915773076.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/DNS9zWx.png" group-title="BRASIL", TV CONEXAO
+https://pop.uniquetv.com.br/tvconexao/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/s80elMU.png" group-title="BRASIL", CONEXAO TV
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pOfXtRU.png" group-title="BRASIL", ALLEGRO WEB TV
@@ -1410,6 +1412,8 @@ https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w142211
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TBDizy.png" group-title="ESPORTES", BAND SPORTS
 https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="ESPORTES", TV DA PESCA
+https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
