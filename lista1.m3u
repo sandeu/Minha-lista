@@ -1600,6 +1600,8 @@ https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1217902928.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="RELIGIOSO", KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gsTkTZa.png" group-title="RELIGIOSO", IGREJA ELIM
+https://cdn-5.nxplay.com.br/IGREJA_ELIM/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX ECLETICO
 https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP
@@ -1850,8 +1852,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wxBluej.png" group-title="FILMES",SO PLAY NACIONAL
 https://cdn-5.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fg6sbMh.png" group-title="FILMES",SO MOVIES
-https://fast-channels.b-cdn.net/9978b7063e297d84a7e38194f374e57c/soplay_movies/aovivo_abr/soplay_movies/aovivo_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yvG02I9.png" group-title="FILMES",RUN TIME 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
@@ -1871,7 +1871,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://cdn-fast.nxtv.com.br/9978b7063e297d84f3640c45e2c30954/adrenalina/aovivo_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
