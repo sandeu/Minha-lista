@@ -1142,8 +1142,6 @@ https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 https://stmv1.srvif.com/tvgamela/tvgamela/chunklist_w793988822.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KoGTjlu.png" group-title="BRASIL", ARREPIA WEB TV
 https://stmv1.srvif.com/arrepia/arrepia/chunklist_w861245348.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Xr3vFZT.png" group-title="BRASIL", SITIO TV
-https://video09.logicahost.com.br/sitiotv/sitiotv/chunklist_w571897897.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0CvlPPx.png" group-title="BRASIL", NOVO CANAL
 https://srv4.zcast.com.br/tvmgrural/tvmgrural/chunklist_w1267378479.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/s8ic1xL.png" group-title="BRASIL", CB TV MINAS
@@ -1171,7 +1169,7 @@ https://stmv7.samcast.com.br/paulo8649/paulo8649/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/7zr5w0A.png" group-title="BRASIL", TV CENTRAL DO BRASIL
 https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5MGXHNj.png" group-title="BRASIL",TV PARADISE
-https://stmv1.srvsh.com.br/sergio5273/sergio5273/chunklist_w692372110.m3u8
+https://stmv2.srvsh.com.br/sergiodeoliveirasantos4035/sergiodeoliveirasantos4035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9FAZZjo.png" group-title="BRASIL",R9 TV
 https://stmv1.srvif.com/clausavi/clausavi/chunklist_w1114331700.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BFc977y.png" group-title="BRASIL",TV BRASIL SINOP
@@ -1193,7 +1191,7 @@ https://play.radio.br:8089/mocinhalive/mocinhalive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GREVfqe.png" group-title="BRASIL",TV BIG ARACATUBA
 https://stmv2.srvsh.com.br/rodrigo5948/rodrigo5948/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="BRASIL",WEB TV GADO BRAVO
-https://stmv1.tv.ssplay.top/admin/admin/playlist.m3u8
+https://stmv1.srvif.com/clausavi/clausavi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iICwtqP.png" group-title="BRASIL", TV CANAL BRASILEIRO
 https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/chunklist_w1029008511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6rcQUZI.png" group-title="BRASIL", TV MIRA FM
