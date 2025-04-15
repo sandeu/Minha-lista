@@ -446,8 +446,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 http://95.67.12.82:9098
-#EXTINF:-1 tvg-logo="https://imgur.com/rhmkbvi.png" group-title="BRASIL",NATUREVISION
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992489
 #EXTINF:-1 tvg-logo="https://imgur.com/OuQGvlt.png" group-title="BRASIL",O ENCANTADOR DE CAES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
@@ -1814,12 +1812,12 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EDTKAxS.png" group-title="INTERNET",WEATHER SPY
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EDTKAxS.png" group-title="INTERNET", WEATHER SPY
-https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8FEAYfS.png" group-title="INTERNET", NATURESCAPE
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992490
+#EXTINF:-1 tvg-logo="https://imgur.com/rhmkbvi.png" group-title="INTERNET",NATUREVISION
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992489
 #EXTINF:-1 tvg-logo="https://imgur.com/O7yQvH5.png" group-title="INTERNET",C4 EN ALERTA
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
