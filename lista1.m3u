@@ -158,6 +158,10 @@ https://cdn.mycloudstream.io/hls/live/broadcast/hlzk66ri/index.m3u8
 https://video01.soultv.com.br/tvr/tvr/chunklist_w1100935560.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="BRASIL",UNIVERSIDADE DA PESSOA
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3MFWC0k.png" group-title="BRASIL",VOCE SABIA
+http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Xn5e9Z6.png" group-title="BRASIL",FATOS DESCONHECIDOS
+http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EgHTGvn.png" group-title="BRASIL",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
@@ -564,6 +568,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="BRASIL",SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zXnRc6Y.png" group-title="BRASIL",JIRAYA
+http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OoQ5Dt8.png" group-title="BRASIL",ANIMAX TV
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
@@ -616,6 +622,14 @@ https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1752280504.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bVv09nO.png" group-title="BRASIL",URBAN RETRO
 https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m41iTB9.png" group-title="BRASIL",TRES E DEMAIS
+http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JvmEDh5.png" group-title="BRASIL",CHAVES
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5etMa12.png" group-title="BRASIL",UM MALUCO NO PEDACO
+http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4VpCHbu.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
+http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2iMIqBA.png" group-title="BRASIL",RETRO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/UU2MN0R.png" group-title="BRASIL",A FEITICEIRA
@@ -1204,6 +1218,10 @@ http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E4aWJxa.png" group-title="DESENHOS",PEPE LEGAL
+http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ypJrVT6.png" group-title="DESENHOS",PATOLINO
+http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NVtX2nt.png" group-title="DESENHOS", POPEYE
