@@ -472,6 +472,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/ZWO59xM.png" group-title="BRASIL",KFOOD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/TLuN0SW.png" group-title="BRASIL",NEW KFOOD
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood&channel_id=newid_002
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
@@ -1270,6 +1272,8 @@ https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=259980&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1739
 #EXTINF:-1 tvg-logo="https://imgur.com/1pmdp8N.png" group-title="DESENHOS", DUCK TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:-1 tvg-logo="https://imgur.com/kIpHUqL.png" group-title="DESENHOS", MOJI TV
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992140
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
@@ -1508,6 +1512,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/p
 https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0Um60TH.png" group-title="ESPORTES", VELOCIDAD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/DSlyNO8.png" group-title="ESPORTES",SPEEDVISION TV
+https://c55c8b57.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfU3BlZWR2aXNpb25fSExT/playlist.m3u8?ads.wurl_channel=1325
 #EXTINF:-1 tvg-logo="https://imgur.com/venDYu7.png" group-title="ESPORTES",ORIGIN SPORTS
 https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/io5Q4kq.png" group-title="ESPORTES",TRACE SPORTS STARS
@@ -1722,6 +1728,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w215352408.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="MUSICA", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="MUSICA", MUBEAT
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
 #EXTINF:-1 tvg-logo="https://imgur.com/gdmSy9I.png" group-title="MUSICA",DANCE TELEVISION
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BrG3aEE.png" group-title="MUSICA", BOX PLAYLIST
@@ -1746,6 +1754,12 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bp7vhsD.png" group-title="MUSICA", TRACE LATINA
 https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://imgur.com/LsPBhlx.png" group-title="MUSICA", FREE TV BANDA
+https://olympusat-mmc-lg-br-0abgn.amagi.tv/playlist/olympusat-mmc-lg-br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qM1l42Z.png" group-title="MUSICA", FREE TV HITS
+https://olympusat-flashlatam-lg-br-k8t6p.amagi.tv/playlist/olympusat-flashlatam-lg-br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u8WzfAg.png" group-title="MUSICA", NEW KPOP TV
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8ddpo4l.png" group-title="MUSICA", KPOP BY CJ ENM
@@ -1756,7 +1770,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ZC9Wu.png" group-title="MUSICA",VIVALDI TV
 https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rYoK1X1.png" group-title="MUSICA",ESSENTIAL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/kUD55Qc.png" group-title="MUSICA",ESSENTIAL TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_247&
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TIERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
@@ -1780,11 +1794,13 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67802a22a5d8215f99dcee30livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/P4JNqWi.png" group-title="INTERNET",FAILARMY
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nlDum1b.png" group-title="INTERNET",THIS IS HAPPENING
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992146
 #EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",PEOPLE ARE AWESOME
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IuQh1ps.png" group-title="INTERNET",THE PET COLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IuQh1ps.png" group-title="INTERNET",MY LITTLE PET
+#EXTINF:-1 tvg-logo="https://imgur.com/VmtDnLi.png" group-title="INTERNET",MY LITTLE PET
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
 #EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="INTERNET",CHIVE TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
