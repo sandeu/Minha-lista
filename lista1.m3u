@@ -443,7 +443,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 tvg-logo="https://imgur.com/Ic0GYjZ.png" group-title="BRASIL",ANIMAIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
+#EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 http://95.67.12.82:9098
+#EXTINF:-1 tvg-logo="https://imgur.com/rhmkbvi.png" group-title="BRASIL",NATUREVISION
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992489
 #EXTINF:-1 tvg-logo="https://imgur.com/OuQGvlt.png" group-title="BRASIL",O ENCANTADOR DE CAES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
@@ -590,6 +594,8 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
 https://cdn-5.nxplay.com.br/PLAY_TV_FAST/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039
 #EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="BRASIL", YEEAAH
 https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sqwkcwx.png" group-title="BRASIL", POLIDORO TV
@@ -1488,6 +1494,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="ESPORTES",GP TV
 https://fast-channels.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d8484543b659539b184
+#EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="ESPORTES",GP TV
+https://amg26329-amg26329c1-amgplt0026.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
 https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
@@ -1524,6 +1532,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkKvT3q.png" group-title="ESPORTES", WOMENS SPORTS NETWORK
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M9IDfXI.png" group-title="ESPORTES", BILLIARD TV
+https://d29h829bjuxghm.cloudfront.net/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99992250
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5sLv99H.png" group-title="RELIGIOSO", GOSPEL CARTOON
@@ -1746,6 +1756,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ZC9Wu.png" group-title="MUSICA",VIVALDI TV
 https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rYoK1X1.png" group-title="MUSICA",ESSENTIAL TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_247&
 #EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TIERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CgWumvQ.png" group-title="MUSICA",MUZANGALA TV
@@ -1788,6 +1800,8 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SHSHYQA.png" group-title="INTERNET", WILD EARTH
 https://wildearth-plex.amagi.tv/masterR432p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8FEAYfS.png" group-title="INTERNET", NATURESCAPE
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992490
 #EXTINF:-1 tvg-logo="https://imgur.com/O7yQvH5.png" group-title="INTERNET",C4 EN ALERTA
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
@@ -1820,6 +1834,8 @@ https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qx5STmz.png" group-title="FILMES", XUMO FILMES GRATIS
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
