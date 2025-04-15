@@ -1218,12 +1218,14 @@ http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E4aWJxa.png" group-title="DESENHOS",PEPE LEGAL
 http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ypJrVT6.png" group-title="DESENHOS",PATOLINO
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6Fz5nRZ.png" group-title="DESENHOS",TOM E JERRY
+http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NVtX2nt.png" group-title="DESENHOS", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
