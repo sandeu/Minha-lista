@@ -1196,6 +1196,8 @@ https://stmv1.srvif.com/clausavi/clausavi/playlist.m3u8
 https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/chunklist_w1029008511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6rcQUZI.png" group-title="BRASIL", TV MIRA FM
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ld8MMtn.png" group-title="BRASIL", TV MIRAI
+https://stream.ichibantv.com:3738/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1668,6 +1670,8 @@ https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 https://stream.ichibantv.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
 https://video05.logicahost.com.br/rederc/rederc/chunklist_w1740148855.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jpLKKxc.png" group-title="MUSICA",TV EXPLOSAO FM MUSICAL
+https://stmv1.liveplushd.com.br/tvmirafm/tvmirafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nahStVy.png" group-title="MUSICA", BLAST CHANNEL TV
@@ -1820,8 +1824,6 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VmtDnLi.png" group-title="INTERNET",MY LITTLE PET
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
-#EXTINF:-1 tvg-logo="https://imgur.com/lLLqfp2.png" group-title="INTERNET",CHIVE TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV FAMILY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Acxypv.png" group-title="INTERNET",THE AFV ESPANHOL
@@ -1902,6 +1904,8 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LpsoEE5.png" group-title="FILMES",HALLO BRASIL
+https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wxBluej.png" group-title="FILMES",SO PLAY NACIONAL
