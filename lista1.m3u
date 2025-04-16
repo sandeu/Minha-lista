@@ -22,6 +22,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/8zxn8YO.png" group-title="BRASIL", HALLO DORAMA
 https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7RkoplU.png" group-title="BRASIL", MINHA IDENTIDADE E BELEZA DE GANGNAM
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 #EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="BRASIL",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="BRASIL",FREE TV DRAMA
@@ -1470,8 +1472,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playli
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/YMxN7IZ.png" group-title="ESPORTES", MODUS SUPER SERIES DARTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6752f863cbfdc56330643e9blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFT COMBAT
-https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBCM21P.png" group-title="ESPORTES", TENNIS TV CLASSICS
 https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QwtFd4K.png" group-title="ESPORTES", TENNIS +
@@ -1506,6 +1506,8 @@ https://tracetv-sportstarts-vidaa.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/p6i43ZW.png" group-title="ESPORTES",PAULO ZORELLO
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFT COMBAT
+https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IsSmFNJ.png" group-title="ESPORTES",SFT COMBAT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title="ESPORTES",COMBATV
@@ -1524,6 +1526,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkKvT3q.png" group-title="ESPORTES", WOMENS SPORTS NETWORK
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VXCabIw.png" group-title="ESPORTES", WORLD BILLIARDS TV
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003
 #EXTINF:-1 tvg-logo="https://imgur.com/M9IDfXI.png" group-title="ESPORTES", BILLIARD TV
 https://d29h829bjuxghm.cloudfront.net/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99992250
 #EXTINF:-1 tvg-logo="https://imgur.com/tjg2dsp.png" group-title="ESPORTES", KSTAR GOLF
