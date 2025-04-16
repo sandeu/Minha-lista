@@ -384,8 +384,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w1912578061.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/q9oBxiz.png" group-title="BRASIL", 40 GRAUS TV 
 https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EIofRcG.png" group-title="BRASIL", TV GAZETA GOIAS
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ATA37nb.png" group-title="BRASIL", RBTV
@@ -420,6 +418,8 @@ https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mund
 https://amg19706-diatv-amg19706c1-tcl-us-3718.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/87RXjUH.png" group-title="BRASIL", DIA TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL", FASHION TV
+https://df8e47bc7228425badf3228dea101572.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9nHd2Ee.png" group-title="BRASIL", REVRY BRASIL
 https://revry-brazil.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHi6W84.png" group-title="BRASIL", CANAL PLURAL
@@ -460,8 +460,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/roPAiR4.png" group-title="BRASIL",UNIQUE TRAVEL AND FOOD
 https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="BRASIL", FASHION TV
-https://df8e47bc7228425badf3228dea101572.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-br_FashionTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JA9LFW6.png" group-title="BRASIL",BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w478890440.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Sg8jkYa.png" group-title="BRASIL",RECEITAS FAST
