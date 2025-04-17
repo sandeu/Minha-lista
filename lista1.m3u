@@ -1164,6 +1164,8 @@ https://cdn.g2gsistemas.com.br/Soultv/tracks-v1a1/mono.ts.m3u8
 https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w1630907084.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9VDHgtX.png" group-title="BRASIL", U MISS
 https://test-soultvex.akamaized.net/umiss/umiss/chunklist_w221638888.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lqwB1U6.png" group-title="BRASIL", RORAIMA TV
+https://video01.soultv.com.br/roraimatv/roraimatv/chunklist_w1031377410.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1620,8 +1622,6 @@ https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1217902928
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gsTkTZa.png" group-title="RELIGIOSO", IGREJA ELIM
 https://cdn-5.nxplay.com.br/IGREJA_ELIM/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lqwB1U6.png" group-title="RELIGIOSO", RORAIMA TV
-https://video01.soultv.com.br/roraimatv/roraimatv/chunklist_w1031377410.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX ECLETICO
 https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP
