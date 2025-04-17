@@ -456,8 +456,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2e
 https://stmv1.samcast.com.br/nativatv/nativatv/chunklist_w18429760.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/276FuIH.png" group-title="BRASIL",PET LOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mMJBJuF.png" group-title="BRASIL",TV MAIS PET
+#EXTINF:-1 tvg-logo="https://imgur.com/XDCCQcc.png" group-title="BRASIL",TV MAIS PET
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XDCCQcc.png" group-title="BRASIL",TV MAIS PET
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/roPAiR4.png" group-title="BRASIL",UNIQUE TRAVEL AND FOOD
 https://pop.uniquetv.com.br/travelfood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JA9LFW6.png" group-title="BRASIL",BEM MELHOR
