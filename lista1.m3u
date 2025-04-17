@@ -624,6 +624,8 @@ https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
 http://24hrs.homelinux.com:8080/24H-tresedemais/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JvmEDh5.png" group-title="BRASIL",CHAVES
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HzwI16u.png" group-title="BRASIL",CHAPOLIN
+http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5etMa12.png" group-title="BRASIL",UM MALUCO NO PEDACO
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4VpCHbu.png" group-title="BRASIL",EU A PATROA E AS CRIANCAS
@@ -1160,6 +1162,8 @@ https://streamserver.streamingdevideo.com.br/8058/8058/chunklist_w2018463561.m3u
 https://cdn.g2gsistemas.com.br/Soultv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4UH3CUC.png" group-title="BRASIL", POA STREAMING TV
 https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w1630907084.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9VDHgtX.png" group-title="BRASIL", U MISS
+https://test-soultvex.akamaized.net/umiss/umiss/chunklist_w221638888.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1188,6 +1192,8 @@ http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
 http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Fz5nRZ.png" group-title="DESENHOS",TOM E JERRY
 http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nE3N4Yj.png" group-title="DESENHOS",PICA PAU
+http://45.134.141.161:2200/BRX/24HS_Pica-Pau_O_novo_show/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NVtX2nt.png" group-title="DESENHOS", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
@@ -1264,6 +1270,12 @@ https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qM4V1bZ.png" group-title="DESENHOS", THUNDERCATS
+http://45.134.141.161:2200/BRX/24HS_Thundercats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jJ0T5Tv.png" group-title="DESENHOS", FUTURAMA
+http://24hrs.homelinux.com:8080/24H-futurama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ls5YINX.png" group-title="DESENHOS", SIMPSONS
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO CARTMAN
