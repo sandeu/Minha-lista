@@ -1360,8 +1360,6 @@ https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KAi7nDf.png" group-title="ESTUDIO FM", 99 FM
-https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HH4TUDQ.png" group-title="ESTUDIO FM", LIDER FM UBA
 https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
