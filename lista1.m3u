@@ -718,6 +718,8 @@ https://cdn.lincemedia.com.br/LIFE_AMERICA/tracks-v1a1/mono.ts.m3u8?token=KG_0nY
 http://24.152.8.38:5001/live/olhatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kkjbFGg.png" group-title="BRASIL",TV VISUAL
+https://stream.ichibantv.com:3737/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jBYzedR.png" group-title="BRASIL",TV LIBERDADE
 https://stmv1.srvif.com/washington/washington/chunklist_w2090148994.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8mVVYMJ.png" group-title="BRASIL",CANAL 25 JUNDIAI
