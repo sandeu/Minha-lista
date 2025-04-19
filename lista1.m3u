@@ -712,6 +712,8 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OWwSKEN.png" group-title="BRASIL", TV METROPOLE SOBRAL
+https://stmv4.voxtvhd.com.br/tvmetropolesobral/tvmetropolesobral/chunklist_w663304435.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1XePAKn.png" group-title="BRASIL", TV LIFE AMERICA
 https://cdn.lincemedia.com.br/LIFE_AMERICA/tracks-v1a1/mono.ts.m3u8?token=KG_0nYulChvS5UWiNUZEbVsVDnx
 #EXTINF:-1 tvg-logo="https://imgur.com/muj3ZcQ.png" group-title="BRASIL", OLHA TV
