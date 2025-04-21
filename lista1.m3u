@@ -448,8 +448,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992139
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL",LOVE NATURE
 http://95.67.12.82:9098
-#EXTINF:-1 tvg-logo="https://imgur.com/73GQva8.png" group-title="BRASIL",PLAY TV HORSE
-https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OuQGvlt.png" group-title="BRASIL",O ENCANTADOR DE CAES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/JVqJQ1b.png" group-title="BRASIL",NATIVA TV
@@ -1452,6 +1450,8 @@ https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="ESPORTES", TV DA PESCA
 https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/73GQva8.png" group-title="ESPORTES",PLAY TV HORSE
+https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpEa1g5.png" group-title="ESPORTES", CANAL GOAT
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
