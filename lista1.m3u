@@ -712,6 +712,8 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p6gXK8A.png" group-title="BRASIL",TV CLUBE
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wPiURQt.png" group-title="BRASIL",TV PBC 18
+https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w66451103.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OWwSKEN.png" group-title="BRASIL", TV METROPOLE SOBRAL
