@@ -194,8 +194,6 @@ https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9i5Alnr.png" group-title="BRASIL",UNIQUE SUPERCAST
 https://pop.uniquetv.com.br/supercast/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZS2coZP.png" group-title="BRASIL",LIFE MEDIA
-https://cdn.g2gsistemas.com.br/life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1081783267.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRebuO1.png" group-title="BRASIL",PHOENIX TV
