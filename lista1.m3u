@@ -802,6 +802,8 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w975613525.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HWH6iUj.png" group-title="BRASIL", SEVEN TV
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RLH1Qff.png" group-title="BRASIL", AUGE TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
 https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1168168565.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c6SEOhn.png" group-title="BRASIL", LUCAS TV
@@ -1008,6 +1010,8 @@ https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 https://stmv7.samcast.com.br/luca8510/luca8510/chunklist_w1080602193.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="BRASIL",SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jp2NK3U.png" group-title="BRASIL",TV SERTAO
+https://stmv7.samcast.com.br/tvsertao/tvsertao/chunklist_w1014125261.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="BRASIL",TV STA CECILIA
 https://60d88f8ce1206.streamlock.net/2063/2063/chunklist_w1395795111.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fXXR6Qb.png" group-title="BRASIL", TV CENTRO SUL
@@ -1172,6 +1176,8 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w163090708
 https://test-soultvex.akamaized.net/umiss/umiss/chunklist_w221638888.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lqwB1U6.png" group-title="BRASIL", RORAIMA TV
 https://video01.soultv.com.br/roraimatv/roraimatv/chunklist_w1031377410.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mgpEBE5.png" group-title="BRASIL", TV CENTRO SUL
+https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1181,7 +1187,7 @@ https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/chunklist_w1581133985.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f4RTCsN.png" group-title="TELEVENDAS",1001 NOITES
-https://58c8a6b3c74e2.streamlock.net:1936/1001noites/smil:1001noites.smil/chunklist_w1844398733_b1000000_slen.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sHlp3TD.png" group-title="TELEVENDAS",CMD TV
 https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IJLXWDG.png" group-title="DESENHOS", MR  BEAN
