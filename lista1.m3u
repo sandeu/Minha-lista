@@ -692,6 +692,8 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byJAMHe.png" group-title="BRASIL", MASPER TV
 https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PA1uWZT.png" group-title="BRASIL", TV MAX
+https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1440022562.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/secIlPU.png" group-title="BRASIL", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5TPSD12.png" group-title="BRASIL", TV POMPEIA
