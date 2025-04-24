@@ -1192,6 +1192,8 @@ https://tv-cabofrio.tvr.ovh/video81373/video81373/chunklist_w464483918.m3u8
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PoW3zX3.png" group-title="BRASIL", TV ONIX
 https://video01.soultv.com.br/tvonix/tvonix/chunklist_w1419073757.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XHSycPQ.png" group-title="BRASIL", PIX TV
+https://aovivo.doozytv.com.br/31025556/10150986/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mgpEBE5.png" group-title="BRASIL", TV CENTRO SUL
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EVTx9Yf.png" group-title="BRASIL", NZ TV
