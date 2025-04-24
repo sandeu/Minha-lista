@@ -576,6 +576,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iKBIabM.png" group-title="BRASIL",CANAL START
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7VhCcTv.png" group-title="BRASIL",CANAL START 2D
+https://stmv2.webtvninjas.com.br/start2d/start2d/chunklist_w452638287.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="BRASIL",GEEK DOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5L3FCne.png" group-title="BRASIL",UNIQUE SUPER GEEK
@@ -676,6 +678,8 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3
 https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hoWEOnc.png" group-title="BRASIL",REDE AMERICA
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5H3sjBy.png" group-title="BRASIL",LATINA SAT
+https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqRIw12.png" group-title="BRASIL",TV VELHOS TEMPOS
 https://srv1.zcast.com.br/joaodepaula5617/joaodepaula5617/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL",VINTAGE TV
@@ -1161,7 +1165,7 @@ https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GREVfqe.png" group-title="BRASIL",TV BIG ARACATUBA
 https://stmv2.srvsh.com.br/rodrigo5948/rodrigo5948/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="BRASIL",WEB TV GADO BRAVO
-https://stmv1.srvif.com/clausavi/clausavi/playlist.m3u8
+https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iICwtqP.png" group-title="BRASIL", TV CANAL BRASILEIRO
 https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/chunklist_w1029008511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6rcQUZI.png" group-title="BRASIL", TV MIRA FM
@@ -1196,6 +1200,8 @@ https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/p
 https://alanza.iptv2022.com/sh/NZ_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://imgur.com/ro8aCxZ.png" group-title="BRASIL", TV NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0bVHhEd.png" group-title="BRASIL", BEM MAIS TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/chunklist_w68911057.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
