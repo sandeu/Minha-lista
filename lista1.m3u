@@ -574,7 +574,7 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iKBIabM.png" group-title="BRASIL",CANAL START
+#EXTINF:-1 tvg-logo="https://imgur.com/xGHyc3y.png" group-title="BRASIL",CANAL START
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7VhCcTv.png" group-title="BRASIL",CANAL START 2D
 https://stmv2.webtvninjas.com.br/start2d/start2d/chunklist_w452638287.m3u8
@@ -714,8 +714,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p6gXK8A.png" group-title="BRASIL",TV CLUBE
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OWwSKEN.png" group-title="BRASIL", TV METROPOLE SOBRAL
@@ -1884,6 +1882,8 @@ https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p6gXK8A.png" group-title="FILMES",TV CLUBE
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
