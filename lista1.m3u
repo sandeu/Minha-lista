@@ -1164,8 +1164,6 @@ https://tv02.zas.media:1936/tvvoce/tvvoce/playlist.m3u8
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GREVfqe.png" group-title="BRASIL",TV BIG ARACATUBA
 https://stmv2.srvsh.com.br/rodrigo5948/rodrigo5948/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="BRASIL",WEB TV GADO BRAVO
-https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iICwtqP.png" group-title="BRASIL", TV CANAL BRASILEIRO
 https://stmv1.srvif.com/rodasdecapoeirapb/rodasdecapoeirapb/chunklist_w1029008511.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6rcQUZI.png" group-title="BRASIL", TV MIRA FM
@@ -1230,6 +1228,8 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hJWrYjN.png" group-title="DESENHOS",CHAVES
 http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
+#EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="DESENHOS",WEB TV GADO BRAVO
+https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xcBbOM1.png" group-title="DESENHOS",TV LEMBRANCA HANNA BARBERA
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
