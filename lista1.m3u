@@ -543,7 +543,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 #EXTINF:-1 tvg-logo="https://imgur.com/H8WfuOK.png" group-title="BRASIL",HALLO ANIME
 https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8PiGcDW.png" group-title="BRASIL",ANIME TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4qIdqVn.png" group-title="BRASIL",ANIME ACAO
@@ -623,7 +623,7 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="BRASIL", SERIES CLASSIC
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1752280504.m3u8
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bVv09nO.png" group-title="BRASIL",URBAN RETRO
 https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m41iTB9.png" group-title="BRASIL",TRES E DEMAIS
@@ -1239,7 +1239,7 @@ https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xcBbOM1.png" group-title="DESENHOS",TV LEMBRANCA HANNA BARBERA
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E4aWJxa.png" group-title="DESENHOS",PEPE LEGAL
@@ -1689,7 +1689,7 @@ https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+https://stmv6.voxtvhd.com.br/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/chunklist_w1243467780.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
