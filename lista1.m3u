@@ -294,6 +294,8 @@ https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/81cMPEh.png" group-title="BRASIL",TV CAPIXABA
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UjQIBVR.png" group-title="BRASIL", SIM TV
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w739863855.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hgSSNfk.png" group-title="BRASIL",EURONEWS
@@ -720,6 +722,8 @@ https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OWwSKEN.png" group-title="BRASIL", TV METROPOLE SOBRAL
 https://stmv4.voxtvhd.com.br/tvmetropolesobral/tvmetropolesobral/chunklist_w663304435.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/viLI90i.png" group-title="BRASIL", TV METROPOLE GUAIUBA
+https://stmv3.webtvninjas.com.br/tvguaiuba/tvguaiuba/chunklist_w279774286.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qlTwH1X.png" group-title="BRASIL", TV PONTO FORTE
 https://alanza.iptv2022.com/sh/TV_Ponto_Forte/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://imgur.com/1XePAKn.png" group-title="BRASIL", TV LIFE AMERICA
@@ -1210,8 +1214,10 @@ https://alanza.iptv2022.com/sh/REDE_CANAL_10/tracks-v1a1/mono.m3u8?filter.tracks
 https://alanza.iptv2022.com/sh/SUPREME_MASTER_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://imgur.com/3cUIkkf.png" group-title="BRASIL",TV MONTANHA
 https://alanza.iptv2022.com/sh/TV_MONTANHA/tracks-v1a1/mono.m3u8?filter.tracks=a1v1
-#EXTINF:-1 tvg-logo="https://imgur.com/e49aYN4.png" group-title="BRASIL",SOPHIA TV
-https://helga.iptv2022.com/sh/SophiaTV-pt/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3v4
+#EXTINF:-1 tvg-logo="https://imgur.com/FZIjJo1.png" group-title="BRASIL",TV GRAO VERDE
+https://stmv1.srvif.com/gesimas/gesimas/chunklist_w1206070899.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bAEJ2HD.png" group-title="BRASIL",TV CARUARU
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1581540962.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
