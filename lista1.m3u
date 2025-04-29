@@ -674,6 +674,8 @@ https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bTCcevU.png" group-title="BRASIL",TV PORTO
 https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nECvgVD.png" group-title="BRASIL",TVC
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
 https://saori.hubcloud.tv.br:3469/live/tvnacaolive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ersvLVx.png" group-title="BRASIL",TV RECON
