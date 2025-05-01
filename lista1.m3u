@@ -1252,6 +1252,8 @@ https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
 https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 2
+https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E4aWJxa.png" group-title="DESENHOS",PEPE LEGAL
