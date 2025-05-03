@@ -82,6 +82,8 @@ https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/cdVinGm.png" group-title="BRASIL",WTV BRASIL
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist_w1776465175.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/gGT8N6A.png" group-title="BRASIL",TV SERRA DO MAR
+https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="BRASIL",TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
@@ -704,6 +706,8 @@ https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k7x4jj3.png" group-title="BRASIL", TV MOSAICO
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9X4qU4M.png" group-title="BRASIL", MULTI MIX
+https://stmv3.webtvninjas.com.br/multimix/multimix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tv22M9K.png" group-title="BRASIL", TRUCK TV
 https://stmv7.samcast.com.br/jairsoaresdeoliveira8255/jairsoaresdeoliveira8255/chunklist_w922852341.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
