@@ -54,8 +54,6 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bTCcevU.png" group-title="BRASIL",TV PORTO
 https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tHcxQYm.png" group-title="BRASIL", TV CULTURA DE RONDONIA
-https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL", CATVE
@@ -268,6 +266,8 @@ https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/chunklist_w14
 https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/tHcxQYm.png" group-title="BRASIL", TV CULTURA DE RONDONIA
+https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Nodh8W.png" group-title="BRASIL", TV O DIA
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
