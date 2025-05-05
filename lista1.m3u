@@ -52,6 +52,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57d
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xc3am1f.png" group-title="BRASIL", TOP CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bTCcevU.png" group-title="BRASIL",TV PORTO
+https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tHcxQYm.png" group-title="BRASIL", TV CULTURA DE RONDONIA
 https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
@@ -680,8 +682,6 @@ https://stream.ichibantv.com:3827/stream/play.m3u8
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NoV0mSQ.png" group-title="BRASIL",VGS TV
 https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bTCcevU.png" group-title="BRASIL",TV PORTO
-https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nECvgVD.png" group-title="BRASIL",TVC
 https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
