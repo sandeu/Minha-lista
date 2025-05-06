@@ -1048,8 +1048,6 @@ http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 https://stmv7.samcast.com.br/tvsertao/tvsertao/chunklist_w1014125261.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="BRASIL",TV STA CECILIA
 https://60d88f8ce1206.streamlock.net/2063/2063/chunklist_w1395795111.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fXXR6Qb.png" group-title="BRASIL", TV CENTRO SUL
-https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1860586724.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="BRASIL",TVN BRASIL
 https://5a2b083e9f360.streamlock.net/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="BRASIL",STUDIO TV
