@@ -61,7 +61,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="BRASIL",MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QAvFgEX.png" group-title="BRASIL",TV FUTURO
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1224934364.m3u8
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uz8a530.png" group-title="BRASIL", TV UB PLAY
 https://tv03.zas.media:1936/ubplay/ubplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6bvC0K.png" group-title="BRASIL",TVE RS
