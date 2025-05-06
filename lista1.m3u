@@ -184,6 +184,8 @@ https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O1GaLYE.png" group-title="BRASIL",VAMBORA CHANNEL
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/chunklist_w1663846919.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GHGp7O3.png" group-title="BRASIL",REISEN CLUBE TV
+https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e03PfZF.png" group-title="BRASIL",INOVA 360
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XASXObO.png" group-title="BRASIL", CANAL CINCO
@@ -198,8 +200,6 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w649261153.m3u8
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="BRASIL",UNIQUE TV
 https://pop.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GHGp7O3.png" group-title="BRASIL",REISEN CLUBE TV
-https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9i5Alnr.png" group-title="BRASIL",UNIQUE SUPERCAST
 https://pop.uniquetv.com.br/supercast/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4H7VPuN.png" group-title="BRASIL",LIFE SCTV
