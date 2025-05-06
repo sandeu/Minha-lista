@@ -1204,7 +1204,7 @@ https://streamserver.streamingdevideo.com.br/8058/8058/chunklist_w2018463561.m3u
 https://cdn.g2gsistemas.com.br/Soultv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4UH3CUC.png" group-title="BRASIL", POA STREAMING TV
 https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w1630907084.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9VDHgtX.png" group-title="BRASIL", U MISS
+#EXTINF:-1 tvg-logo="https://imgur.com/1FsKW42.png" group-title="BRASIL", U CHANNEL
 https://test-soultvex.akamaized.net/umiss/umiss/chunklist_w221638888.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lqwB1U6.png" group-title="BRASIL", RORAIMA TV
 https://video01.soultv.com.br/roraimatv/roraimatv/chunklist_w1031377410.m3u8
@@ -1240,6 +1240,8 @@ https://alanza.iptv2022.com/sh/TV_MONTANHA/tracks-v1a1/mono.m3u8?filter.tracks=a
 https://stmv1.srvif.com/gesimas/gesimas/chunklist_w1206070899.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bAEJ2HD.png" group-title="BRASIL",TV CARUARU
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1581540962.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/42b0WDS.png" group-title="BRASIL",GMC TV
+https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w751794559.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
