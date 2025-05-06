@@ -686,6 +686,8 @@ https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vPmahh7.png" group-title="BRASIL",TV NACAO
 https://saori.hubcloud.tv.br:3469/live/tvnacaolive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YtagYe6.png" group-title="BRASIL",TV 3 FRONTEIRAS
+https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ersvLVx.png" group-title="BRASIL",TV RECON
 https://acesso.ecast.site:3862/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B6G4gH7.png" group-title="BRASIL", TV PONTA DA SERRA
