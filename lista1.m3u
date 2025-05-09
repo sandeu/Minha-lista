@@ -1460,7 +1460,7 @@ https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HH4TUDQ.png" group-title="ESTUDIO FM", LIDER FM UBA
 https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
+#EXTINF:-1 tvg-logo="https://imgur.com/V0RbUvh.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM 98
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
@@ -1506,6 +1506,8 @@ https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w142211
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B6gLAvT.png" group-title="ESTUDIO FM", NOSSA FM
 https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NSNZN6f.png" group-title="ESTUDIO FM", RADIO D2 FM
+https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xr0Yj6W.png" group-title="ESTUDIO FM", GOSPEL FM
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TBDizy.png" group-title="ESPORTES", BAND SPORTS
