@@ -2003,9 +2003,9 @@ https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hIxjkkt.png" group-title="FILMES",HTO FILMES
 https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q6MUwJp.png" group-title="FILMES",ENTRETENDO
-https://fast-channels-t2.b-cdn.net/entretendo/aovivo_abr/entretendo/aovivo_1080p/chunks.m3u8
+https://cdn-3.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cxKxXvF.png" group-title="FILMES",BORA
-https://fast-channels-t2.b-cdn.net/bora/aovivo_abr/bora/aovivo_1080p/chunks.m3u8
+https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="FILMES",RUN TIME COMEDIA
