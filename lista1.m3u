@@ -690,6 +690,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
+https://stream.wifiexpert.cl/kanade/kanadebr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RLLhnDa.png" group-title="BRASIL",VTX TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
@@ -1668,6 +1670,8 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/480p/
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sRGNwaa.png" group-title="RELIGIOSO",TV VITORIA
+https://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/chunklist_w962868485.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eBxxgeT.png" group-title="RELIGIOSO",TV IMACULADA CONCEICAO
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
@@ -1764,6 +1768,8 @@ https://video01.logicahost.com.br/blast/blast/chunklist_w223775982.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y9y6C1H.png" group-title="MUSICA",LAMORE ROCK SHOW WEB TV
+https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w1118180815.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TfbveRb.png" group-title="MUSICA",KISS TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isq0RYq.png" group-title="MUSICA",ROCKOLA TV
