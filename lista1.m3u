@@ -1244,8 +1244,6 @@ https://alanza.iptv2022.com/sh/SUPREME_MASTER_TV/tracks-v1a1/mono.m3u8?filter.tr
 https://alanza.iptv2022.com/sh/TV_MONTANHA/tracks-v1a1/mono.m3u8?filter.tracks=a1v1
 #EXTINF:-1 tvg-logo="https://imgur.com/FZIjJo1.png" group-title="BRASIL",TV GRAO VERDE
 https://stmv1.srvif.com/gesimas/gesimas/chunklist_w1206070899.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bAEJ2HD.png" group-title="BRASIL",TV CARUARU
-https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1581540962.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/42b0WDS.png" group-title="BRASIL",GMC TV
 https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w751794559.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
@@ -1520,6 +1518,8 @@ https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
 https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xr0Yj6W.png" group-title="ESTUDIO FM", GOSPEL FM
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1581540962.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TBDizy.png" group-title="ESPORTES", BAND SPORTS
 https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="ESPORTES", TV DA PESCA
