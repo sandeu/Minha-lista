@@ -1350,14 +1350,10 @@ https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr
 https://alanza.iptv2022.com/sh/ZooMoo_Kids/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tXRMkZE.jpg" group-title="DESENHOS",DCPC
-https://cdn-5.nxplay.com.br/dcpc/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qM4V1bZ.png" group-title="DESENHOS", THUNDERCATS
-http://45.134.141.161:2200/BRX/24HS_Thundercats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jJ0T5Tv.png" group-title="DESENHOS", FUTURAMA
 http://24hrs.homelinux.com:8080/24H-futurama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ls5YINX.png" group-title="DESENHOS", SIMPSONS
