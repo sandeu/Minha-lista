@@ -2048,8 +2048,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=as_TshZd9CzgmBEoMzVy
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
-https://cdn-fast.nxtv.com.br/9978b7063e297d84f3640c45e2c30954/adrenalina/aovivo_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
