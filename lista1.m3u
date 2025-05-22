@@ -3,8 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="BRASIL", teste
-https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="BRASIL", ASSIM E PORTUGAL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w143215046.m3u8
@@ -346,6 +344,8 @@ https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
 https://rtisoluctions.com.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BOMVo2a.png" group-title="BRASIL", TV FLOW
+https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rPs7Fim.png" group-title="BRASIL",NGT NEWS
 https://stmv1.srvif.com/gesimas/gesimas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
