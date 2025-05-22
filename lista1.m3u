@@ -30,8 +30,12 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gTSfwzz.png" group-title="BRASIL",A ESCRAVA ISAURA
-https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
+https://cc-38amk5g6kmcpo.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
+https://cc-odb0wrvwbquzp.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="BRASIL",MALHACAO FAST
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
