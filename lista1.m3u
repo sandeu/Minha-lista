@@ -637,7 +637,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DJ8mA7R.png" group-title="BRASIL",SUPERFLIX TV
 https://stream.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
-https://stream.wifiexpert.cl/kanade/kanadebr/chunks.m3u8?nimblesessionid=1361058
+https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
