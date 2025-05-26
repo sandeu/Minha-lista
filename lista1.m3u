@@ -636,6 +636,8 @@ https://stream.gia.tv/giatvplayout7/giatv-208696/tracks-v1a1/mono.ts.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DJ8mA7R.png" group-title="BRASIL",SUPERFLIX TV
 https://stream.cloudecast.com/hls/superflix/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
+https://stream.wifiexpert.cl/kanade/kanadebr/chunks.m3u8?nimblesessionid=1361058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
@@ -722,8 +724,6 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
-https://stream.wifiexpert.cl/kanade/kanadebr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RLLhnDa.png" group-title="BRASIL",VTX TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
