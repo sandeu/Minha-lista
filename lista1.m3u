@@ -1634,6 +1634,8 @@ https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m
 https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
+'https://stream.ads.ottera.tv/playlist.m3u8?network_id=15300
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TTmHmYq.png" group-title="ESPORTES",AUTO TV
