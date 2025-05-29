@@ -1623,7 +1623,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-
 #EXTINF:-1 tvg-logo="https://imgur.com/4IeBqrQ.png" group-title="ESPORTES", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="ESPORTES",GP TV
-https://fast-channels.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d8484543b659539b184
+https://fast-channels-t2.b-cdn.net/grandepremio/aovivo_abr/grandepremio/aovivo_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="ESPORTES",GP TV
 https://amg26329-amg26329c1-amgplt0026.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
