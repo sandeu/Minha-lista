@@ -509,7 +509,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/TXyeAx1.png" group-title="BRASIL",PEGADINHAS REDETV
 https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ooMVunM.png" group-title="BRASIL",PEGADINHAS
@@ -1564,12 +1564,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50b
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0q6qsui.png" group-title="ESPORTES", GE FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dj0pEfS.png" group-title="ESPORTES", FC WEB TV
-https://5a0c3936c25c8.streamlock.net/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
-https://video03.logicahost.com.br/sumare/sumare/chunklist_w533300894.m3u8
+https://video07.logicahost.com.br/tvatitudenew/tvatitudenew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
@@ -2026,7 +2024,7 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES",BANG BANG
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/hfUzprH.png" group-title="FILMES",SO WEStERN
+#EXTINF:-1 tvg-logo="https://imgur.com/hfUzprH.png" group-title="FILMES",SO WESTERN
 https://cdn-3.nxplay.com.br/SOPLAY_WESTERN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
