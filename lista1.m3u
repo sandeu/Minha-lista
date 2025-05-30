@@ -346,8 +346,6 @@ https://rtisoluctions.com.br/hls/test.m3u8
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BOMVo2a.png" group-title="BRASIL", TV FLOW
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rPs7Fim.png" group-title="BRASIL",NGT NEWS
-https://stmv1.srvif.com/gesimas/gesimas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaadIgm.png" group-title="BRASIL",D+ NEWS
@@ -2024,8 +2022,6 @@ https://stmv8.samcast.com.br/ozemar6751/ozemar6751/playlist.m3u8
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES",BANG BANG
