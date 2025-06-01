@@ -144,6 +144,8 @@ https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
 https://cdn-2.nxplay.com.br/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ax8Jt0A.png" group-title="BRASIL",TV SENADO
+https://stream1.freetv.fun/tv-senado-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PK3JLkS.png" group-title="BRASIL",TV CIDADA
 https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rvj43ZM.png" group-title="BRASIL",CANAL FDR
