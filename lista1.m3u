@@ -432,6 +432,8 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/chunklist_w1107376017.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HvGWeZg.png" group-title="BRASIL",MULTI CANAIS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="BRASIL", TV NBT
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6356KK.png" group-title="BRASIL", CANAL LIKE
