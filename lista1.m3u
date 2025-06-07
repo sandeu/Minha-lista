@@ -82,6 +82,8 @@ https://acesso.ecast.site:3675/live/novatvlive.m3u8
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/qcdeB1c.png" group-title="BRASIL",TV TODO DIA
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/QdChJnx.png" group-title="BRASIL",RPTV
+https://br5093.streamingdevideo.com.br/redepaulistanatv/redepaulistanatv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DOudB67.png" group-title="BRASIL",TV FOZ
 https://5cf4a2c2512a2.streamlock.net/8104/8104/chunklist_w841902513.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/cdVinGm.png" group-title="BRASIL",WTV BRASIL
