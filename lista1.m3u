@@ -1746,6 +1746,8 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zzaTx5j.png" group-title="RELIGIOSO",TV MAANAIM
+https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NkM8Ugr.png" group-title="RELIGIOSO",REDE UNIVERSO TV
