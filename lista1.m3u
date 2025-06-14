@@ -514,7 +514,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkfood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W6s8vWC.png" group-title="BRASIL",MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/GCDFGV7.png" group-title="BRASIL", HOMEFUL
+#EXTINF:-1 tvg-logo="https://imgur.com/ngPK6XO.png" group-title="BRASIL", HOMEFUL
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&
 #EXTINF:-1 tvg-logo="https://imgur.com/TXyeAx1.png" group-title="BRASIL",PEGADINHAS REDETV
 https://fast-channels-t.b-cdn.net/redetv_pegadinhas/aovivo_abr/redetv_pegadinhas/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d84e5aeaf31af6924cd&bpkio_sessionid=10a1b13a205-be5e5625-df5f-4e6b-9a08-7490ca433480&category=all&mm_sp
