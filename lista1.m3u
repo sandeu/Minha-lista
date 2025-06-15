@@ -651,7 +651,7 @@ https://cdn-5.nxplay.com.br/PLAY_TV_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039
 #EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="BRASIL", YEEAAH
-https://stmv1.video.cloudstream.com.br/yeeaahtv/yeeaahtv/playlist.m3u8
+https://srv5.zcast.com.br/yeeaah/yeeaah/chunklist_w866638246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
 https://cdn-5.nxplay.com.br/RBTi_MAIS_TV/tracks-v1a1/mono.m3u8?token=abc4c3cbedbbf7ba1c291b634885ddcae5100066-70d372a2bccdfcf7386c2385a45c1cd7-1731305419-1731262219
 #EXTINF:-1 tvg-logo="https://imgur.com/rKTIFFF.png" group-title="BRASIL", RBTI
