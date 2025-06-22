@@ -750,6 +750,8 @@ https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
 https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B6G4gH7.png" group-title="BRASIL", TV PONTA DA SERRA
 https://ikki.hubcloud.tv.br/PontadaSerra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/54cCAgU.png" group-title="BRASIL", TOP DEMAIS TV
+https://stmv1.voxtvhd.com.br/topdemaistv/topdemaistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SPDsZaf.png" group-title="BRASIL",REDEVIVA TV
 https://srv2.zcast.com.br/redevivatv/redevivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rALtpSy.png" group-title="BRASIL",TV GUSS
@@ -2073,17 +2075,17 @@ https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f8dC96c.png" group-title="FILMES",RUN TIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
-https://stream.ads.ottera.tv/cl/250621d1bdjc3v0cv8ig61l3cg/1280x720_3071200_0_f.m3u8?i=728_2552
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://imgur.com/ulT75O3.png" group-title="FILMES",RUN TIME COMEDIA
-https://stream.ads.ottera.tv/cl/250621d1bdk3571m32prltjthg/1280x720_3071200_0_f.m3u8?i=728_2553
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://imgur.com/KQt9WGA.png" group-title="FILMES",RUN TIME CRIME
-https://stream.ads.ottera.tv/cl/250621d1bdjn1fdkgp2pkedlmg/1280x720_3071200_0_f.m3u8?i=728_4864
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-logo="https://imgur.com/bzX7MO8.png" group-title="FILMES",RUN TIME CINE ESPANTO
-https://stream.ads.ottera.tv/cl/250621d1bdjt5c6lhdc22tlro0/1280x720_3071200_0_f.m3u8?i=728_4865
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:-1 tvg-logo="https://imgur.com/U6ElKK3.png" group-title="FILMES",RUN TIME ROMANCE
-https://stream.ads.ottera.tv/cl/250621d1bdk84aa8vo2o4it5ag/1280x720_3071200_0_f.m3u8?i=475_4866
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES",RUN TIME FAMILIA
-https://stream.ads.ottera.tv/cl/250621d1bbqvtusrgkf2d8gtjg/1280x720_3071200_0_f.m3u8?i=728_5589
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 tvg-logo="https://imgur.com/Nvrt3Xc.png" group-title="FILMES",CRIME E INVESTIGACAO
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=as_TshZd9CzgmBEoMzVy
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
@@ -2092,7 +2094,7 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES",FILMELIER TV PAIXAO
 https://amg00740-sofa-amg00740c17-lg-br-8613.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpaixao-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER TV VIDA REAL
+#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV VIDA REAL
 https://fast-channels.b-cdn.net/1080p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d84519b9ca053ca4b6c&bpkio_sessionid=10f1a7d141-8f41bc73-a568-4b5f-bf90-5dc16dc5798e&category=all&mm_sp&token=2a93420c079a7e3539b513e9168ee59990fc52ff-0b79e97410959cf6fd1dc85ec7a01899-1750566709-1750523509&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
