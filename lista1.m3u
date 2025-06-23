@@ -756,6 +756,8 @@ https://stmv1.voxtvhd.com.br/topdemaistv/topdemaistv/playlist.m3u8
 https://srv2.zcast.com.br/redevivatv/redevivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rALtpSy.png" group-title="BRASIL",TV GUSS
 https://stmv2.samcast.com.br/daniel6726/daniel6726/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7PV24U4.png" group-title="BRASIL",TV CIDADE
+https://stmv7.samcast.com.br/gesseoliveira3863/gesseoliveira3863/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9GQhqxg.png" group-title="BRASIL", REDE LIVRE
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1522985548.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MuFZeIy.png" group-title="BRASIL",TV 100 CAIPIRA
