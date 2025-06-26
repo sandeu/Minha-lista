@@ -2100,6 +2100,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=as_TshZd9CzgmBEoMzVy
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
+https://fast-channels.b-cdn.net/360p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d8447b82394cf641d02&bpkio_sessionid=10d1a7a141-60113de0-32e1-4b29-b51c-11c64c0d2e4e&category=all&mm_sp&token=2999e280f991a359b29ea140ad42996c9fbfb649-b310d8efa981d1ad2716eeea42d3b35a-1750939040-1750895840&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES",FILMELIER TV PAIXAO
