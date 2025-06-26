@@ -770,6 +770,8 @@ https://srv2.zcast.com.br/100capira/100capira/chunklist_w843516096.m3u8
 https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5H3sjBy.png" group-title="BRASIL",LATINA SAT
 https://stream.ichibantv.com:3328/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8vPjPwx.png" group-title="BRASIL",TV CLASSICOS
+https://stmv1.srvif.com/tvclassicos/tvclassicos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqRIw12.png" group-title="BRASIL",TV VELHOS TEMPOS
 https://srv1.zcast.com.br/joaodepaula5617/joaodepaula5617/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="BRASIL", VINTAGE TV
