@@ -2105,13 +2105,13 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
-https://fast-channels.b-cdn.net/360p-avc/index.m3u8?bpkio_serviceid=9978b7063e297d8447b82394cf641d02&bpkio_sessionid=10d1a7a141-60113de0-32e1-4b29-b51c-11c64c0d2e4e&category=all&mm_sp&token=2999e280f991a359b29ea140ad42996c9fbfb649-b310d8efa981d1ad2716eeea42d3b35a-1750939040-1750895840&zoneid=24260
+https://fast-channels.b-cdn.net/240p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d8447b82394cf641d02&bpkio_sessionid=10e1f11f141-f257f931-9428-4b90-bd56-71533b6f7ca3&category=all&mm_sp&token=230ee87bdc40159826116598397f4a45edfef196-cac99f0cfa6816fcfd0c37a40c8e32da-1751070270-1751027070&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES",FILMELIER TV PAIXAO
 https://amg00740-sofa-amg00740c17-lg-br-8613.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpaixao-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV VIDA REAL
-https://fast-channels.b-cdn.net/1080p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d84519b9ca053ca4b6c&bpkio_sessionid=10f1a7d141-8f41bc73-a568-4b5f-bf90-5dc16dc5798e&category=all&mm_sp&token=2a93420c079a7e3539b513e9168ee59990fc52ff-0b79e97410959cf6fd1dc85ec7a01899-1750566709-1750523509&zoneid=24260
+https://fast-channels.b-cdn.net/480p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d84519b9ca053ca4b6c&bpkio_sessionid=10e1d11a141-4ea501ed-7a69-4bd7-8d20-8ad7c6799cc1&category=all&mm_sp&token=3afc27280b1640bb7e22a3f0bf0f7e9fc817c668-84821e0d08a1bf7fa11aa1c701844e2e-1751070270-1751027070&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
