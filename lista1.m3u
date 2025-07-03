@@ -2028,8 +2028,6 @@ https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p6gXK8A.png" group-title="FILMES",TV CLUBE
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
@@ -2074,12 +2072,8 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LpsoEE5.png" group-title="FILMES",HALLO BRASIL
-https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hIxjkkt.png" group-title="FILMES",HTO FILMES
-https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="FILMES",SO PLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q6MUwJp.png" group-title="FILMES",ENTRETENDO
