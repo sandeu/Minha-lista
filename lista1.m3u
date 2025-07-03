@@ -792,6 +792,8 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://tv02.zas.media:1936/masper/masper/chunklist_w889341332.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PA1uWZT.png" group-title="BRASIL", TV MAX
 https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1440022562.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kEPlmrr.png" group-title="BRASIL", RC TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w2043509444.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4LnJUr.png" group-title="BRASIL", TV PROFISSAO
@@ -896,8 +898,6 @@ https://acesso.ecast.site:3142/hybrid/play.m3u8
 https://stmv1.srvif.com/redemegha/redemegha/chunklist_w854764419.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aI5XFxc.png" group-title="BRASIL", TV MARCHETI
 https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lrQjFnv.png" group-title="BRASIL",TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mDUcgV9.png" group-title="BRASIL",LAGOA TV
 https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aFIhnz0.png" group-title="BRASIL", TV MON HD
@@ -2083,9 +2083,9 @@ https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="FILMES",SO PLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q6MUwJp.png" group-title="FILMES",ENTRETENDO
-https://cdn-3.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
+https://fast-channels.b-cdn.net/entretendo/aovivo_abr/entretendo/aovivo_1080p/chunks.m3u8?token=4224523355f09a0f1319871f7b732849c8edc661-0e2502617d077a36d0e44d2c37a41d3c-1751593019-1751549819&uid=45.177.139.52&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/cxKxXvF.png" group-title="FILMES",BORA
-https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
+https://fast-channels.b-cdn.net/bora/aovivo_abr/bora/aovivo_1080p/chunks.m3u8?token=8904f64a422e83858eca538fa11ee3e31cab244d-1f1404a0f9635ce689f258910736a737-1751593019-1751549819&uid=45.177.139.52&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/f8dC96c.png" group-title="FILMES",RUN TIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
@@ -2105,13 +2105,13 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
-https://fast-channels.b-cdn.net/240p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d8447b82394cf641d02&bpkio_sessionid=10e1f11f141-f257f931-9428-4b90-bd56-71533b6f7ca3&category=all&mm_sp&token=230ee87bdc40159826116598397f4a45edfef196-cac99f0cfa6816fcfd0c37a40c8e32da-1751070270-1751027070&zoneid=24260
+https://fast-channels.b-cdn.net/1080p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d8447b82394cf641d02&bpkio_sessionid=10e1e32a243-3434b244-ee42-4cbf-9a24-3425ae3ed7e0&category=all&mm_sp&token=dc3a8e8b07799d512e55f1c750115ce3f4cd7445-ed71c058ffeacb7ce8600e106e034b03-1751593018-1751549818&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/wLzboAU.png" group-title="FILMES",FILMELIER TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OsGti81.png" group-title="FILMES",FILMELIER TV PAIXAO
 https://amg00740-sofa-amg00740c17-lg-br-8613.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmeliertvpaixao-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV VIDA REAL
-https://fast-channels.b-cdn.net/480p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d84519b9ca053ca4b6c&bpkio_sessionid=10e1d11a141-4ea501ed-7a69-4bd7-8d20-8ad7c6799cc1&category=all&mm_sp&token=3afc27280b1640bb7e22a3f0bf0f7e9fc817c668-84821e0d08a1bf7fa11aa1c701844e2e-1751070270-1751027070&zoneid=24260
+https://fast-channels.b-cdn.net/1080p-cc/index.m3u8?bpkio_serviceid=9978b7063e297d84519b9ca053ca4b6c&bpkio_sessionid=10b1b39c82-d1bd9b47-9a1c-41a6-aaf1-b940669e5191&category=all&mm_sp&token=5690873a10cf62f82ced13d36da49389f13fe49f-68c3ea76cb18d56e6cbccb571220da19-1751593018-1751549818&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/FaW9GWT.png" group-title="FILMES",CINE SUCESSOS
