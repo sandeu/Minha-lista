@@ -2042,6 +2042,8 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ymXfs06.png" group-title="FILMES", TV IF CINE
+https://stmv1.srvsite.com/tvifcine/tvifcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
