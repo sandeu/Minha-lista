@@ -826,6 +826,10 @@ https://alanza.iptv2022.com/sh/TV_Ponto_Forte/tracks-v1a1/mono.m3u8?filter.track
 https://cdn.lincemedia.com.br/LIFE_AMERICA/tracks-v1a1/mono.ts.m3u8?token=KG_0nYulChvS5UWiNUZEbVsVDnx
 #EXTINF:-1 tvg-logo="https://imgur.com/muj3ZcQ.png" group-title="BRASIL", OLHA TV
 http://24.152.8.38:5001/live/olhatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KW9Mal9.png" group-title="BRASIL", SWT TV
+https://stmv8.samcast.com.br/edgard8922/edgard8922/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/msjKS7M.png" group-title="BRASIL", TV MAISCHETI
+https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="BRASIL", TV REGIONAL PAULISTA
 https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kkjbFGg.png" group-title="BRASIL",TV VISUAL
@@ -1308,6 +1312,8 @@ https://stmv1.srvif.com/gesimas/gesimas/chunklist_w1206070899.m3u8
 https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w751794559.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VZlf1VF.png" group-title="BRASIL",SONIDO TV
 https://srv5.zcast.com.br/sonidotv/sonidotv/chunklist_w2023404374.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/smKb4R4.png" group-title="BRASIL",TV MANIA
+https://stmv1.voxplayer.com.br/betokiss/betokiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
