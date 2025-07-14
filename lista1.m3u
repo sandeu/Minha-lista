@@ -463,7 +463,7 @@ https://amg17288-offgrid-amg17288c5-tcl-us-5917.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-logo="https://imgur.com/LgHo8BX.png" group-title="BRASIL", SALON LINE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/AK8Yr2x.png" group-title="BRASIL", FIT DANCE
-https://fast-channels-t2.b-cdn.net/fitdance/aovivo_abr/fitdance/aovivo_1080p/chunks.m3u8
+https://amg17288-offgrid-amg17288c4-tcl-us-7667.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AK8Yr2x.png" group-title="BRASIL", FIT DANCE
 https://cc-lcvu2gxe3l748.akamaized.net/ABCD/Amagi/Offgrid/Fitdance_BR/Fitdance.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1ew3DwY.png" group-title="BRASIL",REDE MAIS FAMILIA
@@ -657,7 +657,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hXxuboF.png" group-title="BRASIL",ACESSO CHANNEL
 https://streaming.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RmE2VUQ.png" group-title="BRASIL",KANADE BRASIL
-https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-logo="https://imgur.com/rFXW6FF.png" group-title="BRASIL", NTC PLAY
 https://stmv2.srvsh.com.br/matheusdeoliveira7038/matheusdeoliveira7038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV
