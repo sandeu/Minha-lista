@@ -1320,6 +1320,8 @@ https://srv5.zcast.com.br/sonidotv/sonidotv/chunklist_w2023404374.m3u8
 https://stmv1.voxplayer.com.br/betokiss/betokiss/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4eIiuD6.png" group-title="BRASIL",RADIO TV JOIA NEWS
 https://stmv8.samcast.com.br/focoplural/focoplural/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="BRASIL",TV OLHO DAGUA
+https://stmv1.liveplushd.com.br/tvolhodaguaweb/tvolhodaguaweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
