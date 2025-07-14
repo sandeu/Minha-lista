@@ -178,6 +178,8 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xn5e9Z6.png" group-title="BRASIL",FATOS DESCONHECIDOS
 http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="BRASIL",MOOVE EXPLORE
+https://pop.uniquetv.com.br/mooveexplorer/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EgHTGvn.png" group-title="BRASIL",SPACE TODAY TV
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="BRASIL",VIAJANDO PELO BRASIL
