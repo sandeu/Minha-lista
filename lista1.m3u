@@ -444,6 +444,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G6356KK.png" group-title="BRASIL", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ntv5Iwh.png" group-title="BRASIL", CANAL DO ARTESANATO
+https://ogc-cda-tcl-roku-syndication.otteravision.com/ogc/cda/cda.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="BRASIL", MANUAL DO MUNDO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="BRASIL", MANUAL DO MUNDO
@@ -666,6 +668,8 @@ https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 https://cdn-5.nxplay.com.br/PLAY_TV_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcEd9qv.png" group-title="BRASIL", PLAY TV FAST
+https://pla-platv-tcl-roku-syndication.otteravision.com/pla/platv/platv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpdN4Ul.png" group-title="BRASIL", YEEAAH
 https://srv5.zcast.com.br/yeeaah/yeeaah/chunklist_w866638246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="BRASIL", RBTI
