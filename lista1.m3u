@@ -342,10 +342,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KLatQEl.png" group-title="BRASIL",LEADSTORY
 https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a9xSBJx.png" group-title="BRASIL", POP TV
-https://rtisoluctions.com.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lfn2Clb.png" group-title="BRASIL", PORTO ALEGRE 24 HS
+https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jHwk0tC.png" group-title="BRASIL",POA TV NEWS
 https://stmv1.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
@@ -1316,6 +1316,8 @@ https://video04.logicahost.com.br/motionbrasiltv/motionbrasiltv/chunklist_w75179
 https://srv5.zcast.com.br/sonidotv/sonidotv/chunklist_w2023404374.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/smKb4R4.png" group-title="BRASIL",TV MANIA
 https://stmv1.voxplayer.com.br/betokiss/betokiss/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4eIiuD6.png" group-title="BRASIL",RADIO TV JOIA NEWS
+https://stmv8.samcast.com.br/focoplural/focoplural/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -2118,7 +2120,7 @@ https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV VIDA REAL
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="FILMES",FILMELIER TV ESPERANCA
+#EXTINF:-1 tvg-logo="https://imgur.com/u5oAxeJ.png" group-title="FILMES",FILMELIER TV ESPERANCA
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
