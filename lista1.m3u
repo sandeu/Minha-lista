@@ -1334,6 +1334,16 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY6L6ce.png" group-title="BRASIL",NOVA BARREIROS WEB TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/j0VXN5G.png" group-title="BRASIL",SERRA TV NEWS
+https://stmv1.voxtvhd.com.br/serratv/serratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AH2diix.png" group-title="BRASIL",CAMPOS DO JORDAO TV NEWS
+https://stmv2.voxtvhd.com.br/cjtvnews/cjtvnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1lEuaIB.png" group-title="BRASIL",MAIS FAVELA TV 
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-18206/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="BRASIL",KIDS TV SHOW
+https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="BRASIL",RIO HOT MIX
+https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
