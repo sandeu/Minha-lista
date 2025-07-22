@@ -1340,10 +1340,6 @@ https://stmv1.voxtvhd.com.br/serratv/serratv/playlist.m3u8
 https://stmv2.voxtvhd.com.br/cjtvnews/cjtvnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1lEuaIB.png" group-title="BRASIL",MAIS FAVELA TV 
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-18206/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="BRASIL",KIDS TV SHOW
-https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="BRASIL",RIO HOT MIX
-https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1382,6 +1378,8 @@ http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="DESENHOS",KIDS TV SHOW
+https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
@@ -1864,6 +1862,8 @@ https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 https://stream.ichibantv.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
 https://video05.logicahost.com.br/rederc/rederc/chunklist_w1740148855.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="MUSICA",RIO HOT MIX
+https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jpLKKxc.png" group-title="MUSICA",TV EXPLOSAO FM MUSICAL
 https://stmv1.liveplushd.com.br/tvmirafm/tvmirafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
