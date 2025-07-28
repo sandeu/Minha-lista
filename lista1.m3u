@@ -540,6 +540,8 @@ http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 https://fast-channels-t2.b-cdn.net/parafernalha/aovivo_abr/parafernalha/aovivo_1080p/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="BRASIL", MR BEAN 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4WXitHX.png" group-title="BRASIL", PORTA DOS FUNDOS
+https://dfr80qz435crc.cloudfront.net/code/Amagi/provider/Porta_Dos_Fundos_BR/Porta_Dos_Fundos.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="BRASIL",COMEDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/ztcj5gn.png" group-title="BRASIL",COMEDY CENTRAL
