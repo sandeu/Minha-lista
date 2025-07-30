@@ -537,7 +537,7 @@ https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhb
 #EXTINF:-1 tvg-logo="https://imgur.com/ooMVunM.png" group-title="BRASIL",PEGADINHAS
 http://24hrs.homelinux.com:8080/24H-joaokleber/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
-https://fast-channels-t2.b-cdn.net/parafernalha/aovivo_abr/parafernalha/aovivo_1080p/chunks.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
+https://origin-nxtv.b-cdn.net/parafernaria/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="BRASIL", MR BEAN 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4WXitHX.png" group-title="BRASIL", PORTA DOS FUNDOS
@@ -555,7 +555,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c74
 #EXTINF:-1 tvg-logo="https://imgur.com/A5bFy6W.png" group-title="BRASIL",SMITHSONIAN CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/P5zVhtA.png" group-title="BRASIL",HARDCORE PAWN
-https://amg00627-banijay-amg00627c47-tcl-us-8086.playouts.now.amagi.tv/playlist.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/HardcorePawn_BR/HardcorePawn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZLVsAJf.png" group-title="BRASIL",NEGOCIO FECHADO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/9tT2tWj.png" group-title="BRASIL",DOCUMENTARIOS
