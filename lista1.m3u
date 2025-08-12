@@ -26,6 +26,10 @@ https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 #EXTINF:-1 tvg-logo="https://imgur.com/TPmUIVU.png" group-title="BRASIL", BEM VINDO A WAIKIKI
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-33d7b51d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", BOYS OVER FLOWERS
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysoverflowers_rakutenviki&channel_id=newid_208&mpf=c3e0219a-39af1962-2dc18169&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", CINDERELLA AND FOUR KNIGHTS
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderellaandfourknights_rakutenviki&channel_id=newid_207&mpf=535f3c0b-39af1962-b854bf6e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="BRASIL",FREE TV CRIME
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="BRASIL",FREE TV DRAMA
@@ -1350,6 +1354,10 @@ https://stmv1.voxtvhd.com.br/serratv/serratv/playlist.m3u8
 https://stmv2.voxtvhd.com.br/cjtvnews/cjtvnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1lEuaIB.png" group-title="BRASIL",MAIS FAVELA TV 
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-18206/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xQ7LkKF.png" group-title="BRASIL",VITAO MC TV
+https://stmv1.srvif.com/vitaomctv/vitaomctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BDokW3i.png" group-title="BRASIL",TV POMBAL
+https://a.cdni.live/alex6065/alex6065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1880,6 +1888,8 @@ https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 https://stmv1.liveplushd.com.br/tvmirafm/tvmirafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nfN4rbV.png" group-title="MUSICA", CIDADE MUSIC
+https://video.rcast.com.br:5443/cidade/streams/cidade.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nahStVy.png" group-title="MUSICA", BLAST CHANNEL TV
 https://video01.logicahost.com.br/blast/blast/chunklist_w223775982.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="MUSICA", POP PEGAJOSO
