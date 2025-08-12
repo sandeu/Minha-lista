@@ -419,7 +419,7 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w1912578061.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="BRASIL", TV GRAO PARA
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/w1CdGsI.png" group-title="BRASIL", 40 GRAUS TV 
-https://acesso.ecast.site:3125/stream/play.m3u8
+https://streaming.cloudecast.com/hls/40graus/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BpUNWZX.png" group-title="BRASIL", REDE BRASIL TV
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ATA37nb.png" group-title="BRASIL", RBTV
