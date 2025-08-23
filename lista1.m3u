@@ -784,6 +784,12 @@ https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 https://ikki.hubcloud.tv.br/PontadaSerra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/54cCAgU.png" group-title="BRASIL", TOP DEMAIS TV
 https://stmv1.voxtvhd.com.br/topdemaistv/topdemaistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xwfiAKr.png" group-title="BRASIL", REDE FENIX
+https://video10.logicahost.com.br/redefenix/redefenix/chunklist_w491610116.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AZyf8EA.png" group-title="BRASIL", TV BLUE BRASIL
+https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XHC0eih.png" group-title="BRASIL",IETV
+https://stmv1.voxplayer.com.br/ietv/ietv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SPDsZaf.png" group-title="BRASIL",REDEVIVA TV
 https://srv2.zcast.com.br/redevivatv/redevivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rALtpSy.png" group-title="BRASIL",TV GUSS
@@ -1362,6 +1368,16 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-18206/playlist/playlist.m3u8
 https://stmv1.srvif.com/vitaomctv/vitaomctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BDokW3i.png" group-title="BRASIL",TV POMBAL
 https://a.cdni.live/alex6065/alex6065/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/haaWHA7.png" group-title="BRASIL",PAN TV
+https://stmv8.samcast.com.br/carlos6664/carlos6664/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oVgddam.png" group-title="BRASIL",UNO TV
+https://video04.logicahost.com.br/unotv/unotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qyayH4I.png" group-title="BRASIL",TVR AMPARO
+https://srv6.zcast.com.br/lupercio1654/lupercio1654/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9aOSdrV.png" group-title="BRASIL",TV NORTE NEWS
+https://srv6.zcast.com.br/lupercio1654/lupercio1654/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vdWnZI.png" group-title="BRASIL",TV BRASIL SINOP
+https://srv6.zcast.com.br/lupercio1654/lupercio1654/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
