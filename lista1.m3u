@@ -1156,24 +1156,16 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IJLXWDG.png" group-title="DESENHOS", MR  BEAN
 https://cc-0vgk6slyph2cz.akamaized.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hJWrYjN.png" group-title="DESENHOS",CHAVES
-http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="DESENHOS",WEB TV GADO BRAVO
 https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xcBbOM1.png" group-title="DESENHOS",TV LEMBRANCA HANNA BARBERA
-https://stmv1.srvsite.com/tvlembrancahannabarbera/tvlembrancahannabarbera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 2
 https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1900101009.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/E4aWJxa.png" group-title="DESENHOS",PEPE LEGAL
-http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ypJrVT6.png" group-title="DESENHOS",PATOLINO
-http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NVtX2nt.png" group-title="DESENHOS", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
@@ -1183,9 +1175,7 @@ https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
-https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w345953685.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vAi1xXO.png" group-title="DESENHOS",HTO KIDS 
-https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bp1YX3O.png" group-title="DESENHOS", DESENHOS CLASSICOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/47JcAc4.png" group-title="DESENHOS", KIDS CLUB
@@ -1236,18 +1226,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992140
 #EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NHl6FhX.jpg" group-title="DESENHOS", ZOOMOO KIDS
-https://alanza.iptv2022.com/sh/ZooMoo_Kids/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://srv3.zcast.com.br/kanucatv/kanucatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jJ0T5Tv.png" group-title="DESENHOS", FUTURAMA
-http://24hrs.homelinux.com:8080/24H-futurama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ls5YINX.png" group-title="DESENHOS", SIMPSONS
-http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO CARTMAN
@@ -1402,8 +1386,6 @@ https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1581540962.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5TBDizy.png" group-title="ESPORTES", BAND SPORTS
-https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="ESPORTES", TV DA PESCA
 https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/73GQva8.png" group-title="ESPORTES",PLAY TV HORSE
