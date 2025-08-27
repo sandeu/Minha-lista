@@ -1168,10 +1168,14 @@ https://cc-0vgk6slyph2cz.akamaized.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="DESENHOS",WEB TV GADO BRAVO
 https://stmv1.tv.ssplay.top/admin/admin/chunklist_w1770498308.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Zguit3H.png" group-title="DESENHOS",PRIME TOON
+https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 
+https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 2
 https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 3
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/NVtX2nt.png" group-title="DESENHOS", POPEYE
