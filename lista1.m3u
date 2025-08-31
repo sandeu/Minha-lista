@@ -480,10 +480,10 @@ https://origin-nxtv.b-cdn.net/REDETV_TESTE_DA_FIDELIDADE/tracks-v1a1/mono.m3u8?a
 https://origin-nxtv.b-cdn.net/REDETV_MEGA_SONHO/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
 #EXTINF:-1 tvg-logo="https://imgur.com/TXyeAx1.png" group-title="BRASIL",PEGADINHAS REDETV
 https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
+#EXTINF:-1 tvg-logo="https://imgur.com/ripNFz7.png" group-title="BRASIL",PEGADINHAS 
+http://24hrs.homelinux.com/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://imgur.com/TZt0ME5.png" group-title="BRASIL",MTV RIDICULOUSNESS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68641eb4852dfe78698c3390/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/7FBqM1y.png" group-title="BRASIL", PARAFERNALHA
-https://origin-nxtv.b-cdn.net/parafernaria/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="BRASIL", MR BEAN 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="BRASIL",COMEDIA
@@ -622,6 +622,8 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=2l09k108
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
@@ -724,8 +726,12 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vn3AgMr.png" group-title="BRASIL", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w448625121.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ar902Ct.png" group-title="BRASIL", RC TV
+https://tv03.zas.media:1936/mbc/mbc/chunklist_w2129600537.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4LnJUr.png" group-title="BRASIL", TV PROFISSAO
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/TsGoRFl.png" group-title="BRASIL", TV 100 CAIPIRA
+https://video10.logicahost.com.br/caipira/caipira/chunklist_w667642396.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5TPSD12.png" group-title="BRASIL", TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="BRASIL",TV POTENGI
@@ -1150,6 +1156,16 @@ https://stmv2.voxtvhd.com.br/chictv/chictv/playlist.m3u8
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1RxMesb.png" group-title="BRASIL",RCN
 https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VY2iQVM.png" group-title="BRASIL",CREATIVE TV BRASIL
+https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Rwc50lQ.png" group-title="BRASIL",JR TV
+https://video10.logicahost.com.br/jrtv/jrtv/chunklist_w41188555.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IIedq7V.png" group-title="BRASIL",TV BANQUETA
+https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/chunklist_w1507454629.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/53E3JRx.png" group-title="BRASIL",TV POPULAR
+https://live20.bozztv.com/giatvplayout7/giatv-208800/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FgEJWQN.png" group-title="BRASIL",TV EXPLOSAO
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=14e0sm86
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1184,6 +1200,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="DESENHOS",KIDS TV SHOW
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
@@ -1242,8 +1260,8 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
-https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TDvbXpb.jpg" group-title="DESENHOS",TV ITAPETINGA KIDS
+https://stmv2.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=no15o3z2
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
@@ -1650,6 +1668,8 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w750196655.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MBSUUsK.png" group-title="MUSICA", FM TV
 https://cdn.live.br1.jmvstream.com/w/AVJ-12934/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lCH5i8c.png" group-title="MUSICA", DE O PLAY TV
+https://video01.logicahost.com.br/deoplay/deoplay/chunklist_w526834822.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ueglYCU.png" group-title="MUSICA", AGITO MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w1703774679.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
