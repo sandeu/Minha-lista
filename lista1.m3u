@@ -483,7 +483,7 @@ https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?auth=eyJhb
 #EXTINF:-1 tvg-logo="https://imgur.com/ripNFz7.png" group-title="BRASIL",PEGADINHAS 
 http://24hrs.homelinux.com/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://imgur.com/TZt0ME5.png" group-title="BRASIL",MTV RIDICULOUSNESS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68641eb4852dfe78698c3390/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="BRASIL", MR BEAN 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZGcDVFC.png" group-title="BRASIL",COMEDIA
@@ -1166,6 +1166,8 @@ https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/chunklist_w1507454629.m3
 https://live20.bozztv.com/giatvplayout7/giatv-208800/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FgEJWQN.png" group-title="BRASIL",TV EXPLOSAO
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=14e0sm86
+#EXTINF:-1 tvg-logo="https://imgur.com/38goWEw.png" group-title="BRASIL",ULTRA TV BH
+https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
