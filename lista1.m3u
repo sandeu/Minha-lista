@@ -838,6 +838,8 @@ https://5c483b9d1019c.streamlock.net/camaragibeagoratv/camaragibeagoratv/chunkli
 https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/fZJpVP3.png" group-title="BRASIL", RADIO E TV EXPLOSAO
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FgEJWQN.png" group-title="BRASIL",TV EXPLOSAO
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=14e0sm86
 #EXTINF:-1 tvg-logo="https://imgur.com/O8mENzx.png" group-title="BRASIL", TV CIDADE CATANDUVA
 https://br5093.streamingdevideo.com.br/tjxyctjwzw/tjxyctjwzw/chunklist_w820682989.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/nabXcv1.png" group-title="BRASIL", WEB TV ALTERNATIVA
@@ -1164,8 +1166,6 @@ https://video10.logicahost.com.br/jrtv/jrtv/chunklist_w41188555.m3u8
 https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/chunklist_w1507454629.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/53E3JRx.png" group-title="BRASIL",TV POPULAR
 https://live20.bozztv.com/giatvplayout7/giatv-208800/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FgEJWQN.png" group-title="BRASIL",TV EXPLOSAO
-https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=14e0sm86
 #EXTINF:-1 tvg-logo="https://imgur.com/38goWEw.png" group-title="BRASIL",ULTRA TV BH
 https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
