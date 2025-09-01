@@ -1947,7 +1947,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:-1 tvg-logo="https://imgur.com/Nvrt3Xc.png" group-title="FILMES",CRIME E INVESTIGACAO
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=as_TshZd9CzgmBEoMzVy
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/ab4fc12c-bf3a-4ba4-a37a-ff90114c3e5e/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
