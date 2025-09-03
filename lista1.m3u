@@ -22,8 +22,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://imgur.com/8zxn8YO.png" group-title="BRASIL", HALLO DORAMA
 https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7RkoplU.png" group-title="BRASIL", MINHA IDENTIDADE E BELEZA DE GANGNAM
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhaidentidade%C3%A9belezadegangnam&channel_id=newid_233
 #EXTINF:-1 tvg-logo="https://imgur.com/TPmUIVU.png" group-title="BRASIL", BEM VINDO A WAIKIKI
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-33d7b51d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", BOYS OVER FLOWERS
