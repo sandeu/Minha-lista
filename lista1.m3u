@@ -629,7 +629,7 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
-https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8?hls_ctx=2l09k108
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
@@ -834,6 +834,12 @@ https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NC5pfFl.png" group-title="BRASIL", TOP DEMAIS TV
+https://stmv.webtvninjas.com.br/topdemais5565/topdemais5565/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5xz9dPI.png" group-title="BRASIL", TV RADICAL DIGITAL
+https://stmv1.srvif.com/tvradicaldigital/tvradicaldigital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dk0L53s.png" group-title="BRASIL", TV NOVO PROGRESSO
+https://stmv7.samcast.com.br/tvnovoprogresso/tvnovoprogresso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iNdXSmE.png" group-title="BRASIL", UP WEB TV
 https://stmv1.conectastreaming.com/tvpa4741/tvpa4741/chunklist_w1067020811.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OKJ35N.png" group-title="BRASIL", TV METROPOLE NEWS
@@ -1180,6 +1186,14 @@ https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/chunklist_w1507454629.m3
 https://live20.bozztv.com/giatvplayout7/giatv-208800/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/38goWEw.png" group-title="BRASIL",ULTRA TV BH
 https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gjBaWON.png" group-title="BRASIL",SBC TV
+https://stmv6.voxtvhd.com.br/romilson/romilson/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/25qV1Ab.png" group-title="BRASIL",QUIXERAMOBIM TV
+https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u8AHO7k.png" group-title="BRASIL",TV JAPAO
+https://pop.uniquetv.com.br/tvjapao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q2eArzJ.png" group-title="BRASIL",TV TUDO PARANA
+https://pop.uniquetv.com.br/tvtudoparana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
