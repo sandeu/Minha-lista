@@ -1458,10 +1458,8 @@ https://video01.soultv.com.br/nsports/nsports/chunklist_w1896147320.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YOVkDYg.png" group-title="ESPORTES",POP BOLA
-https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
-https://video07.logicahost.com.br/tvatitudenew/tvatitudenew/playlist.m3u8
+https://s1.tvr.ovh/video69519/video69519/chunklist_w942010269.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
@@ -1492,8 +1490,6 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yrT80vz.png" group-title="ESPORTES", ESPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/wUHcbZo.png" group-title="ESPORTES", WOOHOO SURF
-https://cdn-fast.nxtv.com.br/livepl/manifest/woohoo_h264_modified.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SzfT5WK.png" group-title="ESPORTES", FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwS76Ag.png" group-title="ESPORTES", TV RED BULL
