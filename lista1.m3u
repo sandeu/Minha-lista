@@ -620,6 +620,8 @@ https://cdn-3.nxplay.com.br/CENTRAL_DO_PLAY/tracks-v1a1/mono.m3u8
 https://s1.tvr.ovh/video78574/video78574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="BRASIL", REDE QUE DEMAIS
 https://s1.tvr.ovh/video93238/video93238/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IRysseN.png" group-title="BRASIL",PRIME SERIES
+https://pop.uniquetv.com.br/primeseries/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bav8k4e.png" group-title="BRASIL",URBAN SERIES
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kqDkx47.png" group-title="BRASIL",HALLO SERIES
@@ -832,6 +834,8 @@ https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w975613525.m3u8
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RLH1Qff.png" group-title="BRASIL", AUGE TV
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RLH1Qff.png" group-title="BRASIL", AUGE CDC
+https://video05.logicahost.com.br/augecdc/augecdc/chunklist_w1314909261.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NC5pfFl.png" group-title="BRASIL", TOP DEMAIS TV
@@ -1230,6 +1234,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="DESENHOS",AUGE KIDS
+https://video05.logicahost.com.br/augekids/augekids/chunklist_w1834785972.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist_w1901280802.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="DESENHOS",KIDS TV SHOW
@@ -1462,6 +1468,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50b
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
 https://s1.tvr.ovh/video69519/video69519/chunklist_w942010269.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="ESPORTES",AUGE ESPORTES
+https://video04.logicahost.com.br/augeesportes/augeesportes/chunklist_w739836752.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
@@ -1614,6 +1622,8 @@ https://caikron.com.br:19360/tvmi/tvmi.m3u8
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/chunklist_w1568667651_b1000000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CTmglaA.png" group-title="RELIGIOSO",REDE ALFA
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="RELIGIOSO",AUGE GOSPEL
+https://video01.logicahost.com.br/augegospel/augegospel/chunklist_w1400008486.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
@@ -1680,6 +1690,8 @@ https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
 https://stmv6.voxtvhd.com.br/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="MUSICA", AUGE MUSIC
+https://video01.logicahost.com.br/augemusic/augemusic/chunklist_w1724053801.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/chunklist_w1243467780.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
@@ -1898,6 +1910,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="FILMES",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/243wo0G.png" group-title="FILMES", PRIME CINE
+https://pop.uniquetv.com.br/primecine/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
