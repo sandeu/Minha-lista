@@ -1194,6 +1194,8 @@ https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
 https://pop.uniquetv.com.br/tvjapao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q2eArzJ.png" group-title="BRASIL",TV TUDO PARANA
 https://pop.uniquetv.com.br/tvtudoparana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ByFk3F7.png" group-title="BRASIL",TV GAZETA BRASIL
+https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
@@ -1914,6 +1916,8 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ymXfs06.png" group-title="FILMES", TV IF CINE
 https://stmv1.srvsite.com/tvifcine/tvifcine/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uWA1Xhx.png" group-title="FILMES", TV SERRANA MIX
+https://stmv3.webtvninjas.com.br/tvserrana1/tvserrana1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
