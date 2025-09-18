@@ -176,6 +176,10 @@ https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/hlzk66ri/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqtzCI7.png" group-title="BRASIL",TVR
 https://video01.soultv.com.br/tvr/tvr/chunklist_w1100935560.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pkfCnI0.png" group-title="BRASIL",TV MEDICINA
+https://video03.logicahost.com.br/tvmedicina/tvmedicina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/w3H4Bww.png" group-title="BRASIL",TV BELEZA DENTAL
+https://video05.logicahost.com.br/tvbelezadental/tvbelezadental/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="BRASIL",UNIVERSIDADE DA PESSOA
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TKWVIxb.png" group-title="BRASIL",MOOVE EXPLORE
@@ -381,7 +385,7 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 tvg-logo="https://imgur.com/g69isEq.png" group-title="BRASIL",TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6T0azXF.png" group-title="BRASIL",TV BRICS
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FqdQrSs.png" group-title="BRASIL",TVCI
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/chunklist_w1107376017.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jxpnme8.png" group-title="BRASIL",NGT 
@@ -574,6 +578,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="BRASIL",SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DKSCmYO.png" group-title="BRASIL",XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8VhD9Wx.png" group-title="BRASIL",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gD0hmt2.png" group-title="BRASIL",OTAKU SIGN TV
@@ -1204,6 +1210,10 @@ https://pop.uniquetv.com.br/tvjapao/tracks-v1a1/mono.m3u8
 https://pop.uniquetv.com.br/tvtudoparana/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ByFk3F7.png" group-title="BRASIL",TV GAZETA BRASIL
 https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7BSMfTF.png" group-title="BRASIL",FAROL TV
+https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="BRASIL",TV MINUTO NORDESTE
+https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
