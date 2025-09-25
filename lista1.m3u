@@ -764,6 +764,10 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Gwu9GPn.png" group-title="BRASIL",JOY FLIX
+https://streaming.cloudecast.com/hls/joyflix/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gKDkAn0.png" group-title="BRASIL",TV IBT
+https://stmv2.voxtvhd.com.br/tvibtm/tvibtm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P4tnfXs.png" group-title="BRASIL", TV METROPOLE
@@ -1214,6 +1218,10 @@ https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
 https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="BRASIL",TV MINUTO NORDESTE
 https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Eom0mRE.png" group-title="BRASIL",BITT TV
+https://v4.tustreaming.cl/bittchannel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wgSH1JH.png" group-title="BRASIL",TV JUDAICA
+https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/chunklist_w445249843.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
