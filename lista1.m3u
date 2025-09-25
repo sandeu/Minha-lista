@@ -1484,6 +1484,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
 https://video01.soultv.com.br/nsports/nsports/chunklist_w1896147320.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 #EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA
