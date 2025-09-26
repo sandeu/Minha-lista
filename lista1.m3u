@@ -598,6 +598,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NkBNqIl.png" group-title="BRASIL",GOOD GAME TV
+https://dai.google.com/linear/hls/pa/event/mhaiLdPSQ4G8ajOe--yNWg/stream/6d550ae7-1980-4a1a-8ede-4459efeb4089:SCL2/variant/a26beb82aa7564ada098340a3fcb2302/bandwidth/3070540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9YJF0Hx.png" group-title="BRASIL",AW TV
