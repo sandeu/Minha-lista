@@ -718,6 +718,8 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9NoMO9x.png" group-title="BRASIL", RM TV
+https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NoV0mSQ.png" group-title="BRASIL",VGS TV
