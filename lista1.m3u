@@ -1982,6 +1982,8 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IG0EEB6.png" group-title="FILMES", CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qClufOV.png" group-title="FILMES", CINE BRASIL TV
