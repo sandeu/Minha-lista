@@ -1302,6 +1302,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a5
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hjl9HJ.png" group-title="DESENHOS", INSPETOR BUGIGANGA
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
+#EXTINF:-1 tvg-logo="https://imgur.com/Hyz1of0.png" group-title="DESENHOS", SONIC
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 #EXTINF:-1 tvg-logo="https://imgur.com/MOWXnxd.png" group-title="DESENHOS", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/rBoZhqJ.png" group-title="DESENHOS", PATRULHA CANINA
@@ -1526,6 +1528,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66997e8d3a4ad20008e50be9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15300
 #EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
 https://s1.tvr.ovh/video69519/video69519/chunklist_w942010269.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="ESPORTES",AUGE ESPORTES
@@ -1592,10 +1598,6 @@ https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
 https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
 https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
-https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15300
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TTmHmYq.png" group-title="ESPORTES",AUTO TV
@@ -1662,6 +1664,8 @@ https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/chunklist_w354824524.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JxyVX6Y.png" group-title="RELIGIOSO",SANTA CRUZ WEB TV
