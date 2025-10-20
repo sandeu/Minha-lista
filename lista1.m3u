@@ -173,7 +173,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RHfOBfx.png" group-title="BRASIL",VIAGENS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/zWUCcsJ.png" group-title="BRASIL",TRAVEL+
-https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist/amg24440-travelplus-travelplus-lgbr/playlist.m3u8
+https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist/amg24440-travelplus-travelplus-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://imgur.com/zWUCcsJ.png" group-title="BRASIL",TRAVEL+
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TM9RsOw.png" group-title="BRASIL",TRAVEL XP
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p4gAg3b.png" group-title="BRASIL",URBAN TRAVEL
