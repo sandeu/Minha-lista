@@ -1856,6 +1856,8 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QoY74s6.png" group-title="INTERNET",GO USA TV
 https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uMBqGAf.png" group-title="INTERNET",THE JAMIE OLIVER CHANNEL
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O7yQvH5.png" group-title="INTERNET",C4 EN ALERTA
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
