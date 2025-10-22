@@ -64,6 +64,8 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=98184532019213780
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="BRASIL",MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lWswaML.png" group-title="BRASIL", TVP
+https://stream.ichibansys.com:3441/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QAvFgEX.png" group-title="BRASIL",TV FUTURO
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uz8a530.png" group-title="BRASIL", TV UB PLAY
@@ -216,6 +218,10 @@ https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
 https://hplay.tv/augetv/12396547488/10.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4YV1dSR.png" group-title="BRASIL", SBT SINOP
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5jEsAql.png" group-title="BRASIL", SBT CUIABA
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
@@ -1112,6 +1118,10 @@ https://video04.logicahost.com.br/tvmarzonasul/tvmarzonasul/playlist.m3u8
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rRwgQoI.png" group-title="BRASIL",TV POA STREAMING
 https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dmudxhp.png" group-title="BRASIL",TV IJUI PLAY
+https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9fgnV62.png" group-title="BRASIL",TV CIDADE 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dgXBxOx.png" group-title="BRASIL",TV MINUANO
 https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY6L6ce.png" group-title="BRASIL",NOVA BARREIROS WEB TV
@@ -1160,6 +1170,10 @@ https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
 https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgSH1JH.png" group-title="BRASIL",TV JUDAICA
 https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yYb0tAG.png" group-title="BRASIL",TV ALVORADA
+https://live20.bozztv.com/akamaissh101/ssh101/tvalvorada/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DQ6NzAq.png" group-title="BRASIL",TV CARIRIS
+https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
 https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
