@@ -746,6 +746,8 @@ https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
 https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5TPSD12.png" group-title="BRASIL", TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WUmP4Kw" group-title="BRASIL", BITT TV
+https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qMe2Lao.png" group-title="BRASIL", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
@@ -1152,6 +1154,8 @@ https://pop.uniquetv.com.br/tvtudoparana/tracks-v1a1/mono.m3u8
 https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7BSMfTF.png" group-title="BRASIL",FAROL TV
 https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uWA1Xhx.png" group-title="BRASIL", TV SERRANA
+https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgSH1JH.png" group-title="BRASIL",TV JUDAICA
 https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
@@ -1410,6 +1414,8 @@ https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
 https://virtues.es:1936/gospel90/gospel90/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rZpi3EA.png" group-title="ESTUDIO FM", REDE BLITZ
+https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Z0Udho.png" group-title="ESPORTES", XPORTS
 https://zplivecdn.live/live/esdras1/esdras1/48351.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/qHZ23Ue.png" group-title="ESPORTES", GE TV
@@ -1649,7 +1655,7 @@ https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
-https://stmv6.voxtvhd.com.br/gmusic/gmusic/playlist.m3u8
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="MUSICA", AUGE MUSIC
 https://video01.logicahost.com.br/augemusic/augemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
@@ -1660,14 +1666,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o9LgTUF.png" group-title="MUSICA", TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rZpi3EA.png" group-title="ESTUDIO FM", REDE BLITZ
-https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MBSUUsK.png" group-title="MUSICA", FM TV
-https://cdn.live.br1.jmvstream.com/w/AVJ-12934/playlist/chunklist.m3u8
+https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lCH5i8c.png" group-title="MUSICA", DE O PLAY TV
 https://video01.logicahost.com.br/deoplay/deoplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WUmP4Kw" group-title="MUSICA", BITT TV
-https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ueglYCU.png" group-title="MUSICA", AGITO MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
@@ -1675,23 +1677,15 @@ https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DHiNxAJ.png" group-title="MUSICA",DECADAS TV
 https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
-https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="MUSICA",MAIS UM
 https://stream.ichibantv.com:3230/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="MUSICA",REDE RC
-https://video05.logicahost.com.br/rederc/rederc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="MUSICA",RIO HOT MIX
 https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jpLKKxc.png" group-title="MUSICA",TV EXPLOSAO FM MUSICAL
-https://stmv1.liveplushd.com.br/tvmirafm/tvmirafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nfN4rbV.png" group-title="MUSICA", CIDADE MUSIC
-https://video.rcast.com.br:5443/cidade/streams/cidade.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nahStVy.png" group-title="MUSICA", BLAST CHANNEL TV
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yF42kfj.png" group-title="MUSICA", POP PEGAJOSO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9y6C1H.png" group-title="MUSICA",LAMORE ROCK SHOW WEB TV
@@ -1700,14 +1694,8 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/isq0RYq.png" group-title="MUSICA",ROCKOLA TV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/0.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hSN4s5m.png" group-title="MUSICA",ROCK TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rock79a0sg09gsf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="MUSICA",ROCK TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
 https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jAUQNQm.png" group-title="MUSICA",SURF ROOTS
-https://cdnvod.panda-os.com/livehls/6334b01306304444c756ebc4/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jAUQNQm.png" group-title="MUSICA",SURF ROOTS 2
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="MUSICA",LOVE SONGS
@@ -1730,8 +1718,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/KOnaEmu.png" group-title="MUSICA",CLASSICOS FM
 https://v01.taaqui.org/joel/joel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VXClRmI.png" group-title="MUSICA",4ACETV CLASSIC POP HIT
-https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_004/3673e65ae595e1ab0fb6103be12b6c53.sdp/live/8571_push_3387_0044ACETVCLASSICPOPHIT/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV TROPICAL
@@ -1745,21 +1731,15 @@ https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="MUSICA",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="MUSICA",OTTO FM TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jUd8gQy.png" group-title="MUSICA",GOLD TV
-https://srv4.zcast.com.br/goldtv/goldtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Dt8SXxy.png" group-title="MUSICA", RADIO CAPITAL TIVU
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8iTx50s.png" group-title="MUSICA", OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="MUSICA", THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="MUSICA", CLUBBING TV
-https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="MUSICA", MUBEAT
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
 #EXTINF:-1 tvg-logo="https://imgur.com/gdmSy9I.png" group-title="MUSICA",DANCE TELEVISION
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BrG3aEE.png" group-title="MUSICA", BOX PLAYLIST
@@ -1774,8 +1754,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="MUSICA", 88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="MUSICA",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="MUSICA",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OXk87kh.png" group-title="MUSICA",BALLE BALLE
@@ -1796,14 +1774,8 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="MUSICA",RADIO M20
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XZvXhUo.png" group-title="MUSICA",MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P2ZC9Wu.png" group-title="MUSICA",VIVALDI TV
-https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUD55Qc.png" group-title="MUSICA",ESSENTIAL TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_247&
-#EXTINF:-1 tvg-logo="https://imgur.com/PJ5K7Ny.png" group-title="MUSICA",TIERRA MIA TV
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CgWumvQ.png" group-title="MUSICA",MUZANGALA TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fo1H4kE.png" group-title="MUSICA",XITE 80 FLASBACK
@@ -1868,6 +1840,8 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
 https://amg01439-amg01439c1-amgplt0020.playout.now3.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="INTERNET", MUBEAT
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mubeat&channel_id=newid_004
 #EXTINF:-1 tvg-logo="https://imgur.com/pBpPJYK.png" group-title="INTERNET",ANIMATION+
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/81R9SfF.png" group-title="FILMES", CINEMINHA
@@ -1898,8 +1872,6 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uWA1Xhx.png" group-title="FILMES", TV SERRANA MIX
-https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
