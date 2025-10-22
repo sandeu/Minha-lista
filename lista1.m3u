@@ -269,7 +269,7 @@ https://eae43398.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLW
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 https://cdn-fast.nxtv.com.br/uolplay/aovivo_abr/uolplay/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d84a864283b276dcb9b
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
-https://video01.soultv.com.br/uoltv/uoltv/chunklist_w836324353.m3u8
+https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
@@ -326,6 +326,8 @@ https://brn-br-lg-channels-br.otteravision.com/brn/bt/bt_h265.m3u8
 https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="BRASIL", MEIO NORTE
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7EgbMZl.png" group-title="BRASIL", MEIO NORTE
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ARgzwKJ.png" group-title="BRASIL",TV ONDAS PLAY
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b61ElnF.png" group-title="BRASIL", REDE METROPOLE
@@ -750,6 +752,8 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gwu9GPn.png" group-title="BRASIL",JOY FLIX
 https://streaming.cloudecast.com/hls/joyflix/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gKDkAn0.png" group-title="BRASIL",TV IBT
 https://stmv2.voxtvhd.com.br/tvibtm/tvibtm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fYre2bL.png" group-title="BRASIL",TVES
@@ -808,7 +812,7 @@ https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
 https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NDFJlck.png" group-title="BRASIL", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NeLGFMC" group-title="BRASIL", TV MARATAIZES
+#EXTINF:-1 tvg-logo="https://imgur.com/Ho0p2Ru.png" group-title="BRASIL", TV MARATAIZES
 https://247788.global.ssl.fastly.net/68ad1a7c724a6928f050ebba/live_809e4d1087af11f092f8f727f1f0bfd4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cvt2ORS.png" group-title="BRASIL",TV MAIS MARILIA
 https://video01.logicahost.com.br/tvmais/tvmais/playlist.m3u8
@@ -1872,15 +1876,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="FILMES",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/243wo0G.png" group-title="FILMES", PRIME CINE
-https://pop.uniquetv.com.br/primecine/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
 https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 ChANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 CHANNEL
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
@@ -1890,24 +1892,18 @@ https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IG0EEB6.png" group-title="FILMES", CINEMONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qClufOV.png" group-title="FILMES", CINE BRASIL TV
-https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qx5STmz.png" group-title="FILMES", XUMO FILMES GRATIS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ymXfs06.png" group-title="FILMES", TV IF CINE
-https://stmv1.srvsite.com/tvifcine/tvifcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uWA1Xhx.png" group-title="FILMES", TV SERRANA MIX
-https://stmv3.webtvninjas.com.br/tvserrana1/tvserrana1/chunklist.m3u8
+https://video10.logicahost.com.br/tvserrana/tvserrana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
-https://stmv8.samcast.com.br/ozemar6751/ozemar6751/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="FILMES",TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+https://stmv1.samcast.com.br/ozemar5044/ozemar5044/playlist.m3u8?hls_ctx=261e21sx
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES",BANG BANG
@@ -1934,10 +1930,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="FILMES",SO PLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Q6MUwJp.png" group-title="FILMES",ENTRETENDO
-https://fast-channels.b-cdn.net/entretendo/aovivo_abr/entretendo/aovivo_1080p/chunks.m3u8?token=4224523355f09a0f1319871f7b732849c8edc661-0e2502617d077a36d0e44d2c37a41d3c-1751593019-1751549819&uid=45.177.139.52&zoneid=24260
-#EXTINF:-1 tvg-logo="https://imgur.com/cxKxXvF.png" group-title="FILMES",BORA
-https://fast-channels.b-cdn.net/bora/aovivo_abr/bora/aovivo_1080p/chunks.m3u8?token=8904f64a422e83858eca538fa11ee3e31cab244d-1f1404a0f9635ce689f258910736a737-1751593019-1751549819&uid=45.177.139.52&zoneid=24260
 #EXTINF:-1 tvg-logo="https://imgur.com/f8dC96c.png" group-title="FILMES",RUN TIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
@@ -1952,8 +1944,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://imgur.com/pFtnILf.png" group-title="FILMES",RUN TIME FAMILIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
-#EXTINF:-1 tvg-logo="https://imgur.com/Nvrt3Xc.png" group-title="FILMES",CRIME E INVESTIGACAO
-https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/ab4fc12c-bf3a-4ba4-a37a-ff90114c3e5e/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0I6DJsj.png" group-title="FILMES",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ziiM83t.png" group-title="FILMES",ADRENALINA PURA TV HALLOWEEN
