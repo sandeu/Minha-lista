@@ -1285,17 +1285,15 @@ https://aovivo3.equipea.com.br:5443/aovivort/streams/mhfHHraq36aFnEDa17455372191
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
-https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/playlist.m3u8
+https://rede-qdm.tvr.ovh/folha-do-campo/folha-do-campo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J3Vk9ol.png" group-title="AGRO",CANAL SOLO FERTIL
 https://canalsolofertil.live/memfs/dd19a992-2e7c-4ffd-97f6-fde810284756_output_0.m3u8?session=LWJwJCzuSg9VbPEDcAWEFk
-#EXTINF:-1 tvg-logo="https://imgur.com/o9i2biE.png" group-title="AGRO",RURAL NO AR
-https://video05.logicahost.com.br/agronoar/agronoar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xKeXCkv.png" group-title="AGRO",TV AGRO E NOSSO
 https://video01.logicahost.com.br/agronosso/agronosso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/giXWvgt.png" group-title="AGRO",TV NOTICIAS AGRICOLAS
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3RBM5sw.png" group-title="AGRO",CANAL AGROPLUS
-https://video09.logicahost.com.br/agroplus/agroplus/playlist.m3u8
+https://video01.soultv.com.br/agroplus/agroplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ti2Uz1P.png" group-title="AGRO",TV AGRO 360
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/688c65bde9e90f4e11bd8f35/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="ESTUDIO FM",VRT CHANNEL
