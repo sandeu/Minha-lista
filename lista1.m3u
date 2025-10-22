@@ -5,9 +5,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="BRASIL", ASSIM E PORTUGAL
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/chunklist_w143215046.m3u8
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
-https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist_w336310122.m3u8
+https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xa4rLvH.png" group-title="BRASIL", FAMA TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GJ2K5Sx.png" group-title="BRASIL", CNN PORTUGAL
@@ -271,7 +271,7 @@ https://video01.soultv.com.br/uoltv/uoltv/chunklist_w836324353.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w794021843.m3u8
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",TIMES BRASIL CNBC
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w715432988.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",TIMES BRASIL CNBC
