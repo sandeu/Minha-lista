@@ -694,6 +694,8 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="BRASIL",AMIGOS E HERMANOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
+#EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9NoMO9x.png" group-title="BRASIL", RM TV
@@ -1296,8 +1298,6 @@ https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playli
 https://video01.soultv.com.br/agroplus/agroplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ti2Uz1P.png" group-title="AGRO",TV AGRO 360
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/688c65bde9e90f4e11bd8f35/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="ESTUDIO FM",VRT CHANNEL
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
 https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
@@ -1309,7 +1309,7 @@ https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlis
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XQwkoQ8.png" group-title="ESTUDIO FM", METROPOLES FM
-https://video09.logicahost.com.br/tvradio/tvradio/playlist.m3u8
+https://stmv2.srvif.com/metro5/metro5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
@@ -1324,9 +1324,7 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://5ad482a77183d.streamlock.net/ativafmesportesgmail.com/ativafmesportesgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EAgXiYq.png" group-title="ESTUDIO FM", NATIVA FM CAMPINAS
-https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
+#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
 https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
@@ -1358,14 +1356,10 @@ https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE 
 https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HH4TUDQ.png" group-title="ESTUDIO FM", LIDER FM UBA
-https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V0RbUvh.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RADIO DIFUSORA FM 98
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fDiFBw4.png" group-title="ESTUDIO FM", RADIO NOVA ONDA FM
-https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hywBzmx.png" group-title="ESTUDIO FM", RADIO CIDADE LITORAL
 https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", RADIO TRANSJOVEM
@@ -1376,10 +1370,6 @@ https://stmv1.srvstm.com/rogerio2689/rogerio2689/playlist.m3u8
 https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM", RADIO PLANALTO NEWS
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RADIO TAROBA FM LONDRINA
-https://cdn.live.br1.jmvstream.com/w/LVW-19064/LVW19064_SkS5KoFxo2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/K0HSU7i.png" group-title="ESTUDIO FM", RADIO EDUCADORA 
-https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kBz6Znn.png" group-title="ESTUDIO FM", RADIO LITORAL FM
 https://5ad482a77183d.streamlock.net/jdubonetgmail.com/jdubonetgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mC5vOEl.png" group-title="ESTUDIO FM", RADIO CIDADE VERDE
@@ -1408,14 +1398,10 @@ https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NSNZN6f.png" group-title="ESTUDIO FM", RADIO D2 FM
 https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Xr0Yj6W.png" group-title="ESTUDIO FM", GOSPEL FM
-https://virtues.es:1936/gospel90/gospel90/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rZpi3EA.png" group-title="ESTUDIO FM", REDE BLITZ
 https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2Z0Udho.png" group-title="ESPORTES", XPORTS
-https://zplivecdn.live/live/esdras1/esdras1/48351.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/qHZ23Ue.png" group-title="ESPORTES", GE TV
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HDDlUhT.png" group-title="ESPORTES", CAZE TV
