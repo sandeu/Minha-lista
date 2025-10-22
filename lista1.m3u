@@ -218,10 +218,6 @@ https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
 https://hplay.tv/augetv/12396547488/10.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4YV1dSR.png" group-title="BRASIL", SBT SINOP
-https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5jEsAql.png" group-title="BRASIL", SBT CUIABA
-https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSKVrvH.png" group-title="BRASIL",NEW BRASIL
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
@@ -230,6 +226,10 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4YV1dSR.png" group-title="BRASIL", SBT SINOP
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5jEsAql.png" group-title="BRASIL", SBT CUIABA
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QmhUB1N.png" group-title="BRASIL", TV CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SK7XsWK.png" group-title="BRASIL", TV GUAJARA
