@@ -182,6 +182,8 @@ http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GHGp7O3.png" group-title="BRASIL",REISEN CLUBE TV
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="BRASIL", TV HISTORIA
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPQkhm6.png" group-title="BRASIL", HISTORIA
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
@@ -1078,6 +1080,8 @@ https://video01.soultv.com.br/roraimatv/roraimatv/playlist.m3u8
 https://video01.kshost.com.br:4443/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PGu65yP.png" group-title="BRASIL", TV PETROPOLIS
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TvFJ80Z.png" group-title="BRASIL", OK TV
+https://stmv2.srvsh.com.br/douglas1004/douglas1004/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PoW3zX3.png" group-title="BRASIL", TV ONIX
 https://video01.soultv.com.br/tvonix/tvonix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ro8aCxZ.png" group-title="BRASIL", TV NND
@@ -1146,6 +1150,8 @@ https://video01.kshost.com.br/tvlagos/tvlagos/playlist.m3u8
 https://video05.logicahost.com.br/tvpontadoseixas/tvpontadoseixas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgSH1JH.png" group-title="BRASIL",TV JUDAICA
 https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
+https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9N1RL3.png" group-title="TELEVENDAS",TV MAIS ABC
