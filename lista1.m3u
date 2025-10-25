@@ -766,6 +766,8 @@ https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RZoCJzN.png" group-title="BRASIL",REDE FENIX
+https://video08.logicahost.com.br/redefenix/redefenix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gwu9GPn.png" group-title="BRASIL",JOY FLIX
 https://streaming.cloudecast.com/hls/joyflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tgghe8k.png" group-title="BRASIL",TV DIFUSAO
@@ -1188,6 +1190,8 @@ https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UNEqCqd.png" group-title="BRASIL", TV PRINCESA DO VALE
+https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
 https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
@@ -1872,6 +1876,8 @@ https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eMqSVYN.png" group-title="FILMES",TV CIDADE
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JIobzE9.png" group-title="FILMES",TV BRADOCKY
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="FILMES",TV MINUTO NORDESTE
