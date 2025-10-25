@@ -560,6 +560,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/NHDDOTh.png" group-title="BRASIL",YU-GI-OH
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/lpTSZ06.png" group-title="BRASIL", AVATAR A LENDA DE AANG
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6759eeb1bd523200083b4f29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/RGSsqRp.png" group-title="BRASIL",TOKUSATO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="BRASIL",SATO MAIS
@@ -766,6 +768,8 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gwu9GPn.png" group-title="BRASIL",JOY FLIX
 https://streaming.cloudecast.com/hls/joyflix/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tgghe8k.png" group-title="BRASIL",TV DIFUSAO
+https://tvditv.acessaradios.com.br/tvditv/tvditv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gKDkAn0.png" group-title="BRASIL",TV IBT
@@ -1182,6 +1186,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvalvorada/chunks.m3u8
 https://video08.logicahost.com.br/tvcariris/tvcariris/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/j17p3W5.png" group-title="BRASIL",RAE TV
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="BRASIL", TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
 https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
@@ -1266,8 +1272,6 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/84ee0b41f0a4
 https://ads.its-newid.net/api/manifest.m3u8?tp=tcl_channel&channel_name=babysharktv&channel_id=newid_193&apikey=dc921086-c2d0-40fc-1914-20388a1bb9ab&auth=90b91f9c-98587460-a01b34c5-ef28eecc&ads.live={{LiveStream}}&ads.deviceid={{DID}}&ads.ifa={{DID}}&ads.ifatype=aaid&ads.lat={{DNT}}&ads.donotsell=1&ads.ip={{ipAddr}}&ads.gdpr=0&ads.gdprconsent={{GdprConsent}}&ads.country=BR&ads.us_privacy={{UsPrivacy}}&ads.appstoreurl={{AppStoreUrl}}&ads.bundleid={{appPackage}}&ads.appname={{appName}}&ads.appversion={{appVersion}}&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake={{DeviceMake}}&ads.devicemodel={{DeviceModel}}&ads.targetad={{DNT}}&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.ua={{UserAgent}}
 #EXTINF:-1 tvg-logo="https://imgur.com/2R2sIfi.png" group-title="DESENHOS", 3 PALAVRINHAS
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66debf48589f562ad2cdb877/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lpTSZ06.png" group-title="DESENHOS", AVATAR A LENDA DE AANG
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6759eeb1bd523200083b4f29/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="DESENHOS", TOON GOOGLE
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/swdNpIW.png" group-title="DESENHOS", TG JUNIOR
@@ -1616,6 +1620,8 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zzaTx5j.png" group-title="RELIGIOSO",TV MAANAIM
 https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y5DbvLz.png" group-title="RELIGIOSO",TV MANA BRASIL
+https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NkM8Ugr.png" group-title="RELIGIOSO",REDE UNIVERSO TV
@@ -1648,10 +1654,10 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999252
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992527
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX ECLETICO
 https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP
-https://video03.logicahost.com.br/canal03/canal03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP ANTIGO
+https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV SERTANEJO
-https://srv2.fortenet.com.br/topmixtvsertanejo3/topmixtvsertanejo3/playlist.m3u8
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
@@ -1866,7 +1872,7 @@ https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JIobzE9" group-title="FILMES",TV BRADOCKY
+#EXTINF:-1 tvg-logo="https://imgur.com/JIobzE9.png" group-title="FILMES",TV BRADOCKY
 https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="FILMES",TV MINUTO NORDESTE
 https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
@@ -1876,8 +1882,6 @@ https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qx5STmz.png" group-title="FILMES", XUMO FILMES GRATIS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
-#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="FILMES", TV NBN
-https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
