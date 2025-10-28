@@ -1194,6 +1194,8 @@ https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UNEqCqd.png" group-title="BRASIL", TV PRINCESA DO VALE
 https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ewvJhP2.png" group-title="BRASIL",BLACK SAMPA
+https://stmv1.samcast.com.br/thiago8769/thiago8769/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TYbRZWe.png" group-title="BRASIL",PERU CHANNEL
 https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
@@ -1696,8 +1698,6 @@ https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 https://stream.ichibantv.com:3230/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="MUSICA",RIO HOT MIX
 https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ewvJhP2.png" group-title="MUSICA",BLACK SAMPA
-https://stmv1.samcast.com.br/thiago8769/thiago8769/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nahStVy.png" group-title="MUSICA", BLAST CHANNEL TV
@@ -1748,7 +1748,7 @@ https://lightning-now90s-xiaomi.amagi.tv/playlist.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="MUSICA",RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/b9dzDiD.png" group-title="MUSICA",OTTO FM TV
+#EXTINF:-1 tvg-logo="https://imgur.com/Pb5SLvr.png" group-title="MUSICA",RECUERDOS RETRO TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fsOSAq1.png" group-title="MUSICA", VINTAGE RADIO TV
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
