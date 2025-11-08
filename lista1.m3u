@@ -584,8 +584,6 @@ https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5L3FCne.png" group-title="BRASIL",UNIQUE SUPER GEEK
 https://pop.uniquetv.com.br/supergeek/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gLuNgQ8.png" group-title="BRASIL",GEEK TECH
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
 #EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="BRASIL",UBISOFT TV
@@ -642,8 +640,6 @@ https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P0w0BEM.png" group-title="BRASIL",ZUMBIS
-https://jmp2.uk/plu-685daaab9029059b2da9cb9a.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eJU8vWO.png" group-title="BRASIL",Z NATION
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876018/hls/master.m3u8?ads.xumo_channelId=88876018
 #EXTINF:-1 tvg-logo="https://imgur.com/eJU8vWO.png" group-title="BRASIL",Z NATION
@@ -688,8 +684,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a7600087450
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/GUunFoY.png" group-title="BRASIL",NCIS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/68811cc793b4e49b4d99102d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/1Gvf3mU.png" group-title="BRASIL",NCIS TONY E ZIVA
-https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nhNyWsJ.png" group-title="BRASIL",SERIES ACAO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/Ji3eXU5.png" group-title="BRASIL",ROOKIE BLUE
@@ -1220,8 +1214,6 @@ https://cc-0vgk6slyph2cz.akamaized.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u
 https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m5yr10H.png" group-title="DESENHOS",WEB TV GADO BRAVO
-https://stmv1.tv.ssplay.top/admin/admin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
@@ -1506,16 +1498,12 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/7f1acf7c00b
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VqBYhgt.png" group-title="ESPORTES", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xSvl5Io.png" group-title="ESPORTES", DAZN WOMENS SPORT
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenfootball-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hKEFCLc.png" group-title="ESPORTES", DAZN COMBAT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/t7ca2RR.png" group-title="ESPORTES", DAZN RINGSIDE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ewEtPFe.png" group-title="ESPORTES", DAZN DARTS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://imgur.com/YMxN7IZ.png" group-title="ESPORTES", MODUS SUPER SERIES DARTS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6752f863cbfdc56330643e9blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://imgur.com/hBCM21P.png" group-title="ESPORTES", TENNIS TV CLASSICS
 https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QwtFd4K.png" group-title="ESPORTES", TENNIS +
