@@ -720,8 +720,6 @@ https://isaocorp.cloudecast.com/vgstv/tracks-v1a1/mono.m3u8
 https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YtagYe6.png" group-title="BRASIL",TV 3 FRONTEIRAS
 https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U5Eyc7d.png" group-title="BRASIL",RSC TV
-https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B6G4gH7.png" group-title="BRASIL", TV PONTA DA SERRA
 https://ikki.hubcloud.tv.br/PontadaSerra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XHC0eih.png" group-title="BRASIL",IETV
@@ -758,6 +756,8 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z4LnJUr.png" group-title="BRASIL", TV PROFISSAO
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xVIrfLk.png" group-title="BRASIL",REDE METROPOLITANO TV
+https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/TsGoRFl.png" group-title="BRASIL", TV 100 CAIPIRA
 https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/5TPSD12.png" group-title="BRASIL", TV POMPEIA
