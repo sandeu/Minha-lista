@@ -302,6 +302,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="BRASIL",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lTNs1GA.png" group-title="BRASIL",TV 247
+https://video03.logicahost.com.br/tv247online/tv247online/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lfn2Clb.png" group-title="BRASIL", PORTO ALEGRE 24 HS
@@ -742,6 +744,8 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="BRASIL", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hoV7Hmg.png" group-title="BRASIL", TV CIDADE BAHIA
+https://cdn.live.br1.jmvstream.com/webtv/ifulrbjz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byJAMHe.png" group-title="BRASIL", MASPER TV
 https://tv02.zas.media:1936/masper/masper/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PA1uWZT.png" group-title="BRASIL", TV MAX
