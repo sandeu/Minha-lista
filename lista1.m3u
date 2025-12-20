@@ -30,6 +30,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderel
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="BRASIL",FREE TV DRAMA
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="BRASIL",NOVELA JESUS
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
 https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DUYNLE5.png" group-title="BRASIL",A TERRA PROMETIDA
@@ -1588,6 +1590,8 @@ https://amg02040-lguplus-amg02040c10-lg-br-8210.playouts.now.amagi.tv/playlist/a
 https://srp-digital-greatestsportslegendslaughs-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CqgmQAU.png" group-title="ESPORTES",NITRO CIRCUS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992252
+#EXTINF:-1 tvg-logo="https://imgur.com/yaJId5N.png" group-title="ESPORTES",STRONGMAN CHAMPIONS LEAGUE
+https://0c980051264040239f8f4a41ce47612f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VXCabIw.png" group-title="ESPORTES", WORLD BILLIARDS TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003
 #EXTINF:-1 tvg-logo="https://imgur.com/M9IDfXI.png" group-title="ESPORTES", BILLIARD TV
