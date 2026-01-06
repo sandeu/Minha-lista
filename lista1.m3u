@@ -728,6 +728,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cev7949.png" group-title="BRASIL", ITV - INTERATIVA
+https://stmv7.samcast.com.br/itvportal/itvportal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9NoMO9x.png" group-title="BRASIL", RM TV
 https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
