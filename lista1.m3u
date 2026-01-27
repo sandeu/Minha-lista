@@ -1852,6 +1852,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67802a22a5d8215f99dcee
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nlDum1b.png" group-title="INTERNET",THIS IS HAPPENING
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992146
+#EXTINF:-1 tvg-logo="https://imgur.com/hMcBz1j.png" group-title="INTERNET",30A TV RIDICULOUS X TV
+https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KA58aRs.png" group-title="INTERNET",PEOPLE ARE AWESOME
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IuQh1ps.png" group-title="INTERNET",THE PET COLECTIVE
