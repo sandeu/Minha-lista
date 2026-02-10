@@ -1340,6 +1340,8 @@ https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea9
 https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9WpCGIx.png" group-title="AGRO",TERRA VIVA
 https://cdn-5.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9WpCGIx.png" group-title="AGRO",TERRA VIVA
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
@@ -1943,7 +1945,7 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES", CINDIE LITE
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HBNYdop.png" group-title="FILMES", CINDIE LITE
-https://cdn-fast.nxtv.com.br/scheduler/scheduleMaster/387/variant/22099961.m3u8?bpkio_serviceid=9978b7063e297d84ec5d68e4110d11fc
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
