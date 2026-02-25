@@ -1363,6 +1363,8 @@ https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
 https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yiUTOqX.png" group-title="ESTUDIO FM", TEMPO FM
+https://cdn.live.br1.jmvstream.com/webtv/pvmxspfo/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
@@ -1375,8 +1377,6 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/27laNDi.png" group-title="ESTUDIO FM", ATIVIDADE FM
 https://a.cdni.live/radioatividade/radioatividade/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/toR5rPu.png" group-title="ESTUDIO FM", SUCESSO FM
-https://sucessonews.brasilstream.com.br/hls/sucessonews/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM 
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JhC0aFZ.png" group-title="ESTUDIO FM", ATIVA FM 
