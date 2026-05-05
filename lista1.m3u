@@ -152,6 +152,8 @@ https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CWjLykI.png" group-title="BRASIL", FATOS DESCONHECIDOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:-1 tvg-logo="https://imgur.com/xZA1lJh.png" group-title="BRASIL", ADORO CINEMA
+https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aDSWuz4.png" group-title="BRASIL", REDE UTV
@@ -435,21 +437,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8
 #EXTINF:-1 tvg-logo="https://imgur.com/plADlc3.png" group-title="BRASIL",SO POLICIAL
 https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6Q8vFHD.png" group-title="BRASIL",POLICIAL
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/678fdf9e3de7c8cf948e8824/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/678fdf9e3de7c8cf948e8824/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCER0d0.png" group-title="BRASIL",OPERACAO DE RISCO
 https://origin-nxtv.b-cdn.net/REDETV_OPERACAO_DE_RISCO/tracks-v1a1/mono.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
 #EXTINF:-1 tvg-logo="https://imgur.com/MN9IqXW.png" group-title="BRASIL",INVESTIGACAO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/r01w2xt.png" group-title="BRASIL",OS ARQUIVOS DO FBI
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773c30e9e90f4e11b35d9e/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/np2giHd.png" group-title="BRASIL",PRONTO SOCORRO HISTORIAS DE EMERGENCIAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/n53Cr73.png" group-title="BRASIL",DETETIVES MEDICOS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/master.m3u8?ads.xumo_channelId=88884608
 #EXTINF:-1 tvg-logo="https://imgur.com/FjUMo9z.png" group-title="BRASIL",MISTERIOS SEM SOLUCAO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/c8lqm3N.png" group-title="BRASIL",ASSOMBRACOES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e90f4e11b35d9d/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5esDspy.png" group-title="BRASIL",MISTERIOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://imgur.com/nP3dS00.png" group-title="BRASIL",ESTADO PARANORMAL
@@ -568,6 +570,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="BRASIL",WESTERN BOUND
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f5db557dc5ea4552bb723690a52f5aee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
 https://amg01822-amc-amg01822c1-lg-br-8375.playouts.now.amagi.tv/playlist/amg01822-amcnetworkslatinamericallcfast-thewalkingdeadbyamcbr-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
