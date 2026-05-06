@@ -154,6 +154,8 @@ https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/xZA1lJh.png" group-title="BRASIL", ADORO CINEMA
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/adfaOrm.png" group-title="BRASIL", IA CHANNEL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aDSWuz4.png" group-title="BRASIL", REDE UTV
@@ -258,6 +260,8 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 https://pop.uniquetv.com.br/tvoreporter/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rPgGYH8.png" group-title="BRASIL", TV FLOW
 https://gpf-tvfl-samsungtvplus-br.otteravision.com/gpf/tvfl/tvfl_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rBIYzHZ.png" group-title="BRASIL", PODPAH TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16979
 #EXTINF:-1 tvg-logo="https://imgur.com/jq8f0mZ.png" group-title="BRASIL",CARAS TV
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QlwoWsH.png" group-title="BRASIL",ROYAL WORLD
@@ -506,6 +510,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="BRASIL",THE CHOSEN
+https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="BRASIL",WESTERN BOUND
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f5db557dc5ea4552bb723690a52f5aee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DZavL3a.png" group-title="BRASIL",THE WALKING DEAD BY AMC
@@ -1546,6 +1552,8 @@ https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg0
 https://olympusat-mmc-lg-br-0abgn.amagi.tv/playlist/olympusat-mmc-lg-br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qM1l42Z.png" group-title="MUSICA", FREE TV HITS
 https://olympusat-flashlatam-lg-br-k8t6p.amagi.tv/playlist/olympusat-flashlatam-lg-br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8ZONH9o.png" group-title="MUSICA", SMTOWN
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=smtown&channel_id=newid_332&mpf=09daf170-39af1962-bbc62eab&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ddd2d215-79be35eb-8de88db3-0eceaf47&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://imgur.com/u8WzfAg.png" group-title="MUSICA", NEW KPOP TV
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
