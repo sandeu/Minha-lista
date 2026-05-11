@@ -156,6 +156,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/adfaOrm.png" group-title="BRASIL", IA CHANNEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
+#EXTINF:-1 tvg-logo="https://imgur.com/IjOHzow.png" group-title="BRASIL", K VIBE
+https://amg30822-amg30822c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg30822-amg30822c1-amgplt0026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XLLwoP7.png" group-title="BRASIL", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aDSWuz4.png" group-title="BRASIL", REDE UTV
@@ -234,6 +236,8 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 https://eae43398.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMLWJyX0V1cm9uZXdzUG9ydHVndWVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="BRASIL",CANAL UOL
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UQNmIBp.png" group-title="BRASIL",,METROPOLES
+https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg30834-amg30834c1-amgplt0026/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 #EXTINF:-1 tvg-logo="https://imgur.com/BPXlodA.png" group-title="BRASIL",CNN
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2dBUxlk.png" group-title="BRASIL",CNN MONEY
