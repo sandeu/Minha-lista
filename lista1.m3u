@@ -374,6 +374,10 @@ http://95.67.12.82:9098
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RrCqjeU.png" group-title="BRASIL", NATURE MOMENTS
 https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="BRASIL",ANIMAIS
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/logoAlt_1770996650932.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png.png" group-title="BRASIL",NATUREZA
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/276FuIH.png" group-title="BRASIL",PET LOVERS TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XDCCQcc.png" group-title="BRASIL",TV MAIS PET
@@ -424,6 +428,8 @@ https://amg00627-banijay-amg00627c52-tcl-br-10603.playouts.now.amagi.tv/playlist
 https://amg00627-banijay-amg00627c54-tcl-br-10605.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealbr-tclbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P5zVhtA.png" group-title="BRASIL",HARDCORE PAWN
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/HardcorePawn_BR/HardcorePawn.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="BRASIL",POLICIAL
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plADlc3.png" group-title="BRASIL",SO POLICIAL
 https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCER0d0.png" group-title="BRASIL",OPERACAO DE RISCO
@@ -524,6 +530,8 @@ https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="BRASIL", TV Retrô
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="BRASIL",THE CHOSEN
 https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="BRASIL",WESTERN BOUND
@@ -554,6 +562,10 @@ https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="BRASIL",SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="BRASIL", Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="BRASIL", Acumuladores Compulsivos
+https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZOhyJTi.png" group-title="BRASIL",AMIGOS E HERMANOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
@@ -1084,6 +1096,10 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",DESENHOS CLASSICOS
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",OS SMURFS
+https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
