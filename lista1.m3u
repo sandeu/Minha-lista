@@ -1185,13 +1185,11 @@ https://video01.soultv.com.br/agroplus/agroplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ti2Uz1P.png" group-title="AGRO",TV AGRO 360
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/688c65bde9e90f4e11bd8f35/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", INTERATIVA FM
-https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
+https://video11.logicahost.com.br/interativafm01/interativafm01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zruSlqG.png" group-title="ESTUDIO FM", CLUBE FM 103.1
 https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yiUTOqX.png" group-title="ESTUDIO FM", TEMPO FM
-https://cdn.live.br1.jmvstream.com/webtv/pvmxspfo/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
