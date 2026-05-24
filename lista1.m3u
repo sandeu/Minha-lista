@@ -606,6 +606,8 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/MuABn0C.png" group-title="BRASIL", JA VIU TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="BRASIL",MAIS UM
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/72JOrDK.png" group-title="BRASIL", TV LITORAL RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ijtyTRV.png" group-title="BRASIL",MUNDO TV
@@ -1082,6 +1084,15 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9dkIAf.png" group-title="BRASIL", WEB CANAL BLECAUTE TV
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/T6PF0fH.png" group-title="BRASIL", TV PAPAGAIO
+https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HagS6Lm.png" group-title="BRASIL", TV CRUZEIRO DO BRASIL
+https://s1.tvr.ovh/video69413/video69413/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BGEwn7z.png" group-title="BRASIL", TV PRAIA
+https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Zkhh2Hn.png" group-title="BRASIL", TV AGORA LITORAL NORTE
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1114,6 +1125,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/upYjv2W.png" group-title="DESENHOS",NBX TV KIDS
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
@@ -1121,9 +1134,11 @@ https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="DESENHOS",KIDS TV SHOW
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
-https://s1.tvr.ovh/video52119/video52119/playlist.m3u8
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="DESENHOS",NTOONS
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SrhjeQI.png" group-title="DESENHOS",KIDS PICTURES BRASIL
 https://vs20.live.opencaster.com/diskpicturesbr_05db573c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hjl9HJ.png" group-title="DESENHOS", INSPETOR BUGIGANGA
@@ -1532,8 +1547,6 @@ https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
 https://pushapp.uniaoplay.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="MUSICA",MAIS UM
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="MUSICA",RIO HOT MIX
 https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
