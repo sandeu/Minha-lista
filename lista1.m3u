@@ -158,6 +158,8 @@ https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/xZA1lJh.png" group-title="BRASIL", ADORO CINEMA
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D7ZkV6j.png" group-title="BRASIL", ADMIRADORES DA SETIMA ARTE
+https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/adfaOrm.png" group-title="BRASIL", IA CHANNEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
 #EXTINF:-1 tvg-logo="https://imgur.com/IjOHzow.png" group-title="BRASIL", K VIBE
@@ -1092,7 +1094,8 @@ https://s1.tvr.ovh/video69413/video69413/playlist.m3u8
 https://video08.logicahost.com.br/tvpraia/tvpraia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zkhh2Hn.png" group-title="BRASIL", TV AGORA LITORAL NORTE
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/UIfuO3H.png" group-title="BRASIL", TV BRASIL ANGOLA
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1127,6 +1130,8 @@ https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/upYjv2W.png" group-title="DESENHOS",NBX TV KIDS
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rCSyn4A.png" group-title="DESENHOS",ANIM GEEK
+https://stmv2.srvsh.com.br/daniel5336/daniel5336/chunklist_w1036869408.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
@@ -1137,6 +1142,8 @@ https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JfbVRfC.png" group-title="DESENHOS",JETIX TV
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="DESENHOS",NTOONS
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SrhjeQI.png" group-title="DESENHOS",KIDS PICTURES BRASIL
@@ -1569,6 +1576,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jmp2.uk/plu-68485f62fcd2ec536bd11ac1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KOnaEmu.png" group-title="MUSICA",CLASSICOS FM
 https://v01.taaqui.org/joel/joel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4v7FYTb.png" group-title="MUSICA",MUSIC HITS TV
+https://s1.tvr.ovh/acessomusic/acessomusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV TROPICAL
@@ -1713,6 +1722,8 @@ https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RYwSgUF.png" group-title="FILMES",NBX PIPOCA
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="FILMES",CINE CATASTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/quX5jy5.png" group-title="FILMES",TVNA FILMES
