@@ -462,8 +462,28 @@ https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6915392301003a3b85c3c67e/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZuPMPOW.png" group-title="BRASIL",INU YASHA
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68ed0b996453bd1522dfe9b4/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eRLW03d.png" group-title="BRASIL",ANIME
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4qIdqVn.png" group-title="BRASIL",ANIME ACAO
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/boOKDzw.png" group-title="BRASIL",NARUTO
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EVQWkGq.png" group-title="BRASIL",NARUTO SHIPPUDEN
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MCKlHTh.png" group-title="BRASIL",BORUTO 
+https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Dtd7GGj.png" group-title="BRASIL",DEATH NOTE
+https://jmp2.uk/plu-625464a945b6a200079257d1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GBBnfTl.png" group-title="BRASIL",ONE PIECE
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hz5X4Un.png" group-title="BRASIL",BEYBLADE
+https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TSvJ3Dt.png" group-title="BRASIL",SUPER ONZE
+https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NHDDOTh.png" group-title="BRASIL",YU-GI-OH
+https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RGSsqRp.png" group-title="BRASIL",TOKUSATO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n9QFGRp.png" group-title="BRASIL",SATO MAIS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YkJw71H.png" group-title="BRASIL",GG GOOD GAMES
