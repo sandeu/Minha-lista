@@ -726,8 +726,6 @@ https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="BRASIL", POOP TV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LETZAUg.png" group-title="BRASIL", TV CHANNEL NETWORK
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="BRASIL", TV RABELO
 https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w4eIbyB.png" group-title="BRASIL",ABC BRASIL
@@ -1102,8 +1100,6 @@ https://video04.logicahost.com.br/entertainmentplay/entertainmentplay/playlist.m
 https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UlcN4JP.png" group-title="BRASIL", NBX TV
 https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xTMSK2r.png" group-title="BRASIL", TV CRUZEIRO DO SUL
-https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9dkIAf.png" group-title="BRASIL", WEB CANAL BLECAUTE TV
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6PF0fH.png" group-title="BRASIL", TV PAPAGAIO
