@@ -1830,8 +1830,6 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e9
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1i2M7i5.png" group-title="FILMES",MEDO TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/81R9SfF.png" group-title="FILMES", CINEMINHA
-https://jmp2.uk/plu-66c8ca1280a0af00085b5b83.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7vtVmS2.png" group-title="FILMES",BANG BANG
 https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MWuHCQ4.png" group-title="FILMES",NET MOVIES
