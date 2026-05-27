@@ -30,8 +30,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=misty_sl
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="BRASIL",FREE TV DRAMA
 https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",NOVELAS
-https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="BRASIL",NOVELA JESUS
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
@@ -40,6 +38,8 @@ https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",NOVELAS
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="BRASIL",WE DO TV AMOR
@@ -562,6 +562,8 @@ https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",ARNOLD
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",SERIES NOVELESCAS
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="BRASIL",THE CHOSEN
 https://amg00353-amg00353c88-lg-br-11648.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-thechosenportuguesecc-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KnCHWXe.png" group-title="BRASIL",WESTERN BOUND
@@ -588,6 +590,40 @@ https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="BRASIL",ROOKIE BLUE
 https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l0HGYhe.png" group-title="BRASIL",KENAN E KEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/Wc94C6y.png" group-title="BRASIL",ICARLY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/qzSmVKN.png" group-title="BRASIL",CHARMED JOVENS BRUXAS
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m9fmmvJ.png" group-title="BRASIL",HEARTLAND
+https://amg00353-amg00353c61-samsung-br-8766.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RNvJLkb.png" group-title="BRASIL",ROOKIE BLUE
+https://amg00353-amg00353c63-samsung-br-8947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8ior8jT.png" group-title="BRASIL",NICKELODEON TEEN
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qtZprex.png" group-title="BRASIL",SERIES CRIMINAIS
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/urpkury.png" group-title="BRASIL",CSI MIAMI
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GUunFoY.png" group-title="BRASIL",NCIS
+https://jmp2.uk/plu-68811cc793b4e49b4d99102d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Gvf3mU.png" group-title="BRASIL",NCIS TONY E ZIVA
+https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nhNyWsJ.png" group-title="BRASIL",SERIES ACAO
+https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5HvQdyZ.png" group-title="BRASIL",SERIES SCI FI
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/30DLGzL.png" group-title="BRASIL",A CACADORA DE RELIQUIAS
+https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bbnHuWo.png" group-title="BRASIL",SERIES DRAMA
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SBaLSEL.png" group-title="BRASIL",SERIES COMEDIA
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8qm3lt0.png" group-title="BRASIL",BET
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7EuXqVQ.png" group-title="BRASIL",NUMBERS
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="BRASIL",SONY ONE EMOCOES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2qWdToI.png" group-title="BRASIL",SONY ONE SHARK TANK
@@ -1196,6 +1232,16 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d
 https://stmv2.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=no15o3z2
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO CARTMAN
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO KENNY
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO KYLE
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO STAN
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILAGRO BRASIL
 https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea95109729bfdb577864810d1e9435-5428c7f69ccc6bc0b7017704e9185e62-1715823041-1715779841
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
