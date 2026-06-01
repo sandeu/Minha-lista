@@ -710,6 +710,8 @@ https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4wiDCej.png" group-title="BRASIL", CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RZoCJzN.png" group-title="BRASIL",REDE FENIX
 https://video08.logicahost.com.br/redefenix/redefenix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gwu9GPn.png" group-title="BRASIL",JOY FLIX
@@ -800,15 +802,13 @@ https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RLH1Qff.png" group-title="BRASIL", AUGE CDC
 https://video05.logicahost.com.br/augecdc/augecdc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5xz9dPI.png" group-title="BRASIL", TV RADICAL DIGITAL
 https://stmv1.srvif.com/tvradicaldigital/tvradicaldigital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dk0L53s.png" group-title="BRASIL", TV NOVO PROGRESSO
 https://stmv7.samcast.com.br/tvnovoprogresso/tvnovoprogresso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4OKJ35N.png" group-title="BRASIL", TV METROPOLE NEWS
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nta9r5G.png" group-title="BRASIL", YPE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/5YQl3Y0.png" group-title="BRASIL", EU TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tDtVLrT.png" group-title="BRASIL", TV AGORA
 https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
