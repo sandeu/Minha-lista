@@ -1156,6 +1156,8 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1kCCGkS.png" group-title="BRASIL", TV PRAIA GRANDE
 https://video01.brascast.com/christiane1532/christiane1532/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8xxZBja.png" group-title="BRASIL", FAMILIA TV
+https://stream.castr.com/5bc1431aaa00ea389fcfb163/live_c465a13052e111f1947233f0202499f0/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
