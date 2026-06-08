@@ -152,6 +152,8 @@ https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O1GaLYE.png" group-title="BRASIL",VAMBORA CHANNEL
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u8YIUbq.png" group-title="BRASIL",TUOO E VIAGEM TV
+https://tudoeviagem.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GHGp7O3.png" group-title="BRASIL",REISEN CLUBE TV
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="BRASIL", TV HISTORIA
@@ -162,7 +164,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D7ZkV6j.png" group-title="BRASIL", ADMIRADORES DA SETIMA ARTE
 https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/adfaOrm.png" group-title="BRASIL", IA CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/KqouQDP.png" group-title="BRASIL", IA CHANNEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
 #EXTINF:-1 tvg-logo="https://imgur.com/IjOHzow.png" group-title="BRASIL", K VIBE
 https://amg30822-amg30822c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg30822-amg30822c1-amgplt0026/playlist.m3u8
@@ -1582,6 +1584,8 @@ https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gsTkTZa.png" group-title="RELIGIOSO", IGREJA ELIM
 https://cdn-5.nxplay.com.br/IGREJA_ELIM/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gYAWayf.png" group-title="RELIGIOSO", ALMA GOSPEL
+https://almagospel.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="MUSICA",TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-logo="https://imgur.com/s9pq2a2.png" group-title="MUSICA",MAIS TV
@@ -1600,6 +1604,8 @@ https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sle
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="MUSICA", AUGE MUSIC
 https://video01.logicahost.com.br/augemusic/augemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GHRTWIL.png" group-title="MUSICA", TOCA TUDO TV
+https://tocatudotv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
