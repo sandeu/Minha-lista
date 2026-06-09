@@ -568,6 +568,10 @@ https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",ARNOLD
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/STcGZA4.png" group-title="BRASIL",COMEDY CLUB
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bqNcHmx.png" group-title="BRASIL",OS DETETIVES
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",SERIES NOVELESCAS
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AcDJ24i.png" group-title="BRASIL",THE CHOSEN
