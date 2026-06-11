@@ -620,6 +620,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/we8oaQq.png" group-title="BRASIL", AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p3NwEM7.png" group-title="BRASIL", LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GvNEYCj.png" group-title="BRASIL", TV ALIANCA
+https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9NoMO9x.png" group-title="BRASIL", RM TV
 https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rWz9ElR.png" group-title="BRASIL",WEB TV SAO LUIS CANOAS
@@ -1138,8 +1144,6 @@ https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
 https://cdn-5.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9WpCGIx.png" group-title="AGRO",TERRA VIVA
 https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
@@ -1685,7 +1689,7 @@ https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i9ajVp7.png" group-title="FILMES", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="FILMES",CLASSIQUE TV
-https://stmv2.painelvideocast.com.br/classique/classique/playlist.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 CHANNEL
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
