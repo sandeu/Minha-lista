@@ -1278,6 +1278,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZIMQm6N.png" group-title="ESPORTES", CANAL GOAT
 https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZIMQm6N.png" group-title="ESPORTES", CANAL GOAT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17183&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
 https://video01.soultv.com.br/nsports/nsports/chunklist_w1896147320.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
@@ -1336,6 +1338,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ucqxBR1.png" group-title="ESPORTES", TOP BARCA
 https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ucqxBR1.png" group-title="ESPORTES", TOP BARCA
+https://amg17560-amg17560c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg17560-amg17560c2-amgplt0026/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]
 #EXTINF:-1 tvg-logo="https://imgur.com/t7ca2RR.png" group-title="ESPORTES", DAZN RINGSIDE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hBCM21P.png" group-title="ESPORTES", TENNIS TV CLASSICS
