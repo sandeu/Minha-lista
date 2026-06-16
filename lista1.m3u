@@ -1828,6 +1828,8 @@ https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hs7RhZ9.png" group-title="FILMES",FILMES AVENTURA
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zDzR6rU.png" group-title="FILMES",NEW KMOVIES
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-c9ba5943&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 
 
 
