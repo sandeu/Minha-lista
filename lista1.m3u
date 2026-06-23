@@ -646,6 +646,8 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uGJz9jC.png" group-title="BRASIL", TV NILCERA
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/pMPHlzv.png" group-title="BRASIL", CLUBINHO
+https://alanza.iptv2022.com/CLUBINHO/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/MuABn0C.png" group-title="BRASIL", JA VIU TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="BRASIL",MAIS UM
