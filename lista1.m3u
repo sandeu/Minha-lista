@@ -538,6 +538,8 @@ https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="BRASIL",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ibBTpCS.png" group-title="BRASIL",TV CLASSICOS
+https://alanza.iptv2022.com/sh/Tv_classicos/tracks-v1a1/mono.ts.m3u8?filter.tracks=a1v1v2
 #EXTINF:-1 tvg-logo="https://imgur.com/ArLHdA2.png" group-title="BRASIL",TV EXPLOSAO SERIES
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL", TV RETRO
