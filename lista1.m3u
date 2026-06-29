@@ -28,10 +28,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderel
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=misty_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-60bb0bcb&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://imgur.com/qIp9ECu.png" group-title="BRASIL",ROMCOM K-DRAMA
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-27844c58&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-#EXTINF:-1 tvg-logo="https://imgur.com/ahGou5L.png" group-title="BRASIL",FREE TV CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13321
-#EXTINF:-1 tvg-logo="https://imgur.com/vLrDg9k.png" group-title="BRASIL",FREE TV DRAMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13317
 #EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="BRASIL",NOVELA JESUS
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
@@ -1058,8 +1054,6 @@ https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13192/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4HTGRR.png" group-title="BRASIL", PLOUS TV FASHION
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9CLQG4o.png" group-title="BRASIL",EQUIPE PIPOS WEB TV
-https://video07.logicahost.com.br/equipepipos/equipepipos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1494,8 +1488,12 @@ https://almagospel.nuvemplay.live/hls/stream.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-logo="https://imgur.com/s9pq2a2.png" group-title="MUSICA",MAIS TV
 https://isaocorp.cloudecast.com/maistv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GHRTWIL.png" group-title="MUSICA", TOCA TUDO TV
+https://tocatudotv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cMe5Uff.png" group-title="MUSICA",QELLO CONCERTS
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992527
+#EXTINF:-1 tvg-logo="https://imgur.com/9CLQG4o.png" group-title="MUSICA",EQUIPE PIPOS WEB TV
+https://video07.logicahost.com.br/equipepipos/equipepipos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX ECLETICO
 https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV POP ANTIGO
@@ -1508,8 +1506,6 @@ https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sle
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="MUSICA", AUGE MUSIC
 https://video01.logicahost.com.br/augemusic/augemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GHRTWIL.png" group-title="MUSICA", TOCA TUDO TV
-https://tocatudotv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="MUSICA",HIP HOP VAI ALEM TV
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
@@ -1664,6 +1660,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fntsYlO.png" group-title="INTERNET",ALWAYS FUNNY ESPANHOL
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C78KjQ3.png" group-title="INTERNET",AMERICAS FUNNIEST HOME VIDEOS
+https://jmp2.uk/rok-20a6aa8be0f3aff9d50f3daf3dfe6ba8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfHRiEG.png" group-title="INTERNET",WHOA THAT AS WILD 
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fcX3MM0.png" group-title="INTERNET", NATURE TIME
@@ -1688,6 +1686,10 @@ https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O7yQvH5.png" group-title="INTERNET",C4 EN ALERTA
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pjIBfrk.png" group-title="INTERNET",COPS
+https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/SXXW0eE.png" group-title="INTERNET",JAIL
+https://jmp2.uk/rok-8d6cc93830ae093f8316777c135237d9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
 https://amg01439-amg01439c1-amgplt0020.playout.now3.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="INTERNET", MUBEAT
