@@ -26,24 +26,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysover
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderellaandfourknights_rakutenviki&channel_id=newid_207&mpf=535f3c0b-39af1962-b854bf6e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/A4tF1dJ.png" group-title="BRASIL",MISTY
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=misty_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-60bb0bcb&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-#EXTINF:-1 tvg-logo="https://imgur.com/qIp9ECu.png" group-title="BRASIL",ROMCOM K-DRAMA
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-27844c58&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-#EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="BRASIL",NOVELA JESUS
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="BRASIL",OS DEZ MANDAMENTOS
-https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="BRASIL",MALHACAO FAST
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="BRASIL", TELA BRASIL TV 
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",NOVELAS
-https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="BRASIL",NOVELISSIMA
-https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="BRASIL",WE DO TV AMOR
-https://amg00735-amg00735c49-lg-latam-10821.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamorpielsalvajepor-lglatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bhrKY8K.png" group-title="BRASIL", D.P.A.
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA FAST
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d6701eb61814b0687c392a010ac0db7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RBUlkm0.png" group-title="BRASIL", TV CULTURA
@@ -1840,6 +1822,39 @@ https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zDzR6rU.png" group-title="FILMES",NEW KMOVIES
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_012&mpf=39aa2dab-39af1962-c9ba5943&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b649dc44-4adb999b-6ceb498a-3dab0337&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/o86dDbI.png" group-title="NOVELAS",NOVELA JESUS
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="NOVELAS",OS DEZ MANDAMENTOS
+https://cc-38amk5g6kmcpo.akamaized.net/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gjN1onZ.png" group-title="NOVELAS",MALHACAO FAST
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D2yqacm.png" group-title="NOVELAS", TELA BRASIL TV 
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="NOVELAS",NOVELAS
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="NOVELAS",NOVELISSIMA
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="NOVELAS",WE DO TV AMOR
+https://amg00735-amg00735c49-lg-latam-10821.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamorpielsalvajepor-lglatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bhrKY8K.png" group-title="NOVELAS", D.P.A.
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dIBauGQ.png" group-title="NOVELAS",VIX NOVELAS DE ROMANCE
+https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0Y7k5Y1.png" group-title="NOVELAS",NOVELISSIMA
+https://jmp2.uk/rok-5d1c16bba82b53e69bf979c2fdca4ca8.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Qc1yr96.png" group-title="NOVELAS",NOVELAS E DRAMAS
+https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JRD4xCj.png" group-title="NOVELAS",NOVELAS TURCAS
+https://jmp2.uk/rok-7913b5796de15cb9ab8dfd392d769dec.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m0PoUfM.png" group-title="NOVELAS",TODO NOVELAS MAS PASSION
+https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qgacyHC.png" group-title="NOVELAS",NOVELAS DE ORO
+https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3rtwmMi.png" group-title="NOVELAS",NOVELAS EN FAMILIA
+https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ClnJsab.png" group-title="NOVELAS",VILLANOS DE NOVELA
+https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qIp9ECu.png" group-title="NOVELAS",ROMCOM K-DRAMA
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-27844c58&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+#EXTINF:-1 tvg-logo="https://imgur.com/x8XQMab.png" group-title="NOVELAS",KANAL D DRAMA
+https://jmp2.uk/rok-e498eb91cd01d4c0c0acdb5ea7c736ab.m3u8
