@@ -602,6 +602,8 @@ https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 #EXTINF:-1 tvg-logo="https://imgur.com/OBzoXCf.png" group-title="BRASIL",VRT CHANNEL
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i5gQozH.png" group-title="BRASIL",LIFE
+https://alanza.iptv2022.com/LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/we8oaQq.png" group-title="BRASIL", AWTV
