@@ -10,14 +10,20 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Xa4rLvH.png" group-title="BRASIL", FAMA TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yuP1fHb.png" group-title="BRASIL", RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7GpSzxR.png" group-title="BRASIL", RTP NOTICIAS
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://imgur.com/438ZUBp.png" group-title="BRASIL", SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC TV PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2mJqdQd.png" group-title="BRASIL", TVI
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2mJqdQd.png" group-title="BRASIL", TVI REALITY
-https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="BRASIL", TVI FICCAO
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
+https://video-auth8.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDI2IDEyOjUxOjMyIFBNJmhhc2hfdmFsdWU9WVYrQkVMZVFlcTdEOE5xUm5CZGhodz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFhOTdhYTY0LTJjZjktNDEyOS1hYzk3LTc4ZTgxNDg3YTVhZg==
 #EXTINF:-1 tvg-logo="https://imgur.com/TPmUIVU.png" group-title="BRASIL", BEM VINDO A WAIKIKI
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-33d7b51d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", BOYS OVER FLOWERS
@@ -484,6 +490,8 @@ https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/690c7a306453bd1522fa6018/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8jhTJO.png" group-title="BRASIL", LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2HLgivU.png" group-title="BRASIL", VIKI TV
+https://stmv2.srvif.com/webtv001/webtv001/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="BRASIL",REDE CLOUDING
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/hXxuboF.png" group-title="BRASIL",ACESSO BRASIL TV
@@ -1046,6 +1054,8 @@ https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13192/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4HTGRR.png" group-title="BRASIL", PLOUS TV FASHION
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7xQE0fO.png" group-title="BRASIL", MEMORIAS DE SERGIPE
+https://stmv2.painelvideocast.com.br/memoriase/memoriase/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1406,6 +1416,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/u4V70tr.png" group-title="RELIGIOSO",FONTE TV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BaRCKES.png" group-title="RELIGIOSO", CATOLICA TV 
+https://stmv2.painelvideocast.com.br/caloticatv/caloticatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
