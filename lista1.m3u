@@ -616,6 +616,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3491
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/urckbfR.png" group-title="BRASIL",24 HORAS
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vUBJjI1.png" group-title="BRASIL",TV METROPOLES
+https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8?hls_ctx=71914v82
 #EXTINF:-1 tvg-logo="https://imgur.com/i5gQozH.png" group-title="BRASIL",LIFE
 https://alanza.iptv2022.com/LIFE/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
