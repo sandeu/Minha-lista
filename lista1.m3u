@@ -1064,6 +1064,22 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-13192/playlist/playlist.m3u8
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7xQE0fO.png" group-title="BRASIL", MEMORIAS DE SERGIPE
 https://stmv2.painelvideocast.com.br/memoriase/memoriase/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Wc0H02c.png" group-title="BRASIL", GOITACA STUDIOS E TV
+https://video01.brascast.com/david7639/david7639/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bbiwC4f.png" group-title="BRASIL", TV TRIBUNA 10
+https://stmv8.samcast.com.br/alexandrodeoliveiragoncalves9861/alexandrodeoliveiragoncalves9861/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D2b7kGp.png" group-title="BRASIL", TV SAO GABRIEL
+https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4xg8CWV.png" group-title="BRASIL", TV BRASIL SINOP
+https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/moCyLFi.png" group-title="BRASIL", SOMOS TV
+https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bbiwC4f.png" group-title="BRASIL", BADOLY TV
+https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/G9Ebdgy.png" group-title="BRASIL", RIBEIRAO WEB NEWS
+https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/235qYyI.png" group-title="BRASIL", WEB TV DETETIVE
+https://stmv1.paineldevideo.com.br/clagpl/clagpl/chunklist_w15249665.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1110,6 +1126,8 @@ https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/k5ZN6Fx.png" group-title="DESENHOS",PEAK TOONS
+https://x1colegal.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JfbVRfC.png" group-title="DESENHOS",JETIX TV
 https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="DESENHOS",NTOONS
