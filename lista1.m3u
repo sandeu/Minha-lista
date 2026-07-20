@@ -916,7 +916,11 @@ https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8
 https://stmv1.liveplushd.com.br/tvchicojoao/tvchicojoao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c5YGfUb.png" group-title="BRASIL", AG TV
 https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/kb6l6JB.png" group-title="BRASIL", TV O SERTAO E NOTICIA
+#EXTINF: -1 tvg-logo="https://imgur.com/eiKijBf.png" group-title="BRASIL", TV SERTAO PB
+https://stmv7.samcast.com.br/tvsertao/tvsertao/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/AuhnIFK.png" group-title="BRASIL", SERTAO TV
+https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/kb6l6JB.png" group-title="BRASIL", O SERTAO E NOTICIA
 https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/3HH7gP3.png" group-title="BRASIL", TV NORDESTINA
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/chunklist.m3u8
