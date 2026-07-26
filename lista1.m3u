@@ -857,7 +857,7 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="BRASIL",TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/DNS9zWx.png" group-title="BRASIL", TV CONEXAO
-https://pop.uniquetv.com.br/tvconexao/tracks-v1a1/mono.m3u8
+https://pop.uniquetv.com.br/tvconexao/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="BRASIL", CONECT TV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="BRASIL",NOVA ERA TV
