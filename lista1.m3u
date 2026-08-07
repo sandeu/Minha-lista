@@ -247,7 +247,7 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pDnX419.png" group-title="BRASIL",TIMES BRASIL CNBC
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B82qfNP.png" group-title="BRASIL",JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/amg01391-addigital-jovempan-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 tvg-logo="https://imgur.com/Np9aX0k.png" group-title="BRASIL",TV CIDADE VERDE MT
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eqL0AHD.png" group-title="BRASIL",BM&C NEWS
@@ -255,11 +255,13 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea345
 #EXTINF:-1 tvg-logo="https://imgur.com/rVfX5eb.png" group-title="BRASIL",VEJA+
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p31XXZU.png" group-title="BRASIL", TV FORUM
-https://video08.logicahost.com.br/tvforum/tvforum/playlist.m3u8
+https://video03.logicahost.com.br/forum02/forum02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lTNs1GA.png" group-title="BRASIL",TV 247
 https://video03.logicahost.com.br/tv247online/tv247online/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XAG24uk.png" group-title="BRASIL",TVL NEWS
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uxIZxYF.png" group-title="BRASIL", SUPERFINANCAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17293&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 tvg-logo="https://imgur.com/lfn2Clb.png" group-title="BRASIL", PORTO ALEGRE 24 HS
 https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="BRASIL", TV VIDEONEWS
