@@ -1119,6 +1119,8 @@ https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",DESENHOS CLASSICOS
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",OS SMURFS
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6a4625d4aba16f4fd4dba021/bunnycontent_main.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",OS SMURFS
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
@@ -1902,6 +1904,8 @@ https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="NOVELAS",WE DO TV AMOR
 https://amg00735-amg00735c49-lg-latam-10821.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamorpielsalvajepor-lglatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YGPppO1.png" group-title="NOVELAS",AMOR DE ALUGUEL BY NOVERAMA TV
+https://amg00740-amg00740c38-amgplt0728.playout.now3.amagi.tv/SofaDigital/Amor_de_Aluguel_by_Noverama_TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bhrKY8K.png" group-title="NOVELAS", D.P.A.
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NuY97Sl.png" group-title="NOVELAS",GRACHI
