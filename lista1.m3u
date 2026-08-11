@@ -15,7 +15,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7GpSzxR.png" group-title="BRASIL", RTP NOTICIAS
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://imgur.com/438ZUBp.png" group-title="BRASIL", SIC NOTICIAS
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+https://popup.live.impresa.pt/out/v1/3cc2998191024d369a901e9b4f56621b/sicnot_vertical_2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oHoy5Qk.png" group-title="BRASIL", SIC TV PORTUGAL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2mJqdQd.png" group-title="BRASIL", TVI
@@ -1770,6 +1770,8 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PjKwATV.png" group-title="FILMES", 1980 CHANNEL
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HRkbxnw.png" group-title="FILMES", CHANCHADA TV
+https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eMqSVYN.png" group-title="FILMES",TV CIDADE
