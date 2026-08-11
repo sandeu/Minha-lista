@@ -1090,6 +1090,10 @@ https://stmv7.samcast.com.br/alexandregomes4053/alexandregomes4053/playlist.m3u8
 https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/235qYyI.png" group-title="BRASIL", WEB TV DETETIVE
 https://stmv1.paineldevideo.com.br/clagpl/clagpl/chunklist_w15249665.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OdX6yp2.png" group-title="BRASIL", BAIANA TV
+https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HRkbxnw.png" group-title="BRASIL", CHD TV
+https://stmv3.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
