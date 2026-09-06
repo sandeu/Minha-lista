@@ -1096,6 +1096,10 @@ https://stmv1.paineldevideo.com.br/clagpl/clagpl/chunklist_w15249665.m3u8
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HRkbxnw.png" group-title="BRASIL", CHD TV
 https://stmv3.liveplushd.com.br/chdtv/chdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lQ33wPi.png" group-title="BRASIL", TV ALCANCE
+https://stmv4.voxtvhd.com.br/isac3635/isac3635/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QB0ozfs.png" group-title="BRASIL", TV GALINHA CHOCA
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
@@ -1758,6 +1762,14 @@ https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3
 https://jmp2.uk/plu-6a5520365badf45d3088b8d8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",CHARLIE TV
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",FILME PLUS
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aab19982787e483a8350a1ba06826cab/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",FILM PLUS ACTION
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3454e59a9e684ebfa9efc1a3feb15bb7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",FILM PLUS EMOTION
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/c2483f88d9b34e3abbea1544f72ddb16/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="FILMES",FILM PLUS FAMILY
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca94b08aefe8b63f11537fa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="FILMES",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
