@@ -628,6 +628,8 @@ https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8?hls_ctx=8081s691
 #EXTINF:-1 tvg-logo="https://imgur.com/i5gQozH.png" group-title="BRASIL",LIFE
 https://alanza.iptv2022.com/LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mkeywuQ.png" group-title="BRASIL", RS TV
+https://srv3.zcast.com.br/rstv/rstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T9FqeHb.png" group-title="BRASIL", UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/we8oaQq.png" group-title="BRASIL", AWTV
