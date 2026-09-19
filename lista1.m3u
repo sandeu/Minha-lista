@@ -1126,6 +1126,8 @@ https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist
 https://cc-0vgk6slyph2cz.akamaized.net/ABCD/Amagi/Banijay/Mr_Bean_BR/Mr_Bean.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YRDKJ6I.png" group-title="DESENHOS", POKEMON
 https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YRDKJ6I.png" group-title="DESENHOS", POKEMON
+https://amg01927-amg01927c5-amgplt0728.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01927-amg01927c5-amgplt0728/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wizSOk.png" group-title="DESENHOS", PANTERA COR DE ROSA
 https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/T6v8HTM.png" group-title="DESENHOS", TELEWEB TV
@@ -1180,6 +1182,8 @@ https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/15d2d4a8f740492cb0f81cbb1feb5123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NvqW9P0.png" group-title="DESENHOS", TELETUBBIES
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/84ee0b41f0a44f68917dcac50bf26d4b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/klg8Mn4.png" group-title="DESENHOS", WINX CLUB TV
+https://amg27847-amg27847c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg27847-amg27847c1-amgplt0026/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.coppa=0&ads.fck=[fck]&ads.ic=[IC]&ads.givn=[NONCE]&ads.iu=[IU]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/IctZDQ8.png" group-title="DESENHOS", BABY SHARK
 https://ads.its-newid.net/api/manifest.m3u8?tp=tcl_channel&channel_name=babysharktv&channel_id=newid_193&apikey=dc921086-c2d0-40fc-1914-20388a1bb9ab&auth=90b91f9c-98587460-a01b34c5-ef28eecc&ads.live={{LiveStream}}&ads.deviceid={{DID}}&ads.ifa={{DID}}&ads.ifatype=aaid&ads.lat={{DNT}}&ads.donotsell=1&ads.ip={{ipAddr}}&ads.gdpr=0&ads.gdprconsent={{GdprConsent}}&ads.country=BR&ads.us_privacy={{UsPrivacy}}&ads.appstoreurl={{AppStoreUrl}}&ads.bundleid={{appPackage}}&ads.appname={{appName}}&ads.appversion={{appVersion}}&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake={{DeviceMake}}&ads.devicemodel={{DeviceModel}}&ads.targetad={{DNT}}&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.ua={{UserAgent}}
 #EXTINF:-1 tvg-logo="https://imgur.com/2R2sIfi.png" group-title="DESENHOS", 3 PALAVRINHAS
@@ -1490,7 +1494,7 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 https://stmv2.painelvideocast.com.br/caloticatv/caloticatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA
+#EXTINF:-1 tvg-logo="https://imgur.com/cEvULYl.png" group-title="RELIGIOSO", TV APARECIDA FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Sn8I7b.png" group-title="RELIGIOSO",PUC TV
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
@@ -1942,6 +1946,8 @@ https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PAztjOl.png" group-title="NOVELAS", NOVELAS PRIME
 https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nr4D3UM.png" group-title="NOVELAS", FILM PLUS SHORTS
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fc0d4c63094142a2afe9600b98fda7b2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="NOVELAS",NOVELAS
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="NOVELAS",NOVELISSIMA
