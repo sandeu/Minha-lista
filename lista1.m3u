@@ -1216,20 +1216,12 @@ https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK COLECAO STAN
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Bqa7eMX.png" group-title="AGRO",TV MILAGRO BRASIL
-https://cdn-3.nxplay.com.br/TV_MILAGRO/tracks-v1a1/mono.m3u8?token=b242fe2906ea95109729bfdb577864810d1e9435-5428c7f69ccc6bc0b7017704e9185e62-1715823041-1715779841
 #EXTINF:-1 tvg-logo="https://imgur.com/sg37XU8.png" group-title="AGRO", TV COOP SC
 https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9WpCGIx.png" group-title="AGRO",TERRA VIVA
-https://cdn-5.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9WpCGIx.png" group-title="AGRO", TERRA VIVA
 https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I4xJyLl.png" group-title="AGRO",CANAL RURAL
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://imgur.com/isJAvqM.png" group-title="AGRO",CANAL DO BOI
-https://aovivo3.equipea.com.br:5443/aovivort/streams/mhfHHraq36aFnEDa1745537219137.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdIsqHi.png" group-title="AGRO",CANAL DO CRIADOR
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4sl6813.png" group-title="AGRO",TV FOLHA DO CAMPO
 https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xKeXCkv.png" group-title="AGRO",TV AGRO E NOSSO
@@ -1262,8 +1254,6 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 https://5ad482a77183d.streamlock.net/ativafmesportesgmail.com/ativafmesportesgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
 https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM UBERLANDIA
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m6elj4s.png" group-title="ESTUDIO FM", 103 FM
@@ -1288,8 +1278,6 @@ https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM SC
 https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RADIO CLUBE ARARENSE
-https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/raySUEv.png" group-title="ESTUDIO FM", MENINA PLAY
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="ESTUDIO FM", RADIO CULTURA FM
@@ -1314,28 +1302,20 @@ https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/playlist.m3u8
 https://5ad482a77183d.streamlock.net/jdubonetgmail.com/jdubonetgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mC5vOEl.png" group-title="ESTUDIO FM", RADIO CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/AYYFpY3.png" group-title="ESTUDIO FM", RADIO ENCONTRO DAS AGUAS
-https://cs1.xcast.com.br/9236/9236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5hwXOGa.png" group-title="ESTUDIO FM", 40 GRAUS FM
 https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q6W74HE.png" group-title="ESTUDIO FM", DIAMANTINA FM
 https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A2ebA0p.png" group-title="ESTUDIO FM", RADIO UIRAPURU
 https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Tggwktr.png" group-title="ESTUDIO FM",TROPICAL FM
-https://cdn1.str.srv.br/CM7002/CM7002/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="ESTUDIO FM",RADIO NOVA ERA
 https://stmv1.conectastreaming.com/novaera/novaera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM", RADIO CAFE VIOLA
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM", RADIO NATUREZA FM
-https://tv02.zas.media:1936/natureza/natureza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TzOvTYi.png" group-title="ESTUDIO FM", RADIO E TV LIBERAL
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/B6gLAvT.png" group-title="ESTUDIO FM", NOSSA FM
-https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NSNZN6f.png" group-title="ESTUDIO FM", RADIO D2 FM
 https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
