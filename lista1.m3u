@@ -264,8 +264,12 @@ https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 https://amogo-networx-royalworldnobrezaedinastias-1-br.vidaa.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QlwoWsH.png" group-title="BRASIL",ROYAL WORLD
 https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/o5XOE7d.png" group-title="BRASIL",TV A CRITICA
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q0upt2V.png" group-title="BRASIL",BDC TV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/be6fjK7.png" group-title="BRASIL",RTN TV
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CoPKCdg.png" group-title="BRASIL",TV CRISTAL
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bkd857H.png" group-title="BRASIL",CLTV
