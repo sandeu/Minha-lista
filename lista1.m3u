@@ -522,6 +522,8 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bqNcHmx.png" group-title="BRASIL",OS DETETIVES
 https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wRmWA6u.png" group-title="BRASIL",CRIMES SERIES
+https://stmv2.painelvideocast.com.br/crime/crime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",SERIES NOVELESCAS
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/czuXmAd.png" group-title="BRASIL",SERIES FAMILIA
@@ -1005,11 +1007,15 @@ https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QB0ozfs.png" group-title="BRASIL", TV GALINHA CHOCA
 https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yRCTuNz.png" group-title="BRASIL", TV CANAA NEWS
-https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8
+https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w1884982358.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NfwlNyi.png" group-title="BRASIL",IBLIZZ
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jQD1dOy.png" group-title="BRASIL", TV PONTO DE ENCONTRO
+https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jamWg47.png" group-title="TELEVENDAS", TV CAR
+https://video11.logicahost.com.br/tvcar/tvcar/chunklist_w631118325.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EnFkkGV.png" group-title="TELEVENDAS",TV DO CARRO
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jXEiKbz.png" group-title="TELEVENDAS",TV TUDO BH
