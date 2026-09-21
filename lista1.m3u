@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="BRASIL", ASSIM E PORTUGAL
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/B4EX5I5.png" group-title="BRASIL", TV PORTUGUESA
-https://video09.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+https://tvportuguesa.myemail.pt:8888/live/stream1_aac/audio2_stream.m3u8?session=1fad7a78-42ea-4e52-b5e6-b2b406a6dd3e
 #EXTINF:-1 tvg-logo="https://imgur.com/Xa4rLvH.png" group-title="BRASIL", FAMA TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yuP1fHb.png" group-title="BRASIL", RTP 1
@@ -23,27 +23,31 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2mJqdQd.png" group-title="BRASIL", TVI REALITY
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/r4A18rD.png" group-title="BRASIL", TVI FICCAO
-https://video-auth8.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDI2IDEyOjUxOjMyIFBNJmhhc2hfdmFsdWU9WVYrQkVMZVFlcTdEOE5xUm5CZGhodz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFhOTdhYTY0LTJjZjktNDEyOS1hYzk3LTc4ZTgxNDg3YTVhZg==
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDI2IDg6MTY6MTYgQU0maGFzaF92YWx1ZT10Q0JCTkl1ZDRZVGNlS3FRUUptREhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTQ1YTYwZjEtMzg1MC00ZGJhLWE1MWQtMWFiMzM1ZWMyZTFh
 #EXTINF:-1 tvg-logo="https://imgur.com/TPmUIVU.png" group-title="BRASIL", BEM VINDO A WAIKIKI
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-33d7b51d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", BOYS OVER FLOWERS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=boysoverflowers_rakutenviki&channel_id=newid_208&mpf=c3e0219a-39af1962-2dc18169&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", CINDERELLA AND FOUR KNIGHTS
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cinderellaandfourknights_rakutenviki&channel_id=newid_207&mpf=535f3c0b-39af1962-b854bf6e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", Minha Vênus
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=minhav%C3%AAnus_kbs&channel_id=newid_205&mpf=bd515d27-39af1962-b6572d2e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=0e36745f-c1f3f5f0-78582ae7-b6836f5c&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", Friendly Rivalry
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=friendlyrivalry_p%26m213&channel_id=newid_209&mpf=b4e7110c-39af1962-3f323c69&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9c0414e9-6b0137d0-d15309b8-1c71ad7c&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", Mi identificación es Belleza de Gangnam
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=miidentificaci%C3%B3nesbellezadegangnam_sll&channel_id=newid_208&mpf=c3e0219a-39af1962-b181ef44&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db17e212-c445a597-be4ef065-b3353f3b&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", Herdeiros
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=theheirs_sbs&channel_id=newid_207&mpf=535f3c0b-39af1962-e45f3ee4&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=801199a9-440bd73f-a663d95d-337b4d93&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+#EXTINF:-1 tvg-logo="https://imgur.com/c3nY0II.png" group-title="BRASIL", Where Stars Land
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=wherestarsland_rakutenviki&channel_id=newid_206&mpf=24580c9d-39af1962-364a8a22&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=c7026f52-eb4f4578-c97e2080-9c3fdfd4&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://imgur.com/A4tF1dJ.png" group-title="BRASIL",MISTY
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=misty_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-60bb0bcb&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://imgur.com/ofaIg4G.png" group-title="BRASIL", TV CULTURA FAST
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1d6701eb61814b0687c392a010ac0db7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RBUlkm0.png" group-title="BRASIL", TV CULTURA
-https://hplay.tv/augetv/12396547488/22.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RBUlkm0.png" group-title="BRASIL", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-logo="https://imgur.com/xc3am1f.png" group-title="BRASIL", TOP CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bTCcevU.png" group-title="BRASIL",TV PORTO
-https://cdn.live.br1.jmvstream.com/w/LVW-15997/LVW15997_5k8SX2p5BD/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/yZG51jz.png" group-title="BRASIL", UNI TV SC
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="BRASIL", CATVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="BRASIL",MASTER TV PR
@@ -58,10 +62,6 @@ https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 https://stream01.digilab.com.br/fertel/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="BRASIL",PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="BRASIL",TV POCOS
-https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/9iv407b.png" group-title="BRASIL",TV NOVA
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/qcdeB1c.png" group-title="BRASIL",TV TODO DIA
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/QdChJnx.png" group-title="BRASIL",RPTV
@@ -70,8 +70,6 @@ https://br5093.streamingdevideo.com.br/redepaulistanatv/redepaulistanatv/playlis
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/cdVinGm.png" group-title="BRASIL",WTV BRASIL
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/gGT8N6A.png" group-title="BRASIL",TV SERRA DO MAR
-https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="BRASIL",TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/JVtp4q1.png" group-title="BRASIL",TV BRASIL
@@ -82,8 +80,6 @@ https://canalgov-stream.ebc.com.br/GOV-avc1_900000=10002.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wosJOee.png" group-title="BRASIL", CANAL SAUDE
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
-https://canallibras-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
@@ -95,17 +91,13 @@ https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="BRASIL",TV CHROMA
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Cd6V3FX.png" group-title="BRASIL",SESC TV
-https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhlYjE2NTY5LTM0MzctNGI5OC05ZjViLWM0MzJkNDJmOGRhNCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4MDM0NDgwMCwibmJmIjoxNzgwMzQ0ODAwLCJleHAiOjE3ODI5MzY4MDAsInVyaV9zdWIiOiIvMDE5NWVkZTEtYzIzYy03MDc4LThmMmEtMjVmOTgyYTlmYzkxLyIsInVpZCI6IjhlYjE2NTY5LTM0MzctNGI5OC05ZjViLWM0MzJkNDJmOGRhNCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.i9dajs00ZktwUEt0t0saMAlbrP30qqSOKTXH2fU_TJ8&uid=8eb16569-3437-4b98-9f5b-c432d42f8da4&magica=sim
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImY2MTNjYjA3LTI5NGItNDk5OS05ZDFmLWU5ZDNlMjFkOGY3MSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MDAwMjIxMCwibmJmIjoxNzkwMDAyMjEwLCJleHAiOjE3OTI1OTQyMTAsInVyaV9zdWIiOiIvMDE5NWVkZTEtYzIzYy03MDc4LThmMmEtMjVmOTgyYTlmYzkxLyIsInVpZCI6ImY2MTNjYjA3LTI5NGItNDk5OS05ZDFmLWU5ZDNlMjFkOGY3MSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.9qEGajm0FUpUF1qj_Yf-ZYQ_WZYNkNuuU130o79V5Xw&uid=f613cb07-294b-4999-9d1f-e9d3e21d8f71&magica=sim
 #EXTINF:-1 tvg-logo="https://imgur.com/lGGbSTG.png" group-title="BRASIL",REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE
-https://video04.logicahost.com.br/tvvale/tvvale/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Vj7VjrB.png" group-title="BRASIL",TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="BRASIL", TV GAZETA NORTE MINEIRA
 https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/sLwJqp1.png" group-title="BRASIL", SERA
-https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a75bb3eed9b546a49f3978312da537ae/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV OITAVA
 https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
@@ -120,8 +112,6 @@ https://tv.unisc.br/hls/test.m3u8
 https://cdn-5.nxplay.com.br/HALLODOC/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Yn1lUtM.png" group-title="BRASIL", URBAN DOC
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/beLCgmj.png" group-title="BRASIL", UNB TV
-https://media-gmcdn.eduplay.rnp.br/media/CFwapWeR7WSI/s8zai6nPAvza3slWwsTKMQ'1/720_index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="BRASIL", TV EDUCADORA BATATAIS
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pkfCnI0.png" group-title="BRASIL",TV MEDICINA
@@ -144,14 +134,14 @@ https://tudoeviagem.nuvemplay.live/hls/stream.m3u8
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="BRASIL", TV HISTORIA
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="BRASIL", TV HISTORIA
+https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KFNc9x8.png" group-title="BRASIL", OLA, MUNDO
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/69ba63ecdd8e6418eb54997f/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CWjLykI.png" group-title="BRASIL", FATOS DESCONHECIDOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16826&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/xZA1lJh.png" group-title="BRASIL", ADORO CINEMA
 https://1e876365f9bb431e8eb8e87808b6f245.mediatailor.us-east-1.amazonaws.com/v1/master/28cabd810dcffe6911c4fb534c3616fcb64e6894/Adoro_Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D7ZkV6j.png" group-title="BRASIL", ADMIRADORES DA SETIMA ARTE
-https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KqouQDP.png" group-title="BRASIL", IA CHANNEL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17027
 #EXTINF:-1 tvg-logo="https://imgur.com/IjOHzow.png" group-title="BRASIL", K VIBE
@@ -186,8 +176,6 @@ https://hplay.tv/augetv/12396547488/10.m3u8
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/L7n2GkF.png" group-title="BRASIL", TV ARAPUAN
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P3Ldnvp.png" group-title="BRASIL", TV VALE DO URUARA
-https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/266lnPd.png" group-title="BRASIL", RBA TV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4YV1dSR.png" group-title="BRASIL", SBT SINOP
@@ -198,8 +186,6 @@ https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TncSZRA.png" group-title="BRASIL", TV EMPIRE 
 https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="BRASIL", REDE TV GO
-https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840436d3b981ac63cc&bpkio
 #EXTINF:-1 tvg-logo="https://imgur.com/LwnPRi3.png" group-title="BRASIL", TV SGC RONDONIA
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LUhr5lo.png" group-title="BRASIL", TV PAMPA
@@ -213,7 +199,7 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/c1oGlja.png" group-title="BRASIL", TV CONQUISTA
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zdnMTtl.png" group-title="BRASIL", TV TROPICAL
-https://video07.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="BRASIL", RECORD TV AMPLITUDE JUARA
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OAIb1KK.png" group-title="BRASIL", RECORD TV AMPLITUDE JUINA
@@ -1152,26 +1138,18 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 https://stmv4.voxtvhd.com.br/isac3635/isac3635/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/upYjv2W.png" group-title="DESENHOS",NBX TV KIDS
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rCSyn4A.png" group-title="DESENHOS",ANIM GEEK
-https://stmv2.srvsh.com.br/daniel5336/daniel5336/chunklist_w1036869408.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4GV2Zop.png" group-title="DESENHOS",URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="DESENHOS",DM KIDS TV
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IpiH2sq.png" group-title="DESENHOS",KIDS TV SHOW
-https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="DESENHOS",TV KIDS MAIS
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MjAPvHr.png" group-title="DESENHOS",F KIDS NETWORK
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/k5ZN6Fx.png" group-title="DESENHOS",PEAK TOONS
 https://x1colegal.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JfbVRfC.png" group-title="DESENHOS",JETIX TV
-https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="DESENHOS",NTOONS
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SrhjeQI.png" group-title="DESENHOS",KIDS PICTURES BRASIL
-https://vs20.live.opencaster.com/diskpicturesbr_05db573c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hjl9HJ.png" group-title="DESENHOS", INSPETOR BUGIGANGA
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876020/hls/master.m3u8?ads.xumo_channelId=88876020
 #EXTINF:-1 tvg-logo="https://imgur.com/Hyz1of0.png" group-title="DESENHOS", SONIC
@@ -1196,14 +1174,8 @@ https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=25
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 #EXTINF:-1 tvg-logo="https://imgur.com/kIpHUqL.png" group-title="DESENHOS", MOJI TV
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992140
-#EXTINF:-1 tvg-logo="https://imgur.com/fgkgfPF.jpg" group-title="DESENHOS", POCOYO
-https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/V5eWzGz.jpg" group-title="DESENHOS",LEO E LULLY
-https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="DESENHOS",DUM DUM
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d46374a1e7c49/bunnycontent_main.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TDvbXpb.jpg" group-title="DESENHOS",TV ITAPETINGA KIDS
-https://stmv2.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=no15o3z2
 #EXTINF:-1 tvg-logo="https://imgur.com/wXgxbIQ.png" group-title="DESENHOS", KANUCA TV
 https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4MBEVJQ.png" group-title="DESENHOS", SOUTH PARK
