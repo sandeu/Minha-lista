@@ -210,6 +210,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Uzu2C5M.png" group-title="BRASIL",RECORD NEWS
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CoPKCdg.png" group-title="BRASIL",TV CRISTAL
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/81cMPEh.png" group-title="BRASIL",TV CAPIXABA
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UjQIBVR.png" group-title="BRASIL", SIM TV
@@ -270,8 +272,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/be6fjK7.png" group-title="BRASIL",RTN TV
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CoPKCdg.png" group-title="BRASIL",TV CRISTAL
-https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bkd857H.png" group-title="BRASIL",CLTV
 https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imf40Iq.png" group-title="BRASIL",RF TV
@@ -672,6 +672,8 @@ https://alanza.iptv2022.com/CANAL_29/index.m3u8
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="BRASIL", CARAVANA PLAY
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QB0ozfs.png" group-title="BRASIL", TV GALINHA CHOCA
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Tgghe8k.png" group-title="BRASIL",TV DIFUSAO
 https://tvditv.acessaradios.com.br/tvditv/tvditv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="BRASIL",TV RIO MADEIRA
@@ -1008,8 +1010,6 @@ https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 https://stmv1.paineldevideo.com.br/clagpl/clagpl/chunklist_w15249665.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OdX6yp2.png" group-title="BRASIL", BAIANA TV
 https://stmv1.srvstm.com/radio9815/radio9815/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QB0ozfs.png" group-title="BRASIL", TV GALINHA CHOCA
-https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yRCTuNz.png" group-title="BRASIL", TV CANAA NEWS
 https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w1884982358.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NfwlNyi.png" group-title="BRASIL",IBLIZZ
