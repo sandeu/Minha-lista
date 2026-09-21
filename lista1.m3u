@@ -79,7 +79,7 @@ https://canalgov-stream.ebc.com.br/GOV-avc1_900000=10002.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/ZNtHV9e.png" group-title="BRASIL", CANAL EDUCACAO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/wosJOee.png" group-title="BRASIL", CANAL SAUDE
-https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+https://cdn.eduplay.rnp.br/route/8opkSraQGNB8Vo1TrjpPyg'aHR0cHM6Ly9tZWRpYS5lZHVwbGF5LnJucC5ici9saXZlLzlBbjBZZzJha0FZdnpiMjhJRE9ab2cnJycnJycnMScvQ0Z3YXBXZHNXQ1lRL2luZGV4Lm0zdTg''30'0'0'1/CFwapWdsWCYQ/index.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="BRASIL", TV PARANA TURISMO 
@@ -1016,6 +1016,8 @@ https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w1884982358.m3u8
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jQD1dOy.png" group-title="BRASIL", TV PONTO DE ENCONTRO
 https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FbveOvI.png" group-title="BRASIL", TV VIDA NOVA
+https://srv2.zcast.com.br/tvprecabura/tvprecabura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jamWg47.png" group-title="TELEVENDAS", TV CAR
@@ -1044,6 +1046,8 @@ https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="DESENHOS",RETRO CARTOON 
 https://stmv2.srvif.com/rcartoon/rcartoon/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/aTVHiSU.png" group-title="DESENHOS", ANIME TV 2
+https://stv1.ipstm.net:3326/stream/play.m3u8?_=1789779684781
 #EXTINF: -1 tvg-logo="https://imgur.com/L3MdMpK.png" group-title="DESENHOS", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="DESENHOS",POPEYE
@@ -1120,6 +1124,8 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xKeXCkv.png" group-title="AGRO",TV AGRO E NOSSO
 https://video01.logicahost.com.br/agronosso/agronosso/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vjf2MIu.png" group-title="AGRO",CANAL SOLO FERTIL
+https://stream.canalsolofertil.com.br/live/canalsolofertil/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/giXWvgt.png" group-title="AGRO",TV NOTICIAS AGRICOLAS
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ti2Uz1P.png" group-title="AGRO",TV AGRO 360
