@@ -1357,39 +1357,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=17183&avod=1&coppa=0&td=6&
 #EXTINF:-1 tvg-logo="https://imgur.com/0MRAYd3.png" group-title="ESPORTES", SPORTY NET
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
-https://video01.soultv.com.br/nsports/nsports/chunklist_w1896147320.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q0BWEK7.png" group-title="ESPORTES",N SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
-#EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA
+#EXTINF:-1 tvg-logo="https://imgur.com/G2vplnS.png" group-title="ESPORTES", FIFA PLUS
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AmnDQnB.png" group-title="ESPORTES",DESIMPEDIDOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15300
 #EXTINF:-1 tvg-logo="https://imgur.com/7DUoz9C.png" group-title="ESPORTES", TV ATITUDE NEW
-https://s1.tvr.ovh/video69519/video69519/playlist.m3u8
+https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="ESPORTES",AUGE ESPORTES
 https://video04.logicahost.com.br/augeesportes/augeesportes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="ESPORTES",SPORT CLUB INTERNACIONAL
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="ESPORTES",PONTV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fodoMB8.png" group-title="ESPORTES", NATIONAL SPORTS CHANNEL
 https://cdn-5.nxplay.com.br/PLAYOUT_02_NSC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oqDDko4.png" group-title="ESPORTES", TV DA PESCA
 https://isaocorp.cloudecast.com/tvdapesca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/73GQva8.png" group-title="ESPORTES",PLAY TV HORSE
-https://video04.logicahost.com.br/playtvhorse/playtvhorse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 1
 https://pop.uniquetv.com.br/uniquesports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 2
 https://pop.uniquetv.com.br/uniquesports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/snanN4k.png" group-title="ESPORTES",UNIQUE SPORTS 3
 https://pop.uniquetv.com.br/uniquesports3/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/b1OkXU4.png" group-title="ESPORTES",FUTEBOL 1
-https://video01.soultv.com.br/julio1/julio1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/b1OkXU4.png" group-title="ESPORTES",FUTEBOL 2
-https://video01.soultv.com.br/julio2/julio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV
 https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="ESPORTES",RS NEWS WEB TV 2
@@ -1429,21 +1417,15 @@ https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-logo="https://imgur.com/7n9A4J9.png" group-title="ESPORTES",GP TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
-https://amg17288-offgrid-amg17288c6-tcl-us-5916.playouts.now.amagi.tv/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15884
 #EXTINF:-1 tvg-logo="https://imgur.com/WAyEg2B.png" group-title="ESPORTES",ACELERADOS
 https://cc-afscwj856ih88.akamaized.net/IJKL/Amagi/Offgrid/Acelerados_BR/Acelerados.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="ESPORTES", MOTORVISION
 https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TTmHmYq.png" group-title="ESPORTES",AUTO TV
-https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/S8hhpxN.png" group-title="ESPORTES", MTR SPT 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="ESPORTES", RACING AMERICA
-https://racingamerica-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DSlyNO8.png" group-title="ESPORTES",SPEEDVISION TV
 https://c55c8b57.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfU3BlZWR2aXNpb25fSExT/playlist.m3u8?ads.wurl_channel=1325
-#EXTINF:-1 tvg-logo="https://imgur.com/venDYu7.png" group-title="ESPORTES",ORIGIN SPORTS
-https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/io5Q4kq.png" group-title="ESPORTES",TRACE SPORTS STARS
 https://tracetv-sportstarts-vidaa.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="ESPORTES",ESPORTES
@@ -1452,8 +1434,6 @@ https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 https://pb-drwvokx73qpxg.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="ESPORTES",UFC
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p6i43ZW.png" group-title="ESPORTES",PAULO ZORELLO
-https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AGEvTY4.png" group-title="ESPORTES", SFT COMBAT
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kVyHCec.png" group-title="ESPORTES",COMBATV
@@ -1462,24 +1442,16 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/szjLbOT.png" group-title="ESPORTES", LUCHA PLUS
 https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yzR8jEi.png" group-title="ESPORTES", DISTRO SPORTS TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2ynyj7o.png" group-title="ESPORTES", WEDO SPORTS
 https://amg00735-amg00735c7-tcl-us-3621.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AkKvT3q.png" group-title="ESPORTES", WOMENS SPORTS NETWORK
 https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/PILOb7I.png" group-title="ESPORTES",K-BASEBALL TV
-https://amg02040-lguplus-amg02040c10-lg-br-8210.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jEeZCFk.png" group-title="ESPORTES",GREATEST SPORTS LEGENDS
-https://srp-digital-greatestsportslegendslaughs-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CqgmQAU.png" group-title="ESPORTES",NITRO CIRCUS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992252
 #EXTINF:-1 tvg-logo="https://imgur.com/yaJId5N.png" group-title="ESPORTES",STRONGMAN CHAMPIONS LEAGUE
 https://0c980051264040239f8f4a41ce47612f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCL-br_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VXCabIw.png" group-title="ESPORTES", WORLD BILLIARDS TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003
-#EXTINF:-1 tvg-logo="https://imgur.com/M9IDfXI.png" group-title="ESPORTES", BILLIARD TV
-https://d29h829bjuxghm.cloudfront.net/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99992250
 #EXTINF:-1 tvg-logo="https://imgur.com/tjg2dsp.png" group-title="ESPORTES", KSTAR GOLF
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-stargolf&channel_id=newid_172
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO",KURIAKOS KIDS
@@ -1512,7 +1484,7 @@ https://dfr80qz435crc.cloudfront.net/QRST/Amagi/Redevida/Redevida_BR/Redevida.m3
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR
+#EXTINF:-1 tvg-logo="https://imgur.com/2DqWZ0H.png" group-title="RELIGIOSO",TV EVANGELIZAR FAST
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a9de7f7ba36a492a8493b23c421ca16f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QMBPvE9.png" group-title="RELIGIOSO",TV VIANNEY
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/chunklist_w1568667651_b1000000_slen.m3u8
@@ -1521,7 +1493,7 @@ https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wL8xlPt.png" group-title="RELIGIOSO",AUGE GOSPEL
 https://video01.logicahost.com.br/augegospel/augegospel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHq9IWO.png" group-title="RELIGIOSO",TV NOVO TEMPO
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="RELIGIOSO",BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Be6R2Vm.png" group-title="RELIGIOSO",REDE SUPER
@@ -1530,12 +1502,10 @@ https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/psyk2C5.png" group-title="RELIGIOSO", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NgbQYnI.png" group-title="RELIGIOSO",TV VERDADE
-https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tRQRxvo.png" group-title="RELIGIOSO",TV FELIZ
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zzaTx5j.png" group-title="RELIGIOSO",TV MAANAIM
-https://58c8a6b3c74e2.streamlock.net:1936/maranatalive/smil:maranatalive.smil/playlist.m3u8
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y5DbvLz.png" group-title="RELIGIOSO",TV MANA BRASIL
 https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/or24o6z.png" group-title="RELIGIOSO",TV RECONCAVO
@@ -1546,8 +1516,6 @@ https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="RELIGIOSO",TV DA GENTE
 https://srv6.zcast.com.br/tvdagente/tvdagente/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qFfyqQm.png" group-title="RELIGIOSO",REDE CNT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4574
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="RELIGIOSO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Onprkf.png" group-title="RELIGIOSO",TV UNIVERSAL
@@ -1562,8 +1530,6 @@ https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/playlist.m3u
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1aVsFNl.png" group-title="RELIGIOSO", KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gsTkTZa.png" group-title="RELIGIOSO", IGREJA ELIM
-https://cdn-5.nxplay.com.br/IGREJA_ELIM/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gYAWayf.png" group-title="RELIGIOSO", ALMA GOSPEL
 https://almagospel.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="MUSICA",TIKTOK RADIO
@@ -1594,8 +1560,6 @@ https://video01.logicahost.com.br/augemusic/augemusic/playlist.m3u8
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="MUSICA",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MnKrwq8.png" group-title="MUSICA",TRACE UK
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqVf75j.png" group-title="MUSICA",TRACE URBAN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bp7vhsD.png" group-title="MUSICA", TRACE LATINA
