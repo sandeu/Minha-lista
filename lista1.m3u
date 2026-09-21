@@ -1571,7 +1571,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999252
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="MUSICA",TIKTOK RADIO
 https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/s9pq2a2.png" group-title="MUSICA",MAIS TV
-https://isaocorp.cloudecast.com/maistv/index.m3u8
+https://v2.cloudecast.com/maistv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GHRTWIL.png" group-title="MUSICA", TOCA TUDO TV
 https://tocatudotv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cMe5Uff.png" group-title="MUSICA",QELLO CONCERTS
@@ -1598,26 +1598,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gqVf75j.png" group-title="MUSICA",TRACE URBAN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bp7vhsD.png" group-title="MUSICA", TRACE LATINA
+https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://imgur.com/o9LgTUF.png" group-title="MUSICA", TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MBSUUsK.png" group-title="MUSICA", FM TV
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lCH5i8c.png" group-title="MUSICA", DE O PLAY TV
-https://video01.logicahost.com.br/deoplay/deoplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ueglYCU.png" group-title="MUSICA", AGITO MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/05sPdac.png" group-title="MUSICA",TV PORTAL ATIVO
-https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DHiNxAJ.png" group-title="MUSICA",DECADAS TV
-https://5790d294af2dc.streamlock.net/8060/8060/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
 https://pushapp.uniaoplay.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rCRohkk.png" group-title="MUSICA",RIO HOT MIX
-https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nahStVy.png" group-title="MUSICA", BLAST CHANNEL TV
-https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2zm4KDA.png" group-title="MUSICA",QWEST JAZZ
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Y9y6C1H.png" group-title="MUSICA",LAMORE ROCK SHOW WEB TV
@@ -1628,14 +1620,8 @@ https://isaocorp.cloudecast.com/kisstv/index.m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSICA",CATEDRAL DO ROCK TV
 https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jAUQNQm.png" group-title="MUSICA",SURF ROOTS 2
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/H21Yj6b.png" group-title="MUSICA",MTV HALLOWEEN
-https://jmp2.uk/plu-68485f62fcd2ec536bd11ac1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KOnaEmu.png" group-title="MUSICA",CLASSICOS FM
 https://v01.taaqui.org/joel/joel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4v7FYTb.png" group-title="MUSICA",MUSIC HITS TV
-https://s1.tvr.ovh/acessomusic/acessomusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6TrMAZY.png" group-title="MUSICA",VCLASSIC TV TROPICAL
@@ -1682,20 +1668,12 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OXk87kh.png" group-title="MUSICA",BALLE BALLE
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CdfnKup.png" group-title="MUSICA",LA BOCINA LATINA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Bp7vhsD.png" group-title="MUSICA", TRACE LATINA
-https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-logo="https://imgur.com/LsPBhlx.png" group-title="MUSICA", FREE TV BANDA
-https://olympusat-mmc-lg-br-0abgn.amagi.tv/playlist/olympusat-mmc-lg-br/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qM1l42Z.png" group-title="MUSICA", FREE TV HITS
-https://olympusat-flashlatam-lg-br-k8t6p.amagi.tv/playlist/olympusat-flashlatam-lg-br/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8ZONH9o.png" group-title="MUSICA", SMTOWN
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=smtown&channel_id=newid_332&mpf=09daf170-39af1962-bbc62eab&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ddd2d215-79be35eb-8de88db3-0eceaf47&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=smtown&channel_id=newid_381&mpf=73277901-39af1962-cd08eca0&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e0ae44ef-9d33aecd-4200d0a1-ea433461&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-logo="https://imgur.com/u8WzfAg.png" group-title="MUSICA", NEW KPOP TV
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qgrcFbb.png" group-title="MUSICA", KPOP TV PLAY
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8ddpo4l.png" group-title="MUSICA", KPOP BY CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="MUSICA",RADIO M20
@@ -1708,20 +1686,10 @@ https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12
 https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=28&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
 #EXTINF:-1 tvg-logo="https://imgur.com/CgWumvQ.png" group-title="MUSICA",MUZANGALA TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fo1H4kE.png" group-title="MUSICA",XITE 80 FLASBACK
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://imgur.com/hoLIx8l.png" group-title="MUSICA",XITE 90 THROWBACK
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://imgur.com/TFWdhFd.png" group-title="MUSICA",XITE ROCK ON
-https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://imgur.com/EOA0k5n.png" group-title="MUSICA",XITE JUST CHILL
-https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",IDEIAS INCRIVEIS
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/The_Soul_Publishing/Ideias_Incriveis_BR/Ideias_Incriveis.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",5 MINUT CRAFTS
 https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rHgeIwP.png" group-title="INTERNET",5 MINUT CRAFTS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6581
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="INTERNET",JUST FOR LAUGHS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992141
 #EXTINF:-1 tvg-logo="https://imgur.com/6bA9LbZ.png" group-title="INTERNET",JUST FOR LAUGHS
@@ -1742,10 +1710,6 @@ https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
 #EXTINF:-1 tvg-logo="https://imgur.com/fntsYlO.png" group-title="INTERNET",ALWAYS FUNNY
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fntsYlO.png" group-title="INTERNET",ALWAYS FUNNY ESPANHOL
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C78KjQ3.png" group-title="INTERNET",AMERICAS FUNNIEST HOME VIDEOS
-https://jmp2.uk/rok-20a6aa8be0f3aff9d50f3daf3dfe6ba8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfHRiEG.png" group-title="INTERNET",WHOA THAT AS WILD 
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fcX3MM0.png" group-title="INTERNET", NATURE TIME
@@ -1762,18 +1726,12 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992528
 #EXTINF:-1 tvg-logo="https://imgur.com/aU8Symp.png" group-title="INTERNET",DRONE TV
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dsuBFzH.png" group-title="INTERNET", TRAVEL TV 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QoY74s6.png" group-title="INTERNET",GO USA TV
-https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uMBqGAf.png" group-title="INTERNET",THE JAMIE OLIVER CHANNEL
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/O7yQvH5.png" group-title="INTERNET",C4 EN ALERTA
 https://amg00658-amg00658c64-canelatv-international-5540.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-c4enalertamultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pjIBfrk.png" group-title="INTERNET",COPS
 https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/SXXW0eE.png" group-title="INTERNET",JAIL
-https://jmp2.uk/rok-8d6cc93830ae093f8316777c135237d9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Zcb64go.png" group-title="INTERNET",CIRQUE DU SOLEIL
 https://amg01439-amg01439c1-amgplt0020.playout.now3.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VIJt9RO.png" group-title="INTERNET", MUBEAT
@@ -1816,26 +1774,14 @@ https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 https://stmv2.painelvideocast.com.br/chanchadas/chanchadas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nAxNfq1.png" group-title="FILMES", MULTICANAIS
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/eMqSVYN.png" group-title="FILMES",TV CIDADE
-https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JIobzE9.png" group-title="FILMES",TV BRADOCKY
-https://video01.soultv.com.br/bradoky/bradoky/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fukaKG4.png" group-title="FILMES",TV MINUTO NORDESTE
 https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IG0EEB6.png" group-title="FILMES", CINEMONDE
-https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="FILMES",SOUL CINE CLUBE 
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Qx5STmz.png" group-title="FILMES", XUMO FILMES GRATIS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/TvH0PzJ.png" group-title="FILMES", TV MEU XODO
-https://stmv1.samcast.com.br/ozemar5044/ozemar5044/playlist.m3u8?hls_ctx=261e21sx
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hfUzprH.png" group-title="FILMES",SO WESTERN
-https://cdn-3.nxplay.com.br/SOPLAY_WESTERN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES",MY TIME
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="FILMES", DARK MATTER
@@ -1850,14 +1796,12 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IdAizU2.png" group-title="FILMES", SPARK TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qQG2O3L.png" group-title="FILMES", DARKFLIX 
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="FILMES",MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/93W36dG.png" group-title="FILMES",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Qz04U52.png" group-title="FILMES",SO PLAY MOVIES
-https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l3ePt46.png" group-title="FILMES",RUNTIME
+https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/f8dC96c.png" group-title="FILMES",RUN TIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jWJkbrn.png" group-title="FILMES",RUN TIME ACAO
@@ -1922,8 +1866,6 @@ https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/tKrU63x.png" group-title="FILMES",FICCAO CIENTIFICA
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/l3ePt46.png" group-title="FILMES",RUNTIME
-https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Cc0Ot8.png" group-title="FILMES",FILMES NACIONAIS
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pb8wybB.png" group-title="FILMES",CINE CLASSICOS
