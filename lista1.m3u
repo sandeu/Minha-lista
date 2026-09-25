@@ -168,6 +168,8 @@ https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/g1JkaOH.png" group-title="BRASIL", TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/d74xxBp.png" group-title="BRASIL", TV COM SAO FRANCISCO DE ASSIS
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w1097479969.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AKJCCA2.png" group-title="BRASIL", GLOBO
@@ -526,6 +528,8 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bqNcHmx.png" group-title="BRASIL",OS DETETIVES
 https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BBNwzjq.png" group-title="BRASIL",MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wRmWA6u.png" group-title="BRASIL",CRIMES SERIES
 https://stmv2.painelvideocast.com.br/crime/crime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jECssIV.png" group-title="BRASIL",SERIES NOVELESCAS
@@ -1598,6 +1602,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ad9587541ca
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fRJ3FaV.png" group-title="FILMES", SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vQFAb0Y.png" group-title="FILMES", RBTI MOVIES
+https://tv.rbti.tv.br/rbti2/540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RYwSgUF.png" group-title="FILMES",NBX PIPOCA
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0LRm9Y8.png" group-title="FILMES",CINE CATASTROFE
