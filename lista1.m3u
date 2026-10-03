@@ -1638,6 +1638,8 @@ https://stmv7.samcast.com.br/genival6279/genival6279/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
 #EXTINF:-1 tvg-logo="https://imgur.com/3nNqJHr.png" group-title="FILMES", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F1KT7Pe.png" group-title="FILMES",CINE FAMILIA
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/ebdd098e1daf4002a64bb6e5014cd704/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="FILMES",GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="FILMES",MY TIME
