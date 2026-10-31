@@ -1030,6 +1030,20 @@ https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8
 https://srv2.zcast.com.br/tvprecabura/tvprecabura/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NMPbPRb.png" group-title="BRASIL", TV URUCURI
 https://stmv4.voxtvhd.com.br/joseorlando9027/joseorlando9027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sks0v0J.png" group-title="BRASIL", COLETIVA TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/t7tA0MQ.png" group-title="BRASIL", CRN TV
+https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ysRQrm6.png" group-title="BRASIL", RBSAT TV
+https://stmv.jnbhost.com.br/rbsattv/rbsattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U9WYLMU.png" group-title="BRASIL", BRKS TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6AjFI27.png" group-title="BRASIL", TV MIX PLAY
+https://stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/A7hqJ3c.png" group-title="BRASIL", TV ACAUA TROPICAL
+https://v01.taaqui.org/acauatropical/acauatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IAzRQ2t.png" group-title="BRASIL", SSC TV
+https://srv1.zcast.com.br/scctv/scctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jamWg47.png" group-title="TELEVENDAS", TV CAR
