@@ -1353,7 +1353,7 @@ https://0c980051264040239f8f4a41ce47612f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://imgur.com/VXCabIw.png" group-title="ESPORTES", WORLD BILLIARDS TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003
 #EXTINF:-1 tvg-logo="https://imgur.com/lXFnOXz.png" group-title="ESPORTES", EASL TV
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=easltv&channel_id=newid_391&mpf=6a3c4840-39af1962-f1246c4e&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ca867c8d-75243e6c-ba0d6331-0254a4c0&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=easltv&channel_id=newid_391
 #EXTINF:-1 tvg-logo="https://imgur.com/tjg2dsp.png" group-title="ESPORTES", KSTAR GOLF
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-stargolf&channel_id=newid_172
 #EXTINF:-1 tvg-logo="https://imgur.com/EbCDqVZ.png" group-title="RELIGIOSO",KURIAKOS KIDS
