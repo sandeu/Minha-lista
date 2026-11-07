@@ -624,6 +624,8 @@ https://isaocorp.cloudecast.com/tv3fronteiras/index.fmp4.m3u8
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/davbBNf.png" group-title="BRASIL", REVIVA TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/tFqanej.png" group-title="BRASIL", TV ACERVO
+https://live20.bozztv.com/giatvplayout7/giatv-211141/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/1nTvTqu.png" group-title="BRASIL", WEB CANAL BLECAUTE
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uGJz9jC.png" group-title="BRASIL", TV NILCERA
@@ -1026,14 +1028,18 @@ https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8
 https://stmv.jnbhost.com.br/rbsattv/rbsattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9WYLMU.png" group-title="BRASIL", BRKS TV
 https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6AjFI27.png" group-title="BRASIL", TV MIX PLAY
-https://stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAzRQ2t.png" group-title="BRASIL", SSC TV
 https://srv1.zcast.com.br/scctv/scctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRV9o7g.png" group-title="BRASIL", SULFUROSA TV
 https://stmv7.samcast.com.br/osvaldo5897/osvaldo5897/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQsnzlv.png" group-title="REGIONAL",CANAA NEWS
+#EXTINF:-1 tvg-logo="https://imgur.com/cQsnzlv.png" group-title="BRASIL",CANAA NEWS
 https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/aDOGc7Y.png" group-title="BRASIL", VICAPRO TV
+https://stmv2.srvif.com/vicaprotv/vicaprotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9B70RJX.png" group-title="BRASIL", REDE OJ
+https://vs20.live.opencaster.com/24thcenturyfix_7d9b4625/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AgeJqzW.png" group-title="BRASIL", RADIO E TV CRUZEIRO DO BRASIL
+https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jamWg47.png" group-title="TELEVENDAS", TV CAR
@@ -1452,6 +1458,8 @@ https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
 https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ALSZMdl.png" group-title="MUSICA",TOP MIX TV SERTANEJO
 https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6AjFI27.png" group-title="MUSICA", TV MIX PLAY
+https://stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Jwzqw9a.png" group-title="MUSICA", KURIAKOS MUSIC
 https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1035340925_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D2baHW3.png" group-title="MUSICA",GOSPEL MUSIC TV
