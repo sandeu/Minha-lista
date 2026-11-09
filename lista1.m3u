@@ -262,8 +262,6 @@ https://cc-4e6doav3fdfaw.akamaized.net/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q0upt2V.png" group-title="BRASIL",BDC TV
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/be6fjK7.png" group-title="BRASIL",RTN TV
-https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bkd857H.png" group-title="BRASIL",CLTV
 https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/imf40Iq.png" group-title="BRASIL",RF TV
@@ -1440,6 +1438,8 @@ https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w843037073_b413000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gYAWayf.png" group-title="RELIGIOSO", ALMA GOSPEL
 https://almagospel.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/be6fjK7.png" group-title="RELIGIOSO",RTN TV
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="MUSICA",TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="MUSICA",TIKTOK RADIO
