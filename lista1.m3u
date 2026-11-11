@@ -1082,6 +1082,8 @@ https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/A7hqJ3c.png" group-title="DESENHOS", TV ACAUA TROPICAL
 https://v01.taaqui.org/acauatropical/acauatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yNuHhv8.png" group-title="DESENHOS",SBC KIDS
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lQ33wPi.png" group-title="DESENHOS", TV ALCANCE
 https://stmv4.voxtvhd.com.br/isac3635/isac3635/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/upYjv2W.png" group-title="DESENHOS",NBX TV KIDS
