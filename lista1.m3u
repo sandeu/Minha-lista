@@ -624,6 +624,8 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211141/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9WYLMU.png" group-title="BRASIL", BRKS TV
 https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lJPCdPr.png" group-title="BRASIL", BOTFLIX TV
+https://hls.botflix.tv/tv/main_stream.m3u8?session=b015ac0b-231d-4881-9fc9-1e3adb1723b9
 #EXTINF: -1 tvg-logo="https://imgur.com/1nTvTqu.png" group-title="BRASIL", WEB CANAL BLECAUTE
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uGJz9jC.png" group-title="BRASIL", TV NILCERA
@@ -1036,6 +1038,10 @@ https://stmv2.srvif.com/vicaprotv/vicaprotv/playlist.m3u8
 https://vs20.live.opencaster.com/24thcenturyfix_7d9b4625/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/AgeJqzW.png" group-title="BRASIL", RADIO E TV CRUZEIRO DO BRASIL
 https://tcbnacional.redetcb.com.br/api/hls/tvcb2f2cb25f/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4xkuvcc.png" group-title="BRASIL", TV URUCURI
+https://stmv4.voxtvhd.com.br/joseorlando9027/joseorlando9027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ft477ET.png" group-title="BRASIL", RNV TV
+https://stmv2.liveplushd.com.br/rnvtv/rnvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lFW6DFa.png" group-title="TELEVENDAS", TV GAZIN
 https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jamWg47.png" group-title="TELEVENDAS", TV CAR
@@ -1484,6 +1490,8 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ueglYCU.png" group-title="MUSICA", AGITO MAX
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ziU1F0r.png" group-title="MUSICA", TV CONEXAO REGGAE
+https://stmv5.voxtvhd.com.br/tvconexaoreggae2026/tvconexaoreggae2026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EJLk68O.png" group-title="MUSICA",TV UNIAO
 https://pushapp.uniaoplay.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmpHscj.png" group-title="MUSICA", ALTERNATIVA WEB TV IVAI
