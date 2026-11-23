@@ -384,6 +384,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992530&
 #EXTINF:-1 tvg-logo="https://imgur.com/sDDdwH2.png" group-title="BRASIL",FORA TEDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u7NX5wl.png" group-title="BRASIL",COMEDY CENTRAL
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vMECFTQ.png" group-title="BRASIL", PORTA DOS FUNDOS
 https://amg00740-sofa-amg00740c22-lg-br-9875.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-portatv-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="BRASIL", MR BEAN 
@@ -620,6 +622,8 @@ https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/tFqanej.png" group-title="BRASIL", TV ACERVO
 https://live20.bozztv.com/giatvplayout7/giatv-211141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U9WYLMU.png" group-title="BRASIL", BRKS TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/1nTvTqu.png" group-title="BRASIL", WEB CANAL BLECAUTE
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/uGJz9jC.png" group-title="BRASIL", TV NILCERA
@@ -1020,8 +1024,6 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ysRQrm6.png" group-title="BRASIL", RBSAT TV
 https://stmv.jnbhost.com.br/rbsattv/rbsattv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U9WYLMU.png" group-title="BRASIL", BRKS TV
-https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IAzRQ2t.png" group-title="BRASIL", SSC TV
 https://srv1.zcast.com.br/scctv/scctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MRV9o7g.png" group-title="BRASIL", SULFUROSA TV
